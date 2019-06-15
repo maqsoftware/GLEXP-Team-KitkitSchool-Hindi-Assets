@@ -64,7 +64,7 @@ MiniTest_4_2	1	42001, 42002, 42003, 42004, 42005~42008
 PostTest_4	1	4001, 4002, 4003, 4004~4005, 4006, 4007, 4008, 4009~4010, 4011~4014, 4015												
 			4001	2digit_numbers	howmany.m4a					51~100				
 			4002	number_identification						51~99				
-			4003	use_magnitude_symbols	11~50	11~50	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			4003	use_magnitude_symbols	11~50	11~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			4004	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	which_is_the_biggest.m4a			11~50				
 			4005	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	which_is_the_smallest.m4a			11~50				
 			4006	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			1~50
@@ -88,7 +88,7 @@ MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005
 			52002	operations_drag	11~20+1~10=?		vertical			11~19				
 			52003	missing_number_drag	10	4	ascending			1~50	10			
 			52004	operations_with_objects	1~9+1~9=?					10				
-			52005	use_magnitude_symbols	11~50	11~50	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			52005	use_magnitude_symbols	11~50	11~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 MiniTest_5_3	1	53001, 53002, 53003, 53004, 53005												
 			53001	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
 			53002	operations_with_objects	10-1~9=?	regroupingtrue				1~9				
@@ -97,8 +97,8 @@ MiniTest_5_3	1	53001, 53002, 53003, 53004, 53005
 			53005	shapes	what	Øã ·UUUUõÙ âæ ¥æ·UUUæÚ ãñ?	What_is_this_shape			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
 PostTest_5	1	5001, 5002~5003, 5004~5007, 5008~5010, 5011, 5012, 5013, 5014, 5015~5018, 5019												
 			5001	recognize_number						51~100				
-			5002	use_magnitude_symbols	41~50	41~50	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
-			5003	use_magnitude_symbols	16~19	31~34	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			5002	use_magnitude_symbols	41~50	41~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
+			5003	use_magnitude_symbols	16~19	31~34	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			5004	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	which_is_the_biggest.m4a			11~50				
 			5005	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	which_is_the_smallest.m4a			11~50				
 			5006	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			11~50
@@ -124,7 +124,7 @@ MiniTest_6_1	1	61001, 61002, 61003, 61004, 61005
 MiniTest_6_2	1	62001~62002, 62003, 62004, 62005, 62006												
 			62001	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	which_is_the_biggest.m4a			51~100				
 			62002	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	which_is_the_smallest.m4a			51~100				
-			62003	use_magnitude_symbols	51~100	51~100	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			62003	use_magnitude_symbols	51~100	51~100	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			62004	operations_drag	11~20-10=?		horizontal			1~10				
 			62005	operations_drag	11~20-1~9=?	regroupingtrue	vertical			1~10				
 			62006	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			51~99
@@ -138,7 +138,7 @@ MiniTest_6_3	1	63001, 63002, 63003, 63004~63005, 63006
 PostTest_6	1	6001, 6002, 6003, 6004~6005, 6006~6007, 6008~6009, 6010, 6011, 6012, 6013~6014												
 			6001	recognize_number						51~100				
 			6002	3digit_numbers	howmany.m4a					100~110				
-			6003	use_magnitude_symbols	51~100	51~100	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			6003	use_magnitude_symbols	51~100	51~100	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			6004	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	which_is_the_biggest.m4a			51~100				
 			6005	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	which_is_the_smallest.m4a			51~100				
 			6006	missing_number_drag	10	2	ascending			50~100	10			
@@ -169,7 +169,7 @@ MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005
 			73004	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
 			73005	word_problem	5 °ÂËâ ÅðÕÜ ÂÚ ãñ¢Ð âñ× 2 °ÂËâ ¹æÌæ ãñÐ ÅðÕÜ ÂÚ ç·UUUUÌÙð âðÕ Õ¿ð ãñ¢?	en_uk_b1_01.m4a				3				
 PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012, 7013												
-			7001	use_magnitude_symbols	51~100	51~100	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			7001	use_magnitude_symbols	51~100	51~100	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			7002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			51~100
 			7003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_largest_to_smallest.m4a			51~100				
 			7004	missing_number_drag	3	4	ascending			10~50	3			
@@ -183,7 +183,7 @@ PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012
 			7012	word_problem	°·UUUU àææ¹æ ÂÚ 4 Âÿæè ÕñÆð ãñ¢Ð 1 ©Ç¸ »ØæÐ àææ¹æ ÂÚ ç·UUUUÌÙð Âÿæè Õ¿ð ãñ¢?	en_uk_b1_03.m4a				3				
 			7013	word_problem	¥æÂ·ðUUU Âæâ 7 »éyÕæÚð ãñ¢ ¥æñÚ ¥æÂ·ðUUU ç×˜æ ·ðUUU Âæâ 5 »éyÕæÚð ãñ¢Ð ¥æÂ·ðUUU ç×˜æ ·ðUUU ×é·UUUæÕÜð ¥æÂ·ðUUU Âæâ ç·UUUUÌÙð »éyÕæÚð ÊØæÎæ ãñ¢?	en_uk_d1_02.m4a				2				
 MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005												
-			81001	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			81001	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			81002	missing_number_drag	2	4	descending			50~100	2			
 			81003	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			81004	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
@@ -246,21 +246,21 @@ PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010
 SpecialTest_1	1	10001, 10002, 10003, 10004, 10005												
 			10001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			1~6	1
 			10002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			5~10	1
-			10003	use_magnitude_symbols	1~10	1~10	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a			2			
+			10003	use_magnitude_symbols	1~10	1~10	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a			2			
 			10004	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_largest_to_smallest.m4a			1~6	1			
 			10005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_largest_to_smallest.m4a			5~10	1			
 SpecialTest_2	1	20001, 20002, 20003, 20004, 20005												
 			20001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			11~50
 			20002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			51~99
-			20003	use_magnitude_symbols	11~50	11~50	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
-			20004	use_magnitude_symbols	11~99	11~99	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			20003	use_magnitude_symbols	11~50	11~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
+			20004	use_magnitude_symbols	11~99	11~99	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			20005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_largest_to_smallest.m4a			11~99				
 SpecialTest_3	1	30001, 30002, 30003, 30004, 30005												
 			30001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			100~500
 			30002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			100~999
 			30003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_largest_to_smallest.m4a			100~500				
-			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
-			30005	use_magnitude_symbols	100~999	100~999	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
+			30005	use_magnitude_symbols	100~999	100~999	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 SpecialTest_4	1	40001, 40002, 40003, 40004, 40005												
 			40001	missing_number_drag	1	4	ascending			1~10				
 			40002	missing_number_drag	2	3	ascending			1~20	2			
@@ -322,13 +322,13 @@ SpecialTest_13	1	130001~130010, 130001~130010, 130001~130010, 130001~130010, 130
 			130004	word_problem	°·UUUU ç·UUUUâæÙ Ùð Ü¢¿ âð ÂãÜð ×·UUUU§ü ·UUUè 5 Â¢çQUUUUØæ¡ Ü»æ§ü¢Ð ©âÙð Ü¢¿ ·ðUUU ÕæÎ 7 ¥æñÚ Â¢çQUUUUØæ¡ Ü»æ§ü¢Ð ©âÙð çÎÙ ·ðUUU ÎõÚæÙ ×·UUUU§ü ·UUUè ç·UUUUÌÙè Â¢çQUUUUØæ¡ Ü»æ§ü¢?	en_uk_a2_03.m4a				12				
 			130005	word_problem	Õâ ×ð¢ 6 ÜÇ¸ç·UUUUØæ¢ ¥æñÚ 7 ÜÇ¸·ðUUU ãñ¢Ð Õâ ×ð¢ ç·UUUUÌÙð Õ‘¿ð ãñ¢?	en_uk_a2_05.m4a				13				
 			130006	word_problem	SÅñâè Ùð âéÕã 5 ×ÀçÜØæ¡ Â·UUUUÇ¸è¢Ð ©âÙð ÎôÂãÚ ×ð¢ 4 ¥æñÚ ×ÀçÜØæ¡ Â·UUUUÇ¸è¢Ð SÅñâè Ùð ·éUUUÜ ç·UUUUÌÙè ×ÀÜè Â·UUUUÇ¸è?	en_uk_a1_01.m4a				9				
-			130007	word_problem	×æØæ Ùð ÎôÂãÚ ·ðUUU ÖôÁÙ ×ð¢ ३ ÈUUUUÜ ÂÚôâð ¥æñÚ ÚæÌ ·ðUUU ¹æÙð ×ð¢ ५ ÈUUUUÜ ÂÚôâðÐ çÎÙ ×ð¢ ç·UUUUÌÙð ÈUUUUÜ ÂÚôâð »°?	en_uk_a1_06.m4a				8				
+			130007	word_problem	×æØæ Ùð ÎôÂãÚ ·ðUUU ÖôÁÙ ×ð¢ 3 Øæ× ¥æñÚ ÚæÌ ·ðUUU ¹æÙð ×ð¢ 5 Øæ× ÂÚôâðÐ çÎÙ ×ð¢ ç·UUUUÌÙð Øæ× ÂÚôâð »°?	en_uk_a1_06.m4a				8				
 			130008	word_problem	¥ÂÙð Á‹×çÎÙ ÂÚ ·UUUæ§Ü ·UUUUô 3 Ù§ü àæÅü ç×Üè¢Ð ©â·ðUUU Âæâ ÂãÜð âð ãè 5 àæÅü ÍðÐ ¥Õ ©â·ðUUU Âæâ ç·UUUUÌÙè àæÅü ãñ¢?	en_uk_a1_10.m4a				8				
 			130009	word_problem	×ñÚè °·UUUU Á‹×çÎÙ ·UUUè ÂæÅèü ·ðUUU çÜ° ÌñØæÚè ·UUUUÚ Úãè ãñÐ ©âÙð ¥æÁ âéÕã 6 »éyÕæÚð ÈéUUUÜæ° ¥æñÚ ÎéÂãÚ ·UUUUô 5 »éyÕæÚð ÈéUUUÜæ°Ð ©âÙð âÖè ×ð¢ ç·UUUUÌÙð »éyÕæÚð ÈéUUUÜæ°?	en_uk_a2_01.m4a				11				
 			130010	word_problem	ÎÚæÁ ×ð¢ 7 Âð¢çâÜ ãñ¢Ð ÎæÙ Ùð ÎÚæÁ ×ð¢ 9 ¥æñÚ Âð¢çâÜ Ú¹è¢Ð ÎÚæÁ ×ð¢ ç·UUUUÌÙð Âð¢çâÜ ãñ¢?	en_uk_a2_07.m4a				16				
 SpecialTest_14	1	140001~140010, 140001~140010, 140001~140010, 140001~140010, 140001~140010												
 			140001	word_problem	çÕÜè ·ðUUU Âæâ 2 ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ çÕÜè ·UUUè ÌéÜÙæ ×ð¢ 3 ¥çÏ·UUUU ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ ç·UUUUÌÙð ×æÕüËâ ãñ¢?	en_uk_d3_02.m4a				5				
-			140002	word_problem	ÕæòÕè Ùð »ñÕè ·UUUè ÌéÜÙæ ×ð¢ ३ ¥çÏ·UUUU ÂéSÌ·ð¢UUU ¹ÚèÎè¢Ð »ñÕè Ùð °·UUUU ç·UUUUÌæÕ ¹ÚèÎèÐ ÕæòÕè Ùð ç·UUUUÌÙè ç·UUUUÌæÕð¢ ¹ÚèÎè¢?	en_uk_d3_04.m4a				4				
+			140002	word_problem	ÕæòÕè Ùð »ñÕè ·UUUè ÌéÜÙæ ×ð¢ 3 ¥çÏ·UUUU ÂéSÌ·ð¢UUU ¹ÚèÎè¢Ð »ðyÕè Ùð °·UUUU ç·UUUUÌæÕ ¹ÚèÎèÐ ÕæòÕè Ùð ç·UUUUÌÙè ç·UUUUÌæÕð¢ ¹ÚèÎè¢?	en_uk_d3_04.m4a				4				
 			140003	word_problem	¹æÙð ·UUUè ×ðÁ ÂÚ 10 ŒÜðÅð¢ ãñ¢Ð ŒÜðÅô¢ ·UUUè ÌéÜÙæ ×ð¢ 5 ¥çÏ·UUUU Üô» ãñ¢Ð ·éUUUÜ ç·UUUUÌÙð Üô» ãñ¢?	en_uk_d3_09.m4a				15				
 			140004	word_problem	Áñ·UUUè ·ðUUU Âæâ 9 Âð¢çâÜ ãñ¢Ð Áñ·UUUè ·ðUUU ×é·UUUæÕÜð °Ç× ·ðUUU Âæâ 5 ¥æñÚ Âð¢çâÜ ãñ¢Ð °Ç× ·ðUUU Âæâ ç·UUUUÌÙè Âð¢çâÜ ãñ¢?	en_uk_d4_02.m4a				14				
 			140005	word_problem	Íæò×â ·ðUUU ¹ðÌ ×ð¢ 2 Õ·UUUUçÚØæ¢ ãñ¢Ð ©â·ðUUU ¹ðÌ ÂÚ Õ·UUUUçÚØô¢ ·UUUè ÌéÜÙæ ×ð¢ 6 ¥çÏ·UUUU ×éç»üØæ¢ ãñ¢Ð ©â·ðUUU Âæâ ç·UUUUÌÙè ×éç»üØæ¢ ãñ¢?	en_uk_d3_07.m4a				8				
@@ -347,7 +347,7 @@ SpecialTest_15	1	150001~150010, 150001~150010, 150001~150010, 150001~150010, 150
 			150007	word_problem	·ðUUUÅè ¥æñÚ ©â·ðUUU Öæ§ü Ùð 6 ¥æ×ô¢ ·UUUUô ©ÆæØæÐ ·ðUUUÅè Ùð 4 ¥æ× ©Ææ°Ð ©â·ðUUU Öæ§ü Ùð ç·UUUUÌÙð ¥æ× ©Ææ°?	en_uk_c1_07.m4a				2				
 			150008	word_problem	ãæÂüÚ ¥æñÚ ÚðßðÙ Ùð °·UUUU âæÍ 8 ÌSßèÚð¢ ¹è¢¿è¢Ð ãæÂüÚ Ùð 3 ÌSßèÚð¢ ¹è¢¿ðÐ ÚðßðÙ Ùð ç·UUUUÌÙð ÌSßèÚð¢ ¹è¢¿ð?	en_uk_c1_10.m4a				5				
 			150009	word_problem	Üñ·UUUè ¥æñÚ ·ð¢UUU¼ý Ùð 14 Áé»Ùé¥ô¢ ·UUUUô Â·UUUUÇ¸æÐ Üñ·UUUè Ùð 5 Áé»Ùé¥ô¢ ·UUUUô Â·UUUUÇ¸æÐ ·ð¢UUU¼ý Ùð ç·UUUUÌÙð Áé»Ùé¥ô¢ ·UUUUô Â·UUUUÇ¸æ?	en_uk_c2_03.m4a				9				
-			150010	word_problem	Ü·UUUUÇ¸è ·UUUæ °·UUUU Åé·UUUUÇ¸æ १३ §¢¿ Ü¢Õæ ãôÌæ ãñÐ §âð Îô Öæ»ô¢ ×ð¢ ·UUUæÅæ ÁæÌæ ãñÐ °·UUUU Öæ» ६ §¢¿ Ü¢Õæ ãñÐ ÎêâÚæ Öæ» ç·UUUUÌÙæ Ü¢Õæ ãñ?	en_uk_c2_06.m4a				7				
+			150010	word_problem	Ü·UUUUÇ¸è ·UUUæ °·UUUU Åé·UUUUÇ¸æ 13 §¢¿ Ü¢Õæ ãôÌæ ãñÐ §âð Îô Öæ»ô¢ ×ð¢ ·UUUæÅæ ÁæÌæ ãñÐ °·UUUU Öæ» 6 §¢¿ Ü¢Õæ ãñÐ ÎêâÚæ Öæ» ç·UUUUÌÙæ Ü{Õæ ãñ?	en_uk_c2_06.m4a				7				
 SpecialTest_16	1	160001~160010, 160001~160010, 160001~160010, 160001~160010, 160001~160010												
 			160001	word_problem	°·UUUU ç·UUUUâæÙ ·ðUUU Âæâ 7 °ŒÂÜ ·ðUUU ÂðÇ¸ ÍðÐ ©âÙð ·éUUUÀ ¥æñÚ ÂðÇ¸ ¹ÚèÎð ¥æñÚ ¥Õ ©â·ðUUU Õæ» ×ð¢ 10 °ŒÂÜ ·ðUUU ÂðÇ¸ ãñ¢Ð ©âÙð ç·UUUUÌÙð °ŒÂÜ ·ðUUU ÂðÇ¸ ¹ÚèÎð?	en_uk_e1_04.m4a				3				
 			160002	word_problem	°·UUUU ÈéUUUÅÕæòÜ Åè× Ùð ÂãÜð ãæÈUUUU ×ð¢ 3 »ôÜ ç·UUUU°Ð çÈUUUUÚ ©‹ãô¢Ùð ÎêâÚð ãæÈUUUU ×ð¢ ¥çÏ·UUUU »ôÜ ç·UUUU°Ð ©‹ãô¢Ùð 5 »ôÜ âð »ð× ÁèÌæ! ÎêâÚð ãæÈUUUU ×ð¢ ©‹ãô¢Ùð ç·UUUUÌÙð »ôÜ ç·UUUU°?	en_uk_e1_05.m4a				2				
@@ -388,24 +388,24 @@ SpecialTest_21	1	210001, 210002, 210003, 210003, 210004
 			210003	operations_drag	21~50-21~50=?	regroupingtrue	vertical			1~29				
 			210004	operations_drag	20, 30, 40, 50-11~49=?	regroupingtrue	vertical			1~39				
 SpecialTest_22	1	220001~220010, 220001~220010, 220001~220010, 220001~220010, 220001~220010												
-			220001	word_problem	ç×Üè ·ðUUU ९ ·¢UUU»Ù ãñ¢Ð ßã ©Ù×ð¢ âð २ ¹ô ÎðÌè ãñÐ ç×Üè ·ðUUU Âæâ ¥Ö ç·UUUUÌÙð ·¢UUU»Ù Õ¿ð ãñ¢?	en_uk_b1_05.m4a				7				
+			220001	word_problem	ç×ËÜè ·ðUUU 9 ·¢UUU»Ù ãñ¢Ð ßã ©Ù×ð¢ âð 2 ¹ô ÎðÌè ãñÐ ç×ËÜè ·ðUUU Âæâ ¥Ö ç·UUUUÌÙð ·¢UUU»Ù Õ¿ð ãñ¢?	en_uk_b1_05.m4a				7				
 			220002	word_problem	ãñÙæ 8 ÚôçÅØæ¡ ÕÙæÌè ãñÐ ßã ¥ÂÙð Öæ§ü ·UUUUô 3 ÚôçÅØæ¡ ÎðÌè ãñÐ ©â·ðUUU Âæâ ç·UUUUÌÙè ÚôçÅØæ¡ Õ¿è ãñ¢?	en_uk_b1_04.m4a				5				
 			220003	word_problem	¥æâ×æÙ ×ð¢ 9 ÂÌ¢»ð¢ ©Ç¸ Úãè ãñ¢Ð °·UUUU ãßæ 3 ÂÌ¢»ô¢ ·UUUUô Á×èÙ ÂÚ ç»Úæ ÎðÌè ãñÐ ç·UUUUÌÙè ÂÌ¢»ð¢ ¥Öè Öè ¥æâ×æÙ ×ð¢ ©Ç¸ Úãè ãñ¢?	en_uk_b1_10.m4a				6				
 			220004	word_problem	°·UUUU ÌæÜæÕ ×ð¢ 15 Õ}æ¹ ÌñÚ Úãè ãñ¢Ð 7 Õ}æ¹ ©Ç¸ ÁæÌè ãñ¢Ð ÌæÜæÕ ×ð¢ ¥Öè Öè ç·UUUUÌÙð ÕÌ¹ ÌñÚ Úãð ãñ¢?	en_uk_b2_04.m4a				8				
-			220005	word_problem	ÜèÙæ ·ðUUU Âæâ १२ ç·UUUUÌæÕð¢ ãñ¢Ð ßã ¥ÂÙè ·UUUUÿææ ·UUUè Üæ§ÕýðÚè ×ð¢ ८ ç·UUUUÌæÕð¢ ÎæÙ ·UUUUÚÌè ãñ¢Ð ÜèÙæ ·ðUUU Âæâ ¥Õ ç·UUUUÌÙè ç·UUUUÌæÕð¢ Õ¿è ãñ¢?	en_uk_b2_08.m4a				4				
+			220005	word_problem	ÜèÙæ ·ðUUU Âæâ 12 ç·UUUUÌæÕð¢ ãñ¢Ð ßã ¥ÂÙè ·UUUUÿææ ·UUUè Üæ§ÕýðÚè ×ð¢ 8 ç·UUUUÌæÕð¢ ÎæÙ ·UUUUÚÌè ãñ¢Ð ÜèÙæ ·ðUUU Âæâ ¥Ö ç·UUUUÌÙè ç·UUUUÌæÕð¢ Õ¿è ãñ¢?	en_uk_b2_08.m4a				4				
 			220006	word_problem	°·UUUU ÕæÇ¸ ÂÚ 12 çÕçËÜØæ¡ ãñ¢Ð 1 çÕËÜè ÕæÇ¸ âð Ùè¿ð ·êUUUÎÌè ãñÐ ¥Õ ç·UUUUÌÙè çÕçËÜØæ¡ ÕæÇ¸ ÂÚ ãñ¢?	en_uk_b1_09.m4a				11				
-			220007	word_problem	Üêâè ·ðUUU Âæâ ८ Âð¢çâÜ ãñ¢Ð ßã ©Ù×ð¢ âð ७ ·UUUUô ¹ô ÎðÌè ãñÐ Üêâè ·ðUUU ¥æÂâ ¥Õ ç·UUUUÌÙè Âð¢çâÜ Õ¿è ãñ¢?	en_uk_b1_07.m4a				1				
+			220007	word_problem	Üêâè ·ðUUU Âæâ 8 Âð¢çâÜ ãñ¢Ð ßã ©Ù×ð¢ âð 7 ·UUUUô ¹ô ÎðÌè ãñÐ Üêâè ·ðUUU ¥æÂâ ¥Ö ç·UUUUÌÙè Âð¢çâÜ Õ¿è ãñ¢?	en_uk_b1_07.m4a				1				
 			220008	word_problem	°Ùæ ·ðUUU Âæâ 7 ·éUUU·UUUèÁ ãñ¢Ð ßã ©Ù×ð¢ âð 2 ¹æÌè ãñÐ ©â·ðUUU Âæâ ç·UUUUÌÙè ·éUUU·UUUèÁ¸ Õ¿è ãñ¢?	en_uk_b1_02.m4a				5				
 			220009	word_problem	ÙæçâÚ Ùð 17 Âóæô¢ ·UUUè °·UUUU ç·UUUUÌæÕ çÙ·UUUæÜèÐ ßã 9 Âóæð ÂÉ¸Ìæ ãñÐ ©â·ðUUU Âæâ ÂÉ¸Ùð ·ðUUU çÜ° ç·UUUUÌÙè Âóæð Õ¿è ãñ¢?	en_uk_b2_01.m4a				8				
 			220010	word_problem	S·êUUUÜ Õâ ×ð¢ 10 Àæ˜æ ãñ¢Ð 3 Àæ˜æ Õâ âð ©ÌÚ »°Ð Õâ ×ð¢ ç·UUUUÌÙð Àæ˜æ Õ¿ð ãñ¢?	en_uk_b2_03.m4a				7				
 SpecialTest_23	1	230001~230010, 230001~230010, 230001~230010, 230001~230010, 230001~230010												
 			230001	word_problem	Üéâè 9 âæÜ ·UUUè ãñÐ ©â·UUUè ÕãÙ ÁêÜè 6 âæÜ ·UUUè ãñÐ Üéâè ¥ÂÙè ÕãÙ ÁêÜè âð ç·UUUUÌÙè ÕÇ¸è ãñ?	en_uk_d1_01.m4a				3				
-			230002	word_problem	âñ× Ùð ७ çÕS·éUUUÅ ¹æ°¢ ¥æñÚ ÁðÙ Ùð २ çÕS·éUUUÅ ¹æ°¢Ð âñ× ·UUUè ÌéÜÙæ ×ð¢ ÁðÙ Ùð ç·UUUUÌÙð ·UUUU× çÕS·éUUUÅ ¹æ°¢?	en_uk_d1_05.m4a				5				
+			230002	word_problem	âñ× Ùð 7 ·éUUU·UUUèÁ ¥æñÚ ÁðÙ Ùð 2 ·éUUU·UUUèÁ ¹æ§ü¢Ð âñ× ·UUUè ÌéÜÙæ ×ð¢ ÁðÙ Ùð ç·UUUUÌÙð ·UUUU× ·éUUU·UUUèÁ¸ ¹æ°?	en_uk_d1_05.m4a				5				
 			230003	word_problem	°×è Ùð 4 yÜæò·UUUU ¿ÜÌè ãñ S·êUUUÜ ·ðUUU çÜ°Ð ÁðÙ S·êUUUÜ ·ðUUU çÜ° 2 yÜæò·UUUU ¿ÜÌæ ãñÐ °×è ÁðÙ ·UUUè ÌéÜÙæ ×ð¢ S·êUUUÜ ÁæÙð ·ðUUU çÜ° ¥æñÚ ç·UUUUÌÙð yÜæò·UUUU ¿ÜÌè ãñ¢?	en_uk_d1_09.m4a				2				
 			230004	word_problem	°·UUUU ·UUUUÿææ ×ð¢ 13 ÜÇ¸ç·UUUUØæ¢ ¥æñÚ 18 ÜÇ¸·ðUUU ãñ¢Ð ÜÇ¸ç·UUUUØô¢ ·UUUè ÌéÜÙæ ×ð¢ ç·UUUUÌÙð ¥çÏ·UUUU ÜÇ¸·ðUUU ãñ¢?	en_uk_d2_05.m4a				5				
 			230005	word_problem	ÕðÍ ·ðUUU Õ»è¿ð ×ð¢ 13 ÈêUUUÜ ãñ¢Ð ·ðUUUÅ ·ðUUU 8 ÈêUUUÜ ãñ¢Ð ÕðÍ ·ðUUU Âæâ ·ðUUUÅ ·UUUè ÌéÜÙæ ×ð¢ ç·UUUUÌÙð ¥çÏ·UUUU ÈêUUUÜ ãñ¢?	en_uk_d2_01.m4a				5				
 			230006	word_problem	¥æÂ·ðUUU Âæâ 7 »éyÕæÚð ãñ¢ ¥æñÚ ¥æÂ·ðUUU ç×˜æ ·ðUUU Âæâ 5 »éyÕæÚð ãñ¢Ð ¥æÂ·ðUUU ç×˜æ ·ðUUU ×é·UUUæÕÜð ¥æÂ·ðUUU Âæâ ç·UUUUÌÙð »éyÕæÚð ÊØæÎæ ãñ¢?	en_uk_d1_02.m4a				2				
-			230007	word_problem	×æçÚØæ Ùð ३ ç·UUUUÌæÕð¢ ÂÉ¸è¢ ¥æñÚ SÅðâè Ùð ५ ç·UUUUÌæÕð¢ ÂÉ¸è¢Ð ×æçÚØæ ·UUUè ÌéÜÙæ ×ð¢ SÅðâè Ùð ç·UUUUÌÙè ’ØæÎæ ç·UUUUÌæÕð¢ ÂÉ¸è¢?	en_uk_d1_08.m4a				2				
+			230007	word_problem	×æçÚØæ Ùð 3 ç·UUUUÌæÕð¢ ÂÉ¸è¢ ¥æñÚ SÅðâè Ùð 5 ç·UUUUÌæÕð¢ ÂÉ¸è¢Ð ×æçÚØæ ·UUUè ÌéÜÙæ ×ð¢ SÅðâè Ùð ç·UUUUÌÙè ¥æñÚ ç·UUUUÌæÕð¢ ÂÉ¸è¢?	en_uk_d1_08.m4a				2				
 			230008	word_problem	çâÇÙè ·UUUUô â×é¼ý ÌÅ ÂÚ 20 àæ¢¹ ç×ÜðÐ Ùô¥æ ·UUUUô 6 àæ¢¹ ç×ÜðÐ Ùô¥æ ·UUUè ÌéÜÙæ ×ð¢ çâÇÙè ·UUUUô ç·UUUUÌÙð ¥æñÚ àæ¢¹ ç×Üð?	en_uk_d2_03.m4a				14				
 			230009	word_problem	¥óææ Ùð 12 ÂõÏð ¹ÚèÎðÐ ©â·UUUè ÕãÙ Ùð 7 ÂõÏð ¹ÚèÎðÐ ¥óææ Ùð ¥ÂÙè ÕãÙ âð ç·UUUUÌÙð ¥çÏ·UUUU ÂõÏð ¹ÚèÎð?	en_uk_d2_04.m4a				5				
 			230010	word_problem	Åæò× Ùð S·êUUUÜ ·ðUUU Õ»è¿ð ×ð¢ 5 ÕèÁ Ü»æ°Ð ÁðÙ Ùð 8 ÕèÁ Ü»æ°Ð Åæò× Ùð ÁðÙ ·UUUè ÌéÜÙæ ×ð¢ ç·UUUUÌÙð ·UUUU× ÕèÁ Ü»æ°?	en_uk_d1_06.m4a				3				
@@ -427,10 +427,10 @@ SpecialTest_25	1	250001, 250002, 250003, 250004, 250005
 			250004	operations_without_objects	8~9x2~9=?		horizontal			16~81				
 			250005	operations_without_objects	2~9x2~9=?		horizontal			4~81				
 SpecialTest_26	1	260001~260010, 260001~260010, 260001~260010, 260001~260010, 260001~260010												
-			260001	word_problem	ç×Úæ¢Çæ Ùð १८ ç×Ææ§Øæ¡ ÕÙæ§üÐ ©âÙð २ ŒÜðÅô¢ ÂÚ â×æÙ â¢2Øæ ×ð¢ ç×Ææ§Øæ¡ Ú¹èÐ ÂýˆØð·UUUU ŒÜðÅ ÂÚ ç·UUUUÌÙð ç×Ææ§Øæ¡  Ú¹è ?	en_uk_f2_05.m4a				9				
+			260001	word_problem	ç×Úæ¢Çæ Ùð 18 Õýæ©ÙèÁ ·UUUUô Õð·UUUU ç·UUUUØæÐ ©âÙð 2 ŒÜðÅô¢ ÂÚ â×æÙ â¢wØæ ×ð¢ Õýæ©ÙèÁ Ú¹èÐ ÂýˆØð·UUUU ŒÜðÅ ÂÚ ç·UUUUÌÙð Õýæ©Ùè ãôÌð ãñ¢?	en_uk_f2_05.m4a				9				
 			260002	word_problem	°·UUUU ç·UUUUâæÙ ·ðUUU Âæâ 16 ¥¢Çð ãñ¢ ¥æñÚ ßô ©‹ãð¢ â×æÙ MUUUUÂ âð 2 Õvâð ×ð¢ Ú¹Ìæ ãñÐ ÂýˆØð·UUUU Õæòvâ ×ð¢ ç·UUUUÌÙð ¥¢Çð ãñ¢?	en_uk_f2_03.m4a				8				
 			260003	word_problem	âæÚæ Ùð 6 ÈêUUUÜ ¿éÙðÐ ©âÙð ÈêUUUÜô¢ ·UUUè â×æÙ ×æ˜ææ ×ð¢ 2 ÈêUUUÜÎæÙô¢ ×ð¢ ÇæÜ ÎèÐ ÂýˆØð·UUUU ÈêUUUÜÎæÙ ×ð¢ ©âÙð ç·UUUUÌÙð ÈêUUUÜ ÇæÜð¢ ?	en_uk_f2_04.m4a				3				
-			260004	word_problem	àæðÙ Ùð °·UUUU ÂðÇ¸ âð ६ ¥æ× ÌôÇ¸ð Ð ©‹ãô¢Ùð ¥æ×ô¢ ·UUUè °·UUUU â×æÙ â¢wØæ ·UUUUô ३ Õvâð ×ð¢ Ú¹æÐ ÂýˆØð·UUUU çÇyÕð ×ð¢ ©âÙð ç·UUUUÌÙð ¥æ× Ú¹ð?	en_uk_f2_07.m4a				2				
+			260004	word_problem	àæðÙ Ùð °·UUUU ÂðÇ¸ âð 6 ¥æ× çÙ·UUUæÜðÐ ©‹ãô¢Ùð ¥æ×ô¢ ·UUUè °·UUUU â×æÙ â¢wØæ ·UUUUô 3 Õvâð ×ð¢ Ú¹æÐ ÂýˆØð·UUUU çÇyÕð ×ð¢ ©âÙð ç·UUUUÌÙð ¥æ× Ú¹ð?	en_uk_f2_07.m4a				2				
 			260005	word_problem	20 Àæ˜æô¢ ·UUUUô çàæÿæ·UUUU mæÚæ 4 â×êãô¢ ×ð¢ â×æÙ MUUUUÂ âð çßÖæçÁÌ ç·UUUUØæ »Øæ ÍæÐ ÂýˆØð·UUUU â×êã ×ð¢ ç·UUUUÌÙð Àæ˜æ ãñ¢?	en_uk_f2_09.m4a				5				
 			260006	word_problem	2 Õ‘¿ð 8 ç×Ææ§ü â×æÙ MUUUUÂ âð âæÛææ ·UUUUÚÌð ãñ¢Ð ÂýˆØð·UUUU Õ‘¿ð ·UUUUô ç·UUUUÌÙè ç×Ææ§ü ç×ÜÌè ãñ?	en_uk_f2_01.m4a				4				
 			260007	word_problem	¥æÂ ¥æñÚ ¥æÂ·UUUè ÕãÙ â×æÙ MUUUUÂ âð ç¿Œâ ·ðUUU 10 Õñ» âæÛææ ·UUUUÚÌð ãñ¢Ð ç¿Œâ ·ðUUU ç·UUUUÌÙð Õñ» ÂýˆØð·UUUU ·UUUUô ç×Üð¢»ð?	en_uk_f2_02.m4a				5				
@@ -531,7 +531,7 @@ FishTest_6_1	1	611, 612, 613, 614, 615
 			612	operations_drag	11~20+1~10=?		vertical			11~19				
 			613	missing_number_drag	10	4	descending			1~50	10			
 			614	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
-			615	use_magnitude_symbols	11~50	11~50	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			615	use_magnitude_symbols	11~50	11~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 FishTest_6_2	1	621, 622, 623, 624, 625												
 			621	operations_with_objects	1~9+1~9=?					10				
 			622	operations_with_objects	1~9+1~9=?	regroupingtrue				11~20				
@@ -547,7 +547,7 @@ FishTest_7_1	1	711, 712, 713, 714, 715
 FishTest_7_2	1	721~722, 723, 724, 725, 726												
 			721	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	which_is_the_biggest.m4a			51~100				
 			722	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	which_is_the_smallest.m4a			51~100				
-			723	use_magnitude_symbols	51~100	51~100	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			723	use_magnitude_symbols	51~100	51~100	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			724	operations_drag	11~20-10=?		horizontal			1~10				
 			725	operations_drag	1~9+1~9=?	regroupingtrue	vertical			11~20				
 			726	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	order_the_numbers_from_smallest_to_largest.m4a			51~99
@@ -578,7 +578,7 @@ FishTest_8_3	1	831, 832, 833, 834, 835
 			834	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
 			835	word_problem	5 °ÂËâ ÅðÕÜ ÂÚ ãñ¢Ð âñ× 2 °ÂËâ ¹æÌæ ãñÐ ÅðÕÜ ÂÚ ç·UUUUÌÙð °ÂËâ Õ¿ð ãñ¢?	en_uk_b1_01.m4a				3				
 FishTest_9_1	1	911, 912, 913, 914, 915												
-			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	¹æÜè SÍæÙ ÂÚ ÖÚð¢	fill_in_the_blank.m4a						
+			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	çÚQUUUU SÍæÙ ÖÚð¢Ð	fill_in_the_blank.m4a						
 			912	missing_number_drag	2	4	descending			50~100	2			
 			913	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			914	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
