@@ -90,11 +90,11 @@ en-US	12	1	6	listeningonly	"Mgeni has a new baby brother .Her baby brother is  s
 en-US	12	1	7	multiplechoices		What does Mgeni have?	What does Mgeni have?	text	A new baby brother	A new baby sister	A new baby cousin		A new baby brother	
 en-US	12	1	8	fillintheblank		Her baby brother is [small].	Her baby brother is small.	text	large	round				
 en-US	13	1	1	title	Story 1									
-en-US	13	1	2	listeningonly	Imara will visit her sister .her sister is 35 years old . She is a doctor who lives and works in the big city. Imara will take the bus and visit her sister for the weekend									
+en-US	13	1	2	listeningonly	Imara will visit her sister .Her sister is 35 years old . She is a doctor who lives and works in the big city. Imara will take the bus and visit her sister for the weekend									
 en-US	13	1	3	multiplechoices		Who will Imara visit?	Who will Imara visit?	text	Her sister	Her friend	Her father		Her sister	
 en-US	13	1	4	multiplechoices		How will Imara get to the city?	How will Imara get to the city?	text	Bus	Airplane	Bike		Bus	
 en-US	13	1	5	title	Story 2									
-en-US	13	1	6	listeningonly	"Frog was very happy. it was starting to rain. frog really likes the rain .he likes to jump in the rain. he likes to splash in the water. jump,jump, splash, splash."									
+en-US	13	1	6	listeningonly	Frog was very happy. it was starting to rain. frog really likes the rain.he likes to jump in the rain. he likes to splash in the water. Jump!jump! splash!splash.									
 en-US	13	1	7	multiplechoices		What did Frog really like?	What did Frog really like?	text	Rain	Sunshine	Stars		Rain	
 en-US	13	1	8	fillintheblank		He liked to splash in the [water].	He liked to splash in the water.	text	mud	tree				
 en-US	14	1	1	title	Story 1									
@@ -102,7 +102,7 @@ en-US	14	1	2	listeningonly	Bashira and her family got a pig. Bashira's job is to
 en-US	14	1	3	multiplechoices		What animal did Bashira and her family get?	What animal did Bashira and her family get?	text	A pig	A cow	A donkey		A pig	
 en-US	14	1	4	multiplechoices		What does Bashira help take care of?	What does Bashira help take care of?	text	The pig	The cow	The donkey		The pig	
 en-US	14	1	5	title	Story 2									
-en-US	14	1	6	listeningonly	Bugs are small.sometimes it is hard to see them because they are so small .some live in the ground .some live in trees. I see them indoors. I see them outdoors. bugs are everywhere									
+en-US	14	1	6	listeningonly	Bugs are small. Sometimes it is hard to see them because they are so small .some live in the ground .some live in trees. I see them indoors. I see them outdoors. bugs are everywhere									
 en-US	14	1	7	multiplechoices		What is this story about?	What is this story about?	text	Bugs	Plants	People		Bugs	
 en-US	14	1	8	multiplechoices		Where can bugs be found?	Where can bugs be found?	text	Everywhere	Nowhere	Only in water		Everywhere	
 en-US	15	1	1	title	Story 1									
@@ -150,7 +150,7 @@ en-US	19	1	6	readingonly	The forest has many animals. The forest has small anima
 en-US	19	1	7	multiplechoices		What is in the forest?	What is in the forest?	text	Many animals	Many people	No animals		Many animals	
 en-US	19	1	8	fillintheblank		The forest has small and [big] animals.	The forest has small and big animals.	text	blue	silly				
 en-US	20	1	1	title	Story 1									
-en-US	20	1	2	listeningonly	Etana loves beans. beans are her favourite food .she is very happy when her dad cooks beans .her dad add just a right amount of salt. the Beans are very tasty									
+en-US	20	1	2	listeningonly	Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty									
 en-US	20	1	3	multiplechoices		What is Etana’s favorite food?	What is Etana’s favorite food?	text	Beans	Bananas	Fish		Beans	
 en-US	20	1	4	fillintheblank		She is very happy when her [dad] cooks beans.	She is very happy when her dad cooks beans.	text	mom	brother				
 en-US	20	1	5	title	Story 2									
@@ -218,21 +218,21 @@ en-US	26	1	8	multiplechoices		What is something that Bird likes?	What is somethi
 en-US	26	1	9	multiplechoices		What is something that Worm likes?	What is something that Worm likes?	text	The rain	The snow	The summer		The rain	
 en-US	26	1	10	fillintheblank		"They are very different, but they both like to [play]."	"They are very different, but they both like to play."	text	fight	read				
 en-US	27	1	1	title	Story 1									
-en-US	27	1	2	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.her father catches fish with his net. They catch many fish. each day they eat some of the fish at home and sell some of the fish at the market	What does Zaina live next to?	What does Zaina live next to?	text	The ocean	The mountains	The highway		The ocean	
-en-US	27	1	3	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.her father catches fish with his net. They catch many fish. each day they eat some of the fish at home and sell some of the fish at the market	What does Zaina do with her father every morning?	What does Zaina do with her father every morning?	text	Catch fish	Feed their pigs	Open their shop		Catch fish	
-en-US	27	1	4	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.her father catches fish with his net. They catch many fish. each day they eat some of the fish at home and sell some of the fish at the market	Where do they sell some of their fish?	Where do they sell some of their fish?	text	At the market	At the ocean	At the school		At the market	
+en-US	27	1	2	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.Her father catches fish with his net. They catch many fish. Each day they eat some of the fish at home and sell some of the fish at the market	What does Zaina live next to?	What does Zaina live next to?	text	The ocean	The mountains	The highway		The ocean	
+en-US	27	1	3	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.Her father catches fish with his net. They catch many fish. Each day they eat some of the fish at home and sell some of the fish at the market	What does Zaina do with her father every morning?	What does Zaina do with her father every morning?	text	Catch fish	Feed their pigs	Open their shop		Catch fish	
+en-US	27	1	4	lcallinone	Zaina lives next to the ocean. she goes to the ocean every morning with her father.Her father catches fish with his net. They catch many fish. Each day they eat some of the fish at home and sell some of the fish at the market	Where do they sell some of their fish?	Where do they sell some of their fish?	text	At the market	At the ocean	At the school		At the market	
 en-US	27	1	5	title	Story 2									
 en-US	27	1	6	listeningonly	"The rabbit is a small animal.Some rabbits are small.Some rabbits are as big as a mango.Some rabbits are larger.Larger rabbits are bigger than coconuts.Rabbits do not run,they hop.Rabbits can hop very fast."									
 en-US	27	1	7	fillintheblank		The [rabbit] is a small animal.	The rabbit is a small animal.	text	giraffe	elephant				
 en-US	27	1	8	fillintheblank		Some rabbits are as big as a [mango].	Some rabbits are as big as a mango.	text	house	car				
 en-US	27	1	9	multiplechoices		What do rabbits do instead of run?	What do rabbits do instead of run?	text	They hop.	They swim.	They fly.		They hop.	
 en-US	28	1	1	title	Story 1									
-en-US	28	1	2	listeningonly	Tahira has two brothers and two sisters .one brother is older and one brother is younger.one sister is older and one sister is younger Tahira is in the middle .Tahira likes to play with her brothers and sisters									
+en-US	28	1	2	listeningonly	Tahira has two brothers and two sisters.One brother is older and one brother is younger.One sister is older and one sister is younger. Tahira is in the middle .Tahira likes to play with her brothers and sisters									
 en-US	28	1	3	multiplechoices		How many brothers does Tahira have?	How many brothers does Tahira have?	text	Two brothers	One brother	No brothers		Two brothers	
 en-US	28	1	4	multiplechoices		How many sisters does Tahira have?	How many sisters does Tahira have?	text	Two sisters	One sister	No sisters		Two sisters	
 en-US	28	1	5	fillintheblank		Tahira likes to [play] with her brothers and sisters.	Tahira likes to play with her brothers and sisters.	text	work	read				
 en-US	28	1	6	title	Story 2									
-en-US	28	1	7	listeningonly	the tree has a trunk. the trunk helps the tree  stand strong. the trunk is brown. the tree has branches. the branches hold the leaves the branches are brown too.the tree has many leaves. the leaves are green.									
+en-US	28	1	7	listeningonly	The tree has a trunk. The trunk helps the tree  stand strong. The trunk is brown. The tree has branches. The branches hold the leaves .The branches are brown too.The tree has many leaves. The leaves are green.									
 en-US	28	1	8	fillintheblank		The [trunk] helps the tree stand strong.	The trunk helps the tree stand strong.	text	leaves	fruit				
 en-US	28	1	9	multiplechoices		What color is the trunk?	What color is the trunk?	text	Brown	Blue	Orange		Brown	
 en-US	28	1	10	multiplechoices		What color are the leaves?	What color are the leaves?	text	Green	Purple	White		Green	
@@ -262,17 +262,17 @@ en-US	31	1	3	multiplechoices		What does Shawana like to do in the evenings?	What
 en-US	31	1	4	fillintheblank		There are many [stars] in the sky.	There are many stars in the sky.	text	suns	moons				
 en-US	31	1	5	multiplechoices		Why can’t Shawana count all the stars?	Why can’t Shawana count all the stars?	text	There are too many.	She cannot count.	The stars move too fast.		There are too many.	
 en-US	31	1	6	title	Story 2									
-en-US	31	1	7	listeningonly	Bananas grow on trees .they grow high up in the tree.bananas also grow in bunches. there are many bananas next to one another  in a bunch .when bananas are young their peel is green. when bananas are ripe and ready to eat their peel is yellow									
+en-US	31	1	7	listeningonly	Bananas grow on trees .They grow high up in the tree.Bananas also grow in bunches. There are many bananas next to one another  in a bunch .When bananas are young their peel is green. when bananas are ripe and ready to eat their peel is yellow									
 en-US	31	1	8	fillintheblank		Bananas grow on [trees].	Bananas grow on trees.	text	bushes	grass				
 en-US	31	1	9	fillintheblank		Bananas also grow in [bunches].	Bananas also grow in bunches.	text	alone	pairs				
 en-US	31	1	10	multiplechoices		What color are banana peels when they are ripe and ready to eat?	What color are banana peels when they are ripe and ready to eat?	text	Blue	Purple	Yellow		Yellow	
 en-US	32	1	1	title	Story 1									
-en-US	32	1	2	listeningonly	"Suwesi and his friend Kupenda often went to the market. they usually Run very fast and they are not careful. one day Suwesi accidently slipped over a rock.he fell hard to the ground. he hurt his knee. in future, Suwesi and kupenda walk more carefully to the market"									
+en-US	32	1	2	listeningonly	"Suwesi and his friend Kupenda often went to the market. They usually Run very fast and they are not careful. one day Suwesi accidently slipped over a rock.He fell hard to the ground. He hurt his knee. In future, Suwesi and kupenda walk more carefully to the market."									
 en-US	32	1	3	multiplechoices		Where do Suwesi and Kupenda often run to?	Where do Suwesi and Kupenda often run to?	text	The market	The river	The clinic		The market	
 en-US	32	1	4	multiplechoices		What happened to Suwesi one day?	What happened to Suwesi one day?	text	He tripped over a rock.	He flew.	He ran alone.		He tripped over a rock.	
 en-US	32	1	5	fillintheblank		He [hurt] his knee.	He hurt his knee.	text	rubbed	licked				
 en-US	32	1	6	title	Story 2									
-en-US	32	1	7	listeningonly	Worm and grasshopper are friends. worm and grasshopper are very different. worm likes to riggle. grasshopper likes to hop. worm likes the dirt. grasshopper like the grass.worm likes the rain.grasshopper likes the sun .worm and grasshopper both like to play .in that way they are the same									
+en-US	32	1	7	listeningonly	Worm and grasshopper are friends. Worm and grasshopper are very different. Worm likes to riggle. Grasshopper likes to hop. Worm likes the dirt. Grasshopper like the grass.Worm likes the rain.Grasshopper likes the sun .Worm and grasshopper both like to play .In that way they are the same									
 en-US	32	1	8	fillintheblank		Worm and grasshopper are [friends].	Worm and grasshopper are friends.	text	enemies	family				
 en-US	32	1	9	fillintheblank		Worm and grasshopper are very [different].	Worm and grasshopper are very different.	text	alike	loud				
 en-US	32	1	10	multiplechoices		What do worm and grasshopper both like to do?	What do worm and grasshopper both like to do?	text	To play	To cry	To sleep		To play	
@@ -347,13 +347,13 @@ en-US	39	1	8	multiplechoices		Why is baby brother no fun sometimes?	Why is baby 
 en-US	39	1	9	fillintheblank		Sometimes my baby brother looks at me and [smiles].	Sometimes my baby brother looks at me and smiles.	text	sings	speaks				
 en-US	39	1	10	multiplechoices		How does she really feel about her baby brother?	How does she really feel about her baby brother?	text	She really loves him.	She does not like him very much.	She does not care.		She really loves him.	
 en-US	40	1	1	title	Story 1									
-en-US	40	1	2	listeningonly	"Kwasi has a brother named fogo. Fogo went to the city for  a visit. when he came back to the village he bought Kwasi some new pens the new pens were beautiful . he brought one red pen, one blue pen and one green pen.Kwasi  likes to draw the pictures with the new pens"									
+en-US	40	1	2	listeningonly	"Kwasi has a brother named fogo. Fogo went to the city for  a visit. When he came back to the village, he bought Kwasi some new pens. The new pens were beautiful . He brought one red pen, one blue pen and one green pen.Kwasi  likes to draw the pictures with the new pens."									
 en-US	40	1	3	multiplechoices		Where did Fogo go for a visit?	Where did Fogo go for a visit?	text	To the city	To the beach	To the moon		To the city	
 en-US	40	1	4	multiplechoices		What did Fogo buy for his brother Kwasi?	What did Fogo buy for his brother Kwasi?	text	Some new pens	Some new books	Some new shoes		Some new pens	
 en-US	40	1	5	fillintheblank		The new [pens] were beautiful.	The new pens were beautiful.	text	books	shoes				
 en-US	40	1	6	multiplechoices		What does Kwasi like to do with the pens?	What does Kwasi like to do with the pens?	text	Write and draw pictures	Throw them	Clean them		Write and draw pictures	
 en-US	40	1	7	title	Story 2									
-en-US	40	1	8	listeningonly	I like coconuts more than mangoes. coconuts have juice that can be sweet or little sour I like sweet coconut juice I like coconut juice even if it is a little sour. mangoes can be sweet or sour too.  but mangoes do not have juice that I can drink 									
+en-US	40	1	8	listeningonly	I like coconuts more than mangoes. Coconuts have juice that can be sweet or little sour .I like sweet coconut juice. I like coconut juice even if it is a little sour. mangoes can be sweet or sour too  but mangoes do not have juice that I can drink .									
 en-US	40	1	9	fillintheblank		I like coconuts [more than] mangoes.	I like coconuts more than mangoes.	text	less than	the same as				
 en-US	40	1	10	multiplechoices		What kind of juice do coconuts have?	What kind of juice do coconuts have?	text	Sweet or a little sour	Very sweet only	Bitter		Sweet or a little sour	
 en-US	40	1	11	multiplechoices		What type of coconut juice does she like the most?	What type of coconut juice does she like the most?	text	Sweet coconut juice	Spicy coconut juice	Salty coconut juice		Sweet coconut juice	
@@ -365,7 +365,7 @@ en-US	41	1	4	fillintheblank		I [never] get tired when I swim.	I [never] get tire
 en-US	41	1	5	fillintheblank		I feel very tired after I [run].	I feel very tired after I run.	text	swim	fly				
 en-US	41	1	6	multiplechoices		What does she like to do more than run?	What does she like to do more than run?	text	Swim	Nothing	Draw		Swim.	
 en-US	41	1	7	title	Story 2									
-en-US	41	1	8	listeningonly	Ghipe and Hamid are helping their  teacher prepare for new school year. they help sweep the classroom and move the chairs and tables in the classroom . classroom is very dusty because it was not used for many weeks .after Ghipe and Hamid were done cleaning the classroom was very clean. the teacher told them that is your great job									
+en-US	41	1	8	listeningonly	"Ghipe and Hamid are helping their  teacher prepare for new school year. They help sweep the classroom and move the chairs and tables in the classroom . Classroom is very dusty because it was not used for many weeks .After Ghipe and Hamid were done cleaning, the classroom was very clean. The teacher told them that is your great job"									
 en-US	41	1	9	multiplechoices		What are Ghipe and Haamid doing?	What are Ghipe and Haamid doing?	text	Helping clean the classroom	Helping mark exams	Helping cook the food		Helping clean the classroom	
 en-US	41	1	10	multiplechoices		Why is the classroom very dusty?	Why is the classroom very dusty?	text	It was not used for many weeks.	There was a sandstorm.	Other kids brought in sand.		It was not used for many weeks.	
 en-US	41	1	11	multiplechoices		How does the teacher feel about their cleaning?	How does the teacher feel about their cleaning?	text	She is pleased.	She is angry.	She is worried.		She is pleased.	
@@ -377,18 +377,18 @@ en-US	42	1	4	multiplechoices		Where did Paul go to buy the soap?	Where did Paul 
 en-US	42	1	5	multiplechoices		What did Paul also want to buy?	 What did Paul also want to buy?       	text	Sweets	A chicken	A book		Sweets	
 en-US	42	1	6	multiplechoices		Why did Paul buy the soap instead of the sweets?	Why did Paul buy the soap instead of the sweets?	text	His family needed the soap.	Paul does not like sweets.	Paul found some sweets.		His family needed the soap.	
 en-US	42	1	7	title	Story 2									
-en-US	42	1	8	listeningonly	Bird loves  to sing. she sings everyday. she sings in the morning when she finds a worm. she sings in the afternoon when she rests on a branch. she sings in the evening when the sun begins to set. Her song is beautiful .Her night she stops singing. she rests.Tomorrow she will wake up and sing again									
+en-US	42	1	8	listeningonly	Bird loves  to sing. she sings everyday. She sings in the morning when she finds a worm. She sings in the afternoon when she rests on a branch. She sings in the evening when the sun begins to set. Her song is beautiful .Her night she stops singing. she rests.Tomorrow she will wake up and sing again									
 en-US	42	1	9	multiplechoices		What does bird love to do?	What does bird love to do?	text	Sing	Dance	Fly		Sing	
 en-US	42	1	10	ordering			She sings in the morning when she finds a worm.She sings in the afternoon when she rests on a branch.She sings in the evening when the sun begins to set.	text	She sings in the morning when she finds a worm.	She sings in the afternoon when she rests on a branch.	She sings in the evening when the sun begins to set.			
 en-US	42	1	11	fillintheblank		Her song is beautiful.	Her song is beautiful.	text	dance	feather				
 en-US	42	1	12	multiplechoices		When does bird sing?	When does bird sing?	text	"All day, but not at night"	All day and all night	All night		"All day, but not at night"	
 en-US	43	1	1	title	Story 1									
-en-US	43	1	2	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey .he went to the neighbour to ask for money. the neighbour refused .Tim met Sam on his way home. sam felt badly for tim because they were good friends sam gave tim his donkey tim was very happy Tim took the donkey home. 	What did Tim want to buy?	What did Tim want to buy?	text	A donkey	A chicken	A pig		A donkey	
-en-US	43	1	3	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey .he went to the neighbour to ask for money. the neighbour refused .Tim met Sam on his way home. sam felt badly for tim because they were good friends sam gave tim his donkey tim was very happy Tim took the donkey home. 	Why did Tim want to buy a donkey?	Why did Tim want to buy a donkey?	text	To help him carry water	To be his friend	To carry sand		To help him carry water	
+en-US	43	1	2	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey. he went to the neighbour to ask for money. the neighbour refused.Tim met Sam on his way home. sam felt badly for tim because they were good friends. sam gave tim his donkey. tim was very happy. Tim took the donkey home. 	What did Tim want to buy?	What did Tim want to buy?	text	A donkey	A chicken	A pig		A donkey	
+en-US	43	1	3	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey. he went to the neighbour to ask for money. the neighbour refused.Tim met Sam on his way home. sam felt badly for tim because they were good friends. sam gave tim his donkey. tim was very happy. Tim took the donkey home. 	Why did Tim want to buy a donkey?	Why did Tim want to buy a donkey?	text	To help him carry water	To be his friend	To carry sand		To help him carry water	
 en-US	43	1	4	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey .he went to the neighbour to ask for money. the neighbour refused .Tim met Sam on his way home. sam felt badly for tim because they were good friends sam gave tim his donkey tim was very happy Tim took the donkey home. 	Why did Tim go see his neighbour?	Why did Tim go see his neighbour?	text	To ask for money	To eat together	To play a game		To ask for money	
-en-US	43	1	5	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey .he went to the neighbour to ask for money. the neighbour refused .Tim met Sam on his way home. sam felt badly for tim because they were good friends sam gave tim his donkey tim was very happy Tim took the donkey home. 	Who gave Tim a donkey?	Who gave Tim a donkey?	text	"His friend, Sam"	His neighbour	His teacher		"His friend, Sam"	
+en-US	43	1	5	lcallinone	Tim wanted a donkey to help him carry water from the river. he did not have money to buy a donkey. he went to the neighbour to ask for money. the neighbour refused.Tim met Sam on his way home. sam felt badly for tim because they were good friends. sam gave tim his donkey. tim was very happy. Tim took the donkey home. 	Who gave Tim a donkey?	Who gave Tim a donkey?	text	"His friend, Sam"	His neighbour	His teacher		"His friend, Sam"	
 en-US	43	1	6	title	Story 2									
-en-US	43	1	7	listeningonly	It was a very sunny day Chega enjoyed playing outside with his friends suddenly it began to rain the rain was heavy and very loud Chega remember that he and his mum put out their wash clothes to dry the clothes will get all wet again he worried .Chega ran home to help his mum put away the clothes 									
+en-US	43	1	7	listeningonly	It was a very sunny day. Chega enjoyed playing outside with his friends.  suddenly it began to rain the rain was heavy and very loud. Chega remember that he and his mum put out their wash clothes to dry. the clothes will get all wet again he worried .Chega ran home to help his mum put away the clothes. 									
 en-US	43	1	8	multiplechoices		What was Chega doing when it was sunny? What was Chega doing when it was sunny? 	What was Chega doing when it was sunny? 	text	Playing outside with his friends	Doing the washing	Sleeping		Playing outside with his friends	
 en-US	43	1	9	fillintheblank		The [rain] was heavy and very loud.	The rain was heavy and very loud.	text	snow	car				
 en-US	43	1	10	multiplechoices		Why did Chega run home? 	Why did Chega run home? 	text	To help his mom put the clothes away		To eat		To help his mom put the clothes away	
@@ -424,7 +424,7 @@ en-US	46	1	4	multiplechoices		Who does Bititi like to watch play the drum?	Who d
 en-US	46	1	5	fillintheblank		They are all very [good] at playing the drum.	They are all very good at playing the drum.	text	bad	poor				
 en-US	46	1	6	multiplechoices		Why is Bititi very happy?	Why is Bititi very happy?	text	Her teacher will teach her to play the drums.	Her teacher bought her a drum.	Her friends gave her sweets.		Her teacher will teach her to play the drums.	
 en-US	46	1	7	title	Story 2									
-en-US	46	1	8	listeningonly	Chega and his father sell vegetables at the market.chega helps his father carry the vegetables to the market.He helps his father organize the vegetables on the mat.The market is busy and full of people.He tells people how much each vegetable costs.He helps take money and gives people change.He has to use math to count how much change to give.he is happy he gets to practice math and help his father.									
+en-US	46	1	8	listeningonly	Chega and his father sell vegetables at the market.Chega helps his father carry the vegetables to the market.He helps his father organize the vegetables on the mat.The market is busy and full of people.He tells people how much each vegetable costs.He helps take money and gives people change.He has to use math to count how much change to give.he is happy he gets to practice math and help his father.									
 en-US	46	1	9	multiplechoices		What do Chega and his father sell at the market?	What do Chega and his father sell at the market?	text	Vegetables	Meat	Baskets		Vegetables	
 en-US	46	1	10	fillintheblank		Chega helps his father [carry] the vegetables to the market.	Chega helps his father carry the vegetables to the market.	text	fly	swim				
 en-US	46	1	11	fillintheblank		He tells people how much each vegetable [costs].	He tells people how much each vegetable costs.	text	weighs	cooks				
@@ -442,13 +442,13 @@ en-US	47	1	10	multiplechoices		What are some things the doctor did?	What are som
 en-US	47	1	11	ordering			Zeyana was not feeling well.She went to visit the doctor.The doctor gave her medicine.	text	Zeyana was not feeling well.	She went to visit the doctor.	The doctor gave her medicine.			
 en-US	47	1	12	multiplechoices		Why did Zeyana feel better in days?	Why did Zeyana feel better in days?	text	She took medicine.	She got better on her own.	She was never sick.		She took medicine.	
 en-US	48	1	1	title	Story 1									
-en-US	48	1	2	listeningonly	"Imani was taking a walk with her friend Jahina. they came across a goat.the goat was all alone,that is strange. Imani and Jahina thought. why would someone leave that goat all alone? Imani and Jahina watch the goat fot that. it had a big black spot on its back. none of their Goats had a big black spot on its back. all of a sudden there friend Aziza came running towards them. aziza had lost her new goat and was trying to chase her new goat back home."									
+en-US	48	1	2	listeningonly	"Imani was taking a walk with her friend Jahina. they came across a goat.the goat was all alone,that is strange! Imani and Jahina thought. why would someone leave that goat all alone? Imani and Jahina watch the goat for that. it had a big black spot on its back. none of their Goats had a big black spot on its back. all of a sudden there friend Aziza came running towards them. aziza had lost her new goat and was trying to chase her new goat back home."									
 en-US	48	1	3	multiplechoices		What did Imani and Jahina come across during their walk?	What did Imani and Jahina come across during their walk?	text	A goat	A monkey	An elephant		A goat	
 en-US	48	1	4	multiplechoices		What was strange about the goat?	What was strange about the goat?	text	"It was all alone, and they did not recognize it."	The goat was acting funny.	The goat was really small.		"It was all alone, and they did not recognize it."	
 en-US	48	1	5	multiplechoices		Who did they learn the goat belonged to?	Who did they learn the goat belonged to?	text	"Their friend, Aziza."	No one.	"Their neighbour, Paul."		"Their friend, Aziza."	
 en-US	48	1	6	ordering			"First, Imani and Jahini went for a walk.Then, they came across a lonely goat.Finally, they saw its owner, Aziza chasing it."	text	"First, Imani and Jahini went for a walk."	"Then, they came across a lonely goat."	"Finally, they saw its owner, Aziza chasing it."			
 en-US	48	1	7	title	Story 2									
-en-US	48	1	8	listeningonly	"Mkamba's dad needed eggs. He wanted to cook eggs for dinner. Mkamba went to check their chickens. He found eggs. He counted the eggs. 1,2,3,4. Four eggs. Mkamba's dad will be very happy to have four eggs .He ran back to the house with the eggs. He dropped one .The egg cracked over the ground.Mkamba was sad. he will only have three eggs to bring to his dad .mkamba will be more careful when he runs"									
+en-US	48	1	8	listeningonly	"Mkamba's dad needed eggs. He wanted to cook eggs for dinner. Mkamba went to check their chickens. He found eggs. He counted the eggs. 1,2,3,4. Four eggs. Mkamba's dad will be very happy to have four eggs.He ran back to the house with the eggs. He dropped one .The egg cracked over the ground.Mkamba was sad. he will only have three eggs to bring to his dad .mkamba will be more careful when he runs"									
 en-US	48	1	9	multiplechoices		What did Mkamba’s dad need?	What did Mkamba’s dad need?	text	Eggs	Salt	Bread		Eggs	
 en-US	48	1	10	multiplechoices		How many eggs did Mkamba find with their chickens?	How many eggs did Mkamba find with their chickens?	text	Four eggs	No eggs	One egg		Four eggs	
 en-US	48	1	11	multiplechoices		Why was Mkamba sad?	Why was Mkamba sad?	text	He dropped one egg.	He did not like eggs.	He did not find any eggs.		He dropped one egg.	
@@ -460,7 +460,7 @@ en-US	49	1	4	multiplechoices		Where did his mother take him?	Where did his mothe
 en-US	49	1	5	multiplechoices		What did the nurse say was wrong with his eye?	What did the nurse say was wrong with his eye?	text	She said he had an infection.	She said nothing was wrong.	She does not know.		She said he had an infection.	
 en-US	49	1	6	ordering			"First, Himidi’s eye hurt a lot.Then, he and his mother visited the clinic.Finally, the nurse gave Himidi medicine."	text	"First, Himidi’s eye hurt a lot."	"Then, he and his mother visited the clinic."	"Finally, the nurse gave Himidi medicine."			
 en-US	49	1	7	title	Story 2									
-en-US	49	1	8	listeningonly	"Jali and Karima were excited.Today their uncle will visit.Their uncle will help Jali,Karima and their dad paint the house.They have been thinking for many weeks what colour they want to paint their house .Jali wanted to paint the house white. Karima wanted to paint the house blue .Their dad let them to paint two walls white and two walls blue.Their house will be both white and blue"									
+en-US	49	1	8	listeningonly	"Jali and Karima were excited.Today their uncle will visit.Their uncle will help Jali,Karima and their dad paint the house.They have been thinking for many weeks what colour they want to paint their house.Jali wanted to paint the house white. Karima wanted to paint the house blue .Their dad let them to paint two walls white and two walls blue.Their house will be both white and blue"									
 en-US	49	1	9	multiplechoices		Why were Jali and Karima excited?	Why were Jali and Karima excited?	text	They will get to paint their house with their dad and uncle.	They will go to the market.	They will go to their grandmother’s village.		They will get to paint their house with their dad and uncle.	
 en-US	49	1	10	multiplechoices		What have Jali and Karima been thinking about for weeks?	What have Jali and Karima been thinking about for weeks?	text	What color to paint their house	What to play with their uncle	What to cook for their uncle		What color to paint their house	
 en-US	49	1	11	fillintheblank		Their [dad] let them paint two walls white and two walls blue.	Their dad let them paint two walls white and two walls blue.	text	sister	brother				
