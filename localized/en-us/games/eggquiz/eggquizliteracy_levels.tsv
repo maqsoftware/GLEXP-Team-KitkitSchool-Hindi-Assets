@@ -824,18 +824,18 @@ SpecialTest_12	2	120006, 120007, 120008, 120009, 120010
 			120010	sentence_word		I ______ an egg.			iwantanegg.m4a	want	like^walk ^want
 											
 SpecialTest_13	1	130001, 130002, 130003, 130004, 130005									
-			130001	sentence_word		'S×æòÜ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofsmall.m4a	big	big^cold^clean
-			130002	sentence_word		'Çð' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofday.m4a	night	happy^sun^night
-			130003	sentence_word		'ÅæòÜ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeoftall.m4a	short	fat^short^full
-			130004	sentence_word		'È¸UUUæSÅ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeoffast.m4a	slow	slow^sick^good
-			130005	sentence_word		'ãæòÅ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofhot.m4a	cold	dirty^cold^thin
+			130001	sentence_word		S×æÜ àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙð¢Ð			choosetheoppositeofsmall.m4a	big	big^cold^clean
+			130002	sentence_word		'Çð' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			choosetheoppositeofday.m4a	night	happy^sun^night
+			130003	sentence_word		'ÅæòÜ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			choosetheoppositeoftall.m4a	short	fat^short^full
+			130004	sentence_word		'È¸UUUæSÅ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			choosetheoppositeoffast.m4a	slow	slow^sick^good
+			130005	sentence_word		'ãæòÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofhot.m4a	cold	dirty^cold^thin
 											
 SpecialTest_13	2	130006, 130007, 130008, 130009, 130010									
-			130006	sentence_word		'çÕ»' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofbig.m4a	small	small^cold^clean
-			130007	sentence_word		'Ùæ§üÅ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofnight.m4a	day	happy^sun^day
-			130008	sentence_word		'àææòÅü' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofshort.m4a	tall	fat^tall^full
-			130009	sentence_word		'SÜô' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofslow.m4a	fast	fast^sick^good
-			130010	sentence_word		'·UUUUôËÇ' àæyÎ ·UUUæ çßÜô× àæyÎ ¿éÙðÐ			choosetheoppositeofcold.m4a	hot	dirty^hot^thin
+			130006	sentence_word		'çÕ»' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofbig.m4a	small	small^cold^clean
+			130007	sentence_word		'Ùæ§üÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofnight.m4a	day	happy^sun^day
+			130008	sentence_word		'àææòÅü' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofshort.m4a	tall	fat^tall^full
+			130009	sentence_word		'SÜô' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofslow.m4a	fast	fast^sick^good
+			130010	sentence_word		'·UUUUôËÇ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			choosetheoppositeofcold.m4a	hot	dirty^hot^thin
 											
 SpecialTest_14	1	140001, 140002, 140003, 140004, 140005									
 			140001	soundonly_word					bif.m4a	bif	bif^gal^wah
