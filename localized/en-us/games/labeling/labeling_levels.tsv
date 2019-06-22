@@ -20,7 +20,7 @@ en-US	5	2	image_5_2.jpg	birds	719.-914	birds	cock	1250.-368	cock	crow	299.-1479	
 en-US	5	3	image_5_3.jpg	insects	694.-442	insects	bee	1274.-832	bee	fly	394.-1478	fly	ladybug	617.-802	ladybug	butterfly	1249.-1359	butterfly						
 en-US	5	4	image_5_4.jpg	forest	1075.-413	forest	squirrel	299.-1074	squirrel	snake	322.-472	snake	frog	1243.-704	frog	toucan	1295.-1178	toucan						
 en-US	6	1	image_6_1.jpg	sea animals	735.-973	seaanimals	octopus	1054.-465	octopus	dolphin	1043.-1088	dolphin	turtle	254.-465	turtle	starfish	254.-1388	starfish						
-en-US	6	2	image_6_2.jpg	wild animals	1045.-465	wildanimals	leopard	1297.-1150	leopard	boar	1060.-950	boar	deer	322.-714	deer	toucan	531.-1479	toucan						
+en-US	6	2	image_6_2.jpg	wild animals	1045.-465	wild animals	leopard	1297.-1150	leopard	boar	1060.-950	boar	deer	322.-714	deer	toucan	531.-1479	toucan						
 en-US	6	3	image_6_3.jpg	farm animals	725.-637	farmanimals	hen	1321.-1355	hen	horse	690.-972	horse	sheep	1355.-842	sheep	duck	197.-1255	duck						
 en-US	6	4	image_6_4.jpg	animals	728.-1480	animals	elephant	1243.-1012	elephant	giraffe	354.-1105	giraffe	buffalo	1188.-490	buffalo	zebra	473.-490	zebra						
 en-US	7	1	image_7_1.jpg	actions	521.-1480	actions	walk	1316.-1295	walk	cry	253.-1149	cry	eat	313.-490	eat	sleep	880.-465	sleep						
@@ -29,7 +29,7 @@ en-US	7	3	image_7_3.jpg	sky	301.-1509	sky	bird	787.-586	bird	kite	1280.-832	kite
 en-US	7	4	image_7_4.jpg	sports	293.-1474	sports	swimming	857.-1168	swimming	running	1263.-443	running	cycling	745.-447	cycling	skiing	375.-1231	skiing						
 en-US	8	1	image_8_1.jpg	actions	320.-1489	actions	read	553.-501	read	write	266.-1184	write	sing	1134.-501	sing	run	1260.-1213	run						
 en-US	8	2	image_8_2.jpg	actions	320.-1489	actions	eat	245.-972	eat	swim	271.-540	swim	kick	1347.-586	kick	play	1105.-1392	play						
-en-US	8	3	image_8_3.jpg	playing	264.-1501	playing	football	243.-834	football	swimming	1118.-1027	swimming	hide-and-seek	1248.-397	hideandseek	reading	693.-397	reading						
+en-US	8	3	image_8_3.jpg	playing	264.-1501	playing	football	243.-834	football	swimming	1118.-1027	swimming	hide-and-seek	1248.-397	hide and seek	reading	693.-397	reading						
 en-US	8	4	image_8_4.jpg	balls	417.-1501	balls	soccer ball	322.-929	soccerball	basketball	1123.-1265	basketball	baseball	1249.-581	baseball	tennis ball	321.-508	tennisball						
 en-US	9	1	image_9_1.jpg	lion	1106.-1477	lion	teeth	1128.-805	teeth	mane	468.-1291	mane	legs	776.-569	legs									
 en-US	9	2	image_9_2.jpg	rat	1066.-1437	rat	tail	368.-449	tail	whiskers	1214.-1085	whiskers	fur	425.-1085	fur	paw	1214.-449	paw						
@@ -48,7 +48,7 @@ en-US	12	2	image_12_2.jpg	space	859.-1488	space	earth	774.-599	earth	land	281.-9
 en-US	12	3	image_12_3.jpg	weather	1073.-1479	weather	rainy	520.-976	rainy	cloudy	1254.-944	cloudy	windy	1130.-445	windy	foggy	555.-466	foggy						
 en-US	12	4	image_12_4.jpg	colors	1134.-1520	colors	red	849.-917	red	blue	408.-1231	blue	green	608.-448	green	yellow	1134.-709	yellow						
 en-US	13	1	image_13_1.jpg	day	719.-1451	day	morning	366.-416	morning	sunrise	336.-791	sunrise	evening	1167.-416	evening	sunset	1254.-1122	sunset						
-en-US	13	2	image_13_2.jpg	times of day	194.-1011	timesofday	morning	797.-1286	morning	afternoon	1331.-1140	afternoon	evening	577.-591	evening	night	1331.-608	night						
+en-US	13	2	image_13_2.jpg	times of day	194.-1011	times of day	morning	797.-1286	morning	afternoon	1331.-1140	afternoon	evening	577.-591	evening	night	1331.-608	night						
 en-US	13	3	image_13_3.jpg	weather	667.-934	weather	rain	1298.-409	rain	storm	484.-426	storm	snow	704.-1462	snow	lightning	1298.-1462	lightning						
 en-US	13	4	image_13_4.jpg	colors	719.-1520	colors	black	1155.-1147	black	white	628.-631	white	purple	408.-1147	purple	orange	1257.-528	orange						
 en-US	14	1	image_14_1.jpg	tree	485.-1520	tree	roots	680.-566	roots	trunk	1171.-954	trunk	branches	1121.-1241	branches	leaves	355.-1168	leaves						
@@ -79,7 +79,7 @@ en-US	20	1	image_20_1.jpg	feelings	280.-1520	feelings	happy	223.-1010	happy	sad	
 en-US	20	2	image_20_2.jpg	feelings	280.-1520	feelings	scared	219.-520	scared	sad	1321.-829	sad	excited	223.-1010	excited	sleepy	1304.-1294	sleepy						
 en-US	20	3	image_20_3.jpg	senses	280.-1520	senses	see	1098.-1245	see	hear	1327.-850	hear	smell	1270.-577	smell	taste	301.-1133	taste	touch	296.-698	touch			
 #en-US	20	4	image_20_4.jpg	taste	280.-1520	taste	hot	1333.-1350	hot	cool	284.-1307	cool	sweet	243.-839	sweet	sour	1210.-926	sour						
-en-US	21	1	image_21_1.jpg	food	280.-1520	food	red peper	1216.-777	redpeper	ice cream	332.-1244	icecream	lemon	339.-844	lemon	chocolate	1217.-1249	chocolate						
+en-US	21	1	image_21_1.jpg	food	280.-1520	food	red peper	1216.-777	red peper	ice cream	332.-1244	icecream	lemon	339.-844	lemon	chocolate	1217.-1249	chocolate						
 en-US	21	2	image_21_2.jpg	vegetables	280.-1520	vegetables	carrot	1296.-1025	carrot	eggplant	405.-592	eggplant	pepper	247.-1197	pepper	broccoli	962.-1295	broccoli						
 en-US	21	3	image_21_3.jpg	tropical fruits	280.-1520	tropicalfruits	pomegranate	520.-1263	pomegranate	papaya	1325.-1082	papaya	jackfruit	1176.-475	jackfruit	guava	403.-424	guava						
 en-US	21	4	image_21_4.jpg	toys	280.-1520	toys	robot	583.-529	robot	car	383.-997	car	marbles	1249.-1302	marbles	blocks	1256.-603	blocks						
