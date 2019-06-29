@@ -6,15 +6,15 @@ en-uk_sick.m4a
 
 fill the blanks
 book_en_346_page_2_cropped.png
-Neema’s [mother] took her to the [clinic]. 
+Priya’s [mother] took her to the [clinic]. 
 bank
 book_en_346_page_2_1.m4a
 
 multiple choices
 What did the doctor check?
 book_en_346_page_1_cropped.png
-Neema’s hair, Neema’s face, Neema’s blood
-Neema’s blood
+Priya’s hair, Priya’s face, Priya’s blood
+Priya’s blood
 
 reordering
-Neema feels sick., Neema goes to the clinic., Neema feels better.
+Priya feels sick., Priya goes to the clinic., Priya feels better.

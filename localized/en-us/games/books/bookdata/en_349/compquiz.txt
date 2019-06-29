@@ -1,20 +1,20 @@
 multiple choices
 Who is this book about? 
 book_en_349_page_1_cropped.png
-Kelvin and his mama, Kelvin and Baba, Two classmates
-Kelvin and Baba
+Raju and his mama, Raju and Father, Two classmates
+Raju and Father
 
 fill the blanks
 book_en_349_page_2_cropped.png
-Kelvin and Baba [wake] up with the [sun].
+Raju and Father [wake] up with the [sun].
 moon
 book_en_349_page_2_1.m4a
 
 multiple choices
-What does Kelvin do when Baba works?
+What does Raju do when Father works?
 book_en_349_page_5_cropped.png
-Kelvin sleeps., Kelvin works., Kelvin plays.
-Kelvin works.
+Raju sleeps., Raju works., Raju plays.
+Raju works.
 
 reordering
-Kelvin and baba drink chai., Kelvin and baba work., Kelvin and baba watch the sun go down. 
+Raju and baba drink chai., Raju and baba work., Raju and baba watch the sun go down. 

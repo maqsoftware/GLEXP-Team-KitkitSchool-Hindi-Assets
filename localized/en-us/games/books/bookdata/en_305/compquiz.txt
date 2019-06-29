@@ -1,6 +1,6 @@
 fill the blanks
 book_en_305_page_1_cropped.png
-[Bill] is looking for his sports [bat]. 
+[Saurav] is looking for his sports [bat]. 
 clothes
 book_en_305_page_1_1.m4a
 
@@ -16,7 +16,7 @@ Is it in the trunk?, Is it upstairs?, Is it under the bed?, Is it on top of the 
 Is it under the bed? 
 
 multiple choices
-Where was Bill’s sports bat at the end of the book? 
+Where was Saurav’s sports bat at the end of the book? 
 book_en_305_page_8_cropped.png
-With Bill’s sister, With Bill’s animals, At school, At the field
-With Bill’s sister
+With Saurav’s sister, With Saurav’s animals, At school, At the field
+With Saurav’s sister

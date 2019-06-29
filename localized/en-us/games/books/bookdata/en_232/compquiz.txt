@@ -1,11 +1,11 @@
 fill the blanks
 book_en_232_page_1_cropped.png
-Hamisi has a [bicycle].
+Akash has a [bicycle].
 car
 book_en_232_page_1_1.m4a
 
 multiple choices
-Where does Hamisi ride his bicycle?
+Where does Akash ride his bicycle?
 book_en_232_page_2_cropped.png
 Clinic, School, Forest
 School
@@ -18,6 +18,6 @@ en-uk_rides.m4a
 
 fill the blanks
 book_en_232_page_6_cropped.png
-Hamisi [loves] his bicycle.
+Akash [loves] his bicycle.
 hates
 book_en_232_page_6_1.m4a

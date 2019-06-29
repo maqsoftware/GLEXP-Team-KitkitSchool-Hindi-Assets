@@ -5,14 +5,14 @@ moon
 en-uk_moon.m4a
 
 multiple choices
-What did John and June build to get to the moon?
+What did Kartik and Rani build to get to the moon?
 book_en_413_page_6_cropped.png
 An airplane, Rocket boots, A boat, A car
 Rocket boots
 
 fill the blanks
 book_en_413_page_7_cropped.png
-John and June got to the [moon] and rolled and rolled [down] white sand dunes.
+Kartik and Rani got to the [moon] and rolled and rolled [down] white sand dunes.
 sun, swim
 book_en_413_page_7_1.m4a
 

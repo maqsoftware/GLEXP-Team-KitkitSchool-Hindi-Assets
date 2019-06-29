@@ -13,8 +13,8 @@ book_en_418_page_3_quiz.m4a
 multiple choices
 Who helps her cut open the shell?
 book_en_418_page_7_cropped.png
-Her brother., Mama., She does it herself. 
-Mama.
+Her brother., Mother., She does it herself. 
+Mother.
  
 reordering
 Pick a coconut from the tree., Cut open the coconut shell., Drink the sweet coconut water.

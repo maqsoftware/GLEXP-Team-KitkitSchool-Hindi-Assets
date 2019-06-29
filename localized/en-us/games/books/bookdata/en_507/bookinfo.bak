@@ -1,4 +1,4 @@
-title,Tall Tumo,book_en_508_page_0_1.m4a,book_en_508_page_0.png,portrait,audio
+title,Tall Khali,book_en_508_page_0_1.m4a,book_en_508_page_0.png,portrait,audio
 page,1,book_en_508_page_1.png,wordwrap
 paragraph
 sentence,book_en_508_page_1_1.m4a,0
@@ -8,7 +8,7 @@ word,0.668,0.768,was,was.m4a
 word,0.768,1.054,a,a.m4a
 word,1.054,1.462,man,man.m4a
 word,1.462,1.812,named,named.m4a
-word,1.812,2.506,Tumo,tumo.m4a
+word,1.812,2.506,Khali,tumo.m4a
 word,2.506,2.819,who,who.m4a
 word,2.819,3.004,was,was.m4a
 word,3.004,3.629,much,much.m4a
@@ -19,7 +19,7 @@ word,4.61,4.811,his,his.m4a
 word,4.811,5.304,own,own.m4a
 word,5.304,5.70145833333,good.,good.m4a
 sentence,book_en_508_page_1_2.m4a,6.20145833333
-word,0.0,0.596,Tumo’s,tumos.m4a
+word,0.0,0.596,Khali’s,tumos.m4a
 word,0.596,0.886,height,height.m4a
 word,0.886,1.358,made,made.m4a
 word,1.358,2.185,everything,everything.m4a
@@ -66,7 +66,7 @@ word,1.812,2.40660416667,lot.,lot.m4a
 page,2,book_en_508_page_2.png,wordwrap
 paragraph
 sentence,book_en_508_page_2_1.m4a,0
-word,0.0,0.529,Tumo’s,tumos.m4a
+word,0.0,0.529,Khali’s,tumos.m4a
 word,0.529,1.416,bicycle,bicycle.m4a
 word,1.416,1.788,was,was.m4a
 word,1.788,2.369,also,also.m4a
@@ -132,7 +132,7 @@ word,5.057,6.05741666667,laughed.,laughed.m4a
 page,3,book_en_508_page_3.png,wordwrap
 paragraph
 sentence,book_en_508_page_3_1.m4a,0
-word,0.0,0.447,Tumo’s,tumos.m4a
+word,0.0,0.447,Khali’s,tumos.m4a
 word,0.447,1.161,house,house.m4a
 word,1.161,1.471,was,was.m4a
 word,1.471,1.85,too,too.m4a
@@ -194,7 +194,7 @@ page,4,book_en_508_page_4.png,wordwrap
 paragraph
 sentence,book_en_508_page_4_1.m4a,0
 word,0.0,0.404,Even,even.m4a
-word,0.404,1.105,Tumo’s,tumos.m4a
+word,0.404,1.105,Khali’s,tumos.m4a
 word,1.105,1.397,bed,bed.m4a
 word,1.397,1.474,was,was.m4a
 word,1.474,1.791,too,too.m4a
@@ -266,7 +266,7 @@ word,0.0,0.416,Life,life.m4a
 word,0.416,0.605,was,was.m4a
 word,0.605,1.08,hard,hard.m4a
 word,1.08,1.232,for,for.m4a
-word,1.232,1.937,Tumo,tumo.m4a
+word,1.232,1.937,Khali,tumo.m4a
 word,1.937,2.092,and,and.m4a
 word,2.092,2.275,the,the.m4a
 word,2.275,2.946,villagers,villagers.m4a
@@ -303,7 +303,7 @@ word,9.083,9.3720625,it.,it.m4a
 sentence,book_en_508_page_5_3.m4a,14.7206875
 word,0.0,0.474,After,after.m4a
 word,0.474,1.041,"all,",all.m4a
-word,1.041,1.594,Tumo,tumo.m4a
+word,1.041,1.594,Khali,tumo.m4a
 word,1.594,1.795,had,had.m4a
 word,1.795,2.074,not,not.m4a
 word,2.074,2.502,asked,asked.m4a
@@ -337,11 +337,11 @@ word,0.934,1.127,a,a.m4a
 word,1.127,1.916,plan,plan.m4a
 word,1.916,2.175,to,to.m4a
 word,2.175,2.688,help,help.m4a
-word,2.688,3.35966666667,Tumo.,tumo.m4a
+word,2.688,3.35966666667,Khali.,tumo.m4a
 page,6,book_en_508_page_6.png,wordwrap
 paragraph
 sentence,book_en_508_page_6_1.m4a,0
-word,0.0,0.379,Tumo,tumo.m4a
+word,0.0,0.379,Khali,tumo.m4a
 word,0.379,0.807,awoke,awoke.m4a
 word,0.807,0.935,the,the.m4a
 word,0.935,1.186,next,next.m4a
@@ -399,7 +399,7 @@ word,1.396,1.711,the,the.m4a
 word,1.711,2.315,perfect,perfect.m4a
 word,2.315,2.994,size,size.m4a
 word,2.994,3.189,for,for.m4a
-word,3.189,3.85647916667,Tumo.,tumo.m4a
+word,3.189,3.85647916667,Khali.,tumo.m4a
 page,7,book_en_508_page_7.png,wordwrap
 paragraph
 sentence,book_en_508_page_7_1.m4a,0
@@ -409,7 +409,7 @@ word,0.271,0.445,was,was.m4a
 word,0.445,0.76,time,time.m4a
 word,0.76,0.95,to,to.m4a
 word,0.95,1.585,"leave,",leave.m4a
-word,1.585,1.948,Tumo,tumo.m4a
+word,1.585,1.948,Khali,tumo.m4a
 word,1.948,2.209,went,went.m4a
 word,2.209,2.404,to,to.m4a
 word,2.404,2.632,find,find.m4a
@@ -443,7 +443,7 @@ word,0.209,0.332,he,he.m4a
 word,0.332,0.756,sat,sat.m4a
 word,0.756,1.008,on,on.m4a
 word,1.008,1.395,"it,",it.m4a
-word,1.395,1.818,Tumo,tumo.m4a
+word,1.395,1.818,Khali,tumo.m4a
 word,1.818,2.586,found,found.m4a
 word,2.586,2.851,that,that.m4a
 word,2.851,3.133,both,both.m4a
@@ -464,11 +464,11 @@ word,1.285,1.556,the,the.m4a
 word,1.556,2.038,perfect,perfect.m4a
 word,2.038,2.647,size,size.m4a
 word,2.647,2.819,for,for.m4a
-word,2.819,3.4254375,Tumo.,tumo.m4a
+word,2.819,3.4254375,Khali.,tumo.m4a
 page,8,book_en_508_page_8.png,wordwrap
 paragraph
 sentence,book_en_508_page_8_1.m4a,0
-word,0.0,0.382,Tumo,tumo.m4a
+word,0.0,0.382,Khali,tumo.m4a
 word,0.382,0.769,rode,rode.m4a
 word,0.769,0.863,his,his.m4a
 word,0.863,1.172,new,new.m4a
@@ -516,7 +516,7 @@ word,1.971,2.278,were,were.m4a
 word,2.278,2.57,much,much.m4a
 word,2.57,3.25458333333,higher.,higher.m4a
 sentence,book_en_508_page_8_5.m4a,17.6332916667
-word,0.0,0.509,Tumo,tumo.m4a
+word,0.0,0.509,Khali,tumo.m4a
 word,0.509,0.78,could,could.m4a
 word,0.78,1.08,go,go.m4a
 word,1.08,1.403,through,through.m4a
@@ -551,7 +551,7 @@ word,1.011,1.157,to,to.m4a
 word,1.157,1.314,go,go.m4a
 word,1.314,1.465,to,to.m4a
 word,1.465,2.101,"bed,",bed.m4a
-word,2.101,2.533,Tumo,tumo.m4a
+word,2.101,2.533,Khali,tumo.m4a
 word,2.533,2.836,even,even.m4a
 word,2.836,3.216,found,found.m4a
 word,3.216,3.44,a,a.m4a
@@ -570,7 +570,7 @@ word,1.059,1.57,much,much.m4a
 word,1.57,2.33533333333,longer.,longer.m4a
 sentence,book_en_508_page_9_3.m4a,9.99545833333
 word,0.0,0.189,When,when.m4a
-word,0.189,0.605,Tumo,tumo.m4a
+word,0.189,0.605,Khali,tumo.m4a
 word,0.605,0.91,laid,laid.m4a
 word,0.91,1.606,"down,",down.m4a
 word,1.606,1.79,his,his.m4a
@@ -599,7 +599,7 @@ page,10,book_en_508_page_10.png,wordwrap
 paragraph
 sentence,book_en_508_page_10_1.m4a,0
 word,0.0,0.672,Now,now.m4a
-word,0.672,1.105,Tumo,tumo.m4a
+word,0.672,1.105,Khali,tumo.m4a
 word,1.105,1.343,is,is.m4a
 word,1.343,2.228,very,very.m4a
 word,2.228,3.0208125,happy.,happy.m4a
@@ -624,7 +624,7 @@ sentence,book_en_508_page_10_3.m4a,9.73208333333
 word,0.0,0.357,They,they.m4a
 word,0.357,0.737,saw,saw.m4a
 word,0.737,0.986,that,that.m4a
-word,0.986,1.39,Tumo,tumo.m4a
+word,0.986,1.39,Khali,tumo.m4a
 word,1.39,1.677,was,was.m4a
 word,1.677,1.911,having,having.m4a
 word,1.911,2.01,a,a.m4a
@@ -639,7 +639,7 @@ word,4.752,5.011,help,help.m4a
 word,5.011,5.194,him,him.m4a
 word,5.194,5.66839583333,out.,out.m4a
 sentence,book_en_508_page_10_4.m4a,15.9004791667
-word,0.0,0.579,Tumo,tumo.m4a
+word,0.0,0.579,Khali,tumo.m4a
 word,0.579,0.97,will,will.m4a
 word,0.97,1.653,always,always.m4a
 word,1.653,1.882,be,be.m4a
