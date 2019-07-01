@@ -1,5 +1,5 @@
 multiple choices
-Who is looking for her mama? 
+Who is looking for her mother? 
 Neha, Shruti, Sita
 Neha
 
@@ -11,12 +11,12 @@ book_en_342_page_2_1_2_quiz.m4a
 
 fill the blanks
 book_en_342_page_9_cropped.png
-“I have been [looking] for [you] Neha.” said her mama. 
+“I have been [looking] for [you] Neha.” said her mother. 
 found
 book_en_342_page_9_2_1_quiz.m4a
 
 multiple choices
-Where did Neha find mama? 
+Where did Neha find mother? 
 book_en_342_page_9_cropped.png
 Feeding chickens, Feeding pigs, Bathing goats
 Feeding chickens
