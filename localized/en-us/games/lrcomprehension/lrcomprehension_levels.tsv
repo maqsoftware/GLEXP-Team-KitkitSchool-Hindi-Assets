@@ -57,7 +57,7 @@ en-US	8	1	4	multiplechoices		What can fruit be?	What can fruit be?	text	Sweet	Bi
 en-US	8	1	5	title	Story 2									
 en-US	8	1	6	readingonly	Hediye likes to run. She runs fast. She runs near. She runs far. She runs a lot.									
 en-US	8	1	7	multiplechoices		What does Hediye like to do?	What does Hediye like to do?	text	Run	Swim	Sleep		Run	
-en-US	8	1	8	fillintheblank		She runs a lot. 	She runs a lot. 	text	swims	sleeps				
+en-US	8	1	8	fillintheblank		She [runs] a lot. 	She runs a lot. 	text	swims	sleeps				
 en-US	9	1	1	title	Story 1									
 en-US	9	1	2	readingonly	The rat is small. It likes to eat. The rat eats a lot. The rat sleeps a lot too.									
 en-US	9	1	3	fillintheblank		The rat is [small].	The rat is small.	text	large	tall				
@@ -136,7 +136,7 @@ en-US	18	1	2	readingonly	Imara has a sister. Her sister is a doctor. Her sister 
 en-US	18	1	3	fillintheblank		Her [sister] is a doctor.	Her sister is a doctor.	text	brother	father			sister	
 en-US	18	1	4	multiplechoices		Where is she a doctor?	Where is she a doctor?	text	In the city	On a farm	In the ocean		In the city	
 en-US	18	1	5	fillintheblank		Imara likes to visit her sister in the city.	Imara likes to visit her sister in the city.	text	call	forget				
-en-US	18	1	6	title	Story 2									
+en-US	18	1	6	title	Story 2								
 en-US	18	1	7	readingonly	Frog likes to jump. He jumps on the road. He jumps on the tree. He jumps far. Frog jumps high.									
 en-US	18	1	8	multiplechoices		What does Frog like to do?	What does Frog like to do?	text	Jump	Run	Walk		Jump	
 en-US	18	1	9	fillintheblank		He jumps on the [road].	He jumps on the road.	text	water	house				
@@ -170,7 +170,7 @@ en-US	21	1	10	multiplechoices		What is this story about?	What is this story abou
 en-US	22	1	1	title	Story 1									
 en-US	22	1	2	readingonly	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun.									
 en-US	22	1	3	fillintheblank		Tahira has a [big] family.	Tahira has a big family.	text	small	no				
-en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text		Nothing	Study		Play	
+en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text	Nothing	Study	Play	
 en-US	22	1	5	multiplechoices		How do you think Tahira feels?	How do you think Tahira feels?	text	Happy	Sad	Angry		Happy	
 en-US	22	1	6	title	Story 2									
 en-US	22	1	7	readingonly	I see a tree. The tree has a trunk. The trunk helps the tree stand strong. The trunk is brown. The trunk has branches. The branches are brown too. The tree has many leaves. The leaves are green.									

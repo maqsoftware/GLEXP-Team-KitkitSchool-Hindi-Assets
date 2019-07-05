@@ -8,7 +8,7 @@ en-US	2	ChooseSentense	1	A red ball.	l2_redball.png	a red ball		A blue ball.	l2_
 en-US	2	ChooseSentense	2	A green book.	l2_greenbook.png	a green book		A pink book.	l2_pinkbook.png	a pink book		A black book.	l2_blackbook.png	a black book	
 en-US	2	ChoosePicture	3	A brown bear.	l2_brownbear.png	a brown bear		A black bear.	l2_blackbear.png	a black bear		A white bear.	l2_whitebear.png	a white bear	
 en-US	2	ChoosePicture	4	A purple circle.	l2_purplecircle.png	a purple circle		A green star.	l2_greenstar.png	a green star		A purple square.	l3_purplesquare.png	a purple square	
-en-US	2	ChoosePicture	5	Pink balloons.	l2_pinkballoons.png	pink balloons		Blue balloons.	l2_blue balloons.png	blue balloons		Yellow balloons.	l2_yellowballoons.png	yellow balloons	
+en-US	2	ChoosePicture	5	Pink balloons.	l2_pinkballoons.png	pink balloons		Blue balloons.	l2_blueballoons.png	blue balloons		Yellow balloons.	l2_yellowballoons.png	yellow balloons	
 en-US	3	ChoosePicture	1	Three cars.	l3_3cars.png	three cars		Two cars.	l3_2cars.png	two cars		One car.	l3_Car.png	one car	
 en-US	3	ChoosePicture	2	Two pails.	l3_2pails.png	two pails		Four pails.	l3_4pails.png	four pails		Three pails.	l3_3pails.png	three pails	
 en-US	3	ChooseSentense	3	One boy.	l3_1boy.png	one boy		Two boys.	l3_2boys.png	two boys		One girl.	l3_1girl.png	one girl	
@@ -24,7 +24,7 @@ en-US	5	ChooseSentense	2	He looks sad.	l5_hesad.png	he looks sad		He looks sick.
 en-US	5	ChooseSentense	3	The boy is tall.	l5_boytall.png	the boy is tall		The boy is short.	l5_boyshort.png	the boy is short		The boy is sick.	l5_boysick.png	the boy is sick	
 en-US	5	ChoosePicture	4	These boots are dirty.	l5_bootsdirty.png	these boots are dirty		These boots are clean.	l5_bootsclean.png	these boots are clean		This shirt is dirty.	l5_shirtdirty.png	This shirt is dirty	
 en-US	5	ChoosePicture	5	It is sunny.	l5_sunny.png	it is sunny		It is cloudy.	l5_cloudy.png	it is cloudy		It is rainy.	l5_rainy.png	it is rainy	
-en-US	6	ChooseSentense	1	He is a teacher.	l6_heteacher.png	heisateacher		She is a teacher.	l6_sheteacher.png	She is a teacher		He is a doctor.	l6_hedoctor.png	He is a doctor	
+en-US	6	ChooseSentense	1	He is a teacher.	l6_heteacher.png	he is a teacher		She is a teacher.	l6_sheteacher.png	She is a teacher		He is a doctor.	l6_hedoctor.png	He is a doctor	
 en-US	6	ChooseSentense	2	She is a nurse.	l6_shenurse.png	she is a nurse		He is a farmer.	l6_farmer.png	he is a farmer		She is a singer.	l6_shesinger.png	She is a singer	
 en-US	6	ChoosePicture	3	He is a cook.	l6_hecook.png	he is a cook		She is a doctor.	l6_shedoctor.png	she is a doctor		He is a driver.	l6_hedriver.png	He is a driver	
 en-US	6	ChoosePicture	4	It is a potato.	l6_potato.png	it is a potato		It is a tomato.	l6_tomato.png	itisatomato		It is an onion.	l6_onion.png	it is an onion	
@@ -57,8 +57,8 @@ en-US	11	ChoosePicture	5	The girl has green bananas.	l11_girlhasgreenbananas.png
 en-US	12	ChooseSentense	1	He cannot run fast.	l12_hecannotrunfast.png	he cannot run fast		She cannot run fast.	l12_shecannotrunfast.png	She cannot run fast		He can run fast.	l12_hecanrunfast.png	He can run fast	
 en-US	12	ChooseSentense	2	She cannot read well.	l12_shecannotreadwell.png	she cannot read well		She cannot write well.	l12_shecannotwritewell.png	She cannot write well		He cannot read well.	l12_hecannotreadwell.png	He cannot read well	
 en-US	12	ChooseSentense	3	The boy cannot walk now.	l12_boycannotwalk.png	the boy cannot walk now		The boy cannot eat now.	l12_boycannoteat.png	The boy cannot eat now		The girl cannot walk now.	l12_girlcannotwalk.png	The girl cannot walk now	
-en-US	12	ChoosePicture	4	They cannot cook well.	l12_theycannotcookwell.png	they cannot cook well		She can cook well.	l12_shecancookwell.png	She can cook well		He can't cook well.	l12_hecantcookwell.png	He cannot cook well	
-en-US	12	ChoosePicture	5	He can't jump high.	l12_hecantjumphigh.png	he cannot jump high		She can't jump high.	l12_shecantjumphigh.png	She can't jump high		He can jump high.	l12_hecanjumphigh.png	He can jump high	
+en-US	12	ChoosePicture	4	They cannot cook well.	l12_theycannotcookwell.png	they cannot cook well		She can cook well.	l12_shecancookwell.png	She can cook well		He can't cook well.	l12_hecantcookwell.png	He can't cook well	
+en-US	12	ChoosePicture	5	He can't jump high.	l12_hecantjumphigh.png	he can't jump high		She can't jump high.	l12_shecantjumphigh.png	She can't jump high		He can jump high.	l12_hecanjumphigh.png	He can jump high	
 en-US	13	ChooseSentense	1	The cat is in front of the box.	l13_catfrontbox.png	the cat is in front of the box		The cat is behind the box.	l13_catbehindbox.png	The cat is behind the box		The cat is between the boxes.	l13_catbetweenboxes.png	The cat is between the boxes	
 en-US	13	ChooseSentense	2	The lion is behind the tree.	l13_lionbehindtree.png	the lion is behind the tree		The lion is between the trees.	l13_lionbetweentrees.png	The lion is between the trees		The lion is next to the tree.	l13_lionnexttree.png	The lion is next to the tree	
 en-US	13	ChoosePicture	3	The school is in front of the park.	l13_schoolfrontpark.png	the school is in front of the park		The school is next to the park.	l13_schoolnextpark.png	the school is next to the park		The bus stop is in front of the school.	l13_busstopfrontschool.png	The bus stop is in front of the school	
