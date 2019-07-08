@@ -160,42 +160,42 @@ MiniTest_4_2	1	"42001, 42002, 42003, 42004, 42005"
 			42002	image_word	tr__	tree.png				ee	ee^ie^oa
 			42003	soundonly_word					cake	cake	fake^make^cake
 			42004	soundonly_word					nose	nose	hose^nose^rose
-			42005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"hand, house"	"hand, house^bug, ten^jump, fan"
+			42005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"hand, house"	"hand, house^bug, ten^jump, fan"
 											
 MiniTest_4_2	2	"42006, 42007, 42008, 42009, 42010"									
 			42006	image_word	__og	frog.png				fr	fr^pr^br
 			42007	image_word	bl__	blue.png				ue	ee^oo^ue
 			42008	soundonly_word					face	face	pace^face^lace
 			42009	soundonly_word					bowl	bowl	bowl^blow^brown
-			42010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"cat, car"	"vest, door^hot, girl^cat, car"
+			42010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"cat, car"	"vest, door^hot, girl^cat, car"
 											
 MiniTest_4_2	3	"42011, 42012, 42013, 42014, 42015"									
 			42011	image_word	__ack	black.png				bl	pl^fl^bl
 			42012	image_word	st__	star.png				ar	ir^ar^ur
 			42013	soundonly_word					rice	rice	rice^nice^mice
 			42014	soundonly_word					baby	baby	navy^bake^baby
-			42015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"zoo, zebra"	"king, book^zoo, zebra^sad, map"
+			42015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"zoo, zebra"	"king, book^zoo, zebra^sad, map"
 											
 MiniTest_4_3	1	"43001, 43002, 43003, 43004, 43005"									
 			43001	word_word		__eep			sheep	sh	sh^ch^th
 			43002	image_word		milk.png				milk	milk^cherry^bread
 			43003	soundonly_word					goat	goat	gift^boat^goat
-			43004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"under, ugly"	"under, ugly^enter, ink^and, onion"
-			43005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"what, why"	"the, shoe^what, why^chain, shape"
+			43004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"under, ugly"	"under, ugly^enter, ink^and, onion"
+			43005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"what, why"	"the, shoe^what, why^chain, shape"
 											
 MiniTest_4_3	2	"43006, 43007, 43008, 43009, 43010"									
 			43006	image_word		cow.png				cow	cat^frog^cow
 			43007	word_word		__at			chat	ch	ch^wh^sh
 			43008	soundonly_word					flower	flower	fly^flower^plane
-			43009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"idea, ice"	"onion, arm^idea, ice^egg, ant"
-			43010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"choose, chicken"	"white, chair^ship, chat^choose, chicken"
+			43009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"idea, ice"	"onion, arm^idea, ice^egg, ant"
+			43010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"choose, chicken"	"white, chair^ship, chat^choose, chicken"
 											
 MiniTest_4_3	3	"43011, 43012, 43013, 43014, 43015"									
 			43011	word_word		__ip			ship	sh	sh^wh^th
 			43012	image_word		lion.png				lion	lion^tiger^bear
 			43013	soundonly_word					dish	dish	fish^mash^dish
-			43014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"only, old"	"only, old^it, ax^uncle, idea"
-			43015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"this, then"	"what, that^this, then^child, ship"
+			43014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"only, old"	"only, old^it, ax^uncle, idea"
+			43015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"this, then"	"what, that^this, then^child, ship"
 											
 PostTest_4	1	"4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010"									
 			4001	image_word		cat.png				cat	rat^dog^cat
@@ -206,8 +206,8 @@ PostTest_4	1	"4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010"
 			4006	image_word		l8_boyreading.png				read	read^sing^swim
 			4007	image_word		l6_hedoctor.png				doctor	doctor^teacher^farmer
 			4008	soundonly_word					cream	cream	crown^cream^cloud
-			4009	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"gas, girl"	"zebra, salad^door, book^gas, girl"
-			4010	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"water, watch"	"water, watch^vest, bed^quiet, piano"
+			4009	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"gas, girl"	"zebra, salad^door, book^gas, girl"
+			4010	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"water, watch"	"water, watch^vest, bed^quiet, piano"
 											
 PostTest_4	2	"4011, 4012, 4013, 4014, 4015, 4016, 4017, 4018, 4019, 4020"									
 			4011	image_word		mug.png				mug	hug^mug^mat
@@ -218,8 +218,8 @@ PostTest_4	2	"4011, 4012, 4013, 4014, 4015, 4016, 4017, 4018, 4019, 4020"
 			4016	image_word		l8_heswimming.png				swim	read^sing^swim
 			4017	image_word		l6_heteacher.png				teacher	doctor^teacher^farmer
 			4018	soundonly_word					blouse	blouse	flower^yellow^blouse
-			4019	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"jump, juice"	"jump, juice^game, dirty^find, visit"
-			4020	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"color, cube"	"tend, ball^lake, room^color, cube"
+			4019	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"jump, juice"	"jump, juice^game, dirty^find, visit"
+			4020	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"color, cube"	"tend, ball^lake, room^color, cube"
 											
 MiniTest_5_1	1	"51001, 51002, 51003, 51004, 51005"									
 			51001	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			nest	nest	best^pest^nest
@@ -267,29 +267,29 @@ MiniTest_5_3	1	"53001, 53002, 53003, 53004, 53005"
 			53001	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			stick	stick	skick^spick^stick
 			53002	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			father	father	pather^father^fathor
 			53003	soundonly_word					pants	pants	pants^boots^shorts
-			53004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"flood, fly"	"grass, cross^flood, fly^drive, crab"
+			53004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"flood, fly"	"grass, cross^flood, fly^drive, crab"
 			53005	sentence_word		I want to play near _______.			I want to play near the car	the car	the car^at home^the tent
 											
 MiniTest_5_3	2	"53006, 53007, 53008, 53009, 53010"									
 			53006	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			floor	floor	floor^bloor^froor
 			53007	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			dress	dress	bress^dress^dres
 			53008	soundonly_word					shorts	shorts	pants^boots^shorts
-			53009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"black, blow"	"cold, bear^enter, under^black, blow"
+			53009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"black, blow"	"cold, bear^enter, under^black, blow"
 			53010	sentence_word		I want to play _______.			I want to play at home	at home	the car^at home^the tent
 											
 MiniTest_5_3	3	"53011, 53012, 53013, 53014, 53015"									
 			53011	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			money	money	mony^money^monye
 			53012	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			brush	brush	brush^bruch^blush
 			53013	soundonly_word					boots	boots	pants^boots^shorts
-			53014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"shake, shirt"	"shake, shirt^stay, there^blush, snake"
+			53014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"shake, shirt"	"shake, shirt^stay, there^blush, snake"
 			53015	sentence_word		I want to play in _______.			I want to play in the tent	the tent	the car^at home^the tent
 											
 PostTest_5	1	"5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010"									
 			5001	soundonly_word					fish	fish	dish^fish^farm
 			5002	soundonly_word					chair	chair	shop^church^chair
 			5003	soundonly_word					teacher	teacher	teacher^student^classroom
-			5004	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"choose, chick"	"child, that^choose, chick^shape, whale"
-			5005	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"play, plane"	"play, plane^flood, black^small, crab"
+			5004	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"choose, chick"	"child, that^choose, chick^shape, whale"
+			5005	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"play, plane"	"play, plane^flood, black^small, crab"
 			5006	image_word		yellow.png				yellow	white^black^yellow
 			5007	image_word		house.png				house	house^paper^clock
 			5008	sentence_word		Some animals are ______.			some animals are big	big	tall^big^small
@@ -300,8 +300,8 @@ PostTest_5	2	"5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020"
 			5011	soundonly_word					lion	lion	lion^frog^duck
 			5012	soundonly_word					snake	snake	stop^snail^snake
 			5013	soundonly_word					student	student	teahcer^student^classroom
-			5014	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"they, them"	"shoe, chap^what, short^they, them"
-			5015	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"truck, tree"	"dress, cross^truck, tree^blow, clock"
+			5014	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"they, them"	"shoe, chap^what, short^they, them"
+			5015	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"truck, tree"	"dress, cross^truck, tree^blow, clock"
 			5016	image_word		heart.png				heart	heart^grass^stick
 			5017	image_word		river.png				river	mouse^words^river
 			5018	sentence_word		Some animals ______.			some animals walk	walk	walk^swim^fly
@@ -398,63 +398,63 @@ PostTest_6	2	"6011, 6012, 6013, 6014, 6015, 6016, 6017, 6018, 6019, 6020"
 MiniTest_7_1	1	"71001, 71002, 71003, 71004, 71005"									
 			71001	image_sentence		l7_hecandrive.png			He can drive.	He can drive.	He can drive.^She can drive.^He can draw.
 			71002	image_sentence		l5_shirtdirty.png			This shirt is dirty.	This shirt is dirty.	This shoe is dirty.^This shirt is clean.^This shirt is dirty.
-			71003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
-			71004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She has a mango.	She has a mango.^She have a mango.^She having a mango.
+			71003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Leo can run fast.	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
+			71004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She has a mango.	She has a mango.	She has a mango.^She have a mango.^She having a mango.
 			71005	soundonly_image					she met a dolphin	book_en_319_page_6.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
 MiniTest_7_1	2	"71006, 71007, 71008, 71009, 71010"									
 			71006	image_sentence		l6_potato.png			It is a potato.	It is a potato.	It is a tomato.^It is a potato.^These are tomatoes.
 			71007	image_sentence		l5_hesick.png			He looks sick.	He looks sick.	He looks sick.^She looks sick.^He looks happy.
-			71008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Snakes do not have legs.	Snakes do not have legs.^Snakes are not have legs.^Snakes have not legs.
-			71009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They have mangoes.	They have mangoes.^They has mangoes.^They having mangoes.
+			71008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Snakes do not have legs.	Snakes do not have legs.	Snakes do not have legs.^Snakes are not have legs.^Snakes have not legs.
+			71009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They have mangoes.	They have mangoes.	They have mangoes.^They has mangoes.^They having mangoes.
 			71010	soundonly_image					she met a snail	book_en_319_page_7.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
 MiniTest_7_1	3	"71011, 71012, 71013, 71014, 71015"									
 			71011	image_sentence		l6_carrots.png			These are carrots.	These are carrots.	This is not a carrot.^There are onions.^These are carrots.
 			71012	image_sentence		l6_shesinger.png			She is a singer.	She is a singer.	She is a teacher.^She is a singer.^She is a nurse.
-			71013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She does not like dogs.	She does not like dogs.^She are not like dogs.^She not like dogs.
-			71014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	I want a mango.	I want a mango.^I wants a mango.^I wanting a mango.
+			71013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She does not like dogs.	She does not like dogs.	She does not like dogs.^She are not like dogs.^She not like dogs.
+			71014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			I want a mango.	I want a mango.	I want a mango.^I wants a mango.^I wanting a mango.
 			71015	soundonly_image					she sat on her mom	book_en_319_page_10.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
 MiniTest_7_2	1	"72001, 72002, 72003, 72004, 72005"									
 			72001	image_sentence		l8_heeatingsalad.png			He is eating salad.	He is eating salad.	He is eating chicken.^He is eating rice.^He is eating salad.
 			72002	image_sentence		l8_sheswimming.png			She is swimming.	She is swimming.	She is shopping.^He is swimming.^She is swimming.
-			72003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The plant is green.	The plant green.^The plant green is.^The plant is green.
-			72004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They eat fast.	They eats fast.^They eat fast.^They eating fast.
+			72003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The plant is green.	The plant is green.	The plant green.^The plant green is.^The plant is green.
+			72004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They eat fast.	They eat fast.	They eats fast.^They eat fast.^They eating fast.
 			72005	sentence_word		I need _____.			I need a paper	paper	paper^pencil^envelope
 											
 MiniTest_7_2	2	"72006, 72007, 72008, 72009, 72010"									
 			72006	image_sentence		l9_rabbitundertable.png			A rabbit is under the table.	A rabbit is under the table.	A rabbit is on the table.^A rabbit is under the table.^A cat is under the table.
 			72007	image_sentence		l7_hecandrive.png			He can drive.	He can drive.	He can drive.^She can drive.^He can draw.
-			72008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The milk is delicious.	The milk delicious is.^The milk is delicious.^The milk delicious.
-			72009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She runs fast.	She runs fast.^She fast runs.^She running fast.
+			72008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The milk is delicious.	The milk is delicious.	The milk delicious is.^The milk is delicious.^The milk delicious.
+			72009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She runs fast.	She runs fast.	She runs fast.^She fast runs.^She running fast.
 			72010	sentence_word		I need a _____.			I need a pencil	pencil	paper^pencil^envelope
 											
 MiniTest_7_2	3	"72011, 72012, 72013, 72014, 72015"									
 			72011	image_sentence		l9_teachersitschair.png			A teacher sits in the chair.	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			72012	image_sentence		l8_heeatingfish.png			He is eating fish.	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
-			72013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			72014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
+			72013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He has bananas.	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
+			72014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Mary eats many apples.	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
 			72015	sentence_word		I need an _____.			I need an envelope	envelope	paper^pencil^envelope
 											
 MiniTest_7_3	1	"73001, 73002, 73003, 73004, 73005"									
 			73001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			73002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			73003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
+			73003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Mary eats an apple.	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
 			73004	sentence_sentence		"Mouse said, “Please, Lion. ______________”"			"Mouse said, Please, Lion Do not eat me."	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			73005	sentence_sentence		This kitten has _________. 			This kitten has four legs	four legs	four legs^two legs^no legs
 											
 MiniTest_7_3	2	"73006, 73007, 73008, 73009, 73010"									
 			73006	soundonly_image					the girl has green mangoes	l11_girlhasgreenmangoes.png	l11_girlhasgreenbananas.png^l11_girlhasgreenmangoes.png^l11_shehasball.png
 			73007	soundonly_image					excited	emotions_5_cropped_excited.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			73008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He sings a song.	He sings song.^He singing a song.^He sings a song.
+			73008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He sings a song.	He sings a song.	He sings song.^He singing a song.^He sings a song.
 			73009	sentence_sentence		"Mouse said, “Let me go. Someday, ________"""			"Mouse said, Let me go. Someday, I will help you."	I will help you.	Do not eat me.^I will help you.^That is silly.
 			73010	sentence_sentence		These two fish do not have _________. 			These two fish do not have legs	legs	legs^eyes^tails
 											
 MiniTest_7_3	3	"73011, 73012, 73013, 73014, 73015"									
 			73011	soundonly_image					the girl has green bananas	l11_girlhasgreenbananas.png	l11_girlhasgreenbananas.png^l11_girlhasgreenmangoes.png^l11_shehasball.png
 			73012	soundonly_image					angry	emotions_3_cropped_angry.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			73013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They drink milk.	They drink milk.^They milk drink.^They drinking milk.
+			73013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They drink milk.	They drink milk.	They drink milk.^They milk drink.^They drinking milk.
 			73014	sentence_sentence		"Lion said, ""__________"""			"Lion said,that is silly"	That is silly.	Do not eat me.^I will help you.^That is silly.
 			73015	sentence_sentence		These four birds have __________ each.			These four birds have two legs each.	two legs	four legs^two legs^no legs
 											
@@ -465,8 +465,8 @@ PostTest_7	1	"7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010"
 			7004	soundonly_image					the bag is next to the bed	l10_bagnextbed.png	l10_bagonbed.png^l10_bagunderbed.png^l10_bagnextbed.png
 			7005	soundonly_sentence					they are farmers	They are farmers.	He is a farmer.^They are not farmers.^They are farmers.
 			7006	soundonly_sentence					she is not young	She is not young.	She is young.^She is not young.^He is very young.
-			7007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
-			7008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
+			7007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He swims fast.	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
+			7008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The dogs run every day.	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
 			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk.Baby cows eat grass.A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
 			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	"Kelvin and Baba wake up with the sun.Baba drinks chai.Kelvin does, too.Kelvin and baba watch the sun go down"	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
 											
@@ -477,31 +477,31 @@ PostTest_7	2	"7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020"
 			7014	soundonly_image					the birds are on the roof	l10_birdsonroof.png	l10_birdsinsky.png^l10_birdsinnest.png^l10_birdsonroof.png
 			7015	soundonly_sentence					he is at school	He is at school.	He is at home.^He is at school.^I am at school.
 			7016	soundonly_sentence					iam not tall	I am not tall.	I am not tall.^I am tall.^He is not tall.
-			7017	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She runs fast.	She running fast.^She runs fast.^She run fast.
-			7018	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They play a game.	They play a game.^They are play a game.^They plays a game.
+			7017	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She runs fast.	She runs fast.	She running fast.^She runs fast.^She run fast.
+			7018	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They play a game.	They play a game.	They play a game.^They are play a game.^They plays a game.
 			7019	imageseq_sentence		Kelvin and Baba wake up with the sun.		"Kelvin does, too."	"Kelvin and Baba wake up with the sun.Baba washes his face.Kelvin does, too."	Baba washes his face.	Baba washes his face.^Kelvin washes his hands.^They work all day.
 			7020	imageseq_image		book_en_347_page_1.png		book_en_347_page_7.png	Good morning cow! Wake up.some people take care of cows.cows help people work.Cows live in groups just like people do	book_en_347_page_3.png	book_en_347_page_3.png^book_en_347_page_5.png^book_en_347_page_4.png
 											
 MiniTest_8_1	1	"81001, 81002, 81003, 81004, 81005"									
 			81001	image_sentence		l13_lionbetweentrees.png			The lion is between the trees.	The lion is between the trees.	The lion is between the trees.^The lion is in front of the trees.^The lion is behind the trees.
 			81002	soundonly_image					he can't cook well	l12_hecantcookwell.png	l12_shecancookwell.png^l12_theycannotcookwell.png^l12_hecantcookwell.png
-			81003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	It is not sunny today.	It is not sunny today.^It not sunny today.^It not is sunny today.
-			81004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	You have big hands.	You have big hands.^You has big hands.^You are have big hands.
-			81005	soundonly_image					"""???? ?? ??? ?? ??? orange ???? ???? ??????"""	book_en_406_page_3.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			81003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			It is not sunny today.	It is not sunny today.	It is not sunny today.^It not sunny today.^It not is sunny today.
+			81004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			You have big hands.	You have big hands.	You have big hands.^You has big hands.^You are have big hands.
+			81005	soundonly_image					kya aap fish ki tarah orange hona pasand hey	book_en_406_page_3.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 MiniTest_8_1	2	"81006, 81007, 81008, 81009, 81010"									
 			81006	image_sentence		l13_oldmanfrontgirl.png			The old man is in front of the girl.	The old man is in front of the girl.	The old man is in front of the girl.^The old man is behind the girl.^The old man is next to the girl.
 			81007	soundonly_image					she cannot read well	l12_shecannotreadwell.png	l12_hecannotreadwell.png^l12_shecannotreadwell.png^l12_shecannotwritewell.png
-			81008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The boys are not tall.	The boys are not tall.^They boys not tall.^The boys not are tall.
-			81009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She has a long neck.	She has a long neck.^She have a long neck.^She is have a long neck.
-			81010	soundonly_image					???? ?? ??????? ?? ??? ?? ?????? ???? ???? ???????	book_en_406_page_2.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			81008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The boys are not tall.	The boys are not tall.	The boys are not tall.^They boys not tall.^The boys not are tall.
+			81009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She has a long neck.	She has a long neck.	She has a long neck.^She have a long neck.^She is have a long neck.
+			81010	soundonly_image					kya aap oktopas kee tarah aath bhujaen rakhana pasand karenge.	book_en_406_page_2.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 MiniTest_8_1	3	"81011, 81012, 81013, 81014, 81015"									
 			81011	image_sentence		l12_shecannotwritewell.png			She cannot write well.	She cannot write well.	She cannot write well.^She cannot cook well.^She cannot jump well.
 			81012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			81013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	It is not cold today.	It is not cold today.^It not cold today.^It not is cold today.
-			81014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	This is my mouth.	This is my mouth.^This are my mouth.^This am my mouth.
-			81015	soundonly_image					???? ?? ??????? ?? ??? ????? ?? ????? ???? ???????	book_en_406_page_4.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			81013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			It is not cold today.	It is not cold today.	It is not cold today.^It not cold today.^It not is cold today.
+			81014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			This is my mouth.	This is my mouth.	This is my mouth.^This are my mouth.^This am my mouth.
+			81015	soundonly_image					kya aap dolphin kee tarah khelana aur koodana pasand karenge.	book_en_406_page_4.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 MiniTest_8_2	1	"82001, 82002, 82003, 82004, 82005"									
 			82001	soundonly_sentence					I was angry.	I was angry.	I was angry.^I did angry.^I were angry.
@@ -526,21 +526,21 @@ MiniTest_8_2	3	"82011, 82012, 82013, 82014, 82015"
 											
 MiniTest_8_3	1	"83001, 83002, 83003, 83004, 83005"									
 			83001	soundonly_image					the boy wants to be a doctor	l16_hewantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			83002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
+			83002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She is seven years old.	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
 			83003	paragraph_sentence		Etana loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
 			83004	sentence_sentence		He caught _______.			he caught nothing	nothing	nothing^animals^birds
 			83005	sentence_sentence		"Mother says, ""______________"""			mother says you are too dirty	You are too dirty!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	2	"83006, 83007, 83008, 83009, 83010"									
 			83006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			83007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
+			83007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He has three brothers.	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
 			83008	paragraph_sentence		Etana loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
 			83009	sentence_sentence		Masha went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
 			83010	sentence_sentence		"Nia says, ""___________"""			nia says i don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	3	"83011, 83012, 83013, 83014, 83015"									
 			83011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			83012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
+			83012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			My mom likes yellow.	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			83013	paragraph_sentence		Etana loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			83014	sentence_sentence		"He was scared, but he did not _______."			he was scared but he did not give up	give up	go alone^give up^go hunting
 			83015	sentence_sentence		"Nia says, ""___________"""			nia says now i like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
@@ -572,69 +572,69 @@ PostTest_8	2	"8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019, 8011"
 MiniTest_9_1	1	"91001, 91002, 91003, 91004, 91005"									
 			91001	soundonly_image					She is reading under the table.	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91002	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			91003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
+			91003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He is a nurse.	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
 			91004	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
 			91005	imageseq_sentence		Wangari was born in 1940. She grew up on a farm.		"When Wangari was an old woman, she was given the Nobel Peace Prize."	"Wangari was born in 1940.she grew up on a farm.Wangari began the green belt movement.When Wangari was an old woman, she was given the nobel peace prize"	Wangari began the Green Belt movement.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari began the Green Belt movement.
 											
 MiniTest_9_1	2	"91006, 91007, 91008, 91009, 91010"									
 			91006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
-			91008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
+			91008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Being healthy.	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
 			91009	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
 			91010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed that  the things should be fair.Wangari knew that plants and animals are important to our world.Wangari knew that plants and animals are important to our world.Wangari began the green belt movement	Wangari knew that plants and animals are important to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are improtant to our world.
 											
 MiniTest_9_1	3	"91011, 91012, 91013, 91014, 91015"									
 			91011	soundonly_image					she is reading under the tree	l15_shereadundertree.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			91013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
+			91013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Lions don't eat carrots.	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
 			91014	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	Is Rashidi a doctor?				"No, he is not."	"No, he is not.^Yes, he is.^We do not know."
 			91015	imageseq_sentence		Wangari went to university in the United States.		They made the country more green.	Wangari went to university in the United States.She led people to plant trees all across the country.They made the country more green.	She led people to plant trees all across the country.	"She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Wangari was an old woman, she was given the Nobel Peace Prize."
 											
 MiniTest_9_2	1	"92001, 92002, 92003, 92004, 92005"									
 			92001	soundonly_sentence					he doesn't dance	He doesn't dance.	He doesn't dance.^He dances well.^He doesn't sing.
 			92002	soundonly_image					she is helping her dad carry boxes	l17_shehelpdadcarry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			92003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
+			92003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They sell milk together.	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
 			92004	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	Are there many stars in the sky?				"Yes, there are."	"Yes, there are.^No, there are not.^We do not know."
 			92005	paragraph_sentence		"In the morning, Fox went for a walk. He walked _________________________. His stomach rumbled with hunger. He looked all around for something to eat."			In the morning fox went for a walk.He walked until the sun is high.His stomach rumbled with hunger.He looked all around for something to eat.	until the sun is high	until he met a tree^until he found the sun^until the sun is high
 											
 MiniTest_9_2	2	"92006, 92007, 92008, 92009, 92010"									
 			92006	soundonly_sentence					she doesn't like cats	She doesn't like cats.	She doesn't like cats.^She likes cats.^She doesn't have dogs.
 			92007	soundonly_image					she is helping her mom cook dinner	l17_shehelpmomcook.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			92008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
+			92008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He drinks milk every day.	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
 			92009	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	What does Shawan like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
 			92010	paragraph_sentence		He saw some grapes high in a tree. ____________________ How could he get them? Fox reached with his arms. He could almost taste the grapes!			He saw some grapes high in a tree.They must be so sweet!.How could he get them.Gfox reached with his arms.He could almost taste the grapes.	They must be so sweet!	They must be too sour!^They must be so sweet!^They must be grapes!
 											
 MiniTest_9_2	3	"92011, 92012, 92013, 92014, 92015"									
 			92011	soundonly_sentence					they don't eat fish	They don't eat fish.	They don't eat fish.^They are eating fish.^They don't catch frogs.
 			92012	soundonly_image					She is helping her mom dry clothes.	l17_shehelpmomdry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			92013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
+			92013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The van drives down the road.	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
 			92014	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	What does Shawan look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
 			92015	paragraph_sentence		"Fox could not get the grapes by jumping. _______________ Could he find another way? We will never know, because Fox stopped trying. "			Fox could not get the grapes by jumping.He was getting upset.Could he find another way?We would never know.Because fox stopped trying.	He was getting upset.	He was getting happy.^He was getting upset.^It was getting dark.
 											
 MiniTest_9_3	1	"93001, 93002, 93003, 93004, 93005"									
 			93001	soundonly_image					the cat is bigger than the bird	l4_catbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93002	soundonly_image					basket is full of bunches of grapes	l10_grapesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			93003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Are they students?	Are they students?^Are they students.^are they students?
-			93004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
+			93003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Are they students?	Are they students?	Are they students?^Are they students.^are they students?
+			93004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			We had lunch.	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
 			93005	paragraph_sentence		"Cindy was late for school. _________________, but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear."			"Cindy was late for school. , but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear."	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
 											
 MiniTest_9_3	2	"93006, 93007, 93008, 93009, 93010"									
 			93006	soundonly_image					the bird is smaller than the dog	l4_dogbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			93008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
-			93009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They ran fast.	They runs fast.^They runned fast.^They ran fast.
+			93008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Does he like bananas?	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
+			93009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They ran fast.	They ran fast.	They runs fast.^They runned fast.^They ran fast.
 			93010	paragraph_sentence		"Then, a truck passed Cindy. ""_____________,"" Cindy thought. ""I could learn to drive and drive to school."""			"Then, a truck passed Cindy. If only I had a truck, Cindy thought. ""I could learn to drive and drive to school."""	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 MiniTest_9_3	3	"93011, 93012, 93013, 93014, 93015"									
 			93011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93012	soundonly_image					nest is full of three yellow birds	l10_birdsinnest.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			93013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
-			93014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
+			93013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Where is the cat?	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
+			93014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She made a chair.	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
 			93015	paragraph_sentence		"Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. ""_________________,"" Cindy asked herself again. ""I know! I'll take a motorcycle!"" Cindy shouted."			"Cindy's school wasn't near the water though, a boat couldn't take Cindy to school either. How can I get to school, Cindy asked herself again. I know I wiil take a motorcycle, Cindy shouted."	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
 											
 PostTest_9	1	"9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010"									
-			9001	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She is a smart kid.	She is a smart kid.^She is a kid smart kids.^She be a smart kid.
-			9002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The snake moves slowly.	The snake move slowly.^The snakes moves slowly.^The snake moves slowly.
+			9001	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She is a smart kid.	She is a smart kid.	She is a smart kid.^She is a kid smart kids.^She be a smart kid.
+			9002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The snake moves slowly.	The snake moves slowly.	The snake move slowly.^The snakes moves slowly.^The snake moves slowly.
 			9003	soundonly_image					the boy is standing behind chair	l15_boystandbhdchair.png	l15_boystandbhdchair.png^l15_boystandbtwchairs.png^l15_boystandnextchair.png
 			9004	soundonly_image					she is giving the boys milk	l17_shegivingmilk.png	l17_shegivingmilk.png^l17_shegivingbread.png^l17_shegivingwater.png
 			9005	paragraph_sentence		"Every morning, Lucy thinks about the plants she will see on the walk to school. On the way to school, Lucy walks through a field of flowers. She picks a pretty pink flower. ______________________________. The flower smells sweet."			"Every morning, Lucy thinks about the plants she will see on the walk to school. On the way to school, Lucy walks through a field of flowers. She picks a pretty pink flower. Lucy takes a deep breath through her nose . The flower smells sweet."	Lucy takes a deep breath through her nose.	Lucy wll eat some fresh fruit.^Lucy takes away the pink flower.^Lucy takes a deep breath through her nose.
@@ -645,8 +645,8 @@ PostTest_9	1	"9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010"
 			9010	paragraph_sentence	Why did Lion summon Elephant to his log?	"In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. ""You are very large,"" he said. ""You must be careful of the frogs, because they are very small."""			"In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. ""You are very large,"" he said. ""You must be careful of the frogs, because they are very small."""	To tell him to be careful.	To tell him to get a drink.^To tell him to leave the savanna.^To tell him to be careful.
 											
 PostTest_9	2	"9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020"									
-			9011	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He is a tall boy.	He is a tall boys.^He is tall boy.^He is a tall boy.
-			9012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They eat an apple every day.	They eats an apple every day.^They eat an apple every day.^They eat apple every day.
+			9011	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He is a tall boy.	He is a tall boy.	He is a tall boys.^He is tall boy.^He is a tall boy.
+			9012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They eat an apple every day.	They eat an apple every day.	They eats an apple every day.^They eat an apple every day.^They eat apple every day.
 			9013	soundonly_image					the girl wants to go to bed	l16_girlwantsbed.png	l16_girlwantbicycle.png^l16_girlwantsairplane.png^l16_girlwantsbed.png
 			9014	soundonly_image					the oldman is painting the desk white	l17_oldmanpaintingdesk.png	l17_oldmanpaintingdesk.png^l17_youngmanpaintingdesk.png^l17_oldmanpaintingchair.png
 			9015	paragraph_sentence		"Lucy passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. ""Get ripe soon,"" Lucy tells the fruit. ""___________."" Lucy greets the tree at school."			"Lucy passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. ""Get ripe soon,"" Lucy tells the fruit. I am hungry. Lucy greets the tree at school."	I am hungry!	I am not hungry!^I am hungry!^I am very happy!
@@ -701,30 +701,30 @@ SpecialTest_3	2	"30006, 30007, 30008, 30009, 30010"
 SpecialTest_4	1	"40001, 40002, 40003, 40004, 40005"									
 			40001	image_word	_ird	bird.png				b	b^t^q
 			40002	image_word	_un	sun.png				s	c^s^z
-			40003	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"can, cake"	"hat, see^can, cake^girl, wind"
-			40004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"love, lion"	"mug, nut^mane, cane^love, lion"
-			40005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"chair, chain"	"chair, chain^shirt, what^this, phone"
+			40003	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"can, cake"	"hat, see^can, cake^girl, wind"
+			40004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"love, lion"	"mug, nut^mane, cane^love, lion"
+			40005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"chair, chain"	"chair, chain^shirt, what^this, phone"
 											
 SpecialTest_4	2	"40006, 40007, 40008, 40009, 40010"									
 			40006	image_word	_ouse	mouse.png				m	m^r^l
 			40007	image_word	_at	cat.png				c	c^s^z
-			40008	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"jug, jump"	"lake, cake^jug, jump^hen, pen"
-			40009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"tent, toy"	"man, pan^egg, goat^tent, toy"
-			40010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"shine, show"	"chid, then^thin, when^shine, show"
+			40008	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"jug, jump"	"lake, cake^jug, jump^hen, pen"
+			40009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"tent, toy"	"man, pan^egg, goat^tent, toy"
+			40010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"shine, show"	"chid, then^thin, when^shine, show"
 											
 SpecialTest_5	1	"50001, 50002, 50003, 50004, 50005"									
 			50001	word_word		_og			dog	d	f^w^d
 			50002	word_word		sa_			sad	d	n^d^s
-			50003	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"pass, pot"	"gold, cold^pass, pot^king, sing"
-			50004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"wet, wing"	"king, make^tank, pink^wet, wing"
-			50005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"church, chop"	"church, chop^shop, snake^tiger, that"
+			50003	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"pass, pot"	"gold, cold^pass, pot^king, sing"
+			50004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"wet, wing"	"king, make^tank, pink^wet, wing"
+			50005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"church, chop"	"church, chop^shop, snake^tiger, that"
 											
 SpecialTest_5	2	"50006, 50007, 50008, 50009, 50010"									
 			50006	word_word		_ile			pile	p	p^b^v
 			50007	word_word		to_			top	p	m^p ^z
-			50008	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"rain, rat"	"ham, mom^rain, rat^zoo, sea"
-			50009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"made, mice"	"duck, king^walk, jump^made, mice"
-			50010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"sheep, shoes"	"sheep, shoes^cow, chart^why, voice"
+			50008	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"rain, rat"	"ham, mom^rain, rat^zoo, sea"
+			50009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"made, mice"	"duck, king^walk, jump^made, mice"
+			50010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"sheep, shoes"	"sheep, shoes^cow, chart^why, voice"
 											
 SpecialTest_6	1	"60001, 60002, 60003, 60004, 60005"									
 			60001	soundonly_word					nose	nose	nose^mouth^chin
@@ -825,18 +825,18 @@ SpecialTest_12	2	"120006, 120007, 120008, 120009, 120010"
 			120010	sentence_word		I ______ an egg.			I want an egg	want	like^walk ^want
 											
 SpecialTest_13	1	"130001, 130002, 130003, 130004, 130005"									
-			130001	sentence_word		S×æÜ àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙð¢Ð			small' ???? ?? ?????? ??????	big	big^cold^clean
-			130002	sentence_word		'Çð' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			?? ???? ?? ????? ???? ????	night	happy^sun^night
-			130003	sentence_word		'ÅæòÜ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			tall' ???? ?? ?????? ??????	short	fat^short^full
-			130004	sentence_word		'È¸UUUæSÅ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			fast' ???? ?? ?????? ??????	slow	slow^sick^good
-			130005	sentence_word		'ãæòÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			hot' ???? ?? ?????? ??????	cold	dirty^cold^thin
+			130001	sentence_word		S×æÜ àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙð¢Ð			small shabd ka ulta shabd chune	big	big^cold^clean
+			130002	sentence_word		'Çð' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			de shabd ka ulta shabd chune	night	happy^sun^night
+			130003	sentence_word		'ÅæòÜ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			tall shabd ka ulta shabd chune	short	fat^short^full
+			130004	sentence_word		'È¸UUUæSÅ' àæyÎ ·UUUæ ©ËÅæ  àæyÎ ¿éÙðÐ			fast shabd ka ulta shabd chune	slow	slow^sick^good
+			130005	sentence_word		'ãæòÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			hot shabd ka ulta shabd chune	cold	dirty^cold^thin
 											
 SpecialTest_13	2	"130006, 130007, 130008, 130009, 130010"									
-			130006	sentence_word		'çÕ»' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			Big' ???? ?? ?????? ??????	small	small^cold^clean
-			130007	sentence_word		'Ùæ§üÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			Night' ???? ?? ?????? ??????	day	happy^sun^day
-			130008	sentence_word		'àææòÅü' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			short' ???? ?? ?????? ??????	tall	fat^tall^full
-			130009	sentence_word		'SÜô' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			slow' ???? ?? ?????? ??????	fast	fast^sick^good
-			130010	sentence_word		'·UUUUôËÇ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			?????' ???? ?? ?????? ??????	hot	dirty^hot^thin
+			130006	sentence_word		'çÕ»' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			big shabd ka ulta shabd chune	small	small^cold^clean
+			130007	sentence_word		'Ùæ§üÅ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			night shabd ka ulta shabd chune	day	happy^sun^day
+			130008	sentence_word		'àææòÅü' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			short shabd ka ulta shabd chune	tall	fat^tall^full
+			130009	sentence_word		'SÜô' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			slow shabd ka ulta shabd chune	fast	fast^sick^good
+			130010	sentence_word		'·UUUUôËÇ' àæyÎ ·UUUæ ©ËÅæ àæyÎ ¿éÙðÐ			cold shabd ka ulta shabd chune	hot	dirty^hot^thin
 											
 SpecialTest_14	1	"140001, 140002, 140003, 140004, 140005"									
 			140001	soundonly_word					bif	bif	bif^gal^wah
@@ -883,58 +883,58 @@ SpecialTest_16	2	"160006, 160007, 160008, 160009, 160010"
 SpecialTest_17	1	"170001, 170002, 170003, 170004, 170005"									
 			170001	sentence_word		____ are tall.			you are tall	You	you^YoU^You
 			170002	sentence_word		____ like Josh.			I like josh	I	i^I ^iI
-			170003	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
-			170004	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	Birds fly.	Birds fly.^birds fly.^biRds flY.
-			170005	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	This is Ann.	this is ann.^This is Ann.^this is Ann.
+			170003	sentence_sentence		âãè ßævØ ¿éÙðÐ			He is a boy.	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
+			170004	sentence_sentence		âãè ßævØ ¿éÙðÐ			Birds fly.	Birds fly.	Birds fly.^birds fly.^biRds flY.
+			170005	sentence_sentence		âãè ßævØ ¿éÙðÐ			This is Ann.	This is Ann.	this is ann.^This is Ann.^this is Ann.
 											
 SpecialTest_17	2	"170006, 170007, 170008, 170009, 170010"									
 			170006	sentence_word		____ walks.			she walks	She	She ^she ^SHe
 			170007	sentence_word		____ at the sun.			look at the sun	Look	look^looK^Look
-			170008	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	They are full.	they are full.^They are FulL.^They are full.
-			170009	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	Frogs swim.	Frogs swiM.^frogs swim.^Frogs swim.
-			170010	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	This is Tony.	this is tony.^this is Tony.^This is Tony.
+			170008	sentence_sentence		âãè ßævØ ¿éÙðÐ			They are full.	They are full.	they are full.^They are FulL.^They are full.
+			170009	sentence_sentence		âãè ßævØ ¿éÙðÐ			Frogs swim.	Frogs swim.	Frogs swiM.^frogs swim.^Frogs swim.
+			170010	sentence_sentence		âãè ßævØ ¿éÙðÐ			This is Tony.	This is Tony.	this is tony.^this is Tony.^This is Tony.
 											
 SpecialTest_18	1	"180001, 180002, 180003, 180004, 180005"									
 			180001	sentence_word		I ____ little.			I am little	am	am^are^is
 			180002	sentence_word		We ____ fast.			we are fast	are	am^are^is
 			180003	sentence_word		He ____ sick.			he is sick	is	am^are^is
-			180004	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	I am a student.	I am a student.^I are a student.^I is a student.
-			180005	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	You are kind.	You am kind.^You are kind.^You is kind.
+			180004	sentence_sentence		âãè ßævØ ¿éÙðÐ			I am a student.	I am a student.	I am a student.^I are a student.^I is a student.
+			180005	sentence_sentence		âãè ßævØ ¿éÙðÐ			You are kind.	You are kind.	You am kind.^You are kind.^You is kind.
 											
 SpecialTest_18	2	"180006, 180007, 180008, 180009, 180010"									
 			180006	sentence_word		I ____ a girl.			iam a girl	am	am^are^is
 			180007	sentence_word		They ____ big.			they are big	are	am^are^is
 			180008	sentence_word		She ____ happy.			she is happy	is	am^are^is
-			180009	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	He is my teacher.	He am my teacher.^He are my teacher.^He is my teacher.
-			180010	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	We are hungry.	We am hungry.^We are hungry.^We is hungry.
+			180009	sentence_sentence		âãè ßævØ ¿éÙðÐ			He is my teacher.	He is my teacher.	He am my teacher.^He are my teacher.^He is my teacher.
+			180010	sentence_sentence		âãè ßævØ ¿éÙðÐ			We are hungry.	We are hungry.	We am hungry.^We are hungry.^We is hungry.
 											
 SpecialTest_19	1	"190001, 190002, 190003, 190004, 190005"									
 			190001	sentence_word		This is ___________.			this is my bag	my bag	mybag^my Bag^my bag
 			190002	sentence_word		We need __________.			we need a lamp	a lamp	alamp^a lamp^an lamp
 			190003	sentence_word		___________ is on the chair.			the ball is on the chair	The ball	the ball^Theball^The ball
-			190004	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	He walks.	he walks.^Hewalks^He walks.
-			190005	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	I like mangoes.	i like mangoes.^I likemangoes.^I like mangoes.
+			190004	sentence_sentence		âãè ßævØ ¿éÙðÐ			He walks.	He walks.	he walks.^Hewalks^He walks.
+			190005	sentence_sentence		âãè ßævØ ¿éÙðÐ			I like mangoes.	I like mangoes.	i like mangoes.^I likemangoes.^I like mangoes.
 											
 SpecialTest_19	2	"190006, 190007, 190008, 190009, 190010"									
 			190006	sentence_word		They are ___________.			they are his cats	his cats	hiscats^his cats^his Cats
 			190007	sentence_word		A cat is on __________.			a cat is on the box	the box	thebox^the box^the Box
 			190008	sentence_word		__________ is on the box.			a dog is on the box	A dog	a dog^Adog^A dog
-			190009	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	They play.	they play.^Theyplay^They play.
-			190010	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	She can jump high.	she can jump high.^She canjumphigh.^She can jump high.
+			190009	sentence_sentence		âãè ßævØ ¿éÙðÐ			They play.	They play.	they play.^Theyplay^They play.
+			190010	sentence_sentence		âãè ßævØ ¿éÙðÐ			She can jump high.	She can jump high.	she can jump high.^She canjumphigh.^She can jump high.
 											
 SpecialTest_20	1	"200001, 200002, 200003, 200004, 200005"									
 			200001	sentence_word		They are students__			they are students	.	".^?^,"
 			200002	sentence_word		Are they students__			are they students?	?	".^?^,"
 			200003	sentence_word		Where is the cat__			where is the cat?	?	".^?^,"
-			200004	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	He sings.	"He sings^He sings,^He sings."
-			200005	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	Are you full?	"Are you full?^Are you full.^Are you full,"
+			200004	sentence_sentence		âãè ßævØ ¿éÙðÐ			He sings.	He sings.	"He sings^He sings,^He sings."
+			200005	sentence_sentence		âãè ßævØ ¿éÙðÐ			Are you full?	Are you full?	"Are you full?^Are you full.^Are you full,"
 											
 SpecialTest_20	2	"200006, 200007, 200008, 200009, 200010"									
 			200006	sentence_word		We like bananas__			we like bananas	.	".^?^,"
 			200007	sentence_word		Do you like bananas__			do you like bananas?	?	".^?^,"
 			200008	sentence_word		Who is she__			who is she?	?	".^?^,"
-			200009	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	She eats.	"She eats^She eats,^She eats."
-			200010	sentence_sentence		âãè ßævØ ¿éÙðÐ			??? ????? ?????	Is he young?	"Is he young?^Is he young.^Is he young,"
+			200009	sentence_sentence		âãè ßævØ ¿éÙðÐ			She eats.	She eats.	"She eats^She eats,^She eats."
+			200010	sentence_sentence		âãè ßævØ ¿éÙðÐ			Is he young?	Is he young?	"Is he young?^Is he young.^Is he young,"
 											
 SpecialTest_21	1	"210001, 210002, 210003, 210004, 210005"									
 			210001	soundonly_sentence					She is reading under the table.	She is reading under the table.	She is reading under the table.^He is sitting on the table.^She is eating on the chair.
@@ -1179,42 +1179,42 @@ FishTest_5_2	1	"5200001, 5200002, 5200003, 5200004, 5200005"
 			5200002	image_word	tr__	tree.png				ee	ee^ie^oa
 			5200003	soundonly_word					cake	cake	fake^make^cake
 			5200004	soundonly_word					nose	nose	hose^nose^rose
-			5200005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"hand, house"	"hand, house^bug, ten^jump, fan"
+			5200005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"hand, house"	"hand, house^bug, ten^jump, fan"
 											
 FishTest_5_2	2	"5200006, 5200007, 5200008, 5200009, 5200010"									
 			5200006	image_word	__og	frog.png				fr	fr^pr^br
 			5200007	image_word	bl__	blue.png				ue	ee^oo^ue
 			5200008	soundonly_word					face	face	pace^face^lace
 			5200009	soundonly_word					bowl	bowl	bowl^blow^brown
-			5200010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"cat, car"	"vest, door^hot, girl^cat, car"
+			5200010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"cat, car"	"vest, door^hot, girl^cat, car"
 											
 FishTest_5_2	3	"5200011, 5200012, 5200013, 5200014, 5200015"									
 			5200011	image_word	__ack	black.png				bl	pl^fl^bl
 			5200012	image_word	st__	star.png				ar	ir^ar^ur
 			5200013	soundonly_word					rice	rice	rice^nice^mice
 			5200014	soundonly_word					baby	baby	navy^bake^baby
-			5200015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"zoo, zebra"	"king, book^zoo, zebra^sad, map"
+			5200015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"zoo, zebra"	"king, book^zoo, zebra^sad, map"
 											
 FishTest_5_3	1	"5300001, 5300002, 5300003, 5300004, 5300005"									
 			5300001	word_word		__eep			sheep	sh	sh^ch^th
 			5300002	image_word		milk.png				milk	milk^cherry^bread
 			5300003	soundonly_word					goat	goat	gift^boat^goat
-			5300004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"under, ugly"	"under, ugly^enter, ink^and, onion"
-			5300005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"what, why"	"the, shoe^what, why^chain, shape"
+			5300004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"under, ugly"	"under, ugly^enter, ink^and, onion"
+			5300005	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"what, why"	"the, shoe^what, why^chain, shape"
 											
 FishTest_5_3	2	"5300006, 5300007, 5300008, 5300009, 5300010"									
 			5300006	image_word		cow.png				cow	cat^frog^cow
 			5300007	word_word		__at			chat	ch	ch^wh^sh
 			5300008	soundonly_word					flower	flower	fly^flower^plane
-			5300009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"idea, ice"	"onion, arm^idea, ice^egg, ant"
-			5300010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"choose, chicken"	"white, chair^ship, chat^choose, chicken"
+			5300009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"idea, ice"	"onion, arm^idea, ice^egg, ant"
+			5300010	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"choose, chicken"	"white, chair^ship, chat^choose, chicken"
 											
 FishTest_5_3	3	"5300011, 5300012, 5300013, 5300014, 5300015"									
 			5300011	word_word		__ip			ship	sh	sh^wh^th
 			5300012	image_word		lion.png				lion	lion^tiger^bear
 			5300013	soundonly_word					dish	dish	fish^mash^dish
-			5300014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"only, old"	"only, old^it, ax^uncle, idea"
-			5300015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"this, then"	"what, that^this, then^child, ship"
+			5300014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"only, old"	"only, old^it, ax^uncle, idea"
+			5300015	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"this, then"	"what, that^this, then^child, ship"
 											
 FishTest_6_1	1	"6100001, 6100002, 6100003, 6100004, 6100005"									
 			6100001	image_word		cat.png				cat	rat^dog^cat
@@ -1225,8 +1225,8 @@ FishTest_6_1	1	"6100001, 6100002, 6100003, 6100004, 6100005"
 				image_word		l8_boyreading.png				read	read^sing^swim
 FishTest_6_1	2	"6100006, 6100007, 6100008, 6100009, 6100010"		image_word		l6_hedoctor.png				doctor	doctor^teacher^farmer
 			6100006	soundonly_word					cream	cream	crown^cream^cloud
-			6100007	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"gas, girl"	"zebra, salad^door, book^gas, girl"
-			6100008	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"water, watch"	"water, watch^vest, bed^quiet, piano"
+			6100007	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"gas, girl"	"zebra, salad^door, book^gas, girl"
+			6100008	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"water, watch"	"water, watch^vest, bed^quiet, piano"
 			6100009								
 			6100010								
 				image_word		mug.png				mug	hug^mug^mat
@@ -1237,8 +1237,8 @@ FishTest_6_1	3	"6100011, 6100012, 6100013, 6100014, 6100015"		image_word		rain.p
 			6100014	image_word		l8_heswimming.png				swim	read^sing^swim
 			6100015	image_word		l6_heteacher.png				teacher	doctor^teacher^farmer
 				soundonly_word					blouse	blouse	flower^yellow^blouse
-FishTest_6_2	1	"6200001, 6200002, 6200003, 6200004, 6200005"		sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"jump, juice"	"jump, juice^game, dirty^find, visit"
-			6200001	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"color, cube"	"tend, ball^lake, room^color, cube"
+FishTest_6_2	1	"6200001, 6200002, 6200003, 6200004, 6200005"		sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"jump, juice"	"jump, juice^game, dirty^find, visit"
+			6200001	sentence_sentence		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"color, cube"	"tend, ball^lake, room^color, cube"
 			6200002	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			heart	heart	hiert^heart^hart
 			6200003	soundonly_word					play	play	fly^clay^play
 			6200004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
@@ -1262,21 +1262,21 @@ FishTest_6_3	1	"6300001, 6300002, 6300003, 6300004, 6300005"
 			6300001	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			stick	stick	skick^spick^stick
 			6300002	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			father	father	pather^father^fathor
 			6300003	soundonly_word					pants	pants	pants^boots^shorts
-			6300004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"flood, fly"	"grass, cross^flood, fly^drive, crab"
+			6300004	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"flood, fly"	"grass, cross^flood, fly^drive, crab"
 			6300005	sentence_word		I want to play near _______.			I want to play near the car.	the car	the car^at home^the tent
 											
 FishTest_6_3	2	"6300006, 6300007, 6300008, 6300009, 6300010"									
 			6300006	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			floor	floor	floor^bloor^froor
 			6300007	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			dress	dress	bress^dress^dres
 			6300008	soundonly_word					shorts	shorts	pants^boots^shorts
-			6300009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"black, blow"	"cold, bear^enter, under^black, blow"
+			6300009	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"black, blow"	"cold, bear^enter, under^black, blow"
 			6300010	sentence_word		I want to play _______.			I want to play at home.	at home	the car^at home^the tent
 											
 FishTest_6_3	3	"6300011, 6300012, 6300013, 6300014, 6300015"									
 			6300011	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			money	money	mony^money^monye
 			6300012	sentence_word		âãè ¿ØÙ ·UUUUÚðÐ			brush	brush	brush^bruch^blush
 			6300013	soundonly_word					boots	boots	pants^boots^shorts
-			6300014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			??? ????? ????? ?? ???? ????? ?? ??? ???? ???	"shake, shirt"	"shake, shirt^stay, there^blush, snake"
+			6300014	sentence_word		°ðâè ÁôÇ¸è ¿éÙð çÁâ·UUUè ŠßçÙ ç×ÜÌè ãñ àæéLUUUU¥æÌ ·ðUUU ¥ÿæÚ âðÐ			aisee jodee chunen jo pahalee dhvani milthi haiy shuruvat kai akshar sai	"shake, shirt"	"shake, shirt^stay, there^blush, snake"
 			6300015	sentence_word		I want to play in _______.			I want to play in the Tent.	the tent	the car^at home^the tent
 											
 FishTest_7_1	1	"7100001, 7100002, 7100003, 7100004, 7100005"									
@@ -1345,8 +1345,8 @@ FishTest_7_3	3	"7300011, 7300012, 7300013, 7300014, 7300015"
 FishTest_8_1	1	"8100001, 8100002, 8100003, 8100004, 8100005"									
 			8100001	image_sentence		l7_hecandrive.png			he can drive	He can drive.	He can drive.^She can drive.^He can draw.
 			8100002	image_sentence		l5_shirtdirty.png			this shirt is dirty	This shirt is dirty.	This shoe is dirty.^This shirt is clean.^This shirt is dirty.
-			8100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
-			8100004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She has a mango.	She has a mango.^She have a mango.^She having a mango.
+			8100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Leo can run fast.	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
+			8100004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She has a mango.	She has a mango.	She has a mango.^She have a mango.^She having a mango.
 			8100005	soundonly_image					she met a dolphin	book_en_319_page_6.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
 FishTest_8_1	2	"8100006, 8100007, 8100008, 8100009, 8100010"									
@@ -1359,72 +1359,72 @@ FishTest_8_1	2	"8100006, 8100007, 8100008, 8100009, 8100010"
 FishTest_8_1	3	"8100011, 8100012, 8100013, 8100014, 8100015"									
 			8100011	image_sentence		l6_carrots.png			these are carrots	These are carrots.	This is not a carrot.^There are onions.^These are carrots.
 			8100012	image_sentence		l6_shesinger.png			she is a singer	She is a singer.	She is a teacher.^She is a singer.^She is a nurse.
-			8100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She does not like dogs.	She does not like dogs.^She are not like dogs.^She not like dogs.
-			8100014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	I want a mango.	I want a mango.^I wants a mango.^I wanting a mango.
+			8100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She does not like dogs.	She does not like dogs.	She does not like dogs.^She are not like dogs.^She not like dogs.
+			8100014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			I want a mango.	I want a mango.	I want a mango.^I wants a mango.^I wanting a mango.
 			8100015	soundonly_image					she sat on her mom	book_en_319_page_10.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
 FishTest_8_2	1	"8200001, 8200002, 8200003, 8200004, 8200005"									
 			8200001	image_sentence		l8_heeatingsalad.png			he is eating salad	He is eating salad.	He is eating chicken.^He is eating rice.^He is eating salad.
 			8200002	image_sentence		l8_sheswimming.png			she is swimming	She is swimming.	She is shopping.^He is swimming.^She is swimming.
-			8200003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The plant is green.	The plant green.^The plant green is.^The plant is green.
-			8200004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They eat fast.	They eats fast.^They eat fast.^They eating fast.
+			8200003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The plant is green.	The plant is green.	The plant green.^The plant green is.^The plant is green.
+			8200004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They eat fast.	They eat fast.	They eats fast.^They eat fast.^They eating fast.
 			8200005	sentence_word		I need _____.			I need paper	paper	paper^pencil^envelope
 											
 FishTest_8_2	2	"8200006, 8200007, 8200008, 8200009, 8200010"									
 			8200006	image_sentence		l9_rabbitundertable.png			a rabbit is under the table	A rabbit is under the table.	A rabbit is on the table.^A rabbit is under the table.^A cat is under the table.
 			8200007	image_sentence		l7_hecandrive.png			he can drive	He can drive.	He can drive.^She can drive.^He can draw.
-			8200008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The milk is delicious.	The milk delicious is.^The milk is delicious.^The milk delicious.
-			8200009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She runs fast.	She runs fast.^She fast runs.^She running fast.
+			8200008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The milk is delicious.	The milk is delicious.	The milk delicious is.^The milk is delicious.^The milk delicious.
+			8200009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She runs fast.	She runs fast.	She runs fast.^She fast runs.^She running fast.
 			8200010	sentence_word		I need a _____.			I need a pencil	pencil	paper^pencil^envelope
 											
 FishTest_8_2	3	"8200011, 8200012, 8200013, 8200014, 8200015"									
 			8200011	image_sentence		l9_teachersitschair.png			a teacher sits in the chair	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			8200012	image_sentence		l8_heeatingfish.png			he is eating fish	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
-			8200013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			8200014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
+			8200013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He has bananas.	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
+			8200014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Mary eats many apples.	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
 			8200015	sentence_word		I need an _____.			i need an envelope	envelope	paper^pencil^envelope
 											
 FishTest_8_3	1	"8300001, 8300002, 8300003, 8300004, 8300005"									
 			8300001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			8300002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			8300003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
+			8300003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Mary eats an apple.	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
 			8300004	sentence_sentence		"Mouse said, “Please, Lion. ______________”"			"Mouse said, Please, Lion do not eat me."	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			8300005	sentence_sentence		This kitten has _________. 			This kitten has four legs. 	four legs	four legs^two legs^no legs
 											
 FishTest_8_3	2	"8300006, 8300007, 8300008, 8300009, 8300010"									
 			8300006	soundonly_image					the girl has green mangoes	l11_girlhasgreenmangoes.png	l11_girlhasgreenbananas.png^l11_girlhasgreenmangoes.png^l11_shehasball.png
 			8300007	soundonly_image					excited	emotions_5_cropped_excited.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			8300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He sings a song.	He sings song.^He singing a song.^He sings a song.
+			8300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He sings a song.	He sings a song.	He sings song.^He singing a song.^He sings a song.
 			8300009	sentence_sentence		"Mouse said, “Let me go. Someday, ________"""			"Mouse said, Let me go. Someday, ""I will help you""."	I will help you.	Do not eat me.^I will help you.^That is silly.
 			8300010	sentence_sentence		These two fish do not have _________. 			These two fish do not have legs. 	legs	legs^eyes^tails
 											
 FishTest_8_3	3	"8300011, 8300012, 8300013, 8300014, 8300015"									
 			8300011	soundonly_image					the girl has green bananas	l11_girlhasgreenbananas.png	l11_girlhasgreenbananas.png^l11_girlhasgreenmangoes.png^l11_shehasball.png
 			8300012	soundonly_image					angry	emotions_3_cropped_angry.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			8300013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They drink milk.	They drink milk.^They milk drink.^They drinking milk.
+			8300013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They drink milk.	They drink milk.	They drink milk.^They milk drink.^They drinking milk.
 			8300014	sentence_sentence		"Lion said, ""__________"""			"Lion said, ""That is silly""."	That is silly.	Do not eat me.^I will help you.^That is silly.
 			8300015	sentence_sentence		These four birds have __________ each.			These four birds have two legs each.	two legs	four legs^two legs^no legs
 											
 FishTest_9_1	1	"9100001, 9100002, 9100003, 9100004, 9100005"									
 			9100001	image_sentence		l13_lionbetweentrees.png			The lion is between the trees.	The lion is between the trees.	The lion is between the trees.^The lion is in front of the trees.^The lion is behind the trees.
 			9100002	soundonly_image					he can't cook well	l12_hecantcookwell.png	l12_shecancookwell.png^l12_theycannotcookwell.png^l12_hecantcookwell.png
-			9100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	It is not sunny today.	It is not sunny today.^It not sunny today.^It not is sunny today.
-			9100004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	You have big hands.	You have big hands.^You has big hands.^You are have big hands.
-			9100005	soundonly_image					???? ?? ???? ?? ??? ?????? ???? ???? ???????	book_en_406_page_3.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			9100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			It is not sunny today.	It is not sunny today.	It is not sunny today.^It not sunny today.^It not is sunny today.
+			9100004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			You have big hands.	You have big hands.	You have big hands.^You has big hands.^You are have big hands.
+			9100005	soundonly_image					kya aap machhalee kee tarah naarangee hona pasand karenge.	book_en_406_page_3.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 FishTest_9_1	2	"9100006, 9100007, 9100008, 9100009, 9100010"									
 			9100006	image_sentence		l13_oldmanfrontgirl.png			The old man is in front of the girl.	The old man is in front of the girl.	The old man is in front of the girl.^The old man is behind the girl.^The old man is next to the girl.
 			9100007	soundonly_image					she cannot read well	l12_shecannotreadwell.png	l12_hecannotreadwell.png^l12_shecannotreadwell.png^l12_shecannotwritewell.png
-			9100008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The boys are not tall.	The boys are not tall.^They boys not tall.^The boys not are tall.
-			9100009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She has a long neck.	She has a long neck.^She have a long neck.^She is have a long neck.
-			9100010	soundonly_image					???? ?? ??????? ?? ??? ?? ?????? ???? ???? ???????	book_en_406_page_2.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			9100008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The boys are not tall.	The boys are not tall.	The boys are not tall.^They boys not tall.^The boys not are tall.
+			9100009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She has a long neck.	She has a long neck.	She has a long neck.^She have a long neck.^She is have a long neck.
+			9100010	soundonly_image					kya aap oktopas kee tarah aath bhujaen rakhana pasand karenge.	book_en_406_page_2.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 FishTest_9_1	3	"9100011, 9100012, 9100013, 9100014, 9100015"									
 			9100011	image_sentence		l12_shecannotwritewell.png			She cannot write well.	She cannot write well.	She cannot write well.^She cannot cook well.^She cannot jump well.
 			9100012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			9100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	It is not cold today.	It is not cold today.^It not cold today.^It not is cold today.
-			9100014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	This is my mouth.	This is my mouth.^This are my mouth.^This am my mouth.
-			9100015	soundonly_image					???? ?? ??????? ?? ??? ????? ?? ????? ???? ???????	book_en_406_page_4.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
+			9100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			It is not cold today.	It is not cold today.	It is not cold today.^It not cold today.^It not is cold today.
+			9100014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			This is my mouth.	This is my mouth.	This is my mouth.^This are my mouth.^This am my mouth.
+			9100015	soundonly_image					kya aap dolphin kee tarah khelana aur koodana pasand karenge.	book_en_406_page_4.png	book_en_406_page_4.png^book_en_406_page_3.png^book_en_406_page_2.png
 											
 FishTest_9_2	1	"9200001, 9200002, 9200003, 9200004, 9200005"									
 			9200001	soundonly_sentence					I was angry	I was angry.	I was angry.^I did angry.^I were angry.
@@ -1449,21 +1449,21 @@ FishTest_9_2	3	"9200011, 9200012, 9200013, 9200014, 9200015"
 											
 FishTest_9_3	1	"9300001, 9300002, 9300003, 9300004, 9300005"									
 			9300001	soundonly_image					the boy wants to be a doctor	l16_hewantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			9300002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
+			9300002	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She is seven years old.	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
 			9300003	paragraph_sentence		Etana loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
 			9300004	sentence_sentence		He caught _______.			he caught nothing	nothing	nothing^animals^birds
 			9300005	sentence_sentence		"Mother says, ""______________"""			mother says you are too dirty	You are too dirty!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	2	"9300006, 9300007, 9300008, 9300009, 9300010"									
 			9300006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			9300007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
+			9300007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He has three brothers.	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
 			9300008	paragraph_sentence		Etana loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
 			9300009	sentence_sentence		Masha went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
 			9300010	sentence_sentence		"Nia says, ""___________"""			nia says I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	3	"9300011, 9300012, 9300013, 9300014, 9300015"									
 			9300011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
-			9300012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
+			9300012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			My mom likes yellow.	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			9300013	paragraph_sentence		Etana loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			9300014	sentence_sentence		"He was scared, but he did not _______."			he was scared but he did not give up	give up	go alone^give up^go hunting
 			9300015	sentence_sentence		"Nia says, ""___________"""			"nia says ,now I like to wash"	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
@@ -1471,62 +1471,62 @@ FishTest_9_3	3	"9300011, 9300012, 9300013, 9300014, 9300015"
 FishTest_10_1	1	"10100001, 10100002, 10100003, 10100004, 10100005"									
 			10100001	soundonly_image					she is reading under the table	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100002	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			10100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
+			10100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			I have a pencil.	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
 			10100004	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
 			10100005	imageseq_sentence		Wangari was born in 1940. She grew up on a farm.		"When Wangari was an old woman, she was given the Nobel Peace Prize."	"Wangari was born in 1940. She grew up on a farm. Wangari began the Green Belt movement. When Wangari was an old woman, she was given the Nobel Peace Prize."	Wangari began the Green Belt movement.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari began the Green Belt movement.
 											
 FishTest_10_1	2	"10100006, 10100007, 10100008, 10100009, 10100010"									
 			10100006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
-			10100008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
+			10100008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She cannot read well.	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
 			10100009	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
 			10100010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed things should be fair. Wangari knew that plants and animals are important to our world. Wangari began the Green Belt movement.	Wangari knew that plants and animals are improtant to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are improtant to our world.
 											
 FishTest_10_1	3	"10100011, 10100012, 10100013, 10100014, 10100015"									
 			10100011	soundonly_image					she is reading under the tree	l15_shereadundertree.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
-			10100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
+			10100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Lions don't eat carrots.	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
 			10100014	listeningcomp_sentence	"""Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people ,so that they can be healthy. being healthy helps from getting people sick"""	Is Rashidi a doctor?				"No, he is not."	"No, he is not.^Yes, he is.^We do not know."
 			10100015	imageseq_sentence		Wangari went to university in the United States.		They made the country more green.	Wangari went to university in the United States. She led people to plant trees all across the country. They made the country more green. 	She led people to plant trees all across the country.	"She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Wangari was an old woman, she was given the Nobel Peace Prize."
 											
 FishTest_10_2	1	"10200001, 10200002, 10200003, 10200004, 10200005"									
 			10200001	soundonly_sentence					he doesn't dance	He doesn't dance.	He doesn't dance.^He dances well.^He doesn't sing.
 			10200002	soundonly_image					she is helping her dad carry boxes	l17_shehelpdadcarry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			10200003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
+			10200003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			"Yes, there are."	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
 			10200004	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	Are there many stars in the sky?				"Yes, there are."	"Yes, there are.^No, there are not.^We do not know."
 			10200005	paragraph_sentence		"In the morning, Fox went for a walk. He walked _________________________. His stomach rumbled with hunger. He looked all around for something to eat."			"In the morning, Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger. He looked all around for something to eat."	until the sun is high	until he met a tree^until he found the sun^until the sun is high
 											
 FishTest_10_2	2	"10200006, 10200007, 10200008, 10200009, 10200010"									
 			10200006	soundonly_sentence					she doesn't like cats	She doesn't like cats.	She doesn't like cats.^She likes cats.^She doesn't have dogs.
 			10200007	soundonly_image					she is helping her mom cook dinner	l17_shehelpmomcook.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			10200008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
+			10200008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She likes to look at the stars.	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
 			10200009	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	What does Shawan like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
 			10200010	paragraph_sentence		He saw some grapes high in a tree. ____________________ How could he get them? Fox reached with his arms. He could almost taste the grapes!			"He saw some grapes high in a tree. They must be so sweet, How could he get them? Fox reached with his arms. He could almost taste the grapes!"	They must be so sweet!	They must be too sour!^They must be so sweet!^They must be grapes!
 											
 FishTest_10_2	3	"10200011, 10200012, 10200013, 10200014, 10200015"									
 			10200011	soundonly_sentence					they don't eat fish	They don't eat fish.	They don't eat fish.^They are eating fish.^They don't catch frogs.
 			10200012	soundonly_image					she is helping her mom dry clothes	l17_shehelpmomdry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
-			10200013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
+			10200013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The van drives down the road.	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
 			10200014	listeningcomp_sentence	"Shawana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Shawana wants to count all the stars, but there are too many."	What does Shawan look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
 			10200015	paragraph_sentence		"Fox could not get the grapes by jumping. _______________ Could he find another way? We will never know, because Fox stopped trying. "			"Fox could not get the grapes by jumping. He was getting upset, Could he find another way? We will never know, because Fox stopped trying. "	He was getting upset.	He was getting happy.^He was getting upset.^It was getting dark.
 											
 FishTest_10_3	1	"10300001, 10300002, 10300003, 10300004, 10300005"									
 			10300001	soundonly_image					the cat is bigger than the bird	l4_catbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			10300002	soundonly_image					basket is full of bunches of grapes	l10_grapesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			10300003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Are they students?	Are they students?^Are they students.^are they students?
-			10300004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
+			10300003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Are they students?	Are they students?	Are they students?^Are they students.^are they students?
+			10300004	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			We had lunch.	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
 			10300005	paragraph_sentence		"Cindy was late for school. _________________, but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear."			"Cindy was late for school. She ran to catch the bus, but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear."	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
 											
 FishTest_10_3	2	"10300006, 10300007, 10300008, 10300009, 10300010"									
 			10300006	soundonly_image					the bird is smaller than the dog.	l4_dogbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			10300007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			10300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
-			10300009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	They ran fast.	They runs fast.^They runned fast.^They ran fast.
+			10300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Does he like bananas?	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
+			10300009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They ran fast.	They ran fast.	They runs fast.^They runned fast.^They ran fast.
 			10300010	paragraph_sentence		"Then, a truck passed Cindy. ""_____________,"" Cindy thought. ""I could learn to drive and drive to school."""			"Then, a truck passed Cindy. If only I had a truck, Cindy thought. ""I could learn to drive and drive to school."""	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 FishTest_10_3	3	"10300011, 10300012, 10300013, 10300014, 10300015"									
 			10300011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			10300012	soundonly_image					nest is full of three yellow birds	l10_birdsinnest.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
-			10300013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
-			10300014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			??? ??? ????	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
+			10300013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			Where is the cat?	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
+			10300014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She made a chair.	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
 			10300015	paragraph_sentence		"Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. ""_________________,"" Cindy asked herself again. ""I know! I'll take a motorcycle!"" Cindy shouted."			"Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. How can I get to school, Cindy asked herself again. ""I know! I'll take a motorcycle!"" Cindy shouted."	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
