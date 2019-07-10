@@ -623,14 +623,14 @@ MiniTest_9_3	2	93006, 93007, 93008, 93009, 93010
 			93007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			93008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
 			93009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	They ran fast.	They runs fast.^They runned fast.^They ran fast.
-			93010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then, a truck passed Cindy. If only I had a truck, Cindy thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
+			93010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then. a truck passed Cindy. If only I had a truck. Cindy thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 MiniTest_9_3	3	93011, 93012, 93013, 93014, 93015									
 			93011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93012	soundonly_image					nest is full of three yellow birds	l10_birdsinnest.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			93013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
 			93014	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
-			93015	paragraph_sentence		Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. _________________, Cindy asked herself again. I know! I'll take a motorcycle! Cindy shouted.			Cindy's school wasn't near the water though, a boat couldn't take Cindy to school either. How can I get to school, Cindy asked herself again. I know I wiil take a motorcycle, Cindy shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
+			93015	paragraph_sentence		Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. _________________, Cindy asked herself again. I know! I'll take a motorcycle! Cindy shouted.			Cindy's school wasn't near the water though, a boat couldn't take Cindy to school either. How can I get to school.. Cindy asked herself again. I know I will take a motorcycle, Cindy shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
 											
 PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010									
 			9001	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She is a smart kid.	She is a smart kid.^She is a kid smart kids.^She be a smart kid.
@@ -1522,7 +1522,7 @@ FishTest_10_3	2	10300006, 10300007, 10300008, 10300009, 10300010
 			10300007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			10300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
 			10300009	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	They ran fast.	They runs fast.^They runned fast.^They ran fast.
-			10300010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then, a truck passed Cindy. If only I had a truck, Cindy thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
+			10300010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then. a truck passed Cindy. If only I had a truck. Cindy thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 FishTest_10_3	3	10300011, 10300012, 10300013, 10300014, 10300015									
 			10300011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
