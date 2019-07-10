@@ -381,7 +381,7 @@ PostTest_6	1	6001, 6002, 6003, 6004, 6005, 6006, 6007, 6008, 6009, 6010
 			6007	soundonly_sentence					Good morning.	Good morning.	Hello.^Good morning.^Good afternoon.
 			6008	paragraph_sentence	What has no angles?	Let's learn about shapes. A triangle has three sides and three angles. A square has four equal sides and four equal angles. A circle has no angles. It is perfectly round.				A circle.	A triangle.^A square.^A circle.
 			6009	paragraph_sentence	Who milks our cow?	This is our cow. I give our cow water. I give our cow treats. She likes carrots. Father milks our cow every day. We sell some of the milk for money.				Father.	Father.^I.^Our cow.
-			6010	imageseq_sentence		Pomegranates are red.		Papayas are also filled with seeds.	Pomegranates are red.They are full of seeds that taste sweet.Papayas are also filled with seeds.	They are full of seeds that taste sweet	Some fruit grow on trees.^They are full of seeds that taste sweet.^Some guavas are pink, too
+			6010	imageseq_sentence		Pomegranates are red.		Papayas are also filled with seeds.	Pomegranates are red. They are full of seeds that taste sweet. Papayas are also filled with seeds.	They are full of seeds that taste sweet	Some fruit grow on trees.^They are full of seeds that taste sweet.^Some guavas are pink, too
 											
 PostTest_6	2	6011, 6012, 6013, 6014, 6015, 6016, 6017, 6018, 6019, 6020									
 			6011	soundonly_word					sunset	sunset	toilet^helmet^sunset
