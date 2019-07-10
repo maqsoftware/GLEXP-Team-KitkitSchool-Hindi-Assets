@@ -3,7 +3,7 @@ PostTest_1	1	1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010
 			1001	soundonly_word					a	A	B^A^P
 			1002	soundonly_word					h	H	H^K^X
 			1003	soundonly_word					m	M	N^F^M
-			1004	soundonly_word					j	J	J^U^A
+			1004	soundonly_word					ई	E	E^U^A
 			1005	soundonly_word					w	W	Z^W^Q
 			1006	soundonly_word					c	c	y^d^c
 			1007	soundonly_word					f	f	g^f^q
@@ -12,7 +12,7 @@ PostTest_1	1	1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010
 			1010	soundonly_word					t	t	t^s^z
 											
 PostTest_1	2	1011, 1012, 1013, 1014, 1015, 1016, 1017, 1018, 1019, 1020									
-			1011	soundonly_word					z	Z	Z^I^B
+			1011	soundonly_word					ई	E	E^I^B
 			1012	soundonly_word					s	S	G^C^S
 			1013	soundonly_word					d	D	D^B^P
 			1014	soundonly_word					r	R	L^R^U
