@@ -103,7 +103,7 @@ PostTest_5	1	5001, 5002~5003, 5004~5007, 5008~5010, 5011, 5012, 5013, 5014, 5015
 			5004	biggest_and_smallest	biggest	·UUUUõÙ âæ âÕâð ÕÇ¸æ ãñ?	कौन सा सबसे बड़ा है			11~50				
 			5005	biggest_and_smallest	smallest	·UUUUõÙâæ âÕâð ÀôÅæ ãñ?	कौन सा सबसे छोटा है			11~50				
 			5006	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			11~50				
-			5007	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			11~50				
+			5007	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			11~50				
 			5008	missing_number_drag	1	2	ascending			1~50				
 			5009	missing_number_drag	5	3	ascending			1~50	5			
 			5010	missing_number_drag	10	4	descending			1~50	10			
@@ -161,7 +161,7 @@ MiniTest_7_2	1	72001, 72002, 72003, 72004, 72005
 			72001	missing_number_drag	2	4	descending			1~10	2			
 			72002	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
 			72003	operations_drag	20-1~10=?		horizontal			1~10				
-			72004	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			51~99				
+			72004	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~99				
 			72005	word_problem	çÕÜè ·ðUUU Âæâ 2 ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ çÕÜè ·UUUè ÌéÜÙæ ×ð¢ 3 ¥çÏ·UUUU ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ ç·UUUUÌÙð ×æÕüËâ ãñ¢?	बिली के पास २ मार्बल्स हैं। ऑड्रे के पास बिली की तुलना में ३ अधिक मार्बल्स हैं। ऑड्रे के पास कितने मार्बल्स हैं?				5				
 MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005												
 			73001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			71~99				
@@ -172,7 +172,7 @@ MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005
 PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012, 7013												
 			7001	use_magnitude_symbols	51~100	51~100	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें						
 			7002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~100				
-			7003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			51~100				
+			7003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~100				
 			7004	missing_number_drag	3	4	ascending			10~50	3			
 			7005	missing_number_drag	5	3	descending			10~50	5			
 			7006	operations_with_objects	11~19+1~9=?	regroupingtrue				20~30				
@@ -190,7 +190,7 @@ MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005
 			81004	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
 			81005	word_problem	°·UUUU ÂæÙè ·UUUè Å¢·UUUè ×ð¢ 14 ×ÀçÜØæ¡ ãñ¢Ð ·ðUUUÚè Ùð 3 ¥æñÚ ×ÀçÜØæ¡ Å¢·UUUè ×ð¢ ÇæÜè¢Ð Å¢·UUUè ×ð¢ ç·UUUUÌÙè ×ÀçÜØæ¢ ãñ¢?	एक पानी की टंकी में १४ मछलियाँ हैं। केरी ने ३ और मछलियाँ टंकी में डालीं। टंकी में कितनी मछलियां हैं?				17				
 MiniTest_8_2	1	82001, 82002, 82003, 82004, 82005												
-			82001	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			51~100				
+			82001	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~100				
 			82002	missing_number_drag	1	4	ascending			100~500				
 			82003	operations_drag	21~40+11~20=?	regroupingtrue	vertical			30~60				
 			82004	word_problem	¹æÙð ·UUUè ×ðÁ ÂÚ 10 ŒÜðÅð¢ ãñ¢Ð ŒÜðÅô¢ ·UUUè ÌéÜÙæ ×ð¢ 5 ¥çÏ·UUUU Üô» ãñ¢Ð ·éUUUÜ ç·UUUUÌÙð Üô» ãñ¢?	खाने की मेज पर १० प्लेटें हैं। प्लेटों की तुलना में ५ अधिक लोग हैं। कुल कितने लोग हैं?				15				
@@ -202,7 +202,7 @@ MiniTest_8_3	1	83001, 83002, 83003, 83004, 83005
 			83004	word_problem	ÁðÙðÅ ·ðUUU Âæâ 8 â¢ÌÚð ãñ¢ ¥æñÚ àæðÚôÙ ·ðUUU Âæâ 4 â¢ÌÚð ãñ¢Ð ©Ù·ðUUU Âæâ ·éUUUÜ ç×Üæ·UUUUÚ ç·UUUUÌÙð â¢ÌÚð ãñ¢?	जेनेट के पास ८ संतरे हैं और शेरोन के पास ४ संतरे हैं। उनके पास कुल मिलाकर कितने संतरे हैं?				12				
 			83005	word_problem	âñ¢Çè ·UUUè ©×ý 5 âæÜ ãñÐ ç×Øæ âñ¢Çè âð 7 âæÜ ÕÇ¸è ãñÐ ç×Øæ ç·UUUUÌÙè âæÜ ·UUUè ãñ?	सैंडी की उम्र ५ साल है। मिया सैंडी से ७ साल बड़ी है। मिया कितनी साल की है?				12				
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010												
-			8001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			300~700				
+			8001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			300~700				
 			8002	missing_number_drag	1	3	ascending			200~999				
 			8003	missing_number_drag	100	4	ascending			200~999	100			
 			8004	missing_number_drag	100	4	descending			100~500	100			
@@ -248,18 +248,18 @@ SpecialTest_1	1	10001, 10002, 10003, 10004, 10005
 			10001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			1~6	1			
 			10002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			5~10	1			
 			10003	use_magnitude_symbols	1~10	1~10	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें			2			
-			10004	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			1~6	1			
-			10005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			5~10	1			
+			10004	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			1~6	1			
+			10005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			5~10	1			
 SpecialTest_2	1	20001, 20002, 20003, 20004, 20005												
 			20001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			11~50				
 			20002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~99				
 			20003	use_magnitude_symbols	11~50	11~50	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें						
 			20004	use_magnitude_symbols	11~99	11~99	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें						
-			20005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			11~99				
+			20005	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			11~99				
 SpecialTest_3	1	30001, 30002, 30003, 30004, 30005												
 			30001	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			100~500				
 			30002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			100~999				
-			30003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			100~500				
+			30003	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			100~500				
 			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें						
 			30005	use_magnitude_symbols	100~999	100~999	çÚQUUUU SÍæÙ ÖÚð¢Ð	 खाली स्थान भरें						
 SpecialTest_4	1	40001, 40002, 40003, 40004, 40005												
@@ -558,7 +558,7 @@ FishTest_7_3	1	731, 732, 733, 734~735, 736
 			733	operations_drag	11~20-1~9=?	regroupingtrue	vertical			1~19				
 			734	operations_drag	20-1~9=?	regroupingtrue	vertical			11~19				
 			735	operations_drag	20-11~19=?	regroupingtrue	vertical			1~9				
-			736	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			71~99				
+			736	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			71~99				
 FishTest_8_1	1	811, 812~813, 814, 815, 816												
 			811	missing_number_drag	3	4	ascending			1~20	3			
 			812	operations_with_objects	11~19-1~9=?	regroupingtrue				1~9				
@@ -570,7 +570,7 @@ FishTest_8_2	1	821, 822, 823, 824, 825
 			821	missing_number_drag	2	4	descending			1~10	2			
 			822	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
 			823	operations_drag	20-1~10=?		horizontal			1~10				
-			824	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे बड़े से लेकर सबसे छोटे तक के क्रम में संख्या को रखे			51~99				
+			824	compare_number_magnitudes	descending	âÕâð ÕÇ¸ð âð Üð·UUUUÚ âÕâð ÀôÅð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			51~99				
 			825	word_problem	çÕÜè ·ðUUU Âæâ 2 ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ çÕÜè ·UUUè ÌéÜÙæ ×ð¢ 3 ¥çÏ·UUUU ×æÕüËâ ãñ¢Ð ¥æòÇþð ·ðUUU Âæâ ç·UUUUÌÙð ×æÕüËâ ãñ¢?	बिली के पास २ मार्बल्स हैं। ऑड्रे के पास बिली की तुलना में ३ अधिक मार्बल्स हैं। ऑड्रे के पास कितने मार्बल्स हैं?				5				
 FishTest_8_3	1	831, 832, 833, 834, 835												
 			831	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			71~99				
