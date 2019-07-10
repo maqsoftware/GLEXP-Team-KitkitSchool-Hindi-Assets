@@ -1396,7 +1396,7 @@ FishTest_8_3	2	8300006, 8300007, 8300008, 8300009, 8300010
 			8300007	soundonly_image					excited	emotions_5_cropped_excited.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
 			8300008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	He sings a song.	He sings song.^He singing a song.^He sings a song.
 			8300009	sentence_sentence		Mouse said, “Let me go. Someday, ________			Mouse said, Let me go. Someday, I will help you.	I will help you.	Do not eat me.^I will help you.^That is silly.
-			8300010	sentence_sentence		These two fish do not have _________. 			These two fishes do not have legs. 	legs	legs^eyes^tails
+			8300010	sentence_sentence		These two fishes do not have _________. 			These two fishes do not have legs. 	legs	legs^eyes^tails
 											
 FishTest_8_3	3	8300011, 8300012, 8300013, 8300014, 8300015									
 			8300011	soundonly_image					the girl has green bananas	l11_girlhasgreenbananas.png	l11_girlhasgreenbananas.png^l11_girlhasgreenmangoes.png^l11_shehasball.png
