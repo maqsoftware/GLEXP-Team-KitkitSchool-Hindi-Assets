@@ -6,7 +6,7 @@ Yellow
  
 fill the blanks
 book_en_304_page_3_cropped.png
-Kweyu is wearing a [red] [shirt].
+Pranay is wearing a [red] [shirt].
 blue
 book_en_304_page_3_1.m4a
  

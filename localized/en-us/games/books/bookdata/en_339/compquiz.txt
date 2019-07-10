@@ -1,11 +1,11 @@
 fill the blanks
 book_en_339_page_1_cropped.png
-Hamisi [took] a [bus] to the city. 
+Akash [took] a [bus] to the city. 
 motorcycle
 book_en_339_page_1_1.m4a
 
 multiple choices
-What does Hamisi see outside the buildings? 
+What does Akash see outside the buildings? 
 book_en_339_page_2_cropped.png
 Music, Signs, His mom
 Signs
@@ -18,6 +18,6 @@ Police
 
 fill the blanks
 book_en_339_page_7_cropped.png
-[Reading] helped Hamisi [know] what all the buildings were. 
+[Reading] helped Akash [know] what all the buildings were. 
 Dancing 
 book_en_339_page_7_1.m4a

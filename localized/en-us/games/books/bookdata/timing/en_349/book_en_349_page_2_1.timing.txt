@@ -1,6 +1,6 @@
 children,0.0,0.4
 and,0.4,0.6
-Baba,0.6,1.0
+Father,0.6,1.0
 wake,1.0,1.4
 up,1.4,1.6
 with,1.6,1.9

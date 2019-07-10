@@ -1,19 +1,19 @@
 multiple choices
 Who is the story about? 
 book_en_507_page_1_cropped.png
-Tall Tumo, Short Tumo, Tall Tim, Short Tim
-Tall Tumo
+Tall Khali, Short Khali, Tall Tim, Short Tim
+Tall Khali
 
 fill the blanks
 book_en_507_page_4_cropped.png
-Even Tumo’s [bed] was too [short] for him! 
+Even Khali’s [bed] was too [short] for him! 
 tall, bicycle
 book_en_507_page_4_1.m4a
 
 multiple choices
-Why was life hard for Tumo? 
-Tumo was too short for most things., Tumo was too tall for most things., Tumo was scared of everything., Tumo was mean to everyone.
-Tumo was too tall for most things.
+Why was life hard for Khali? 
+Khali was too short for most things., Khali was too tall for most things., Khali was scared of everything., Khali was mean to everyone.
+Khali was too tall for most things.
 
 reordering
-Tumo’s tall height made life difficult for him., The villagers decided to help Tumo., Tumo was very happy after his friends helped him. 
+Khali’s tall height made life difficult for him., The villagers decided to help Khali., Khali was very happy after his friends helped him. 

@@ -1,8 +1,8 @@
-title,Amana Clinic,book_en_344_page_0_1.m4a,book_en_344_page_0,portrait,audio,
+title,Divya Clinic,book_en_344_page_0_1.m4a,book_en_344_page_0,portrait,audio
 page,1,book_en_344_page_1,wordwrap,
 paragraph
 sentence,book_en_344_page_1_1.m4a,0,
-word,0,0.530491,Amana,en-uk_amana.m4a,0.2,
+word,0,0.530491,Divya,en-uk_Divya.m4a,0.2,
 word,0.530491,1.01352,Clinic,en-uk_clinic.m4a,0.2,
 word,1.01352,1.28053,is,en-uk_is.m4a,0.2,
 word,1.28053,1.49678,on,en-uk_on.m4a,0.2,
@@ -68,5 +68,5 @@ paragraph
 sentence,book_en_344_page_8_1.m4a,0,
 word,0,0.316277,I,en-uk_i.m4a,0.2,
 word,0.316277,0.604399,like,en-uk_like.m4a,0.2,
-word,0.604399,1.1167,Amana,en-uk_amana.m4a,0.2,
+word,0.604399,1.1167,Divya,en-uk_Divya.m4a,0.2,
 word,1.1167,1.7678,Clinic.,en-uk_clinic.m4a,0.2,

@@ -1,12 +1,12 @@
 fill the blanks
 book_en_231_page_2_cropped.png
-Neema [wakes] up.
+Priya [wakes] up.
 plays
 book_en_231_page_2_1.m4a
 
 fill the blanks
 book_en_231_page_3_cropped.png
-Neema [washes].
+Priya [washes].
 eats
 book_en_231_page_3_1.m4a
 
@@ -17,4 +17,4 @@ eats
 en-uk_eats.m4a
 
 reordering
-Neema wakes up., Neema goes to school., Neema eats dinner. 
+Priya wakes up., Priya goes to school., Priya eats dinner. 

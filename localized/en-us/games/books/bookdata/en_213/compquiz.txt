@@ -6,7 +6,7 @@ book_en_213_page_1_1.m4a
  
 fill the blanks
 book_en_213_page_3_cropped.png
-Jeff and I go to [school].
+Amit and I go to [school].
 sleep
 book_en_213_page_3_1.m4a
  
