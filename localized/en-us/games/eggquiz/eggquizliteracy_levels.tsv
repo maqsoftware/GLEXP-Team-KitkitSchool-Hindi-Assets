@@ -507,14 +507,14 @@ MiniTest_8_2	1	82001, 82002, 82003, 82004, 82005
 			82001	soundonly_sentence					I was angry.	I was angry.	I was angry.^I did angry.^I were angry.
 			82002	sentence_word		Look at the frogs __________.			look at the frogs on the rock	on the rock	on the rock^in the sky^in the nest
 			82003	sentence_word		This is __________.			this is my bag	my bag	my bag^me bag^I bag.
-			82004	listeningcomp_sentence	Bugs are small. Sometimes. it is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	What is this story about?				It is about bugs.	It is about bugs.^It is about food.^It is about people.
+			82004	listeningcomp_sentence	Bugs are small. Sometimes. It is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	What is this story about?				It is about bugs.	It is about bugs.^It is about food.^It is about people.
 			82005	paragraph_sentence	What does Jabiri like to do?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				He likes to cook.	He likes to cook.^He likes to read.^He likes to jump.
 											
 MiniTest_8_2	2	82006, 82007, 82008, 82009, 82010									
 			82006	soundonly_sentence					he was cute	He was cute.	He was cute.^He were cute.^He did cute.
 			82007	sentence_word		The boy is __________.			the boy is under the table	under the table	under the table^in the room^on the box
 			82008	sentence_word		They are __________.			they are his cats	his cats	his cats^he cats^him cats
-			82009	listeningcomp_sentence	Bugs are small. Sometimes. it is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	Where are bugs?				They are everywhere.	They are everywhere.^They are in the ocean.^We cannot see them.
+			82009	listeningcomp_sentence	Bugs are small. Sometimes. It is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	Where are bugs?				They are everywhere.	They are everywhere.^They are in the ocean.^We cannot see them.
 			82010	paragraph_sentence	Does Jabiri cook with his dad?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				No, he does not.	Yes, he does.^No, he does not.^We do not know.
 											
 MiniTest_8_2	3	82011, 82012, 82013, 82014, 82015									
@@ -578,7 +578,7 @@ MiniTest_9_1	2	91006, 91007, 91008, 91009, 91010
 			91006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
 			91008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
-			91009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people, so that they can be healthy. being healthy helps from getting people sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
+			91009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps from getting people sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
 			91010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed that  the things should be fair. Wangari knew that plants and animals are important to our world. Wangari knew that plants and animals are important to our world. Wangari began the green belt movement	Wangari knew that plants and animals are important to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are improtant to our world.
 											
 MiniTest_9_1	3	91011, 91012, 91013, 91014, 91015									
@@ -1457,34 +1457,34 @@ FishTest_9_3	2	9300006, 9300007, 9300008, 9300009, 9300010
 			9300007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	He has three brothers.	He has three brothers.^He three brothers has.^he has threebrothers
 			9300008	paragraph_sentence		Etana loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
 			9300009	sentence_sentence		Masha went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			9300010	sentence_sentence		Nia says, ___________			nia says I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300010	sentence_sentence		Nia says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	3	9300011, 9300012, 9300013, 9300014, 9300015									
 			9300011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300012	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			9300013	paragraph_sentence		Etana loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			9300014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			9300015	sentence_sentence		Nia says, ___________			nia says ,now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300015	sentence_sentence		Nia says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_10_1	1	10100001, 10100002, 10100003, 10100004, 10100005									
 			10100001	soundonly_image					she is reading under the table	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100002	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			10100003	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
-			10100004	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people, so that they can be healthy. being healthy helps from getting people sick	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
+			10100004	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps from getting people sick	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
 			10100005	imageseq_sentence		Wangari was born in 1940. She grew up on a farm.		When Wangari was an old woman, she was given the Nobel Peace Prize.	Wangari was born in 1940. She grew up on a farm. Wangari began the Green Belt movement. When Wangari was an old woman, she was given the Nobel Peace Prize.	Wangari began the Green Belt movement.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari began the Green Belt movement.
 											
 FishTest_10_1	2	10100006, 10100007, 10100008, 10100009, 10100010									
 			10100006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
 			10100008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
-			10100009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people, so that they can be healthy. being healthy helps from getting people sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
+			10100009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps from getting people sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
 			10100010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed things should be fair. Wangari knew that plants and animals are important to our world. Wangari began the Green Belt movement.	Wangari knew that plants and animals are improtant to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are improtant to our world.
 											
 FishTest_10_1	3	10100011, 10100012, 10100013, 10100014, 10100015									
 			10100011	soundonly_image					she is reading under the tree	l15_shereadundertree.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			10100013	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
-			10100014	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people, so that they can be healthy. being healthy helps from getting people sick	Is Rashidi a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
+			10100014	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps from getting people sick	Is Rashidi a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
 			10100015	imageseq_sentence		Wangari went to university in the United States.		They made the country more green.	Wangari went to university in the United States. She led people to plant trees all across the country. They made the country more green. 	She led people to plant trees all across the country.	She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Wangari was an old woman, she was given the Nobel Peace Prize.
 											
 FishTest_10_2	1	10200001, 10200002, 10200003, 10200004, 10200005									
