@@ -19,25 +19,25 @@ en-US	5	1	image_5_1.jpg	wild cats	725.-1520	wildcats	leopard	298.-944	leopard	li
 en-US	5	2	image_5_2.jpg	birds	719.-914	birds	cock	1250.-368	cock	crow	299.-1479	crow	owl	1250.-1479	owl	goose	299.-368	goose						
 en-US	5	3	image_5_3.jpg	insects	694.-442	insects	bee	1274.-832	bee	fly	394.-1478	fly	ladybug	617.-802	ladybug	butterfly	1249.-1359	butterfly						
 en-US	5	4	image_5_4.jpg	forest	1075.-413	forest	squirrel	299.-1074	squirrel	snake	322.-472	snake	frog	1243.-704	frog	toucan	1295.-1178	toucan						
-en-US	6	1	image_6_1.jpg	sea animals	735.-973	seaanimals	octopus	1054.-465	octopus	dolphin	1043.-1088	dolphin	turtle	254.-465	turtle	starfish	254.-1388	starfish						
+en-US	6	1	image_6_1.jpg	sea animals	735.-973	sea animals	octopus	1054.-465	octopus	dolphin	1043.-1088	dolphin	turtle	254.-465	turtle	starfish	254.-1388	starfish						
 en-US	6	2	image_6_2.jpg	wild animals	1045.-465	wild animals	leopard	1297.-1150	leopard	boar	1060.-950	boar	deer	322.-714	deer	toucan	531.-1479	toucan						
-en-US	6	3	image_6_3.jpg	farm animals	725.-637	farmanimals	hen	1321.-1355	hen	horse	690.-972	horse	sheep	1355.-842	sheep	duck	197.-1255	duck						
+en-US	6	3	image_6_3.jpg	farm animals	725.-637	farm animals	hen	1321.-1355	hen	horse	690.-972	horse	sheep	1355.-842	sheep	duck	197.-1255	duck						
 en-US	6	4	image_6_4.jpg	animals	728.-1480	animals	elephant	1243.-1012	elephant	giraffe	354.-1105	giraffe	buffalo	1188.-490	buffalo	zebra	473.-490	zebra						
 en-US	7	1	image_7_1.jpg	actions	521.-1480	actions	walk	1316.-1295	walk	cry	253.-1149	cry	eat	313.-490	eat	sleep	880.-465	sleep						
 en-US	7	2	image_7_2.jpg	actions	1118.-1509	actions	jump	1358.-686	jump	kick	710.-1042	kick	dance	710.-486	dance	swim	230.-1244	swim						
 en-US	7	3	image_7_3.jpg	sky	301.-1509	sky	bird	787.-586	bird	kite	1280.-832	kite	balloon	346.-832	balloon	airplane	969.-1156	airplane						
 en-US	7	4	image_7_4.jpg	sports	293.-1474	sports	swimming	857.-1168	swimming	running	1263.-443	running	cycling	745.-447	cycling	skiing	375.-1231	skiing						
-en-US	8	1	image_8_1.jpg	actions	320.-1489	actions	read	553.-501	read	write	266.-1184	write	sing	1134.-501	sing	run	1260.-1213	run						
+en-US	8	1	image_8_1.jpg	actions	320.-1489	actions	read	553.-501	reed	write	266.-1184	write	sing	1134.-501	sing	run	1260.-1213	run						
 en-US	8	2	image_8_2.jpg	actions	320.-1489	actions	eat	245.-972	eat	swim	271.-540	swim	kick	1347.-586	kick	play	1105.-1392	play						
 en-US	8	3	image_8_3.jpg	playing	264.-1501	playing	football	243.-834	football	swimming	1118.-1027	swimming	hide-and-seek	1248.-397	hide and seek	reading	693.-397	reading						
-en-US	8	4	image_8_4.jpg	balls	417.-1501	balls	soccer ball	322.-929	soccerball	basketball	1123.-1265	basketball	baseball	1249.-581	baseball	tennis ball	321.-508	tennisball						
+en-US	8	4	image_8_4.jpg	balls	417.-1501	balls	soccer ball	322.-929	soccerball	basketball	1123.-1265	basketball	baseball	1249.-581	baseball	tennis ball	321.-508	tennis ball						
 en-US	9	1	image_9_1.jpg	lion	1106.-1477	lion	teeth	1128.-805	teeth	mane	468.-1291	mane	legs	776.-569	legs									
 en-US	9	2	image_9_2.jpg	rat	1066.-1437	rat	tail	368.-449	tail	whiskers	1214.-1085	whiskers	fur	425.-1085	fur	paw	1214.-449	paw						
 en-US	9	3	image_9_3.jpg	bee	1095.-1442	bee	wing	1231.-871	wing	antenna	249.-808	antenna	head	354.-1171	head	leg	909.-569	leg						
 en-US	9	4	image_9_4.jpg	elephant	298.-1535	elephant	trunk	1209.-1244	trunk	tusk	1302.-674	tusk	back	354.-1171	back	ear	575.-674	ear						
 en-US	10	1	image_10_1.jpg	cooking	713.-1513	cooking	egg	1261.-812	egg	milk	1304.-1176	milk	flour	397.-879	flour	sugar	898.-506	sugar	butter	641.-1154	butter			
 en-US	10	2	image_10_2.jpg	painting	719.-1488	painting	paint	1251.-733	paint	brush	306.-733	brush	roller	367.-1090	roller	painter	1175.-1082	painter						
-en-US	10	3	image_10_3.jpg	fishing	1073.-497	fishing	fish	1162.-772	fish	fishing rod	1226.-1296	fishingrod	pail	309.-1150	pail	fisher	477.-882	fisher						
+en-US	10	3	image_10_3.jpg	fishing	1073.-497	fishing	fish	1162.-772	fish	fishing rod	1226.-1296	fishing rod	pail	309.-1150	pail	fisher	477.-882	fisher						
 en-US	10	4	image_10_4.jpg	football	294.-489	football	goal	918.-1249	goal	goalkeeper	1280.-1011	goalkeeper	kicker	530.-933	kicker	field	1101.-661	field						
 en-US	11	1	image_11_1.jpg	house	1112.-1504	house	window	1245.-1120	window	door	1130.-580	door	roof	492.-1242	roof	yard	430.-606	yard						
 en-US	11	2	image_11_2.jpg	yard	319.-1488	yard	tree	1256.-1272	tree	flower	680.-986	flower	fence	1256.-745	fence	tent	627.-554	tent						
@@ -76,15 +76,15 @@ en-US	19	2	image_19_2.jpg	clothes	280.-1520	clothes	hat	774.-734	hat	shoes	1351.
 en-US	19	3	image_19_3.jpg	rainy day	280.-1520	rainyday	rainboots	400.-517	rainboots	raincoat	712.-851	raincoat	umbrella	791.-1170	umbrella									
 en-US	19	4	image_19_4.jpg	washing	280.-1520	washing	washing machine	1217.-776	washingmachine	basket	273.-594	basket	laundry	436.-1026	laundry									
 en-US	20	1	image_20_1.jpg	feelings	280.-1520	feelings	happy	223.-1010	happy	sad	219.-520	sad	angry	1304.-1294	angry	surprised	1321.-829	surprised						
-en-US	20	2	image_20_2.jpg	feelings	280.-1520	feelings	scared	219.-520	scared	sad	1321.-829	sad	excited	223.-1010	excited	sleepy	1304.-1294	sleepy						
+en-US	20	2	image_20_2.jpg	feelings	280.-1520	feelings	scared	219.-520	skared	sad	1321.-829	sad	excited	223.-1010	excited	sleepy	1304.-1294	sleepy						
 en-US	20	3	image_20_3.jpg	senses	280.-1520	senses	see	1098.-1245	see	hear	1327.-850	hear	smell	1270.-577	smell	taste	301.-1133	taste	touch	296.-698	touch			
 #en-US	20	4	image_20_4.jpg	taste	280.-1520	taste	hot	1333.-1350	hot	cool	284.-1307	cool	sweet	243.-839	sweet	sour	1210.-926	sour						
 en-US	21	1	image_21_1.jpg	food	280.-1520	food	red peper	1216.-777	red peper	ice cream	332.-1244	icecream	lemon	339.-844	lemon	chocolate	1217.-1249	chocolate						
 en-US	21	2	image_21_2.jpg	vegetables	280.-1520	vegetables	carrot	1296.-1025	carrot	eggplant	405.-592	eggplant	pepper	247.-1197	pepper	broccoli	962.-1295	broccoli						
-en-US	21	3	image_21_3.jpg	tropical fruits	280.-1520	tropicalfruits	pomegranate	520.-1263	pomegranate	papaya	1325.-1082	papaya	jackfruit	1176.-475	jackfruit	guava	403.-424	guava						
+en-US	21	3	image_21_3.jpg	tropical fruits	280.-1520	tropicalfruits	pomegranate	520.-1263	pomegranate	papaya	1325.-1082	papaya	jackfruit	1176.-475	jackfruit	guava	403.-424	gwava						
 en-US	21	4	image_21_4.jpg	toys	280.-1520	toys	robot	583.-529	robot	car	383.-997	car	marbles	1249.-1302	marbles	blocks	1256.-603	blocks						
 en-US	22	1	image_22_1.jpg	face	280.-1520	face	eye	258.-1037	eye	nose	1239.-906	nose	mouth	298.-699	mouth									
-en-US	22	2	image_22_2.jpg	face	280.-1520	face	forehead	1323.-1343	forehead	cheek	457.-1027	cheek	chin	1311.-710	chin									
+en-US	22	2	image_22_2.jpg	face	280.-1520	face	forehead	1323.-1343	fore head	cheek	457.-1027	cheek	chin	1311.-710	chin									
 en-US	22	3	image_22_3.jpg	body	280.-1520	body	head	942.-1307	head	shoulders	1055.-1064	shoulders	knees	1139.-803	knees	feet	1157.-540	feet						
 en-US	22	4	image_22_4.jpg	hands	280.-1520	hands	palm	1015.-538	palm	finger	365.-975	finger	nail	1211.-1029	nail	wrist	1127.-1241	wrist						
 en-US	23	1	image_23_1.jpg	playground	280.-1520	playground	slide	1096.-968	slide	swing	1311.-518	swing	seesaw	307.-513	seesaw									
