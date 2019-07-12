@@ -32,7 +32,7 @@ en-US	3	10	The cow/eats	crawls	cow_3_sentence_eats.png	the cow eats
 en-US	4	1	Ayanda/is/a girl		animals_10.png	ayanda is a girl
 en-US	4	2	Bahati/is/a student		good_friends_9_sentence_student.png	bahati is a student
 en-US	4	3	Simo/is/tall		simo_friends_1_sentence_tall.png	simo is tall
-en-US	4	4	Yangu/is/a sister		family_5.png	yangu is a sister
+en-US	4	4	Yangu/has/a sister		family_5.png	yangu has a sister
 en-US	4	5	John/is/a boy		like_1.png	john is a boy
 en-US	4	6	The airplane/is/big		transport_2_cropped_airplane.png	the airplane is big
 en-US	4	7	The plant/is/green		plants_9.png	the plant is green
@@ -71,7 +71,7 @@ en-US	7	9	The tree/is/beautiful	dry	girl_plants_7_sentence_beautiful.png	the tre
 en-US	7	10	The ball/is/red	yellow	ball_1.png	the ball is red
 en-US	8	1	Zizo/eats/fast	swims	like_5.png	zizo eats fast
 en-US	8	2	Jill/runs/fast	flies	good_friends_2_sentence_run.png	jill runs fast
-en-US	8	3	The dog/runs/fast	The bird	night_2_sentence_dogs.png	the dog run fast
+en-US	8	3	The dog/runs/fast	The bird	night_2_sentence_dogs.png	the dog runs fast
 en-US	8	4	Jill/screams/loudly	writes	soap_8.png	jill screams loudly
 en-US	8	5	We/swam/yesterday	sang	simo_friends_15_sentence_swam.png	we swam yesterday
 en-US	8	6	The tree/grows/slowly	The ant	girl_plants_5_sentence_tree.png	the tree grows slowly
@@ -134,7 +134,7 @@ en-US	14	2	Simo/reads/a book/at school	It	simo_friends_12_sentence_schoolread.pn
 en-US	14	3	Jill/plays/a game/alone	play	simo_friends_4_cropped_playball.png	jill plays a game alone
 en-US	14	4	They/sell/milk/together	sells	cow_10_sentence_sellmilk.png	they sell milk together
 en-US	14	5	Bahati/drinks/milk/every day	milks	cow_9_sentence_drinks.png	bahati drinks milk everyday
-en-US	14	6	The/frogs/make/noise/every night	makes	elephant_frogs_4_sentence_frogs_2.png	the frogs make noise everynight
+en-US	14	6	The/frogs/make/noise/every night	makes	elephant_frogs_4_sentence_frogs_2.png	the frogs make noise every night
 en-US	14	7	The/rooster/crows/every morning	crow	sun_9_sentence_rooster.png	the rooster crows every morning
 en-US	14	8	The/sun/shines/brightly	loud	sun_10_sentence_sun.png	the sun shines brightly
 en-US	14	9	The/van/drives/down the road	down road	rats_7.png	the van drives down the road
