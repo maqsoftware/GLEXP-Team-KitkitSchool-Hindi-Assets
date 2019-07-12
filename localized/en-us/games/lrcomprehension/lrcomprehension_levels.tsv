@@ -168,9 +168,9 @@ en-US	21	1	8	multiplechoices		How do rabbits move?	How do rabbits move?	text	The
 en-US	21	1	9	fillintheblank		Rabbits can hop very [fast]. 	Rabbits can hop very [fast]. 	text	slow	high				
 en-US	21	1	10	multiplechoices		What is this story about?	What is this story about?	text	Rabbits	Monkeys	Chickens		Rabbits	
 en-US	22	1	1	title	Story 1									
-en-US	22	1	2	readingonly	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun. 									
-en-US	22	1	3	fillintheblank		Tahira has a [big] family. 	Tahira has a big family. 	text	small	no				
-en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text	Nothing	Study	Play	
+en-US	22	1	2	readingonly	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun.									
+en-US	22	1	3	fillintheblank		Tahira has a [big] family.	Tahira has a big family.	text	small	no				
+en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text	Nothing	Study	Play	Play	
 en-US	22	1	5	multiplechoices		How do you think Tahira feels?	How do you think Tahira feels?	text	Happy	Sad	Angry		Happy	
 en-US	22	1	6	title	Story 2									
 en-US	22	1	7	readingonly	I see a tree. The tree has a trunk. The trunk helps the tree stand strong. The trunk is brown. The trunk has branches. The branches are brown too. The tree has many leaves. The leaves are green. 									
