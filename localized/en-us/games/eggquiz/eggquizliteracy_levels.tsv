@@ -467,8 +467,8 @@ PostTest_7	1	7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010
 			7006	soundonly_sentence					she is not young	She is not young.	She is young.^She is not young.^He is very young.
 			7007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
 			7008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
-			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk.Baby cows eat grass.A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
-			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kelvin and Baba wake up with the sun.Baba drinks chai.Kelvin does, too.Kelvin and baba watch the sun go down	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
+			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk. Baby cows eat grass. A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
+			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kelvin and Baba wake up with the sun. Baba drinks chai. Kelvin does too. Kelvin and baba watch the sun go down.	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
 											
 PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020									
 			7011	sentence_sentence		What's this?			It's a frog.	It's a frog.	I'm good.^He is sad.^It's a frog.
@@ -476,11 +476,11 @@ PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020
 			7013	soundonly_image					she stands next to the tree	l9_shestandtree.png	l9_shestandtree.png^l9_theystandtree.png^l9_hestandtree.png
 			7014	soundonly_image					the birds are on the roof	l10_birdsonroof.png	l10_birdsinsky.png^l10_birdsinnest.png^l10_birdsonroof.png
 			7015	soundonly_sentence					he is at school	He is at school.	He is at home.^He is at school.^I am at school.
-			7016	soundonly_sentence					iam not tall	I am not tall.	I am not tall.^I am tall.^He is not tall.
+			7016	soundonly_sentence					i am not tall	I am not tall.	I am not tall.^I am tall.^He is not tall.
 			7017	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She runs fast.	She running fast.^She runs fast.^She run fast.
 			7018	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	They play a game.	They play a game.^They are play a game.^They plays a game.
-			7019	imageseq_sentence		Kelvin and Baba wake up with the sun.		Kelvin does, too.	Kelvin and Baba wake up with the sun.Baba washes his face.Kelvin does, too.	Baba washes his face.	Baba washes his face.^Kelvin washes his hands.^They work all day.
-			7020	imageseq_image		book_en_347_page_1.png		book_en_347_page_7.png	Good morning cow! Wake up.some people take care of cows.cows help people work.Cows live in groups just like people do	book_en_347_page_3.png	book_en_347_page_3.png^book_en_347_page_5.png^book_en_347_page_4.png
+			7019	imageseq_sentence		Kelvin and Baba wake up with the sun.		Kelvin does too.	Kelvin and Baba wake up with the sun. Baba washes his face. Kelvin does too.	Baba washes his face.	Baba washes his face.^Kelvin washes his hands.^They work all day.
+			7020	imageseq_image		book_en_347_page_1.png		book_en_347_page_7.png	Good morning cow! Wake up. Some people take care of cows. Cows help people work. Cows live in groups just like people do	book_en_347_page_3.png	book_en_347_page_3.png^book_en_347_page_5.png^book_en_347_page_4.png
 											
 MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005									
 			81001	image_sentence		l13_lionbetweentrees.png			The lion is between the trees.	The lion is between the trees.	The lion is between the trees.^The lion is in front of the trees.^The lion is behind the trees.
