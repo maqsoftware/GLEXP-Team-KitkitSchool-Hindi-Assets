@@ -115,7 +115,7 @@ en-US	15	1	7	fillintheblank		Trees can be tall and [short]. 	Trees can be tall a
 en-US	15	1	8	multiplechoices		What is this story about?	What is this story about?	text	Trees	Animals	People		Trees	
 en-US	16	1	1	title	Story 1									
 en-US	16	1	2	readingonly	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 									
-en-US	16	1	3	multiplechoices		What does Jabiri like to do?	What does Jabiri like to do?	text	Cook	Clean	Walk		Trees	
+en-US	16	1	3	multiplechoices		What does Jabiri like to do?	What does Jabiri like to do?	text	Cook	Clean	Walk		Cook	
 en-US	16	1	4	fillintheblank		He cooks with his [mom]. 	He cooks with his mom. 	text	dad	grandfather			mom	
 en-US	16	1	5	multiplechoices		What do they cook for their family?	What do they cook for their family?	text	Dinner	Breakfast	Bread		Dinner	
 en-US	16	1	6	title	Story 2									
@@ -135,7 +135,7 @@ en-US	18	1	1	title	Story 1
 en-US	18	1	2	readingonly	Imara has a sister. Her sister is a doctor. Her sister is thirty years old. She is a doctor in the city. Imara likes to visit her sister in the city. 									
 en-US	18	1	3	fillintheblank		Her [sister] is a doctor. 	Her sister is a doctor. 	text	brother	father			sister	
 en-US	18	1	4	multiplechoices		Where is she a doctor?	Where is she a doctor?	text	In the city	On a farm	In the ocean		In the city	
-en-US	18	1	5	fillintheblank		Imara likes to visit her sister in the city. 	Imara likes to visit her sister in the city. 	text	call	forget				
+en-US	18	1	5	fillintheblank		Imara likes to [visit] her sister in the city. 	Imara likes to visit her sister in the city. 	text	call	forget			visit	
 en-US	18	1	6	title	Story 2								
 en-US	18	1	7	readingonly	Frog likes to jump. He jumps on the road. He jumps on the tree. He jumps far. Frog jumps high. 									
 en-US	18	1	8	multiplechoices		What does Frog like to do?	What does Frog like to do?	text	Jump	Run	Walk		Jump	
@@ -170,15 +170,15 @@ en-US	21	1	10	multiplechoices		What is this story about?	What is this story abou
 en-US	22	1	1	title	Story 1									
 en-US	22	1	2	readingonly	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun.									
 en-US	22	1	3	fillintheblank		Tahira has a [big] family.	Tahira has a big family.	text	small	no				
-en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text	Nothing	Study	Play	Play	
+en-US	22	1	4	multiplechoices		What does Tahira like to do with her brothers and sisters?	What does Tahira like to do with her brothers and sisters?	text	Nothing	Study	Play		Play	
 en-US	22	1	5	multiplechoices		How do you think Tahira feels?	How do you think Tahira feels?	text	Happy	Sad	Angry		Happy	
 en-US	22	1	6	title	Story 2									
 en-US	22	1	7	readingonly	I see a tree. The tree has a trunk. The trunk helps the tree stand strong. The trunk is brown. The trunk has branches. The branches are brown too. The tree has many leaves. The leaves are green. 									
 en-US	22	1	8	multiplechoices		What is this story about?	What is this story about?	text	A tree	A mouse	A lion		A tree	
-en-US	22	1	9	fillintheblank		The trunk helps the tree stand strong. 	The trunk helps the tree stand strong. 	text	weak	shorter				
+en-US	22	1	9	fillintheblank		The trunk helps the tree stand [strong]. 	The trunk helps the tree stand strong. 	text	weak	shorter				
 en-US	22	1	10	multiplechoices		What are some parts of the tree?	What are some parts of the tree?	text	The trunk and branches	The door and window	The basket and food		The trunk and branches	
 en-US	23	1	1	title	Story 1									
-en-US	23	1	2	readingonly	Rashidi is a nurse. He helps people when they are sick. He helps them feel better. He works with doctors. He helps doctor doctors. Rashidi is a very good nurse. He loves his job. 									
+en-US	23	1	2	readingonly	Rashidi is a nurse. He helps people when they are sick. He helps them feel better. He works with doctors. He helps doctor . Rashidi is a very good nurse. He loves his job. 									
 en-US	23	1	3	multiplechoices		What is Rashidi’s job?	What is Rashidi’s job?	text	A nurse	A teacer	A police office		A nurse	
 en-US	23	1	4	multiplechoices		Who does Rashidi help?	Who does Rashidi help?	text	People when they are sick	People when they are healthy	No one		People when they are sick	
 en-US	23	1	5	multiplechoices		Who does Rashidi work with?	Who does Rashidi work with?	text	Doctors	Police officers	Teachers		Doctors	
@@ -288,7 +288,7 @@ en-US	33	1	9	multiplechoices		How are coconuts and mangoes the same?	How are coc
 en-US	33	1	10	fillintheblank		Coconuts and mangoes are [also] different. 	Coconuts and mangoes are also different. 	text	never	not				
 en-US	34	1	1	title	Story 1									
 en-US	34	1	2	readingonly	I like to swim. I like to swim in the ocean. I like to swim in the river. I like to swim in the lake. I do not like to run. I can swim for hours. I never get tired when I swim. I feel very tired after I run. I like to swim more than run. 									
-en-US	34	1	3	multiplechoices		What does she like to do?	What does she like to do?	text	Swim	Walk	Fly		Swim. 	
+en-US	34	1	3	multiplechoices		What does she like to do?	What does she like to do?	text	Swim	Walk	Fly		Swim 	
 en-US	34	1	4	multiplechoices		Where does she like to swim?	Where does she like to swim?	text	"In the ocean, the river and the lake"	In the ocean only	In the mud		"In the ocean, the river and the lake"	
 en-US	34	1	5	fillintheblank		I do not like to [run]. 	I do not like to run. 	text	swim	fly				
 en-US	34	1	6	title	Story 2									
@@ -324,7 +324,7 @@ en-US	37	1	5	fillintheblank		His brother looks [good] in his best red shirt too.
 en-US	37	1	6	title	Story 2									
 en-US	37	1	7	readingonly	I go to school with my friends. My friends and I do many things at school. I read books with my friends. I tell jokes with my friends. I play sports with my friends. I eat lunch with my friends. I walk home with my friends. I say goodbye to my friends. I can’t wait to see my friends again tomorrow!									
 en-US	37	1	8	fillintheblank		I go to [school] with my friends. 	I go to school with my friends. 	text	hospital	market				
-en-US	37	1	9	multiplechoices		What do they do after school?	What do they do after school?	text	Walk home and say goodbye	Walk to the market	Run to the forest		Walk home and say goodbye. 	
+en-US	37	1	9	multiplechoices		What do they do after school?	What do they do after school?	text	Walk home and say goodbye	Walk to the market	Run to the forest		Walk home and say goodbye 	
 en-US	37	1	10	multiplechoices		Why is she happy for tomorrow?	Why is she happy for tomorrow?	text	To see her friends again	To see her teacher again	To go to the store		To see her friends again	
 en-US	38	1	1	title	Story 1									
 en-US	38	1	2	readingonly	Chiku has a big sister. She is two years older than Chiku. Her sister helps teach Chiku many things. She teaches her how to do math. She teaches her how to read. She teaches her how to play sports. Chiku has many teachers. But she likes her sister the most. 									
