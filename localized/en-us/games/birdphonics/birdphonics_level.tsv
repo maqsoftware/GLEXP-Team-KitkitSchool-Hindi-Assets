@@ -57,13 +57,13 @@ en-US	10	1	1	d_sound.m4a	t_sound.m4a	duck	duck.m4a	blue	1	top	top.m4a	red	1	tea	
 en-US	10	1	2	z_sound.m4a	s_sound.m4a	zip	zip.m4a	blue	1	sea	sea.m4a	red	1	sad	sad.m4a	red	1	sell	sell.m4a	red	1
 en-US	10	1	3	p_sound.m4a	b_sound.m4a	pet	pet.m4a	blue	1	bat	bat.m4a	red	1	bear	bear.m4a	red	1	bag	bag.m4a	red	1
 en-US	10	2	1	h_sound.m4a	k_sound.m4a	hill	hill.m4a	blue	1	can	can.m4a	red	1	cold	cold.m4a	red	1	key	key.m4a	red	1
-en-US	10	2	2	l_sound.m4a	m_sound.m4a	leg	leg.m4a	blue	1	mad	mad.m4a	red	1	mom	mom.m4a	red	1	map	map.m4a	red	1
+en-US	10	2	2	l_sound.m4a	m_sound.m4a	leg	leg.m4a	blue	1	mad	mad.m4a	red	1	man	mom.m4a	red	1	map	map.m4a	red	1
 en-US	10	2	3	p_sound.m4a	f_sound.m4a	park	park.m4a	blue	1	fan	fan.m4a	red	1	phone	phone.m4a	red	1,2	far	far.m4a	red	1
 en-US	11	1	1	n_sound.m4a	l_sound.m4a	nose	nose.m4a	blue	1	not	not.m4a	blue	1	like	like.m4a	red	1	leaf	leaf.m4a	red	1
 en-US	11	1	2	v_sound.m4a	b_sound.m4a	van	van.m4a	blue	1	bad	bad.m4a	red	1	bike	bike.m4a	red	1	be	be.m4a	red	1
 en-US	11	1	3	j_sound.m4a	g_sound.m4a	jet	jet.m4a	blue	1	gum	gum.m4a	red	1	gold	gold.m4a	red	1	goat	goat.m4a	red	1
 en-US	11	2	1	q_sound.m4a	p_sound.m4a	quiz	quiz.m4a	blue	1	pass	pass.m4a	red	1	pot	pot.m4a	red	1	pin	pin.m4a	red	1
-en-US	11	2	2	k_sound.m4a	ch.m4a	coat	coat.m4a	blue	1	check	check.m4a	red	1	chest	chest.m4a	red	1,2	chop	chop.m4a	red	1,2
+en-US	11	2	2	k_sound.m4a	ch.m4a	coat	coat.m4a	blue	1	check	check.m4a	red	1,2	chest	chest.m4a	red	1,2	chop	chop.m4a	red	1,2
 en-US	11	2	3	bl.m4a	fl.m4a	blouse	blouse.m4a	blue	1,2	fly	fly.m4a	red	1,2	flag	flag.m4a	red	1,2	floor	floor.m4a	red	1,2
 en-US	12	1	1	t_sound.m4a	th.m4a	tent	tent.m4a	blue	1	the	the.m4a	red	1,2	they	they.m4a	red	1,2	this	this.m4a	red	1,2
 en-US	12	1	2	k_sound.m4a	ch.m4a	cave	cave.m4a	blue	1	chair	chair.m4a	red	1,2	cheek	cheek.m4a	red	1,2	child	child.m4a	red	1,2
@@ -72,7 +72,7 @@ en-US	12	2	1	s_sound.m4a	sh.m4a	sing	sing.m4a	blue	1	sheep	sheep.m4a	red	1,2	she
 en-US	12	2	2	th.m4a	t_sound.m4a	that	that.m4a	blue	1,2	tall	tall.m4a	red	1	team	team.m4a	red	1	test	test.m4a	red	1
 en-US	12	2	3	k_sound.m4a	s_sound.m4a	card	card.m4a	blue	1	circle	circle.m4a	red	1	sun	sun.m4a	red	1	save	save.m4a	red	1
 en-US	13	1	1	p_sound.m4a	t_sound.m4a	map	map.m4a	blue	3	cap	cap.m4a	blue	3	mat	mat.m4a	red	3	cat	cat.m4a	red	3
-en-US	13	1	2	n_sound.m4a	m_sound.m4a	hen	hen.m4a	blue	3	pan	pan.m4a	blue	3	ham	ham.m4a	red	3	mom	mom.m4a	red	3
+en-US	13	1	2	n_sound.m4a	m_sound.m4a	hen	hen.m4a	blue	3	pan	pan.m4a	blue	3	ham	ham.m4a	red	3	man	mom.m4a	red	3
 en-US	13	1	3	g_sound.m4a	d_sound.m4a	mug	mug.m4a	blue	3	pig	pig.m4a	blue	3	red	red.m4a	red	3	mud	mud.m4a	red	3
 en-US	13	2	1	s_sound.m4a	g_sound.m4a	gas	gas.m4a	blue	3	bus	bus.m4a	blue	3	hug	hug.m4a	red	3	bug	bug.m4a	red	3
 en-US	13	2	2	t_sound.m4a	d_sound.m4a	pet	pet.m4a	blue	3	boat	boat.m4a	blue	4	kid	kid.m4a	red	3	loud	loud.m4a	red	4

@@ -57,7 +57,7 @@ MiniTest_4_2	1	42001, 42002, 42003, 42004, 42005~42008
 			42002	compare_number_magnitudes	ascending	âÕâð ÀôÅð âð Üð·UUUUÚ âÕâð ÕÇ¸ð Ì·UUUU ·ðUUU RUUUU× ×ð¢ â¢wØæ ·UUUUô Ú¹ð	सबसे छोटे से लेकर सबसे बड़े तक के क्रम में संख्या को रखे			1~20				
 			42003	operations_with_objects	2~10-1~4=?					1~9				
 			42004	operations_with_objects	2~10-5~9=?					1~9				
-			42005	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सर्कल है?			circle	circle,square,triangle,rectangle			
+			42005	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सरकल है?			circle	circle,square,triangle,rectangle			
 			42006	shapes	which	·UUUUõÙâæ S`UUUæØÚ ãñ?	कौनसा स्क्वायर है?			square	circle,square,triangle,rectangle			
 			42007	shapes	which	·UUUUõÙâæ ÅþæØ¢»Ü ãñ?	कौनसा ट्रायंगल है?			triangle	circle,square,triangle,rectangle			
 			42008	shapes	which	·UUUUõÙâæ ÚðvÅð¢»Ü ãñ?	कौन सा रैक्टेंगल है?			rectangle	circle,square,triangle,rectangle			
@@ -72,7 +72,7 @@ PostTest_4	1	4001, 4002, 4003, 4004~4005, 4006, 4007, 4008, 4009~4010, 4011~4014
 			4008	missing_number_drag	2	3	ascending			1~20	2			
 			4009	operations_with_objects	1~20+1~20=?	regroupingfalse				1~20				
 			4010	operations_with_objects	1~20-1~20=?	regroupingfalse				1~20				
-			4011	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सर्कल है?			circle	circle,square,triangle,rectangle			
+			4011	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सरकल है?			circle	circle,square,triangle,rectangle			
 			4012	shapes	which	·UUUUõÙâæ S`UUUæØÚ ãñ?	कौनसा स्क्वायर है?			square	circle,square,triangle,rectangle			
 			4013	shapes	which	·UUUUõÙâæ ÅþæØ¢»Ü ãñ?	कौनसा ट्रायंगल है?			triangle	circle,square,triangle,rectangle			
 			4014	shapes	which	·UUUUõÙâæ ÚðvÅð¢»Ü ãñ?	कौन सा रैक्टेंगल है?			rectangle	circle,square,triangle,rectangle			
@@ -449,7 +449,7 @@ SpecialTest_27	1	270001~270010, 270001~270010, 270001~270010, 270001~270010, 270
 			270009	word_problem	âñÜè ·UUUUô °·UUUU ×èÜ ¿ÜÙð ·ðUUU çÜ° 7 ç×ÙÅ Ü»Ìð ãñ¢Ð 4 ×èÜ ¿ÜÙð ×ð¢ ©âð ç·UUUUÌÙæ â×Ø Ü»ð»æ?	सैली को एक मील चलने के लिए ७ मिनट लगते हैं। ४ मील चलने में उसे कितना समय लगेगा?				28				
 			270010	word_problem	ç·¤ÅU, M¤Í ¥õÚU ÇèÙ Ùð çÂÊÁ¸æ ·Ô¤ 2 SÜæ§â ¹æ°Ð çÂÊÁ¸æ ·Ô¤ ç·¤ÌÙð SÜæ§â ©‹ãô´Ùð âÖè ×ð´ ¹æ°?	किट रूथ और डीन ने पिज़्ज़ा के २ स्लाइस खाए। पिज़्ज़ा के कितने स्लाइस उन्होंने सभी में खाए?				6				
 SpecialTest_28	1	280001~280004, 280005~280008, 280009, 280010, 280011												
-			280001	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सर्कल है?			circle	circle,square,triangle,rectangle			
+			280001	shapes	which	·UUUUõÙâæ â·üUUUÜ ãñ?	कौनसा सरकल है?			circle	circle,square,triangle,rectangle			
 			280002	shapes	which	·UUUUõÙâæ S`UUUæØÚ ãñ?	कौनसा स्क्वायर है?			square	circle,square,triangle,rectangle			
 			280003	shapes	which	·UUUUõÙâæ ÅþæØ¢»Ü ãñ?	कौनसा ट्रायंगल है?			triangle	circle,square,triangle,rectangle			
 			280004	shapes	which	·UUUUõÙâæ ÚðvÅð¢»Ü ãñ?	कौन सा रैक्टेंगल है?			rectangle	circle,square,triangle,rectangle			
