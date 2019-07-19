@@ -460,25 +460,25 @@ MiniTest_7_3	3	73011, 73012, 73013, 73014, 73015
 											
 PostTest_7	1	7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010									
 			7001	sentence_sentence		Who is he?			He is my brother.	He is my brother.	It is a chair.^He is my brother.^I am a student.
-			7002	sentence_sentence		Are you happy?			Yes, I am.	Yes, I am.	Yes, I am.^Yes, it is.^Yes, they are.
+			7002	sentence_sentence		Are you happy?			Yes I am.	Yes, I am.	Yes, I am.^Yes, it is.^Yes, they are.
 			7003	soundonly_image					a cat is under the table	l9_catundertable.png	l9_catundertable.png^l9_dogundertable.png^l9_catonbox.png
 			7004	soundonly_image					the bag is next to the bed	l10_bagnextbed.png	l10_bagonbed.png^l10_bagunderbed.png^l10_bagnextbed.png
 			7005	soundonly_sentence					they are farmers	They are farmers.	He is a farmer.^They are not farmers.^They are farmers.
 			7006	soundonly_sentence					she is not young	She is not young.	She is young.^She is not young.^He is very young.
-			7007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
-			7008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
+			7007	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			He swims fast.	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
+			7008	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			The dogs run every day.	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
 			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk. Baby cows eat grass. A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
 			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kelvin and Baba wake up with the sun. Baba drinks chai. Kelvin does too. Kelvin and baba watch the sun go down.	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
 											
 PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020									
 			7011	sentence_sentence		What's this?			It's a frog.	It's a frog.	I'm good.^He is sad.^It's a frog.
-			7012	sentence_sentence		Is she a doctor?			No, she isn't.	No, she isn't.	No, I am not.^No, she isn't.^No, it isn't.
+			7012	sentence_sentence		Is she a doctor?			No she isn't.	No, she isn't.	No, I am not.^No, she isn't.^No, it isn't.
 			7013	soundonly_image					she stands next to the tree	l9_shestandtree.png	l9_shestandtree.png^l9_theystandtree.png^l9_hestandtree.png
 			7014	soundonly_image					the birds are on the roof	l10_birdsonroof.png	l10_birdsinsky.png^l10_birdsinnest.png^l10_birdsonroof.png
 			7015	soundonly_sentence					he is at school	He is at school.	He is at home.^He is at school.^I am at school.
 			7016	soundonly_sentence					i am not tall	I am not tall.	I am not tall.^I am tall.^He is not tall.
-			7017	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	She runs fast.	She running fast.^She runs fast.^She run fast.
-			7018	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			सही चयन करे	They play a game.	They play a game.^They are play a game.^They plays a game.
+			7017	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			She runs fast.	She runs fast.	She running fast.^She runs fast.^She run fast.
+			7018	sentence_sentence		âãè ¿ØÙ ·UUUUÚðÐ			They play a game.	They play a game.	They play a game.^They are play a game.^They plays a game.
 			7019	imageseq_sentence		Kelvin and Baba wake up with the sun.		Kelvin does too.	Kelvin and Baba wake up with the sun. Baba washes his face. Kelvin does too.	Baba washes his face.	Baba washes his face.^Kelvin washes his hands.^They work all day.
 			7020	imageseq_image		book_en_347_page_1.png		book_en_347_page_7.png	Good morning cow! Wake up. Some people take care of cows. Cows help people work. Cows live in groups just like people do	book_en_347_page_3.png	book_en_347_page_3.png^book_en_347_page_5.png^book_en_347_page_4.png
 											
