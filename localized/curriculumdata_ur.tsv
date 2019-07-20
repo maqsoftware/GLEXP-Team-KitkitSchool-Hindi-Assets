@@ -20,7 +20,7 @@
 #game	#gameName	#gameLevel	#gameParam				
 
 
-level	en-US	çàæàæé çßlæÜØ	L	0	5
+level	en-US	بچوں کا اسکول	L	0	5
 day	1	3
 game	TutorialTrace	1	x
 game	LetterMatching	1	x
@@ -42,7 +42,7 @@ game	TutorialTrace	3	x
 game	AnimalPuzzle	2	x
 game	LetterMatching	3	x
 
-level	en-US	¥¢»ýðÊæè 1	L	1	9
+level	en-US	انگریزی 1	L	1	9
 day	1	5
 game	AlphabetPuzzle	1	x
 game	Video	0	en_vdo_abc
@@ -94,7 +94,7 @@ game	AnimalPuzzle	8	x
 day	9	1
 game	EggQuizLiteracy	0	PostTest_1
 
-level	en-US	çßàæðá ÂæÆKRUUUU×	L	10	25
+level	en-US	خصوصی کورس	L	10	25
 day	1	6
 game	Video	0	en_vdo_upperlowercase
 game	AlphabetPuzzle	1	x
@@ -251,9 +251,9 @@ game	LRComprehension	23	x
 game	LRComprehension	26	x
 game	EggQuizLiteracy	0	SpecialTest_25
 
-level	en-US	×ÀÜè ×õÁêÎ ãñ	L	11	0
+level	en-US	مچھلی موجود ہے	L	11	0
 
-level	en-US	¥¢»ýðÊæè 2	L	2	27
+level	en-US	انگریزی 2	L	2	27
 day	1	4
 game	Video	0	en_vdo_ub_a
 game	LetterMatching	4	x
@@ -387,7 +387,7 @@ game	Book	0	en_z
 day	27	1
 game	EggQuizLiteracy	0	PostTest_2
 
-level	en-US	¥¢»ýðÊæè 3	L	3	28
+level	en-US	انگریزی 3	L	3	28
 day	1	4
 game	LetterTrace	5	x
 game	Video	0	en_vdo_102
@@ -527,7 +527,7 @@ game	Spelling	4	x
 day	28	1
 game	EggQuizLiteracy	0	PostTest_3
 
-level	en-US	¥¢»ýðÊæè 4	L	4	32
+level	en-US	انگریزی 4	L	4	32
 day	1	5
 game	Spelling	5	x
 game	ReadingBird	1	x
@@ -690,7 +690,7 @@ game	Spelling	13	x
 day	32	1
 game	EggQuizLiteracy	0	PostTest_4
 
-level	en-US	¥¢»ýðÊæè 5	L	5	28
+level	en-US	انگریزی 5	L	5	28
 day	1	5
 game	Spelling	14	x
 game	Labeling	1	x
@@ -826,7 +826,7 @@ game	WordKicker	6	x
 day	28	1
 game	EggQuizLiteracy	0	PostTest_5
 
-level	en-US	¥¢»ýðÊæè 6	L	6	30
+level	en-US	انگریزی 6	L	6	30
 day	1	4
 game	WhatIsThis	1	x
 game	Labeling	12	x
@@ -966,7 +966,7 @@ game	LRComprehension	5	x
 day	30	1
 game	EggQuizLiteracy	0	PostTest_6
 
-level	en-US	¥¢»ýðÊæè 7	L	7	30
+level	en-US	انگریزی 7	L	7	30
 day	1	4
 game	Labeling	20	x
 game	WhatIsThis	5	x
@@ -1106,7 +1106,7 @@ game	LRComprehension	12	x
 day	30	1
 game	EggQuizLiteracy	0	PostTest_7
 
-level	en-US	¥¢»ýðÊæè 8	L	8	30
+level	en-US	انگریزی 8	L	8	30
 day	1	4
 game	ReadingBird	14	x
 game	Book	0	en_415
@@ -1246,7 +1246,7 @@ game	LRComprehension	26	x
 day	30	1
 game	EggQuizLiteracy	0	PostTest_8
 
-level	en-US	¥¢»ýðÊæè 9	L	9	30
+level	en-US	انگریزی 9	L	9	30
 day	1	4
 game	Video	0	en_vdo_1030
 game	Book	0	en_408
@@ -1386,7 +1386,7 @@ game	AnimalPuzzle	30	x
 day	30	1
 game	EggQuizLiteracy	0	PostTest_9
 
-level	en-US	çàæàæé çßlæÜØ	M	0	5
+level	en-US	بچہ اسکول	M	0	5
 day	1	3
 game	Tapping	1	x
 game	FindTheMatch	1	x
@@ -1411,7 +1411,7 @@ game	NumberMatching	2	x
 game	PatternTrain	1	x
 game	Tapping	2	x
 
-level	en-US	»ç‡æÌ 1	M	1	16
+level	en-US	ریاضی 1	M	1	16
 day	1	5
 game	NumberPuzzle	1	x
 game	PatternTrain	2	x
@@ -1498,7 +1498,7 @@ game	NumberMatching	8	x
 day	16	1
 game	EggQuizMath	0	PostTest_1
 
-level	en-US	çßàæðá ÂæÆKRUUUU×	M	10	28
+level	en-US	خصوصی کورس	M	10	28
 day	1	5
 game	Video	0	en_vdo_ub_fifteen_10
 game	FeedingTime	4	x
@@ -1691,9 +1691,9 @@ game	ShapeMatching	5	x
 game	ShapeMatching	9	x
 game	EggQuizMath	0	SpecialTest_28
 
-level	en-US	×ÀÜè ×õÁêÎ ãñ	M	11	0
+level	en-US	مچھلی موجود ہے	M	11	0
 
-level	en-US	»ç‡æÌ 2	M	2	17
+level	en-US	ریاضی 2	M	2	17
 day	1	5
 game	PatternTrain	4	x
 game	ThirtyPuzzle	1	x
@@ -1789,7 +1789,7 @@ game	FeedingTime	2	x
 day	17	1
 game	EggQuizMath	0	PostTest_2
 
-level	en-US	»ç‡æÌ 3	M	3	28
+level	en-US	ریاضی 3	M	3	28
 day	1	5
 game	MovingInsects	1	x
 game	ThirtyPuzzle	6	x
@@ -1952,7 +1952,7 @@ game	NumberTracingExt	8	x
 day	28	1
 game	EggQuizMath	0	PostTest_3
 
-level	en-US	»ç‡æÌ 4	M	4	21
+level	en-US	ریاضی 4	M	4	21
 day	1	5
 game	NumberTracingExt	9	x
 game	EquationMaker	7	x
@@ -2066,7 +2066,7 @@ game	ShapeMatching	3	x
 day	21	1
 game	EggQuizMath	0	PostTest_4
 
-level	en-US	»ç‡æÌ 5	M	5	28
+level	en-US	ریاضی 5	M	5	28
 day	1	5
 game	PlaceValue	1	x
 game	HundredPuzzle	4	x
@@ -2218,7 +2218,7 @@ game	MangoShop	4	x
 day	28	1
 game	EggQuizMath	0	PostTest_5
 
-level	en-US	»ç‡æÌ 6	M	6	28
+level	en-US	ریاضی 6	M	6	28
 day	1	5
 game	PlaceValue	10	x
 game	FeedingTime	13	x
@@ -2375,7 +2375,7 @@ game	DoubleDigit	12	x
 day	28	1
 game	EggQuizMath	0	PostTest_6
 
-level	en-US	»ç‡æÌ 7	M	7	28
+level	en-US	ریاضی 7	M	7	28
 day	1	5
 game	MissingNumber	21	x
 game	MangoShop	6	x
@@ -2529,7 +2529,7 @@ game	PlaceValue	23	x
 day	28	1
 game	EggQuizMath	0	PostTest_7
 
-level	en-US	»ç‡æÌ 8	M	8	28
+level	en-US	ریاضی 8	M	8	28
 day	1	5
 game	Video	0	en_vdo_1048
 game	WordWindow	5	x
@@ -2683,7 +2683,7 @@ game	MultiplicationBoard	9	x
 day	28	1
 game	EggQuizMath	0	PostTest_8
 
-level	en-US	»ç‡æÌ 9	M	9	28
+level	en-US	ریاضی 9	M	9	28
 day	1	5
 game	QuickFacts	31	x
 game	DoubleDigit	17	x
