@@ -1,0 +1,618 @@
+#missing_number - questionoption1: 숫자 간 간격 / questionoption2: 괄호 위치(미지정 시 랜덤) / questionoption3: ascending, descending 지정 가능, 없으면 둘 중 하나 / answerpoint1: 시작 수 세팅 (10=10의 배수, 5=5의 배수..), 없으면 랜덤                                                                                         #operations_with_objects - questionoption2: regroupingtrue시 받아올림,받아내림 강제. regroupingfalse시 받아올림, 받아내림 없음. 없으면 둘 중 하나.                                                                                         #operations_without_objects - questionoption3: vertical시 세로 연산. horizontal시 가로 연산. 없으면 둘 중 하나.                                                                                         #biggest_and_smallest - questionoption1: biggest시 가장 큰 수. smallest시 가장 작은 수.                                                                                         #bigger_and_smaller - questionoption1: bigger시 더 큰 수. smaller시 더 작은 수. / questionoption2: image, number 지정, 없으면 둘 중 하나 / questionoption3: image의 경우 lineup을 기재하면 정렬됨                                                                                         #compare_number_magnitudes - questionoption1: ascending, descending 지정 가능, 없으면 둘 중 하나 / answeroption1: 숫자 간 간격 지정, 없으면 지정하지 않음.                                                                                         #shapes - questionoption1: 질문, 음성 파일 명과 일치해야 함 / answerrange: 항목 중 답변을 하나 선택. 이미지 파일 명과 일치해야 함 / answeroption1 항목 중 보기 선택. 이미지 파일 명과 일치해야 함"
+#level	worksheet	leveltypesequence	type	templatename	questionoption1	questionoption2	questionoption3	questionoption4	questionoption5	answer	answeroption1			
+PostTest_1	1	1001, 1001, 1002, 1002, 1003, 1004, 1004, 1005, 1005, 1006												
+			1001	single_digit_numbers	কতগুলো?					1~5				
+			1002	single_digit_numbers	কতগুলো?					4~9				
+			1003	2digit_numbers	কতগুলো?					10	5~10			
+			1004	recognize_number						1~9				
+			1005	number_identification						1~9				
+			1006	recognize_number						10	5~10			
+PostTest_2	1	2001, 2002, 2001~2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009												
+			2001	2digit_numbers	কতগুলো?					11~15				
+			2002	2digit_numbers	কতগুলো?					16~20				
+			2003	recognize_number						16~19				
+			2004	recognize_number						20	11~20			
+			2005	number_identification						11~15				
+			2006	bigger_and_smaller	bigger	image	lineup	কোন গ্রুপটি বড়?	কোন গ্রুপটি বড়?	1~10				
+			2007	bigger_and_smaller	smaller	image	lineup	কোন গ্রুপটি ছোট?	 কোন গ্রুপটি ছোট?	1~10				
+			2008	bigger_and_smaller	bigger	number		কোনটি বড়?	কোনটি বড়?	1~10				
+			2009	bigger_and_smaller	smaller	number		কোনটি ছোট?	কোনটি ছোট?	1~10				
+MiniTest_3_1	1	31001, 31002, 31003, 31004, 31005												
+			31001	2digit_numbers	কতগুলো?					10~20				
+			31002	2digit_numbers	কতগুলো?					17~20				
+			31003	recognize_number						1~20				
+			31004	number_identification						11~19				
+			31005	missing_number_drag	1	4	ascending			1~5				
+MiniTest_3_2	1	32001, 32001, 32002, 32002, 32003												
+			32001	operations_with_objects	1~4+1~4=?					2~5				
+			32002	operations_with_objects	2~5-1~4=?					1~4				
+			32003	missing_number_drag	1	4	descending			1~5				
+MiniTest_3_3	1	33001, 33002, 33003, 33004, 33005												
+			33001	bigger_and_smaller	bigger	number		কোনটি বড়?	কোনটি বড়?	1~10				
+			33002	bigger_and_smaller	smaller	number		কোনটি ছোট?	কোনটি ছোট?	1~10				
+			33003	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			1~10				
+			33004	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			1~10				
+			33005	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~10				
+PostTest_3	1	3001, 3002, 3003~3004, 3005, 3006, 3007~3008, 3009, 3010, 3011, 3012												
+			3001	2digit_numbers	কতগুলো?					21~50				
+			3002	recognize_number						21~50				
+			3003	bigger_and_smaller	bigger	number		কোনটি বড়?	কোনটি বড়?	1~20				
+			3004	bigger_and_smaller	smaller	number		কোনটি ছোট?	কোনটি ছোট?	1~20				
+			3005	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~10				
+			3006	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~20				
+			3007	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			1~20				
+			3008	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			1~20				
+			3009	missing_number_drag	1	3	ascending			1~10				
+			3010	missing_number_drag	1	4	descending			1~10				
+			3011	operations_with_objects	1~10+1~10=?	regroupingfalse				1~10				
+			3012	operations_with_objects	1~10-1~10=?	regroupingfalse				1~10				
+MiniTest_4_1	1	41001, 41002, 41003, 41004, 41005												
+			41001	recognize_number						21~50				
+			41002	number_identification						51~99				
+			41003	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~20				
+			41004	missing_number_drag	1	4	ascending			1~10				
+			41005	bigger_and_smaller	bigger	number		কোনটি বড়?	 কোনটি বড়?	20~50				
+MiniTest_4_2	1	42001, 42002, 42003, 42004, 42005~42008												
+			42001	2digit_numbers	কতগুলো?					51~100				
+			42002	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~20				
+			42003	operations_with_objects	2~10-1~4=?					1~9				
+			42004	operations_with_objects	2~10-5~9=?					1~9				
+			42005	shapes	which	কোনটি সারকল?	কোনটি সারকল?			circle	circle,square,triangle,rectangle			
+			42006	shapes	which	কোনটি স্কোয়ার?	কোনটি স্কোয়ার?			square	circle,square,triangle,rectangle			
+			42007	shapes	which	কোনটি ট্রায়াঙ্গল?	কোনটি ট্রায়াঙ্গল?			triangle	circle,square,triangle,rectangle			
+			42008	shapes	which	কোনটি রেকট্যাংল?	কোনটি রেকট্যাংল?			rectangle	circle,square,triangle,rectangle			
+PostTest_4	1	4001, 4002, 4003, 4004~4005, 4006, 4007, 4008, 4009~4010, 4011~4014, 4015												
+			4001	2digit_numbers	কতগুলো?					51~100				
+			4002	number_identification						51~99				
+			4003	use_magnitude_symbols	11~50	11~50	ফাঁকা পূরণ করুন	ফাঁকা পূরণ করুন।						
+			4004	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			11~50				
+			4005	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			11~50				
+			4006	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~50				
+			4007	missing_number_drag	1	4	descending			1~20				
+			4008	missing_number_drag	2	3	ascending			1~20	2			
+			4009	operations_with_objects	1~20+1~20=?	regroupingfalse				1~20				
+			4010	operations_with_objects	1~20-1~20=?	regroupingfalse				1~20				
+			4011	shapes	which	কোনটি সারকল?	কোনটি সারকল?			circle	circle,square,triangle,rectangle			
+			4012	shapes	which	কোনটি স্কোয়ার?	কোনটি স্কোয়ার?			square	circle,square,triangle,rectangle			
+			4013	shapes	which	কোনটি ট্রায়াঙ্গল?	কোনটি ট্রায়াঙ্গল?			triangle	circle,square,triangle,rectangle			
+			4014	shapes	which	কোনটি রেকট্যাংল?	কোনটি রেকট্যাংল?			rectangle	circle,square,triangle,rectangle			
+			4015	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
+MiniTest_5_1	1	51001, 51002, 51003, 51004, 51005												
+			51001	operations_drag	1~9+1~9=?		horizontal			1~10				
+			51002	operations_drag	1~10-1~9=?		horizontal			1~9					
+			51003	operations_drag	10-1~9=?		horizontal			1~9					
+			51004	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			11~50				
+			51005	missing_number_drag	1	4	descending			1~20
+MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005												
+			52001	operations_drag	10+1~9=?		vertical			11~19				
+			52002	operations_drag	11~20+1~10=?		vertical			11~19				
+			52003	missing_number_drag	10	4	ascending			1~50	10				
+			52004	operations_with_objects	1~9+1~9=?					10				
+			52005	use_magnitude_symbols	11~50	11~50	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+MiniTest_5_3	1	53001, 53002, 53003, 53004, 53005												
+			53001	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
+			53002	operations_with_objects	10-1~9=?	regroupingtrue				1~9				
+			53003	operations_drag	11~20-1~10=?		vertical			10~20				
+			53004	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~50				
+			53005	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
+PostTest_5	1	5001, 5002~5003, 5004~5007, 5008~5010, 5011, 5012, 5013, 5014, 5015~5018, 5019												
+			5001	recognize_number						51~100				
+			5002	use_magnitude_symbols	41~50	41~50	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			5003	use_magnitude_symbols	16~19	31~34	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			5004	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			11~50				
+			5005	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			11~50				
+			5006	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			11~50				
+			5007	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			11~50				
+			5008	missing_number_drag	1	2	ascending			1~50				
+			5009	missing_number_drag	5	3	ascending			1~50	5			
+			5010	missing_number_drag	10	4	descending			1~50	10			
+			5011	operations_with_objects	1~9+1~9=?	regroupingtrue				11~18				
+			5012	operations_drag	1~9+1~9=?		vertical			10				
+			5013	operations_drag	10+1~10=?		horizontal			11~19				
+			5014	operations_drag	10-1~9=?		vertical			1~9				
+			5015	shapes	which	কোনটি একটি পেন্টাগন ?	কোনটি একটি পেন্টাগন ?			pentagon	pentagon,hexagon,parallelogram,trapezoid			
+			5016	shapes	which	কোনটি একটি হেক্সাগণ ?	কোনটি একটি হেক্সাগণ ?			hexagon	pentagon,hexagon,parallelogram,trapezoid			
+			5017	shapes	which	কোনটি একটি পারলালগ্রাম ?	কোনটি একটি পারলালগ্রাম ?			parallelogram	pentagon,hexagon,parallelogram,trapezoid			
+			5018	shapes	which	কোনটি একটি ট্রপেজওঈ ?	কোনটি একটি ট্রপেজওঈ ?			trapezoid	pentagon,hexagon,parallelogram,trapezoid			
+			5019	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			cylinder,cube,sphere,cone	cylinder,cube,sphere,cone			
+MiniTest_6_1	1	61001, 61002, 61003, 61004, 61005												
+			61001	missing_number_drag	1	3	ascending			51~100				
+			61002	missing_number_drag	10	4	ascending			51~100	10			
+			61003	number_identification						51~100				
+			61004	operations_with_objects	11~19+1~9=?	regroupingtrue				20				
+			61005	operations_drag	1~9+1~9=?	regroupingtrue	vertical			10~19				
+MiniTest_6_2	1	62001~62002, 62003, 62004, 62005, 62006												
+			62001	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			51~100				
+			62002	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			51~100				
+			62003	use_magnitude_symbols	51~100	51~100	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			62004	operations_drag	11~20-10=?		horizontal			1~10
+			62005	operations_drag	11~20-1~9=?	regroupingtrue	vertical			1~10
+			62006	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~99				
+MiniTest_6_3	1	63001, 63002, 63003, 63004~63005, 63006												
+			63001	missing_number_drag	10	3	descending			51~100	10			
+			63002	operations_with_objects	11~20-1~9=?	regroupingtrue				1~20				
+			63003	operations_drag	1~20+1~20=?	regroupingtrue	vertical			20				
+			63004	operations_drag	20-1~9=?	regroupingtrue	vertical			11~19				
+			63005	operations_drag	20-11~19=?	regroupingtrue	vertical			1~9				
+			63006	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			71~99				
+PostTest_6	1	6001, 6002, 6003, 6004~6005, 6006~6007, 6008~6009, 6010, 6011, 6012, 6013~6014												
+			6001	recognize_number						51~100				
+			6002	3digit_numbers	কতগুলো?					100~110				
+			6003	use_magnitude_symbols	51~100	51~100	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			6004	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			51~100				
+			6005	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			51~100				
+			6006	missing_number_drag	10	2	ascending			50~100	10			
+			6007	missing_number_drag	5	2	ascending			51~100	5			
+			6008	missing_number_drag	1	3	descending			51~100				
+			6009	missing_number_drag	10	3	descending			51~100	10			
+			6010	operations_with_objects	1~9+1~9=?	regroupingtrue				11~18				
+			6011	operations_with_objects	11~20-1~9=?	regroupingtrue				2~19				
+			6012	operations_drag	11~20-1~10=?	regroupingfalse	horizontal			1~10				
+			6013	operations_drag	11~19+1~9=?	regroupingtrue	vertical			20				
+			6014	operations_drag	20-1~9=?	regroupingtrue	vertical			11~19				
+MiniTest_7_1	1	71001,71002, 71003, 71004, 71005												
+			71001	missing_number_drag	3	4	ascending			1~20	3			
+			71002	operations_with_objects	11~19-1~9=?	regroupingtrue				1~9				
+			71003	operations_drag	1~10+1~10=?	regroupingtrue	vertical			10~20				
+			71004	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~99				
+			71005	word_problem	7 টি লাল আপেল এবং 2 টি সবুজ আপেল ঝুড়িতে আছে। ঝুড়িতে কতগুলি আপেল?	7 টি লাল আপেল এবং 2 টি সবুজ আপেল ঝুড়িতে আছে। ঝুড়িতে কতগুলি আপেল?				9				
+MiniTest_7_2	1	72001, 72002, 72003, 72004, 72005												
+			72001	missing_number_drag	2	4	descending			1~10	2			
+			72002	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
+			72003	operations_drag	20-1~10=?		horizontal			1~10				
+			72004	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			51~99				
+			72005	word_problem	বিলিতে 2 টি মার্বেল রয়েছে। অড্রিতে বিলি চেয়ে 3 টি আরো মার্বেল রয়েছে। অড্রে কতগুলি মার্বেল আছে?	বিলিতে 2 টি মার্বেল রয়েছে। অড্রিতে বিলি চেয়ে 3 টি আরো মার্বেল রয়েছে। অড্রে কতগুলি মার্বেল আছে?				5				
+MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005												
+			73001	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			71~99				
+			73002	missing_number_drag	2	3	descending			11~30	2			
+			73003	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
+			73004	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
+			73005	word_problem	টেবিলএ 5 টি আপেল। স্যাম 2 টি আপেল খায়। টেবিলে কতগুলো আপেল বাকি আছে?	টেবিলএ 5 টি আপেল। স্যাম 2 টি আপেল খায়। টেবিলে কতগুলো আপেল বাকি আছে?				3				
+PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012, 7013												
+			7001	use_magnitude_symbols	51~100	51~100	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			7002	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~100				
+			7003	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			51~100				
+			7004	missing_number_drag	3	4	ascending			10~50	3			
+			7005	missing_number_drag	5	3	descending			10~50	5			
+			7006	operations_with_objects	11~19+1~9=?	regroupingtrue				20~30				
+			7007	operations_with_objects	1~9+11~19=?	regroupingtrue				20~30				
+			7008	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
+			7009	operations_drag	11~50-11~30=?	regroupingfalse	vertical			1~50				
+			7010	word_problem	স্ট্যাসি সকালে 5 টি ফিশ ধরল। তিনি বিকেলে আরো 4 টি ফিশ ধরলেন। স্ট্যাসি কত ফিশ ধরল?	স্ট্যাসি সকালে 5 টি ফিশ ধরল। তিনি বিকেলে আরো 4 টি ফিশ ধরলেন। স্ট্যাসি কত ফিশ ধরল?				9				
+			7011	word_problem	হেনরির পশে 4 স্টাম্পস আছে. হেনরি চেয়ে এরিকের 5 স্টাম্পস বেশি আছে. এরিকের কত স্টাম্পস আছে?	হেনরির পশে 4 স্টাম্পস আছে. হেনরি চেয়ে এরিকের 5 স্টাম্পস বেশি আছে. এরিকের কত স্টাম্পস আছে?				8				
+			7012	word_problem	8 টি পাখি বৃক্ষের শাখায় বসে আছে। কিছু উড়ে গেছে। এখন শাখায় 3 টি পাখি আছে। কত পাখি উড়ে গেছে?	8 টি পাখি বৃক্ষের শাখায় বসে আছে। কিছু উড়ে গেছে। এখন শাখায় 3 টি পাখি আছে। কত পাখি উড়ে গেছে?				3				
+			7013	word_problem	আপনার 7 বেলুন রয়েছে এবং আপনার বন্ধুর 5 টি বেলুন রয়েছে। আপনার বন্ধুর চেয়ে কত বেশি বেলুন আছে?	আপনার 7 বেলুন রয়েছে এবং আপনার বন্ধুর 5 টি বেলুন রয়েছে। আপনার বন্ধুর চেয়ে কত বেশি বেলুন আছে?				2				
+MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005												
+			81001	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			81002	missing_number_drag	2	4	descending			50~100	2			
+			81003	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
+			81004	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
+			81005	word_problem	একটি জলের ট্যাংকে 14 টি ফিশ আছে। কেরিরি ট্যাংকটিতে আরও 3 টি ফিশ রেখেছে। সেখানে কত ফিশ আছে?	একটি জলের ট্যাংকে 14 টি ফিশ আছে। কেরিরি ট্যাংকটিতে আরও 3 টি ফিশ রেখেছে। সেখানে কত ফিশ আছে?				17				
+MiniTest_8_2	1	82001, 82002, 82003, 82004, 82005												
+			82001	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			51~100				
+			82002	missing_number_drag	1	4	ascending			100~500				
+			82003	operations_drag	21~40+11~20=?	regroupingtrue	vertical			30~60				
+			82004	word_problem	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?				15				
+			82005	word_problem	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?				11				
+MiniTest_8_3	1	83001, 83002, 83003, 83004, 83005												
+			83001	missing_number_drag	100	2	ascending			100~900	100			
+			83002	operations_drag	11~18-1~9=?	regroupingtrue	horizontal			1~9				
+			83003	operations_drag	21~50-11~30=?	regroupingtrue	vertical			1~40				
+			83004	word_problem	জ্যানেটের 4 টি ওরেংঞ্জস রয়েছে এবং শ্যারন 4 টি ওরেংঞ্জস রয়েছে। কতগুলি ওরেংঞ্জস আছে তাদের একসাথে?	জ্যানেটের 4 টি ওরেংঞ্জস রয়েছে এবং শ্যারন 4 টি ওরেংঞ্জস রয়েছে। কতগুলি ওরেংঞ্জস আছে তাদের একসাথে?				12				
+			83005	word_problem	স্যান্ডি 5 বছর বয়সী। মিয়া স্যান্ডিয়ের চেয়ে 7 বছর বয়সী। মিয়া কত বয়সী?	স্যান্ডি 5 বছর বয়সী। মিয়া স্যান্ডিয়ের চেয়ে 7 বছর বয়সী। মিয়া কত বয়সী?				12				
+PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010												
+			8001	compare_number_magnitudes	ascending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			300~700				
+			8002	missing_number_drag	1	3	ascending			200~999				
+			8003	missing_number_drag	100	4	ascending			200~999	100			
+			8004	missing_number_drag	100	4	descending			100~500	100			
+			8005	operations_drag	11~50+11~20=?	regroupingtrue	vertical			1~50				
+			8006	operations_drag	31~50-11~20=?	regroupingtrue	vertical			1~50				
+			8007	word_problem	টমের 6 টি বুকস আছে। জেমস 2 টি বুকস আছে। তাদের কাছে কত বুকস আছে?	টমের 6 টি বুকস আছে। জেমস 2 টি বুকস আছে। তাদের কাছে কত বুকস আছে?				8				
+			8008	word_problem	ডিয়েগো একটি ঝুড়ি মধ্যে 11 ম্যাংগোজ আছে। ডিয়েগো তার বোন কে 4 ম্যাংগোজ দেয়। ঝুড়ি তে কত ম্যাংগোজ বাকি আছে?	ডিয়েগো একটি ঝুড়ি মধ্যে 11 ম্যাংগোজ আছে। ডিয়েগো তার বোন কে 4 ম্যাংগোজ দেয়। ঝুড়ি তে কত ম্যাংগোজ বাকি আছে?				7				
+			8009	word_problem	ফ্রেড 12 বছর বয়সী। তার ভাই টম 8 বছর বয়সী। ফ্রেডের চেয়ে টম কত ছোট?	ফ্রেড 12 বছর বয়সী। তার ভাই টম 8 বছর বয়সী। ফ্রেডের চেয়ে টম কত ছোট?				4				
+			8010	word_problem	একজন কৃষক 16 টি এগ্স সংগ্রহ করেছেন। তিনি 4 টি এগ্স নাস্তা করতে ব্যবহার করেছেন। তিনি কত এগ্স রেখেছেন?	একজন কৃষক 16 টি এগ্স সংগ্রহ করেছেন। তিনি 4 টি এগ্স নাস্তা করতে ব্যবহার করেছেন। তিনি কত এগ্স রেখেছেন?				12				
+MiniTest_9_1	1	91001~91003, 91004, 91005, 91006, 91007												
+			91001	operations_drag	11~99+10, 20, 30, 40, 50, 60, 70, 70, 80=?		horizontal			1~100				
+			91002	operations_drag	10, 20, 30, 40, 50, 60, 70, 80+11~99=?		horizontal			1~100				
+			91003	operations_drag	10, 20, 30, 40, 50, 60, 70, 80, 90-5,10=?		horizontal			1~100				
+			91004	operations_without_objects	2, 3, 4, 5x1~9=?		horizontal			2~45				
+			91005	missing_number_drag	10	3	ascending			500~990	10			
+			91006	word_problem	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?				3				
+			91007	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
+MiniTest_9_2	1	92001~92002, 92003, 92004, 92005, 92006												
+			92001	missing_number_drag	1	4	descending			100~999				
+			92002	missing_number_drag	5	3	ascending			100~999	5			
+			92003	operations_drag	31~50+20~50=?	regroupingfalse	vertical			1~100				
+			92004	operations_drag	10~99-10=?		vertical			1~90				
+			92005	operations_without_objects	6, 7, 8, 9x1~9=?		horizontal			6~81				
+			92006	word_problem	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?				3				
+MiniTest_9_3	1	93001, 93002, 93003, 93004, 93005												
+			93001	operations_drag	11~30+20~70=?	regroupingtrue	vertical			1~99				
+			93002	operations_drag	20~70-11~30=?	regroupingtrue	vertical			1~99				
+			93003	missing_number_drag	10	4	descending			100~999	10			
+			93004	word_problem	টেনিস দলের 12 প্লেয়ার্স রয়েছে। 6 প্লেয়ার্স মেয়ে। কিছু ছেলে ছেলেমেয়ে। কত টেনিস খেলোয়াড় ছেলে?	টেনিস দলের 12 প্লেয়ার্স রয়েছে। 6 প্লেয়ার্স মেয়ে। কিছু ছেলে ছেলেমেয়ে। কত টেনিস খেলোয়াড় ছেলে?				6				
+			93005	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
+PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010												
+			9001	operations_drag	20~70-11~30=?	regroupingtrue	vertical			1~100				
+			9002	operations_drag	11~30+20~70=?	regroupingtrue	vertical			1~100				
+			9003	missing_number_drag	5	4	descending			100~999	5			
+			9004	missing_number_drag	3	3	ascending			1~20				
+			9005	operations_without_objects	2~9x2~9=?		horizontal			4~81				
+			9006	word_problem	পিটারের চারটি মার্বেলস রয়েছে। সু পিটারকে কিছু মার্বেলস দেয় এবং এখন তার মধ্যে 6 টি মার্বেল রয়েছে। সু পিটার কে কোটা মার্বেলস দিয়েছে?	পিটারের চারটি মার্বেলস রয়েছে। সু পিটারকে কিছু মার্বেলস দেয় এবং এখন তার মধ্যে 6 টি মার্বেল রয়েছে। সু পিটার কে কোটা মার্বেলস দিয়েছে?				2				
+			9007	word_problem	আমার 10 টি আপেল আছে। আমি কিছু আপেল খাই। আমার 4 টি আপেল বাকি আছে। আমি কতগুলি আপেল খেয়েছি?	আমার 10 টি আপেল আছে। আমি কিছু আপেল খাই। আমার 4 টি আপেল বাকি আছে। আমি কতগুলি আপেল খেয়েছি?				6				
+			9008	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			cylinder,cube,sphere,cone	cylinder,cube,sphere,cone			
+			9009	word_problem	একটি মৌমাছি 6 পা আছে। দুই মৌমাছি কত পা আছে?	একটি মৌমাছি 6 পা আছে। দুই মৌমাছি কত পা আছে?				12				
+			9010	word_problem	2 শিশুর 8 টি মিষ্টি সমানভাবে ভাগ করে। প্রতিটি শিশু কত মিষ্টি পায়?	2 শিশুর 8 টি মিষ্টি সমানভাবে ভাগ করে। প্রতিটি শিশু কত মিষ্টি পায়?				4				
+SpecialTest_1	1	10001, 10002, 10003, 10004, 10005												
+			10001	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~6	1			
+			10002	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			5~10	1			
+			10003	use_magnitude_symbols	1~10	1~10	ফাঁকা পূরণ করুন। 	ফাঁকা পূরণ করুন।				2			
+			10004	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			1~6	1			
+			10005	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			5~10	1			
+SpecialTest_2	1	20001, 20002, 20003, 20004, 20005												
+			20001	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			11~50				
+			20002	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~99				
+			20003	use_magnitude_symbols	11~50	11~50	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			20004	use_magnitude_symbols	11~99	11~99	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			20005	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			11~99				
+SpecialTest_3	1	30001, 30002, 30003, 30004, 30005												
+			30001	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			100~500				
+			30002	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			100~999				
+			30003	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			100~500				
+			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			30005	use_magnitude_symbols	100~999	100~999	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+SpecialTest_4	1	40001, 40002, 40003, 40004, 40005												
+			40001	missing_number_drag	1	4	ascending			1~10				
+			40002	missing_number_drag	2	3	ascending			1~20	2			
+			40003	missing_number_drag	1	2	ascending			1~20				
+			40004	missing_number_drag	1	4	descending			1~20				
+			40005	missing_number_drag	2	3	descending			1~20	2			
+SpecialTest_5	1	50001, 50002, 50003, 50004, 50005												
+			50001	missing_number_drag	1	4	ascending			21~99				
+			50002	missing_number_drag	10	2	ascending			21~99	10			
+			50003	missing_number_drag	5	3	ascending			21~99	5			
+			50004	missing_number_drag	1	4	descending			21~99				
+			50005	missing_number_drag	10	3	descending			21~99	10			
+SpecialTest_6	1	60001, 60002, 60003, 60004, 60005												
+			60001	missing_number_drag	5	4	ascending			100~999	5			
+			60002	missing_number_drag	100	2	ascending			100~999	100			
+			60003	missing_number_drag	10	3	ascending			100~999	10			
+			60004	missing_number_drag	1	4	descending			100~999				
+			60005	missing_number_drag	10	3	descending			100~999	10			
+SpecialTest_7	1	70001, 70002, 70002~70003, 70003, 70004												
+			70001	operations_with_objects	1~9+1~9=?		horizontal			1~9				
+			70002	operations_with_objects	1~9+1~9=?		horizontal			1~9				
+			70003	operations_drag	1~9+1~9=?		horizontal			1~9				
+			70004	operations_drag	1~9+1~9=?		horizontal			10				
+SpecialTest_8	1	80001, 80002, 80003, 80004, 80005												
+			80001	operations_drag	10+1~9=?		horizontal			11~19				
+			80002	operations_with_objects	11~18+1~8=?	regroupingfalse	horizontal			11~19				
+			80003	operations_with_objects	1~8+11~18=?	regroupingfalse	horizontal			11~19				
+			80004	operations_drag	11~18+1~8=?	regroupingfalse	horizontal			11~19				
+			80005	operations_drag	1~8+11~18=?	regroupingfalse	horizontal			11~19				
+SpecialTest_9	1	90001, 90002, 90003~90004, 90005~90006, 90007												
+			90001	operations_with_objects	1~9+1~9=?	regroupingtrue	horizontal			11~19				
+			90002	operations_drag	1~9+1~9=?	regroupingtrue	horizontal			11~19				
+			90003	operations_with_objects	10~19+1~10=?		horizontal			20				
+			90004	operations_with_objects	1~10+10~19=?		horizontal			20				
+			90005	operations_drag	1~10+10~19=?		horizontal			20				
+			90006	operations_drag	10~19+1~10=?		horizontal			20				
+			90007	operations_drag	1~9+1~9=?	regroupingtrue	vertical			11~19				
+SpecialTest_10	1	100001, 100002, 100003, 100004, 100005												
+			100001	operations_drag	10,20,30,40,50,60,70,80,90+10,20,30,40,50,60,70,80,90=?	regroupingfalse	horizontal			30~90				
+			100002	operations_drag	10,20,30,40,50,60,70,80,90+10~89=?	regroupingfalse	horizontal			20~99				
+			100003	operations_drag	11~19+10~99=?	regroupingfalse	vertical			21~50				
+			100004	operations_drag	11~99+10~99=?	regroupingfalse	vertical			21~99				
+			100005	operations_drag	11~99+10~99=?	regroupingfalse	vertical			51~99				
+SpecialTest_11	1	110001, 110002, 110003~110004, 110005, 110005												
+			110001	operations_with_objects	11~19+11~19=?	regroupingtrue	vertical			20~40				
+			110002	operations_drag	21~49+1~9=?	regroupingtrue	vertical			21~50				
+			110003	operations_drag	11~29+11~29=?	regroupingtrue	vertical			40				
+			110004	operations_drag	11~39+11~39=?	regroupingtrue	vertical			50				
+			110005	operations_drag	11~39+11~39=?	regroupingtrue	vertical			21~50				
+SpecialTest_12	1	120001, 120002, 120003, 120003, 120004												
+			120001	operations_drag	10,20,30,40,50,60,70,80,90+10,20,30,40,50,60,70,80,90=?	regroupingtrue	horizontal			100				
+			120002	operations_drag	11~89+11~89=?	regroupingtrue	vertical			100				
+			120003	operations_drag	11~59+11~59=?	regroupingtrue	vertical			30~70				
+			120004	operations_drag	11~89+11~89=?	regroupingtrue	vertical			71~100				
+SpecialTest_13	1	130001~130010, 130001~130010, 130001~130010, 130001~130010, 130001~130010												
+			130001	word_problem	শেলবি স্কুলে গণিত করে স্টিকার স্টিকার উপার্জন করেন। গতকাল শেলবি 4 টি স্টার অর্জন করেছেন। আজকে তিনি আরো 3 টি উপার্জন করেছেন। শেলবি কতগুলো স্টার পেয়েছেন?	শেলবি স্কুলে গণিত করে স্টিকার স্টিকার উপার্জন করেন। গতকাল শেলবি 4 টি স্টার অর্জন করেছেন। আজকে তিনি আরো 3 টি উপার্জন করেছেন। শেলবি কতগুলো স্টার পেয়েছেন?				7				
+			130002	word_problem	টমের 6 টি বুকস আছে। জেমস 2 টি বুকস আছে। তাদের কাছে কত বুকস আছে?	টমের 6 টি বুকস আছে। জেমস 2 টি বুকস আছে। তাদের কাছে কত বুকস আছে?				8				
+			130003	word_problem	হেলেন একটি গাছের মধ্যে 12 টি বার্ডস এবং অন্য গাছের 7 টি বার্ডস দেখেছেন। তিনি কতগুলি বার্ডস দেখেছেন?	হেলেন একটি গাছের মধ্যে 12 টি বার্ডস এবং অন্য গাছের 7 টি বার্ডস দেখেছেন। তিনি কতগুলি বার্ডস দেখেছেন?				19				
+			130004	word_problem	একটি কৃষক লাঞ্চের আগে ভুট্টা 5 সারি রোপণ। তিনি লাঞ্চের পর আরো 7 সারি লাগিয়েছিলেন. সেদিন সারিতে কত সারি রোপণ করেছিলেন?	একটি কৃষক লাঞ্চের আগে ভুট্টা 5 সারি রোপণ। তিনি লাঞ্চের পর আরো 7 সারি লাগিয়েছিলেন. সেদিন সারিতে কত সারি রোপণ করেছিলেন?				12				
+			130005	word_problem	বাসে 6 মেয়ে এবং 7 ছেলে আছে। বাসে কতজন শিশু আছে?	বাসে 6 মেয়ে এবং 7 ছেলে আছে। বাসে কতজন শিশু আছে?				13				
+			130006	word_problem	স্ট্যাসি সকালে 5 টি ফিশ ধরল। তিনি বিকেলে আরো 4 টি ফিশ ধরলেন। স্ট্যাসি কত ফিশ ধরল?	স্ট্যাসি সকালে 5 টি ফিশ ধরল। তিনি বিকেলে আরো 4 টি ফিশ ধরলেন। স্ট্যাসি কত ফিশ ধরল?				9				
+			130007	word_problem	মায়া দুপুরের খাবারের সময় 3 ইয়াং এবং ডিনারের সময় 5 ইয়াম পরিবেশন করেছিল। দিনে কতটা ইয়াম পরিবেশন করা হয়েছিল?	মায়া দুপুরের খাবারের সময় 3 ইয়াং এবং ডিনারের সময় 5 ইয়াম পরিবেশন করেছিল। দিনে কতটা ইয়াম পরিবেশন করা হয়েছিল?				8				
+			130008	word_problem	কাইল তার জন্মদিনে 3 টি নতুন শার্ট পেয়েছিল। তার আগে থেকেই 5 শার্ট ছিল। এখন কত শার্ট আছে?	কাইল তার জন্মদিনে 3 টি নতুন শার্ট পেয়েছিল। তার আগে থেকেই 5 শার্ট ছিল। এখন কত শার্ট আছে?				8				
+			130009	word_problem	মেরি একটি জন্মদিনের সাজালো । তিনি আজ সকালে 6 টি বেলুন ব্লও করলো   এবং বিকেলে আরও 5 টি বেলুন ব্লও করলো. কতটা বেলুন ব্লও করলো.	মেরি একটি জন্মদিনের সাজালো । তিনি আজ সকালে 6 টি বেলুন ব্লও করলো   এবং বিকেলে আরও 5 টি বেলুন ব্লও করলো. কতটা বেলুন ব্লও করলো.				11				
+			130010	word_problem	ড্রয়ারে 7 টি পেন্সিল রয়েছে। ড্যান ড্রয়ারে 9 টি পেন্সিল রেখেছে। ড্রয়ারে কত পেন্সিল আছে?	ড্রয়ারে 7 টি পেন্সিল রয়েছে। ড্যান ড্রয়ারে 9 টি পেন্সিল রেখেছে। ড্রয়ারে কত পেন্সিল আছে?				16				
+SpecialTest_14	1	140001~140010, 140001~140010, 140001~140010, 140001~140010, 140001~140010												
+			140001	word_problem	বিলিতে 2 টি মার্বেল রয়েছে। অড্রিতে বিলি চেয়ে 3 টি আরো মার্বেল রয়েছে। অড্রে কতগুলি মার্বেল আছে?	বিলিতে 2 টি মার্বেল রয়েছে। অড্রিতে বিলি চেয়ে 3 টি আরো মার্বেল রয়েছে। অড্রে কতগুলি মার্বেল আছে?				5				
+			140002	word_problem	ববি তিনটি বেশি বুকস কিনেছিলো গ্যাবিকে চেয়ে । গাব্বি একটি বুকস কিনেছিলো । ববি কত বুকস কিনেছিলো ?	ববি তিনটি বেশি বুকস কিনেছিলো গ্যাবিকে চেয়ে । গাব্বি একটি বুকস কিনেছিলো । ববি কত বুকস কিনেছিলো ?				4				
+			140003	word_problem	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?				15				
+			140004	word_problem	জ্যাকির 9 টি পেন্সিল আছে। জ্যামির চেয়ে আদমের আরও 5 টি পেন্সিল আছে। আদম এর কাছে কোটা পেন্সিল আছে ?	জ্যাকির 9 টি পেন্সিল আছে। জ্যামির চেয়ে আদমের আরও 5 টি পেন্সিল আছে। আদম এর কাছে কোটা পেন্সিল আছে ?				14				
+			140005	word_problem	হেনরির পশে 4 স্টাম্পস আছে. হেনরি চেয়ে এরিকের 5 স্টাম্পস বেশি আছে. এরিকের কত স্টাম্পস আছে?	হেনরির পশে 4 স্টাম্পস আছে. হেনরি চেয়ে এরিকের 5 স্টাম্পস বেশি আছে. এরিকের কত স্টাম্পস আছে?				8				
+			140006	word_problem	সারাহ 5 বছর বয়সী। তার বোন কেটি সারাহের চেয়ে 2 বছর বয়সী। কেটি বয়স কত?	সারাহ 5 বছর বয়সী। তার বোন কেটি সারাহের চেয়ে 2 বছর বয়সী। কেটি বয়স কত?				7				
+			140007	word_problem	মিঃ ব্লুমের শ্রেণীকক্ষের 14 টি চেয়ার আছে। মিস্টার পিটারের শ্রেণীকক্ষে আরও 3 টি চেয়ার আছে। মিস্টার পিটারের শ্রেণীকক্ষে কতগুলি চেয়ার আছে?	মিঃ ব্লুমের শ্রেণীকক্ষের 14 টি চেয়ার আছে। মিস্টার পিটারের শ্রেণীকক্ষে আরও 3 টি চেয়ার আছে। মিস্টার পিটারের শ্রেণীকক্ষে কতগুলি চেয়ার আছে?			17				
+			140008	word_problem	পলের 7 টি প্লাম আছে। ব্রায়ান পলের চেয়ে আরও 4 টি প্লাম। ব্রায়ান এর কাছে কতগুলি প্লেম আছে?	পলের 7 টি প্লাম আছে। ব্রায়ান পলের চেয়ে আরও 4 টি প্লাম। ব্রায়ান এর কাছে কতগুলি প্লেম আছে?				11				
+			140009	word_problem	মেরিনের এর কাছে 7 টি বল আছে. এলেন মেরিনের চেয়ে আরও 6 টি বল বেশি. অ্যালেনের এর কাছে কত বল আছে?	মেরিনের এর কাছে 7 টি বল আছে. এলেন মেরিনের চেয়ে আরও 6 টি বল বেশি. অ্যালেনের এর কাছে কত বল আছে?				13				
+			140010	word_problem	ববের কাছে 4 টি পেনসিল আছে এবং তার বোনের তার চেয়ে 8 টি পেন্সিল বেশি । ববের বোন এর কাছে কত পেন্সিল আছে?	ববের কাছে 4 টি পেনসিল আছে এবং তার বোনের তার চেয়ে 8 টি পেন্সিল বেশি । ববের বোন এর কাছে কত পেন্সিল আছে?				12				
+SpecialTest_15	1	150001~150010, 150001~150010, 150001~150010, 150001~150010, 150001~150010												
+			150001	word_problem	অনিতা 5 টি বই আছে। এদের মধ্যে 3 টি বিজ্ঞান বই এবং বাকিরা গল্প বই। গল্প বই কত?	অনিতা 5 টি বই আছে। এদের মধ্যে 3 টি বিজ্ঞান বই এবং বাকিরা গল্প বই। গল্প বই কত?				2				
+			150002	word_problem	মাইকেল এর বিড়ালটির 9টি বাচ্চা ছিল। এদের মধ্যে 5 টি সাদা এবং বাকিরা ধূসর। বিড়ালটির কত ধূসর বিড়াল আছে?	মাইকেল এর বিড়ালটির 9টি বাচ্চা ছিল। এদের মধ্যে 5 টি সাদা এবং বাকিরা ধূসর। বিড়ালটির কত ধূসর বিড়াল আছে?				4				
+			150003	word_problem	ক্লাসরুমে 9 জন শিশু রয়েছে। এদের মধ্যে 6 ছেলে। শ্রেণীকক্ষে কতজন মেয়ে আছে?	ক্লাসরুমে 9 জন শিশু রয়েছে। এদের মধ্যে 6 ছেলে। শ্রেণীকক্ষে কতজন মেয়ে আছে?				3				
+			150004	word_problem	মিসেস ডসনের ক্লাসে 12 জন ছাত্র। কিছু ছাত্র অনুপস্থিত এবং 7 জন উপস্থিত আছেন। কতজন অনুপস্থিত?	মিসেস ডসনের ক্লাসে 12 জন ছাত্র। কিছু ছাত্র অনুপস্থিত এবং 7 জন উপস্থিত আছেন। কতজন অনুপস্থিত?				5				
+			150005	word_problem	একটি শ্রেণীকক্ষের মধ্যে 16 জন শিশু রয়েছে। কিছু শিশু খেলতে বাইরে যায়। 7 শিশু বই পড়তে ভিতরে থাকে। কতজন শিশু বাইরে?	একটি শ্রেণীকক্ষের মধ্যে 16 জন শিশু রয়েছে। কিছু শিশু খেলতে বাইরে যায়। 7 শিশু বই পড়তে ভিতরে থাকে। কতজন শিশু বাইরে?				9				
+			150006	word_problem	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?				3				
+			150007	word_problem	কেটি এবং তার ভাই একসঙ্গে 6 ম্যাংগোজ বাছাইছে । কেটি 4 টি ম্যাংগোজ কিনেছিল। তার ভাই কত ম্যাংগোজ বেছে নিয়েছিল?	কেটি এবং তার ভাই একসঙ্গে 6 ম্যাংগোজ বাছাইছে । কেটি 4 টি ম্যাংগোজ কিনেছিল। তার ভাই কত ম্যাংগোজ বেছে নিয়েছিল?				2				
+			150008	word_problem	হার্পার এবং রেভেন একসঙ্গে 8 টি ছবি আঁকেন। হারপার 3 ছবি আঁকেন। রেনেন কত ছবি আঁকেন?	হার্পার এবং রেভেন একসঙ্গে 8 টি ছবি আঁকেন। হারপার 3 ছবি আঁকেন। রেনেন কত ছবি আঁকেন?				5				
+			150009	word_problem	ল্যাসি এবং কেন্দ্রে 14 টি ফায়ারফ্লাই ধরেছে । ল্যাসি 5 টি ফায়ারফ্লাই পেয়েছিল। কেন্দ্রে কত ফায়ারফ্লাই ধরেছে?	ল্যাসি এবং কেন্দ্রে 14 টি ফায়ারফ্লাই ধরেছে । ল্যাসি 5 টি ফায়ারফ্লাই পেয়েছিল। কেন্দ্রে কত ফায়ারফ্লাই ধরেছে?				9				
+			150010	word_problem	কাঠের এক টুকরা 13 ইঞ্চি লম্বা। এটি দুটি অংশে কাটা হয়। এক অংশ 6 ইঞ্চি লম্বা. অন্য অংশ  কত লম্বা?	কাঠের এক টুকরা 13 ইঞ্চি লম্বা। এটি দুটি অংশে কাটা হয়। এক অংশ 6 ইঞ্চি লম্বা. অন্য অংশ  কত লম্বা?				7				
+SpecialTest_16	1	160001~160010, 160001~160010, 160001~160010, 160001~160010, 160001~160010												
+			160001	word_problem	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?				3				
+			160002	word_problem	প্রথমার্ধে ফুটবল দল 3 গোল করে। এরপর তারা দ্বিতীয়ার্ধে আরো গোল করে। তারা 5 গোলের সাথে খেলাটি জিতে নেয়! দ্বিতীয়ার্ধে তারা কত গোল করেন?	প্রথমার্ধে ফুটবল দল 3 গোল করে। এরপর তারা দ্বিতীয়ার্ধে আরো গোল করে। তারা 5 গোলের সাথে খেলাটি জিতে নেয়! দ্বিতীয়ার্ধে তারা কত গোল করেন?				2				
+			160003	word_problem	পিটার লাঞ্চের আগে তার বইয়ের 6 পৃষ্ঠা পড়েন। দুপুরের খাবারের পর তিনি আরও কিছু পড়েন। পিটার যদি 9 টি পৃষ্ঠা পড়েন তবে লাঞ্চের পর তিনি কত পৃষ্ঠা পড়েন?	পিটার লাঞ্চের আগে তার বইয়ের 6 পৃষ্ঠা পড়েন। দুপুরের খাবারের পর তিনি আরও কিছু পড়েন। পিটার যদি 9 টি পৃষ্ঠা পড়েন তবে লাঞ্চের পর তিনি কত পৃষ্ঠা পড়েন?				3				
+			160004	word_problem	জর্জ একটি দোকানে গিয়ে কিছু টি-শার্ট কিনেছিলেন। তিনি অন্য দোকানে গিয়ে আরো 2 টি টি-শার্ট কিনেছিলেন। তিনি মোট 7 টি টি শার্ট কিনেছিলেন। প্রথম দোকানটিতে সে কত টি শার্ট কিনেছিল?	জর্জ একটি দোকানে গিয়ে কিছু টি-শার্ট কিনেছিলেন। তিনি অন্য দোকানে গিয়ে আরো 2 টি টি-শার্ট কিনেছিলেন। তিনি মোট 7 টি টি শার্ট কিনেছিলেন। প্রথম দোকানটিতে সে কত টি শার্ট কিনেছিল?				5				
+			160005	word_problem	আপনার কাছে  কিছু স্ট্যাম্প আছে। আপনার ভাই আপনাকে 6 টি স্ট্যাম্প দিচ্ছে। এখন আপনার কাছে 10 টা স্ট্যাম্প আছে। আপনি কত স্ট্যাম্প দিয়ে শুরু করেছেন?	আপনার কাছে  কিছু স্ট্যাম্প আছে। আপনার ভাই আপনাকে 6 টি স্ট্যাম্প দিচ্ছে। এখন আপনার কাছে 10 টা স্ট্যাম্প আছে। আপনি কত স্ট্যাম্প দিয়ে শুরু করেছেন?				4				
+			160006	word_problem	টেস সকালে 3 টি ফুল তুলে নিলেন। তিনি বিকেলে আরো ফুল তুলেছিলেন। যদি টস ৮ টি ফুল তুলেছেন তাহলে বিকেলে কত তুলেছেন?	টেস সকালে 3 টি ফুল তুলে নিলেন। তিনি বিকেলে আরো ফুল তুলেছিলেন। যদি টস ৮ টি ফুল তুলেছেন তাহলে বিকেলে কত তুলেছেন?				5				
+			160007	word_problem	একটি জারিতে কিছু টিকিট আছে। আপনি আরও পাঁচটি উইকেট সংগ্রহ করেন এবং এখন 10 টি উইকেট আছে। আপনার কাছে শুরুয়াতে কোটা ক্রিকেট ছিল?	একটি জারিতে কিছু টিকিট আছে। আপনি আরও পাঁচটি উইকেট সংগ্রহ করেন এবং এখন 10 টি উইকেট আছে। আপনার কাছে শুরুয়াতে কোটা ক্রিকেট ছিল?				5				
+			160008	word_problem	মেগান এর পেলের সি শেলস ছিল। সে আরও 2 টি সি শেলস পেয়েছিল। এখন তার মধ্যে 8 টি সি শেলস রয়েছে। সে কতগুলি সি শেলস শুরুয়াতে রেখেছিলো ?	মেগান এর পেলের সি শেলস ছিল। সে আরও 2 টি সি শেলস পেয়েছিল। এখন তার মধ্যে 8 টি সি শেলস রয়েছে। সে কতগুলি সি শেলস শুরুয়াতে রেখেছিলো ?				6
+			160009	word_problem	কেলি তার ঘরের সামনে 4 টি বিড়াল দেখেছিল। সে ঘুমাতে গেল এবং যখন সে জেগে উঠল তখন তার ঘরের সামনে 7 টি বিড়াল ছিল। ঘুমের সময় তার ঘরে কত বিড়াল এসেছিল?	কেলি তার ঘরের সামনে 4 টি বিড়াল দেখেছিল। সে ঘুমাতে গেল এবং যখন সে জেগে উঠল তখন তার ঘরের সামনে 7 টি বিড়াল ছিল। ঘুমের সময় তার ঘরে কত বিড়াল এসেছিল?				3
+			160010	word_problem	পিটারের চারটি মার্বেলস রয়েছে। সু পিটারকে কিছু মার্বেলস দেয় এবং এখন তার মধ্যে 6 টি মার্বেল রয়েছে। সু পিটার কে কোটা মার্বেলস দিয়েছে?	পিটারের চারটি মার্বেলস রয়েছে। সু পিটারকে কিছু মার্বেলস দেয় এবং এখন তার মধ্যে 6 টি মার্বেল রয়েছে। সু পিটার কে কোটা মার্বেলস দিয়েছে?				2
+SpecialTest_17	1	170001, 170002, 170003, 170004, 170003~170004
+			170001	operations_with_objects	1~9-1~9=?		horizontal			1~8
+			170002	operations_with_objects	10-1~9=?		horizontal			1~9
+			170003	operations_drag	1~9-1~9=?		horizontal			1~8
+			170004	operations_drag	10-1~9=?		horizontal			1~9
+SpecialTest_18	1	180001, 180002, 180003, 180004, 180005
+			180001	operations_with_objects	11~19-1~9=?	regroupingfalse	horizontal			10~18
+			180002	operations_with_objects	11~20-10=?	regroupingfalse	horizontal			1~10
+			180003	operations_drag	11~19-1~9=?	regroupingfalse	horizontal			10~18
+			180004	operations_drag	11~20-10=?	regroupingfalse	horizontal			1~10
+			180005	operations_drag	11~19-11~19=?	regroupingfalse	horizontal			1~8
+SpecialTest_19	1	190001, 190002, 190003, 190003, 190004~190005
+			190001	operations_with_objects	11~18-1~9=?	regroupingtrue	horizontal			2~9
+			190002	operations_with_objects	20-1~9=?		horizontal			11~19
+			190003	operations_drag	11~18-1~9=?	regroupingtrue	horizontal			2~9
+			190004	operations_drag	20-11~19=?		horizontal			1~9
+			190005	operations_drag	20-1~9=?		horizontal			11~19
+SpecialTest_20	1	200001, 200002, 200003, 200004, 200005
+			200001	operations_drag	10,20,30,40,50,60,70,80,90-10,20,30,40,50,60,70,80,90=?	regroupingfalse	horizontal			10~80
+			200002	operations_drag	21~99-10,20,30,40,50,60,70,80,90=?	regroupingfalse	horizontal			9~89
+			200003	operations_drag	21~50-11~49=?	regroupingfalse	vertical			1~39
+			200004	operations_drag	51~99-21~50=?	regroupingfalse	vertical			1~78
+			200005	operations_drag	51~99-51~99=?	regroupingfalse	vertical			1~48
+SpecialTest_21	1	210001, 210002, 210003, 210003, 210004
+			210001	operations_drag	21~50-1~9=?	regroupingtrue	vertical			12~49
+			210002	operations_drag	21~50-11~19=?	regroupingtrue	vertical			1~39
+			210003	operations_drag	21~50-21~50=?	regroupingtrue	vertical			1~29
+			210004	operations_drag	20, 30, 40, 50-11~49=?	regroupingtrue	vertical			1~39
+SpecialTest_22	1	220001~220010, 220001~220010, 220001~220010, 220001~220010, 220001~220010
+			220001	word_problem	মিলির কাছে টি ব্রেসলেট আছে. সে ২ টি হারিয়ে ফেলেছে। মিলি কতগুলো ব্রেসলেট রেখে গেছে?	মিলির কাছে টি ব্রেসলেট আছে. সে ২ টি হারিয়ে ফেলেছে। মিলি কতগুলো ব্রেসলেট রেখে গেছে?				7
+			220002	word_problem	হান্না 8 রুটি বানিয়েছে . তিনি তার চাচাতো ভাই কে 3 টি রুটি দিলেন । তিনি কত রুটি রেখেছেন ?	হান্না 8 রুটি বানিয়েছে . তিনি তার চাচাতো ভাই কে 3 টি রুটি দিলেন । তিনি কত রুটি রেখেছেন ?				5
+			220003	word_problem	আকাশে 9 টি কাইট উড়ছে। বায়ু মাটির নিচে 3 কাইট বয়ে যায়। এখনও কতগুলি কাইট আকাশে উড়ছে?	আকাশে 9টি কাইট উড়ছে। বায়ু মাটির নিচে 3 কাইট বয়ে যায়। এখনও কতগুলি কাইট আকাশে উড়ছে?				6
+			220004	word_problem	একটি পুকুরের মধ্যে 15 টি হাঁসস্বীম করছে । 7 টি হাঁস উড়ে যায়। এখনও কতগুলি হাঁস পুকুরে স্বীম করছে ?	একটি পুকুরের মধ্যে 15 টি হাঁসস্বীম করছে । 7 টি হাঁস উড়ে যায়। এখনও কতগুলি হাঁস পুকুরে স্বীম করছে ?				8
+			220005	word_problem	লেনের 12 টি বই আছে। তিনি তার ক্লাস লাইব্রেরিতে 8 টি বই দান করেছেন। লেনা কত বই রেখেছেন?	লেনের 12 টি বই আছে। তিনি তার ক্লাস লাইব্রেরিতে 8 টি বই দান করেছেন। লেনা কত বই রেখেছেন?				4
+			220006	word_problem	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?				11
+			220007	word_problem	লুসির কাছে 8 টি পেনসিল রয়েছে। তিনি 7 টি হারিয়ে ফেলেছেন । লুসি কতগুলো পেন্সিল রেখেছেন?	লুসির কাছে 8 টি পেনসিল রয়েছে। তিনি 7 টি হারিয়ে ফেলেছেন । লুসি কতগুলো পেন্সিল রেখেছেন?				1
+			220008	word_problem	আনা 7 কুকি আছে। তিনি তাদের 2 খায়। তিনি কত কুকিজ রেখেছেন?	আনা 7 কুকি আছে। তিনি তাদের 2 খায়। তিনি কত কুকিজ রেখেছেন?				5
+			220009	word_problem	নাসির 17 পৃষ্ঠার বইটি তুলে ধরেছেন। তিনি 9 টি পৃষ্ঠা পড়েন। তিনি কতগুলো পৃষ্ঠা পড়েছেন ?	নাসির 17 পৃষ্ঠার বইটি তুলে ধরেছেন। তিনি 9 টি পৃষ্ঠা পড়েন। তিনি কতগুলো পৃষ্ঠা পড়েছেন ?				8
+			220010	word_problem	স্কুল বাসে 10 জন শিক্ষার্থী রয়েছে। 3 জন শিক্ষার্থী বাস ছেড়ে চলে যায়। বাসে কতজন শিক্ষার্থী রয়েছেন?	স্কুল বাসে 10 জন শিক্ষার্থী রয়েছে। 3 জন শিক্ষার্থী বাস ছেড়ে চলে যায়। বাসে কতজন শিক্ষার্থী রয়েছেন?				7
+SpecialTest_23	1	230001~230010, 230001~230010, 230001~230010, 230001~230010, 230001~230010
+			230001	word_problem	লুসি 9 বছর বয়সী। তার বোন জুলি 6 বছর বয়সী। লুসি জুলি চেয়ে কত বড়?	লুসি 9 বছর বয়সী। তার বোন জুলি 6 বছর বয়সী। লুসি জুলি চেয়ে কত বড়?				3
+			230002	word_problem	স্যাম 7 কুকি এবং জেন 2 কুকি খেয়েছিল। স্যামের চেয়ে জেন কত কম কুকি খেয়েছিল?	স্যাম 7 কুকি এবং জেন 2 কুকি খেয়েছিল। স্যামের চেয়ে জেন কত কম কুকি খেয়েছিল?				5
+			230003	word_problem	অ্যামি স্কুলের জন্যে 4 টি ব্লক হাঁটে ।যেন স্কুলের জন্যে 4 টি ব্লক হাঁটে । আমি যেন চেয়ে কত বেশি ব্লক হাঁটে ?	অ্যামি স্কুলের জন্যে 4 টি ব্লক হাঁটে ।যেন স্কুলের জন্যে 4 টি ব্লক হাঁটে । আমি যেন চেয়ে কত বেশি ব্লক হাঁটে ?				2
+			230004	word_problem	একটি শ্রেণীতে 13 মেয়েরা এবং 18 জন ছেলে আছে। মেয়েদের চেয়ে আর কত ছেলে আছে?	একটি শ্রেণীতে 13 মেয়েরা এবং 18 জন ছেলে আছে। মেয়েদের চেয়ে আর কত ছেলে আছে?				5
+			230005	word_problem	বেথের বাগানে 13 টি ফুল আছে । কেটে 8 টি ফুল আছে।বেথের কাটে চেয়ে আর কত ফুল আছে?	বেথের বাগানে 13 টি ফুল আছে । কেটে 8 টি ফুল আছে।বেথের কাটে চেয়ে আর কত ফুল আছে?				5
+			230006	word_problem	আপনার 7 বেলুন রয়েছে এবং আপনার বন্ধুর 5 টি বেলুন রয়েছে। আপনার বন্ধুর চেয়ে কত বেশি বেলুন আছে?	আপনার 7 বেলুন রয়েছে এবং আপনার বন্ধুর 5 টি বেলুন রয়েছে। আপনার বন্ধুর চেয়ে কত বেশি বেলুন আছে?				2
+			230007	word_problem	মারিয়া 3 টি বই পড়ে এবং স্ট্যাসি 5 টি বই পড়ে। স্ট্যাসি মারিয়ায়ের চেয়ে আরও কত বই পড়েন?	মারিয়া 3 টি বই পড়ে এবং স্ট্যাসি 5 টি বই পড়ে। স্ট্যাসি মারিয়ায়ের চেয়ে আরও কত বই পড়েন?				2
+			230008	word_problem	সিডনি সমুদ্র সৈকত উপর 20 সি শেলস পায়ে। নোয়া পায়ে 6 সি শেলস। সিডনি নোয়া চেয়ে কত সি শেলস বেশি পায়ে ?	সিডনি সমুদ্র সৈকত উপর 20 সি শেলস পায়ে। নোয়া পায়ে 6 সি শেলস। সিডনি নোয়া চেয়ে কত সি শেলস বেশি পায়ে ?				14
+			230009	word_problem	আন্না 12 টি গাছ কিনেছে। তার বোন 7 টি গাছ কিনেছে। তার বোন চেয়ে আন্না কতো গাছ কিনেছে?	আন্না 12 টি গাছ কিনেছে। তার বোন 7 টি গাছ কিনেছে। তার বোন চেয়ে আন্না কতো গাছ কিনেছে?				5
+			230010	word_problem	টম স্কুলের বাগানে 5 বীজ বপন করে। জেন 8 টি বীজ বপন করে। জনে তুলনায় টমর বীজ কত কম?	টম স্কুলের বাগানে 5 বীজ বপন করে। জেন 8 টি বীজ বপন করে। জনে তুলনায় টমর বীজ কত কম?				3
+SpecialTest_24	1	240001~240010, 240001~240010, 240001~240010, 240001~240010, 240001~240010
+			240001	word_problem	আমার 10 টি আপেল আছে। আমি কিছু আপেল খাই। আমার 4 টি আপেল বাকি আছে। আমি কতগুলি আপেল খেয়েছি?	আমার 10 টি আপেল আছে। আমি কিছু আপেল খাই। আমার 4 টি আপেল বাকি আছে। আমি কতগুলি আপেল খেয়েছি?				6
+			240002	word_problem	গতকাল, দোকানটিতে চালের 7 টি ব্যাগ ছিল। আজ দোকানটিতে চালের দুই ব্যাগ আছে। দোকানে চাল কত ব্যাগ বিক্রি হয়েছে ?	গতকাল, দোকানটিতে চালের 7 টি ব্যাগ ছিল। আজ দোকানটিতে চালের দুই ব্যাগ আছে। দোকানে চাল কত ব্যাগ বিক্রি হয়েছে ?				5				
+			240003	word_problem	ডেভিড এবং তার বন্ধুরা 9 টি কাইট উড়ায়ে. কিছু কাইট গাছের গায়ে আটকে যায় । 6 টি কাইট এখনও উড়ছে। গাছের কতগুলো কাইট আটকে আছে?	ডেভিড এবং তার বন্ধুরা 9 টি কাইট উড়ায়ে. কিছু কাইট গাছের গায়ে আটকে যায় । 6 টি কাইট এখনও উড়ছে। গাছের কতগুলো কাইট আটকে আছে?				3				
+			240004	word_problem	একজন মানুষ বেলুন বহন করছিল কিন্তু বাতাস 6 টা উড়ে গেল। তার কাছে ২ টি বেলুন রইলো। সে কত বেলুন দিয়ে শুরু করেছিল?	একজন মানুষ বেলুন বহন করছিল কিন্তু বাতাস 6 টা উড়ে গেল। তার কাছে ২ টি বেলুন রইলো। সে কত বেলুন দিয়ে শুরু করেছিল?				8				
+			240005	word_problem	কিছু ম্যাংগোজ ঝুড়ি তে ছিল । 4 টি ঝুড়ি থেকে নেওয়া হয়েছে । এখন 6ম্যাংগোজ আছে। ঝুড়িগুলিতে কত ম্যাংগোজ ছিল তা আগে?	কিছু ম্যাংগোজ ঝুড়ি তে ছিল । 4 টি ঝুড়ি থেকে নেওয়া হয়েছে । এখন 6ম্যাংগোজ আছে। ঝুড়িগুলিতে কত ম্যাংগোজ ছিল তা আগে?				10				
+			240006	word_problem	8 টি পাখি বৃক্ষের শাখায় বসে আছে। কিছু উড়ে গেছে। এখন শাখায় 3 টি পাখি আছে। কত পাখি উড়ে গেছে?	8 টি পাখি বৃক্ষের শাখায় বসে আছে। কিছু উড়ে গেছে। এখন শাখায় 3 টি পাখি আছে। কত পাখি উড়ে গেছে?				5				
+			240007	word_problem	মিয়া বাজারে 10 টি জামাকাপড়ের সাদাসিধা জ্যাম নিয়ে এসেছিল। তিনি কিছু জার বিক্রি করেছিলেন এবং 3 টি জার বাকি ছিল। তিনি বাজারে কতগুলি জার্স বিক্রি করেছিলেন?	মিয়া বাজারে 10 টি জামাকাপড়ের সাদাসিধা জ্যাম নিয়ে এসেছিল। তিনি কিছু জার বিক্রি করেছিলেন এবং 3 টি জার বাকি ছিল। তিনি বাজারে কতগুলি জার্স বিক্রি করেছিলেন?				7				
+			240008	word_problem	টিমের কুকুরটি কিছু কুকুরের জন্ম দিয়েছে। টিম তার বন্ধুদের 6 টি কুকুর দিয়েছে। এখন তার 2 টি কুকুর আছে। তার কুকুর কত কুকুর জন্ম দিয়েছে?	টিমের কুকুরটি কিছু কুকুরের জন্ম দিয়েছে। টিম তার বন্ধুদের 6 টি কুকুর দিয়েছে। এখন তার 2 টি কুকুর আছে। তার কুকুর কত কুকুর জন্ম দিয়েছে?				8				
+			240009	word_problem	জেন তার পরিবারের জন্য 6 টি স্যান্ডউইচ তৈরি করেছে। তার পরিবার কিছু খেয়েছে এবং 2 টি বাকি আছে। তার পরিবার কত স্যান্ডউইচ খেতে পেরেছে?	জেন তার পরিবারের জন্য 6 টি স্যান্ডউইচ তৈরি করেছে। তার পরিবার কিছু খেয়েছে এবং 2 টি বাকি আছে। তার পরিবার কত স্যান্ডউইচ খেতে পেরেছে?				4				
+			240010	word_problem	7 ছেলে তাদের বাইক চালায়। কয়েকজন ছেলে বাড়ি চলে যায়। 5 ছেলেরা তাদের বাইক চালাচ্ছে। কত ছেলে বাড়ি চলে গেছে?	7 ছেলে তাদের বাইক চালায়। কয়েকজন ছেলে বাড়ি চলে যায়। 5 ছেলেরা তাদের বাইক চালাচ্ছে। কত ছেলে বাড়ি চলে গেছে?				2				
+SpecialTest_25	1	250001, 250002, 250003, 250004, 250005												
+			250001	operations_without_objects	2~3x2~9=?		horizontal			4~27				
+			250002	operations_without_objects	4~5x2~9=?		horizontal			8~45				
+			250003	operations_without_objects	6~7x2~9=?		horizontal			12~63				
+			250004	operations_without_objects	8~9x2~9=?		horizontal			16~81				
+			250005	operations_without_objects	2~9x2~9=?		horizontal			4~81				
+SpecialTest_26	1	260001~260010, 260001~260010, 260001~260010, 260001~260010, 260001~260010												
+			260001	word_problem	মিরান্ডা 18 টি ব্রাউনিজ বেক করেছে । তিনি 2 টি প্লেটে সমান সংখ্যক ব্রাউনিজ রেখেছিলেন। প্রতিটি প্লেটে কতগুলি brownies আছে?	মিরান্ডা 18 টি ব্রাউনিজ বেক করেছে । তিনি 2 টি প্লেটে সমান সংখ্যক ব্রাউনিজ রেখেছিলেন। প্রতিটি প্লেটে কতগুলি brownies আছে?				9				
+			260002	word_problem	একজন কৃষকের 16 টি ডিম থাকে এবং তাদেরকে দুটি বাক্সে তে সমানভাবে রাখে। প্রতিটি বাক্সে তে কত ডিম আছে ?	একজন কৃষকের 16 টি ডিম থাকে এবং তাদেরকে দুটি বাক্সে তে সমানভাবে রাখে। প্রতিটি বাক্সে তে কত ডিম আছে ?				8				
+			260003	word_problem	সারাহ 6 ফুল তুলে নিলেন। তিনি দুইটি ফুলদানী তে সমান পরিমাণ ফুল দিলেন। প্রতিটি ফুলদানী তে কত ফুল দিলেন?	সারাহ 6 ফুল তুলে নিলেন। তিনি দুইটি ফুলদানী তে সমান পরিমাণ ফুল দিলেন। প্রতিটি ফুলদানী তে কত ফুল দিলেন?				3				
+			260004	word_problem	শান্তি গাছ থেকে 6 টি ম্যাংগোজ নিয়েছিলেন। তিনি 3 টি বাক্সে তে সমান সংখ্যক ম্যাংগোজ রেখেছিলেন। প্রতিটি বক্সে তে তিনি কত ম্যাগোজ রেখেছিলেন?	শান্তি গাছ থেকে 6 টি ম্যাংগোজ নিয়েছিলেন। তিনি 3 টি বাক্সে তে সমান সংখ্যক ম্যাংগোজ রেখেছিলেন। প্রতিটি বক্সে তে তিনি কত ম্যাগোজ রেখেছিলেন?				2				
+			260005	word_problem	20 জন ছাত্রকে সমানভাবে 4 টি গ্রুপে বিভক্ত করা হয়েছিল। প্রতিটি গ্রুপে কতজন ছাত্র আছেন?	20 জন ছাত্রকে সমানভাবে 4 টি গ্রুপে বিভক্ত করা হয়েছিল। প্রতিটি গ্রুপে কতজন ছাত্র আছেন?				5				
+			260006	word_problem	2 শিশুর 8 টি মিষ্টি সমানভাবে ভাগ করে। প্রতিটি শিশু কত মিষ্টি পায়?	2 শিশুর 8 টি মিষ্টি সমানভাবে ভাগ করে। প্রতিটি শিশু কত মিষ্টি পায়?				4				
+			260007	word_problem	আপনি এবং আপনার বোন সমান চিপের 10 ব্যাগ ভাগ করে নিন। আপনার প্রতিটি কত চিপস এর ব্যাগ পাবেন ?	আপনি এবং আপনার বোন সমান চিপের 10 ব্যাগ ভাগ করে নিন। আপনার প্রতিটি কত চিপস এর ব্যাগ পাবেন ?				5				
+			260008	word_problem	3 বন্ধু সমানভাবে 12 টি ক্যান্ডি ভাগ করে। প্রতিটি বন্ধু কতগুলি ক্যান্ডি পায়?	3 বন্ধু সমানভাবে 12 টি ক্যান্ডি ভাগ করে। প্রতিটি বন্ধু কতগুলি ক্যান্ডি পায়?				4				
+			260009	word_problem	মিঃ সিম্পসনের ক্লাসে 18 টি বই রয়েছে। তিনি তাদের 3 টি শেলফে সমানভাবে সাজিয়েছেন। প্রতিটি শেলফের কতগুলি বই আছে?	মিঃ সিম্পসনের ক্লাসে 18 টি বই রয়েছে। তিনি তাদের 3 টি শেলফে সমানভাবে সাজিয়েছেন। প্রতিটি শেলফের কতগুলি বই আছে?				6				
+			260010	word_problem	মার্কো 12 টি মাছ কিনেছে। তিনি 4 ট্যাঙ্কে সমান সংখ্যক মাছ রাখেন। প্রতিটি ট্যাঙ্কে কত মাছ আছে?	মার্কো 12 টি মাছ কিনেছে। তিনি 4 ট্যাঙ্কে সমান সংখ্যক মাছ রাখেন। প্রতিটি ট্যাঙ্কে কত মাছ আছে?				3				
+SpecialTest_27	1	270001~270010, 270001~270010, 270001~270010, 270001~270010, 270001~270010												
+			270001	word_problem	মাইকের 3 জোড়া মোজা আছে। প্রতিটি জোড়া তে দুটি মোজা আছে। মাইকের কাছে কত মোজা আছে?	মাইকের 3 জোড়া মোজা আছে। প্রতিটি জোড়া তে দুটি মোজা আছে। মাইকের কাছে কত মোজা আছে?				6				
+			270002	word_problem	অ্যালি 2 টি ম্যাংগোজ এর বক্স কিনেছে। প্রতিটি বাক্সে তে 4 টি ম্যাংগোজ রয়েছে। সে কত mangoes কিনেছে?	অ্যালি 2 টি ম্যাংগোজ এর বক্স কিনেছে। প্রতিটি বাক্সে তে 4 টি ম্যাংগোজ রয়েছে। সে কত mangoes কিনেছে?				8				
+			270003	word_problem	চারণভূমিতে তিনটি ভেড়া আছে। প্রতিটি ভেড়াটিতে 4 টি ভেড়া আছে। গবাদি পশু কতগুলো ভেড়া আছে?	চারণভূমিতে তিনটি ভেড়া আছে। প্রতিটি ভেড়াটিতে 4 টি ভেড়া আছে। গবাদি পশু কতগুলো ভেড়া আছে?				12				
+			270004	word_problem	জেন ফুলদানি তে 3 ফুল গুনেছে। প্রতিটি ফুলের 5 টি পাপড়ি আছে। কতগুলো পাপড়ি আছে?	জেন ফুলদানি তে 3 ফুল গুনেছে। প্রতিটি ফুলের 5 টি পাপড়ি আছে। কতগুলো পাপড়ি আছে?				15				
+			270005	word_problem	খামারটিতে দুটি ওয়াগন আছে। প্রতিটি ওয়াগন 8 টি শিশু বহন করে। ওয়াগনগুলিতে কতজন শিশু আছে ?	খামারটিতে দুটি ওয়াগন আছে। প্রতিটি ওয়াগন 8 টি শিশু বহন করে। ওয়াগনগুলিতে কতজন শিশু আছে ?				16				
+			270006	word_problem	একটি মৌমাছি 6 পা আছে। দুই মৌমাছি কত পা আছে?	একটি মৌমাছি 6 পা আছে। দুই মৌমাছি কত পা আছে?				12				
+			270007	word_problem	হাঁসের দুই পা আছে। তিনটি হাঁসের কত পা আছে?	হাঁসের দুই পা আছে। তিনটি হাঁসের কত পা আছে?				6				
+			270008	word_problem	খামারটিতে দুটি ওয়াগন আছে। প্রতিটি ওয়াগন 8 টি শিশু বহন করে। ওয়াগনগুলিতে কতজন শিশু আছে ?	খামারটিতে দুটি ওয়াগন আছে। প্রতিটি ওয়াগন 8 টি শিশু বহন করে। ওয়াগনগুলিতে কতজন শিশু আছে ?				20				
+			270009	word_problem	স্যালি কে এটি মাইলের চালানোর জন্য 7 মিনিট সময় লাগে। 4 মাইল চালানোর জন্য কত লাগবে?	স্যালি কে এটি মাইলের চালানোর জন্য 7 মিনিট সময় লাগে। 4 মাইল চালানোর জন্য কত লাগবে?				28				
+			270010	word_problem	কিট, রুথ এবং ডীন প্রত্যেকেই পিজার 2 টি টুকরা খেয়েছিল। তারা পিজার কতগুলি টুকরা খাবে?	কিট, রুথ এবং ডীন প্রত্যেকেই পিজার 2 টি টুকরা খেয়েছিল। তারা পিজার কতগুলি টুকরা খাবে?				6				
+SpecialTest_28	1	280001~280004, 280005~280008, 280009, 280010, 280011												
+			280001	shapes	which	কোনটি সারকল?	কোনটি সারকল?			circle	circle,square,triangle,rectangle			
+			280002	shapes	which	কোনটি স্কোয়ার?	কোনটি স্কোয়ার?			square	circle,square,triangle,rectangle			
+			280003	shapes	which	কোনটি ট্রায়াঙ্গল?	কোনটি ট্রায়াঙ্গল?			triangle	circle,square,triangle,rectangle			
+			280004	shapes	which	কোনটি রেকট্যাংল?	কোনটি রেকট্যাংল?			rectangle	circle,square,triangle,rectangle			
+			280005	shapes	which	কোনটি একটি পেন্টাগন ?	কোনটি একটি পেন্টাগন ?			pentagon	pentagon,hexagon,parallelogram,trapezoid			
+			280006	shapes	which	কোনটি একটি হেক্সাগণ ?	কোনটি একটি হেক্সাগণ ?			hexagon	pentagon,hexagon,parallelogram,trapezoid			
+			280007	shapes	which	কোনটি একটি পারলালগ্রাম ?	কোনটি একটি পারলালগ্রাম ?			parallelogram	pentagon,hexagon,parallelogram,trapezoid			
+			280008	shapes	which	কোনটি একটি ট্রপেজওঈ ?	কোনটি একটি ট্রপেজওঈ ?			trapezoid	pentagon,hexagon,parallelogram,trapezoid			
+			280009	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
+			280010	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
+			280011	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			cylinder,cube,sphere,cone	cylinder,cube,sphere,cone			
+FishTest_1_1	1	111, 111, 112, 112, 111												
+			111	single_digit_numbers	কতগুলো?					1~4				
+			112	recognize_number						1~4				
+FishTest_1_2	1	121, 121, 122, 122, 121												
+			121	recognize_number						1~4				
+			122	single_digit_numbers	কতগুলো?					4~7				
+FishTest_1_3	1	131, 131, 132, 132, 131												
+			131	single_digit_numbers	কতগুলো?					3~6				
+			132	recognize_number						3~7				
+FishTest_2_1	1	211, 211, 212, 212, 211												
+			211	single_digit_numbers	কতগুলো?					4~7				
+			212	recognize_number						3~7				
+FishTest_2_2	1	221, 221, 222, 222, 221												
+			221	single_digit_numbers	কতগুলো?					6~9				
+			222	recognize_number						5~9				
+FishTest_2_3	1	231, 232, 233, 233, 234												
+			231	recognize_number						5~9				
+			232	number_identification						10				
+			233	single_digit_numbers	কতগুলো?					6~9				
+			234	2digit_numbers	কতগুলো?					10	5~10			
+FishTest_3_1	1	311, 311, 312, 312, 311												
+			311	recognize_number						6~9				
+			312	2digit_numbers	কতগুলো?					11~15				
+FishTest_3_2	1	321, 321, 322, 322, 321												
+			321	recognize_number						11~15				
+			322	2digit_numbers	কতগুলো?					16~20				
+FishTest_3_3	1	331, 332, 332, 333, 333												
+			331	recognize_number						16~20				
+			332	bigger_and_smaller	bigger	image	lineup	কোন গ্রুপটি বড়?	কোন গ্রুপটি বড়?	1~10				
+			333	bigger_and_smaller	smaller	number		কোনটি ছোট?	কোনটি ছোট?	1~10				
+FishTest_4_1	1	411, 412, 413, 414, 415												
+			411	2digit_numbers	কতগুলো?					10~20				
+			412	2digit_numbers	কতগুলো?					17~20				
+			413	recognize_number						1~20				
+			414	number_identification						11~19				
+			415	missing_number_drag	1	4	ascending			1~5				
+FishTest_4_2	1	421, 422, 423, 424, 425												
+			421	operations_with_objects	1~4+1~4=?					2~5				
+			422	operations_with_objects	1~4+1~4=?					2~5				
+			423	operations_with_objects	1~4+1~4=?					2~5				
+			424	operations_with_objects	2~5-1~4=?					1~4				
+			425	missing_number_drag	1	4	descending			1~5				
+FishTest_4_3	1	431, 432, 433, 434, 435												
+			431	bigger_and_smaller	bigger	number		কোনটি বড়?	 কোনটি বড়?	1~10				
+			432	bigger_and_smaller	smaller	number		কোনটি ছোট?	কোনটি ছোট?	1~10				
+			433	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			1~10				
+			434	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			1~10				
+			435	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~10				
+FishTest_5_1	1	511, 512, 513, 514, 515												
+			511	recognize_number						21~50				
+			512	number_identification						51~99				
+			513	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~20				
+			514	missing_number_drag	1	4	ascending			1~10				
+			515	bigger_and_smaller	bigger	number		কোনটি বড়?	 কোনটি বড়?	20~50				
+FishTest_5_2	1	521, 522, 523, 524, 525												
+			521	2digit_numbers	কতগুলো?					51~100				
+			522	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~20				
+			523	operations_with_objects	2~10-1~4=?					1~9				
+			524	operations_with_objects	2~10-5~9=?					1~9				
+			525	operations_drag	1~5+1~5=?		vertical			1~9				
+FishTest_5_3	1	531, 532, 533, 534, 535												
+			531	operations_with_objects	10~19+1~9=?	regroupingfalse				1~20				
+			532	operations_with_objects	1~9+10~19=?	regroupingfalse				1~20				
+			533	operations_drag	1~9+1~9=?		vertical			1~10				
+			534	operations_drag	1~10-1~9=?		vertical			1~9				
+			535	missing_number_drag	2	4	ascending			1~20	2			
+FishTest_6_1	1	611, 612, 613, 614, 615												
+			611	operations_drag	10+1~9=?		vertical			11~19				
+			612	operations_drag	11~20+1~10=?		vertical			11~19				
+			613	missing_number_drag	10	4	descending			1~50	10			
+			614	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
+			615	use_magnitude_symbols	11~50	11~50	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+FishTest_6_2	1	621, 622, 623, 624, 625												
+			621	operations_with_objects	1~9+1~9=?					10				
+			622	operations_with_objects	1~9+1~9=?	regroupingtrue				11~20				
+			623	operations_drag	11~20-1~10=?		vertical			10~20				
+			624	operations_drag	11~19-1~9=?	regroupingfalse	vertical			10~18				
+			625	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			1~50				
+FishTest_7_1	1	711, 712, 713, 714, 715												
+			711	missing_number_drag	1	3	ascending			51~100				
+			712	missing_number_drag	10	4	ascending			51~100	10			
+			713	number_identification						51~100				
+			714	operations_with_objects	11~19+1~9=?	regroupingtrue				20				
+			715	operations_drag	1~9+1~9=?	regroupingtrue	vertical			10~19				
+FishTest_7_2	1	721~722, 723, 724, 725, 726												
+			721	biggest_and_smallest	biggest	কোনটি সবচেয়ে বড়?	কোনটি সবচেয়ে বড়?			51~100				
+			722	biggest_and_smallest	smallest	কোনটি ছোট?	কোনটি ছোট?			51~100				
+			723	use_magnitude_symbols	51~100	51~100	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			724	operations_drag	11~20-10=?		horizontal			1~10				
+			725	operations_drag	1~9+1~9=?	regroupingtrue	vertical			11~20				
+			726	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~99				
+FishTest_7_3	1	731, 732, 733, 734~735, 736												
+			731	missing_number_drag	10	3	descending			51~100	10			
+			732	operations_with_objects	11~19-1~9=?	regroupingtrue				1~10				
+			733	operations_drag	11~20-1~9=?	regroupingtrue	vertical			1~19				
+			734	operations_drag	20-1~9=?	regroupingtrue	vertical			11~19				
+			735	operations_drag	20-11~19=?	regroupingtrue	vertical			1~9				
+			736	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			71~99				
+FishTest_8_1	1	811, 812~813, 814, 815, 816												
+			811	missing_number_drag	3	4	ascending			1~20	3			
+			812	operations_with_objects	11~19-1~9=?	regroupingtrue				1~9				
+			813	operations_drag	11~19-1~9=?	regroupingtrue	vertical			1~9				
+			814	operations_with_objects	20-1~9=?	regroupingtrue				11~19				
+			815	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~99				
+			816	word_problem	7 টি লাল আপেল এবং 2 টি সবুজ আপেল ঝুড়িতে আছে। ঝুড়িতে কতগুলি আপেল?	7 টি লাল আপেল এবং 2 টি সবুজ আপেল ঝুড়িতে আছে। ঝুড়িতে কতগুলি আপেল?				9				
+FishTest_8_2	1	821, 822, 823, 824, 825												
+			821	missing_number_drag	2	4	descending			1~10	2			
+			822	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
+			823	operations_drag	20-1~10=?		horizontal			1~10				
+			824	compare_number_magnitudes	descending	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান	বৃহত্তম থেকে ক্ষুদ্রতম সংখ্যা সাজান			51~99				
+			825	word_problem	বিলিতে 2 টি মার্বেল রয়েছে। অড্রিতে বিলি চেয়ে 3 টি আরো মার্বেল রয়েছে। অড্রে কতগুলি মার্বেল আছে?	बिली के पास 2 मार्बल्स हैं। ऑड्रे के पास बिली की तुलना में 3 अधिक मार्बल्स हैं। ऑड्रे के पास कितने मार्बल्स हैं?				5				
+FishTest_8_3	1	831, 832, 833, 834, 835												
+			831	compare_number_magnitudes	ascending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			71~99				
+			832	missing_number_drag	2	3	descending			11~30	2			
+			833	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
+			834	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
+			835	word_problem	টেবিলএ 5 টি আপেল। স্যাম 2 টি আপেল খায়। টেবিলে কতগুলো আপেল বাকি আছে?	টেবিলএ 5 টি আপেল। স্যাম 2 টি আপেল খায়। টেবিলে কতগুলো আপেল বাকি আছে?				3				
+FishTest_9_1	1	911, 912, 913, 914, 915												
+			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	ফাঁকা পূরণ করুন।	 ফাঁকা পূরণ করুন।						
+			912	missing_number_drag	2	4	descending			50~100	2			
+			913	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
+			914	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
+			915	word_problem	একটি জলের ট্যাংকে 14 টি ফিশ আছে। কেরিরি ট্যাংকটিতে আরও 3 টি ফিশ রেখেছে। সেখানে কত ফিশ আছে?	एक पानी की टंकी में 14 मछलियाँ हैं। केरी ने 3 और मछलियाँ टंकी में डालीं। टंकी में कितनी मछलियां हैं?				17				
+FishTest_9_2	1	921, 922, 923, 924, 925												
+			921	compare_number_magnitudes	descending	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান	ক্ষুদ্রতম সংখ্যা থেকে বৃহত্তম সংখ্যা কে ক্রমে সাজান			51~100				
+			922	missing_number_drag	1	4	ascending			100~500				
+			923	operations_drag	21~40+11~20=?	regroupingtrue	vertical			30~60				
+			924	word_problem	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?	ডিনার টেবিলে 10 টি প্লেট আছে। প্লেটের চেয়ে 5 জন বেশি লোক আছে। কতজন ডিনারে আছে?				15				
+			925	word_problem	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?	একটি বেড়া উপর 12 ক্যাটস আছে। 1 ক্যাট বেড়া বন্ধ নিচে লাফ। বেড়া কত ক্যাটস বাকি আছে?				11				
+FishTest_9_3	1	931, 932, 933, 934, 935												
+			931	missing_number_drag	100	2	ascending			100~900	100			
+			932	operations_drag	11~18-1~9=?	regroupingtrue	horizontal			1~9				
+			933	operations_drag	21~50-11~30=?	regroupingtrue	vertical			1~40				
+			934	word_problem	জ্যানেটের 4 টি ওরেংঞ্জস রয়েছে এবং শ্যারন 4 টি ওরেংঞ্জস রয়েছে। কতগুলি ওরেংঞ্জস আছে তাদের একসাথে?	জ্যানেটের 4 টি ওরেংঞ্জস রয়েছে এবং শ্যারন 4 টি ওরেংঞ্জস রয়েছে। কতগুলি ওরেংঞ্জস আছে তাদের একসাথে?				12				
+			935	word_problem	স্যান্ডি 5 বছর বয়সী। মিয়া স্যান্ডিয়ের চেয়ে 7 বছর বয়সী। মিয়া কত বয়সী?	স্যান্ডি 5 বছর বয়সী। মিয়া স্যান্ডিয়ের চেয়ে 7 বছর বয়সী। মিয়া কত বয়সী?				12				
+FishTest_10_1	1	1011~1013, 1014, 1015, 1016, 1017												
+			1011	operations_drag	11~99+10, 20, 30, 40, 50, 60, 70, 70, 80=?		horizontal			1~100				
+			1012	operations_drag	10, 20, 30, 40, 50, 60, 70, 80+11~99=?		horizontal			1~100				
+			1013	operations_drag	11~99-10, 20, 30, 40, 50, 60, 70, 80, 90=?		horizontal			1~100				
+			1014	operations_without_objects	2, 3, 4, 5x1~9=?		horizontal			2~45				
+			1015	missing_number_drag	10	3	ascending			500~990	10			
+			1016	word_problem	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?	জেনের 9 টি বেলুন রয়েছে। 6 সবুজ এবং বাকি নীল।কোটা বেলুন নীল?				3				
+			1017	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
+FishTest_10_2	1	1021~1022, 1023, 1024, 1025, 1026												
+			1021	missing_number_drag	1	4	descending			100~999				
+			1022	missing_number_drag	5	3	ascending			100~999	5			
+			1023	operations_drag	31~50+20~50=?	regroupingfalse	vertical			1~100				
+			1024	operations_drag	31~50-11~20=?	regroupingfalse	vertical			1~50				
+			1025	operations_without_objects	6, 7, 8, 9x1~9=?		horizontal			6~81				
+			1026	word_problem	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?	একজন কৃষকের 7 টি আপেল গাছ ছিল। সে আরো কিছু গাছ কিনেছিল এবং এখন তার বাগানে 10 টি আপেল গাছ আছে। সে কতগুলি আপেল গাছ কিনেছিল?				3				
+FishTest_10_3	1	1031, 1032, 1033, 1034,1035												
+			1031	operations_drag	11~30+20~70=?	regroupingtrue	vertical			1~100				
+			1032	operations_drag	20~70-11~30=?	regroupingtrue	vertical			1~100				
+			1033	missing_number_drag	10	4	descending			100~999	10			
+			1034	word_problem	টেনিস দলের 12 প্লেয়ার্স রয়েছে। 6 প্লেয়ার্স মেয়ে। কিছু ছেলে ছেলেমেয়ে। কত টেনিস খেলোয়াড় ছেলে?	টেনিস দলের 12 প্লেয়ার্স রয়েছে। 6 প্লেয়ার্স মেয়ে। কিছু ছেলে ছেলেমেয়ে। কত টেনিস খেলোয়াড় ছেলে?				6				
+			1035	shapes	what	এই আকৃতি কি?	এই আকৃতি কি?			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
