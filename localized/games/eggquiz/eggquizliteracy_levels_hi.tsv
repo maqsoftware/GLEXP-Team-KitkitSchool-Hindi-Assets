@@ -823,18 +823,18 @@ SpecialTest_12	2	120006, 120007, 120008, 120009, 120010
 			120010	sentence_word		I ______ an egg.			I want an egg	want	like^walk ^want
 											
 SpecialTest_13	1	130001, 130002, 130003, 130004, 130005									
-			130001	sentence_word		"Small" शब्द का उल्टा शब्द चुने।			Small शब्द का उल्टा शब्द चुने।	Big	Big^Cold^Clean
-			130002	sentence_word		"Day" शब्द का उल्टा शब्द चुने।			Day शब्द का उल्टा शब्द चुने।	Night	Happy^Sun^Night
-			130003	sentence_word		"Tall" शब्द का उल्टा शब्द चुने।			Tall शब्द का उल्टा शब्द चुने।	Short	Fat^Short^Full
-			130004	sentence_word		"Fast" शब्द का उल्टा शब्द चुने।			Fast शब्द का उल्टा शब्द चुने।	Slow	Slow^Sick^Good
-			130005	sentence_word		"Hot" शब्द का उल्टा शब्द चुने।			Hot शब्द का उल्टा शब्द चुने।	Cold	Dirty^Cold^Thin
+			130001	sentence_word		Small शब्द का उल्टा शब्द चुने।			Small शब्द का उल्टा शब्द चुने।	Big	Big^Cold^Clean
+			130002	sentence_word		Day शब्द का उल्टा शब्द चुने।			Day शब्द का उल्टा शब्द चुने।	Night	Happy^Sun^Night
+			130003	sentence_word		Tall शब्द का उल्टा शब्द चुने।			Tall शब्द का उल्टा शब्द चुने।	Short	Fat^Short^Full
+			130004	sentence_word		Fast शब्द का उल्टा शब्द चुने।			Fast शब्द का उल्टा शब्द चुने।	Slow	Slow^Sick^Good
+			130005	sentence_word		Hot शब्द का उल्टा शब्द चुने।			Hot शब्द का उल्टा शब्द चुने।	Cold	Dirty^Cold^Thin
 											
 SpecialTest_13	2	130006, 130007, 130008, 130009, 130010									
-			130006	sentence_word		"Big" शब्द का उल्टा शब्द चुने।			Big शब्द का उल्टा शब्द चुने।	Small	Small^Cold^Clean
-			130007	sentence_word		"Night" शब्द का उल्टा शब्द चुने।			Night शब्द का उल्टा शब्द चुने।	Day	Happy^Sun^Day
-			130008	sentence_word		"Short" शब्द का उल्टा शब्द चुने।			Short शब्द का उल्टा शब्द चुने।	Tall	Fat^Tall^Full
-			130009	sentence_word		"Slow" शब्द का उल्टा शब्द चुने।			Slow शब्द का उल्टा शब्द चुने।	Fast	Fast^Sick^Good
-			130010	sentence_word		"Cold" शब्द का उल्टा शब्द चुने।			Cold शब्द का उल्टा शब्द चुने	Hot	Dirty^Hot^Thin
+			130006	sentence_word		Big शब्द का उल्टा शब्द चुने।			Big शब्द का उल्टा शब्द चुने।	Small	Small^Cold^Clean
+			130007	sentence_word		Night शब्द का उल्टा शब्द चुने।			Night शब्द का उल्टा शब्द चुने।	Day	Happy^Sun^Day
+			130008	sentence_word		Short शब्द का उल्टा शब्द चुने।			Short शब्द का उल्टा शब्द चुने।	Tall	Fat^Tall^Full
+			130009	sentence_word		Slow शब्द का उल्टा शब्द चुने।			Slow शब्द का उल्टा शब्द चुने।	Fast	Fast^Sick^Good
+			130010	sentence_word		Cold शब्द का उल्टा शब्द चुने।			Cold शब्द का उल्टा शब्द चुने	Hot	Dirty^Hot^Thin
 											
 SpecialTest_14	1	140001, 140002, 140003, 140004, 140005									
 			140001	soundonly_word					bif	bif	bif^gal^wah
