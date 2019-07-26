@@ -64,7 +64,7 @@ MiniTest_4_2	1	42001, 42002, 42003, 42004, 42005~42008
 PostTest_4	1	4001, 4002, 4003, 4004~4005, 4006, 4007, 4008, 4009~4010, 4011~4014, 4015												
 			4001	2digit_numbers	How many?					51~100				
 			4002	number_identification						51~99				
-			4003	use_magnitude_symbols	11~50	11~50	Fill in the blank(s).	 Fill in the blank(s).						
+			4003	use_magnitude_symbols	11~50	11~50	Fill in the blank.	 Fill in the blank.						
 			4004	biggest_and_smallest	biggest	Which is the biggest?	Which is the biggest?			11~50				
 			4005	biggest_and_smallest	smallest	Which is the smallest?	Which is the smallest?			11~50				
 			4006	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			1~50				
@@ -88,7 +88,7 @@ MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005
 			52002	operations_drag	11~20+1~10=?		vertical			11~19				
 			52003	missing_number_drag	10	4	ascending			1~50	10			
 			52004	operations_with_objects	1~9+1~9=?					10				
-			52005	use_magnitude_symbols	11~50	11~50	Fill in the blank(s).	 Fill in the blank(s).						
+			52005	use_magnitude_symbols	11~50	11~50	Fill in the blank.	 Fill in the blank.						
 MiniTest_5_3	1	53001, 53002, 53003, 53004, 53005												
 			53001	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
 			53002	operations_with_objects	10-1~9=?	regroupingtrue				1~9				
@@ -97,8 +97,8 @@ MiniTest_5_3	1	53001, 53002, 53003, 53004, 53005
 			53005	shapes	what	What is this shape?	What is this shape?			pentagon,hexagon,parallelogram,trapezoid	pentagon,hexagon,parallelogram,trapezoid			
 PostTest_5	1	5001, 5002~5003, 5004~5007, 5008~5010, 5011, 5012, 5013, 5014, 5015~5018, 5019												
 			5001	recognize_number						51~100				
-			5002	use_magnitude_symbols	41~50	41~50	Fill in the blank(s).	 Fill in the blank(s).						
-			5003	use_magnitude_symbols	16~19	31~34	Fill in the blank(s).	 Fill in the blank(s).						
+			5002	use_magnitude_symbols	41~50	41~50	Fill in the blank.	 Fill in the blank.						
+			5003	use_magnitude_symbols	16~19	31~34	Fill in the blank.	 Fill in the blank.						
 			5004	biggest_and_smallest	biggest	Which is the biggest?	Which is the biggest?			11~50				
 			5005	biggest_and_smallest	smallest	Which is the smallest?	Which is the smallest?			11~50				
 			5006	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			11~50				
@@ -124,7 +124,7 @@ MiniTest_6_1	1	61001, 61002, 61003, 61004, 61005
 MiniTest_6_2	1	62001~62002, 62003, 62004, 62005, 62006												
 			62001	biggest_and_smallest	biggest	Which is the biggest?	Which is the biggest?			51~100				
 			62002	biggest_and_smallest	smallest	Which is the smallest?	Which is the smallest?			51~100				
-			62003	use_magnitude_symbols	51~100	51~100	Fill in the blank(s).	 Fill in the blank(s).						
+			62003	use_magnitude_symbols	51~100	51~100	Fill in the blank.	 Fill in the blank.						
 			62004	operations_drag	11~20-10=?		horizontal			1~10				
 			62005	operations_drag	11~20-1~9=?	regroupingtrue	vertical			1~10				
 			62006	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			51~99				
@@ -138,7 +138,7 @@ MiniTest_6_3	1	63001, 63002, 63003, 63004~63005, 63006
 PostTest_6	1	6001, 6002, 6003, 6004~6005, 6006~6007, 6008~6009, 6010, 6011, 6012, 6013~6014												
 			6001	recognize_number						51~100				
 			6002	3digit_numbers	How many?					100~110				
-			6003	use_magnitude_symbols	51~100	51~100	Fill in the blank(s).	 Fill in the blank(s).						
+			6003	use_magnitude_symbols	51~100	51~100	Fill in the blank.	 Fill in the blank.						
 			6004	biggest_and_smallest	biggest	Which is the biggest?	Which is the biggest?			51~100				
 			6005	biggest_and_smallest	smallest	Which is the smallest?	Which is the smallest?			51~100				
 			6006	missing_number_drag	10	2	ascending			50~100	10			
@@ -169,7 +169,7 @@ MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005
 			73004	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
 			73005	word_problem	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?				3				
 PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012, 7013												
-			7001	use_magnitude_symbols	51~100	51~100	Fill in the blank(s).	 Fill in the blank(s).						
+			7001	use_magnitude_symbols	51~100	51~100	Fill in the blank.	 Fill in the blank.						
 			7002	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			51~100				
 			7003	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~100				
 			7004	missing_number_drag	3	4	ascending			10~50	3			
@@ -183,7 +183,7 @@ PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012
 			7012	word_problem	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?				3				
 			7013	word_problem	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?				2				
 MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005												
-			81001	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank(s).	 Fill in the blank(s).						
+			81001	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank.	 Fill in the blank.						
 			81002	missing_number_drag	2	4	descending			50~100	2			
 			81003	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			81004	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
@@ -201,7 +201,7 @@ MiniTest_8_3	1	83001, 83002, 83003, 83004, 83005
 			83004	word_problem	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?				12				
 			83005	word_problem	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?				12				
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010												
-			8001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from largest to smallest.			300~700				
+			8001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			300~700				
 			8002	missing_number_drag	1	3	ascending			200~999				
 			8003	missing_number_drag	100	4	ascending			200~999	100			
 			8004	missing_number_drag	100	4	descending			100~500	100			
@@ -246,21 +246,21 @@ PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010
 SpecialTest_1	1	10001, 10002, 10003, 10004, 10005												
 			10001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			1~6	1			
 			10002	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			5~10	1			
-			10003	use_magnitude_symbols	1~10	1~10	Fill in the blank(s).	 Fill in the blank(s).			2			
+			10003	use_magnitude_symbols	1~10	1~10	Fill in the blank.	 Fill in the blank.			2			
 			10004	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			1~6	1			
 			10005	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			5~10	1			
 SpecialTest_2	1	20001, 20002, 20003, 20004, 20005												
 			20001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			11~50				
 			20002	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			51~99				
-			20003	use_magnitude_symbols	11~50	11~50	Fill in the blank(s).	 Fill in the blank(s).						
-			20004	use_magnitude_symbols	11~99	11~99	Fill in the blank(s).	 Fill in the blank(s).						
+			20003	use_magnitude_symbols	11~50	11~50	Fill in the blank.	 Fill in the blank.						
+			20004	use_magnitude_symbols	11~99	11~99	Fill in the blank.	 Fill in the blank.						
 			20005	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			11~99				
 SpecialTest_3	1	30001, 30002, 30003, 30004, 30005												
 			30001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			100~500				
 			30002	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			100~999				
 			30003	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			100~500				
-			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank(s).	 Fill in the blank(s).						
-			30005	use_magnitude_symbols	100~999	100~999	Fill in the blank(s).	 Fill in the blank(s).						
+			30004	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank.	 Fill in the blank.						
+			30005	use_magnitude_symbols	100~999	100~999	Fill in the blank.	 Fill in the blank.						
 SpecialTest_4	1	40001, 40002, 40003, 40004, 40005												
 			40001	missing_number_drag	1	4	ascending			1~10				
 			40002	missing_number_drag	2	3	ascending			1~20	2			
@@ -531,7 +531,7 @@ FishTest_6_1	1	611, 612, 613, 614, 615
 			612	operations_drag	11~20+1~10=?		vertical			11~19				
 			613	missing_number_drag	10	4	descending			1~50	10			
 			614	operations_with_objects	1~9+1~9=?	regroupingtrue				1~20				
-			615	use_magnitude_symbols	11~50	11~50	Fill in the blank(s).	 Fill in the blank(s).						
+			615	use_magnitude_symbols	11~50	11~50	Fill in the blank.	 Fill in the blank.						
 FishTest_6_2	1	621, 622, 623, 624, 625												
 			621	operations_with_objects	1~9+1~9=?					10				
 			622	operations_with_objects	1~9+1~9=?	regroupingtrue				11~20				
@@ -547,7 +547,7 @@ FishTest_7_1	1	711, 712, 713, 714, 715
 FishTest_7_2	1	721~722, 723, 724, 725, 726												
 			721	biggest_and_smallest	biggest	Which is the biggest?	Which is the biggest?			51~100				
 			722	biggest_and_smallest	smallest	Which is the smallest?	Which is the smallest?			51~100				
-			723	use_magnitude_symbols	51~100	51~100	Fill in the blank(s).	 Fill in the blank(s).						
+			723	use_magnitude_symbols	51~100	51~100	Fill in the blank.	 Fill in the blank.						
 			724	operations_drag	11~20-10=?		horizontal			1~10				
 			725	operations_drag	1~9+1~9=?	regroupingtrue	vertical			11~20				
 			726	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			51~99				
@@ -576,15 +576,15 @@ FishTest_8_3	1	831, 832, 833, 834, 835
 			832	missing_number_drag	2	3	descending			11~30	2			
 			833	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
 			834	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
-			835	word_problem	5 °ÂËâ ÅðÕÜ ÂÚ ãñ¢Ð âñ× 2 °ÂËâ ¹æÌæ ãñÐ ÅðÕÜ ÂÚ ç·UUUUÌÙð °ÂËâ Õ¿ð ãñ¢?	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?				3				
+			835	word_problem	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?				3				
 FishTest_9_1	1	911, 912, 913, 914, 915												
-			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank(s).	 Fill in the blank(s).						
+			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank.	 Fill in the blank.						
 			912	missing_number_drag	2	4	descending			50~100	2			
 			913	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			914	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
 			915	word_problem	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?				17				
 FishTest_9_2	1	921, 922, 923, 924, 925												
-			921	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from smallest to largest.			51~100				
+			921	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~100				
 			922	missing_number_drag	1	4	ascending			100~500				
 			923	operations_drag	21~40+11~20=?	regroupingtrue	vertical			30~60				
 			924	word_problem	There are 10 plates at the dinner table. There are 5 more people than plates. How many people are at dinner?	There are 10 plates at the dinner table. There are 5 more people than plates. How many people are at dinner?				15				
