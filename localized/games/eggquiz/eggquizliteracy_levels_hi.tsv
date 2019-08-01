@@ -1,4 +1,4 @@
-﻿Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12
+Column1	Column2	Column3	Column4	Column5	Column6	Column7	Column8	Column9	Column10	Column11	Column12
 PostTest_1	1	1001, 1002, 1003, 1004, 1005, 1006, 1007, 1008, 1009, 1010									
 			1001	soundonly_word					a	A	B^A^P
 			1002	soundonly_word					h	H	H^K^X
@@ -548,7 +548,7 @@ MiniTest_8_3	3	83011, 83012, 83013, 83014, 83015
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009									
 			8001	soundonly_sentence					a cat is on the chair	A cat is on the chair.	A cat is on the chair.^a cat is on the Chair.^A cat is onthechair.
 			8002	sentence_word		He ______ a doctor then.			he was a doctor then	was	was^is^were
-			8003	sentence_word		Arvind ______ scared yesterday.			mark looked scared yesterday	looked	looked^looks^looking
+			8003	sentence_word		Arvind ______ scared yesterday.			arvind looked scared yesterday	looked	looked^looks^looking
 			8004	soundonly_image					jill plays a game alone	simo_friends_4_cropped_playball.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8005	paragraph_sentence	What does Worm like to do?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Worm likes to slide.	Worm likes to slide.^Worm likes to fly.^Worm likes to sing.
 			8006	paragraph_sentence	What is true?	Lakshmi has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Lakshmi likes to play with her brothers and sisters. They are lots of fun. 				Lakshmi has two sisters.	Lakshmi has a small family.^Lakshmi has two older brothers.^Lakshmi has two sisters.
