@@ -161,13 +161,13 @@ MiniTest_7_2	1	72001, 72002, 72003, 72004, 72005
 			72002	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
 			72003	operations_drag	20-1~10=?		horizontal			1~10				
 			72004	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~99				
-			72005	word_problem	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?				5				
+			72005	word_problem	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?				5				
 MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005												
 			73001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			71~99				
 			73002	missing_number_drag	2	3	descending			11~30	2			
 			73003	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
 			73004	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
-			73005	word_problem	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?				3				
+			73005	word_problem	5 apples are on the table. Rehman eats 2 apples. How many apples are left on the table?	5 apples are on the table. Rehman eats 2 apples. How many apples are left on the table?				3				
 PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012, 7013												
 			7001	use_magnitude_symbols	51~100	51~100	Fill in the blank.	 Fill in the blank.						
 			7002	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			51~100				
@@ -178,8 +178,8 @@ PostTest_7	1	7001, 7002~7003, 7004, 7005, 7006~7007, 7008, 7009, 7010~7011, 7012
 			7007	operations_with_objects	1~9+11~19=?	regroupingtrue				20~30				
 			7008	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
 			7009	operations_drag	11~50-11~30=?	regroupingfalse	vertical			1~50				
-			7010	word_problem	Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?	Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?				9				
-			7011	word_problem	Henry has 4 stamps. Eric has 5 more stamps than Henry. How many stamps does Eric have?	Henry has 4 stamps. Eric has 5 more stamps than Henry. How many stamps does Eric have?				8				
+			7010	word_problem	Radhika caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Radhika catch in all?	Radhika caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Radhika catch in all?				9				
+			7011	word_problem	Ganesh has 4 stamps. Daanish has 5 more stamps than Ganesh. How many stamps does Daanish have?	Ganesh has 4 stamps. Daanish has 5 more stamps than Ganesh. How many stamps does Daanish have?				8				
 			7012	word_problem	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?				3				
 			7013	word_problem	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?				2				
 MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005												
@@ -187,7 +187,7 @@ MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005
 			81002	missing_number_drag	2	4	descending			50~100	2			
 			81003	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			81004	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
-			81005	word_problem	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?				17				
+			81005	word_problem	There are 14 fish in a water tank. Lalita put 3 more fish into the tank. How many fish are there?	There are 14 fish in a water tank. Lalita put 3 more fish into the tank. How many fish are there?				17				
 MiniTest_8_2	1	82001, 82002, 82003, 82004, 82005												
 			82001	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~100				
 			82002	missing_number_drag	1	4	ascending			100~500				
@@ -198,8 +198,8 @@ MiniTest_8_3	1	83001, 83002, 83003, 83004, 83005
 			83001	missing_number_drag	100	2	ascending			100~900	100			
 			83002	operations_drag	11~18-1~9=?	regroupingtrue	horizontal			1~9				
 			83003	operations_drag	21~50-11~30=?	regroupingtrue	vertical			1~40				
-			83004	word_problem	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?				12				
-			83005	word_problem	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?				12				
+			83004	word_problem	Aditi has 8 oranges and Mohit has 4 oranges. How many oranges do they have altogether?	Aditi has 8 oranges and Mohit has 4 oranges. How many oranges do they have altogether?				12				
+			83005	word_problem	Dhiraj is 5 years old. Urvashi is 7 years older than Dhiraj. How old is Urvashi?	Dhiraj is 5 years old. Urvashi is 7 years older than Dhiraj. How old is Urvashi?				12				
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010												
 			8001	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			300~700				
 			8002	missing_number_drag	1	3	ascending			200~999				
@@ -207,9 +207,9 @@ PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009, 8010
 			8004	missing_number_drag	100	4	descending			100~500	100			
 			8005	operations_drag	11~50+11~20=?	regroupingtrue	vertical			1~50				
 			8006	operations_drag	31~50-11~20=?	regroupingtrue	vertical			1~50				
-			8007	word_problem	Tom has 6 books. James has 2 books. How many books do they have in all?	Tom has 6 books. James has 2 books. How many books do they have in all?				8				
-			8008	word_problem	Diego has 11 mangoes in a basket. Diego gives 4 mangoes to his sister. How many mangoes are left in the basket?	Diego has 11 mangoes in a basket. Diego gives 4 mangoes to his sister. How many mangoes are left in the basket?				7				
-			8009	word_problem	Fred is 12 years old. His brother Tom is 8 years old. How much younger is Tom than Fred?	Fred is 12 years old. His brother Tom is 8 years old. How much younger is Tom than Fred?				4				
+			8007	word_problem	Deepesh has 6 books. Kartik has 2 books. How many books do they have in all?	Deepesh has 6 books. Kartik has 2 books. How many books do they have in all?				8				
+			8008	word_problem	Arjun has 11 mangoes in a basket. Arjun gives 4 mangoes to his sister. How many mangoes are left in the basket?	Arjun has 11 mangoes in a basket. Arjun gives 4 mangoes to his sister. How many mangoes are left in the basket?				7				
+			8009	word_problem	Arvind is 12 years old. His brother Deepesh is 8 years old. How much younger is Deepesh than Arvind?	Arvind is 12 years old. His brother Deepesh is 8 years old. How much younger is Deepesh than Arvind?				4				
 			8010	word_problem	A farmer gathered 16 eggs. She used 4 eggs to make breakfast. How many eggs does she have left?	A farmer gathered 16 eggs. She used 4 eggs to make breakfast. How many eggs does she have left?				12				
 MiniTest_9_1	1	91001~91003, 91004, 91005, 91006, 91007												
 			91001	operations_drag	11~99+10, 20, 30, 40, 50, 60, 70, 70, 80=?		horizontal			1~100				
@@ -217,7 +217,7 @@ MiniTest_9_1	1	91001~91003, 91004, 91005, 91006, 91007
 			91003	operations_drag	10, 20, 30, 40, 50, 60, 70, 80, 90-5,10=?		horizontal			1~100				
 			91004	operations_without_objects	2, 3, 4, 5x1~9=?		horizontal			2~45				
 			91005	missing_number_drag	10	3	ascending			500~990	10			
-			91006	word_problem	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
+			91006	word_problem	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
 			91007	shapes	what	What is this shape?	What is this shape?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
 MiniTest_9_2	1	92001~92002, 92003, 92004, 92005, 92006												
 			92001	missing_number_drag	1	4	descending			100~999				
@@ -238,7 +238,7 @@ PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010
 			9003	missing_number_drag	5	4	descending			100~999	5			
 			9004	missing_number_drag	3	3	ascending			1~20				
 			9005	operations_without_objects	2~9x2~9=?		horizontal			4~81				
-			9006	word_problem	Peter has 4 marbles. Sue gives Peter some marbles and now he has 6 marbles in all. How many marbles did Sue give Peter?	Peter has 4 marbles. Sue gives Peter some marbles and now he has 6 marbles in all. How many marbles did Sue give Peter?				2				
+			9006	word_problem	Nakul has 4 marbles. Yamini gives Nakul some marbles and now he has 6 marbles in all. How many marbles did Yamini give Nakul?	Nakul has 4 marbles. Yamini gives Nakul some marbles and now he has 6 marbles in all. How many marbles did Yamini give Nakul?				2				
 			9007	word_problem	I have 10 apples. I eat some apples. I have 4 apples left. How many apples did I eat?	I have 10 apples. I eat some apples. I have 4 apples left. How many apples did I eat?				6				
 			9008	shapes	what	What is this shape?	What is this shape?			cylinder,cube,sphere,cone	cylinder,cube,sphere,cone			
 			9009	word_problem	A bee has 6 legs. How many legs do 2 bees have?	A bee has 6 legs. How many legs do 2 bees have?				12				
@@ -316,49 +316,49 @@ SpecialTest_12	1	120001, 120002, 120003, 120003, 120004
 			120003	operations_drag	11~59+11~59=?	regroupingtrue	vertical			30~70				
 			120004	operations_drag	11~89+11~89=?	regroupingtrue	vertical			71~100				
 SpecialTest_13	1	130001~130010, 130001~130010, 130001~130010, 130001~130010, 130001~130010												
-			130001	word_problem	Shelby earns star stickers when she does math at school. Yesterday, Shelby earned 4 stars. Today, she earned 3 more. How many stars did Shelby earn in all?	Shelby earns star stickers when she does math at school. Yesterday, Shelby earned 4 stars. Today, she earned 3 more. How many stars did Shelby earn in all?				7				
-			130002	word_problem	Tom has 6 books. James has 2 books. How many books do they have in all?	Tom has 6 books. James has 2 books. How many books do they have in all?				8				
-			130003	word_problem	Helen saw 12 birds in a tree and 7 birds in another tree. How many birds did she see altogether?	Helen saw 12 birds in a tree and 7 birds in another tree. How many birds did she see altogether?				19				
+			130001	word_problem	Anu earns star stickers when she does math at school. Yesterday, Anu earned 4 stars. Today, she earned 3 more. How many stars did Anu earn in all?	Anu earns star stickers when she does math at school. Yesterday, Anu earned 4 stars. Today, she earned 3 more. How many stars did Anu earn in all?				7				
+			130002	word_problem	Deepesh has 6 books. Kartik has 2 books. How many books do they have in all?	Deepesh has 6 books. Kartik has 2 books. How many books do they have in all?				8				
+			130003	word_problem	Radha saw 12 birds in a tree and 7 birds in another tree. How many birds did she see altogether?	Radha saw 12 birds in a tree and 7 birds in another tree. How many birds did she see altogether?				19				
 			130004	word_problem	A farmer planted 5 rows of corn before lunch. He planted 7 more rows after lunch. How many rows of corn did he plant during the day?	A farmer planted 5 rows of corn before lunch. He planted 7 more rows after lunch. How many rows of corn did he plant during the day?				12				
 			130005	word_problem	There are 6 girls and 7 boys on the bus. How many children are on the bus?	There are 6 girls and 7 boys on the bus. How many children are on the bus?				13				
-			130006	word_problem	Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?	Stacie caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Stacie catch in all?				9				
-			130007	word_problem	Maya served 3 yams at lunch and 5 yams during dinner. How many yams were served during the day?	Maya served 3 yams at lunch and 5 yams during dinner. How many yams were served during the day?				8				
-			130008	word_problem	Kyle got 3 new shirts on his birthday. He already had 5 shirts. How many shirts does he have now?	Kyle got 3 new shirts on his birthday. He already had 5 shirts. How many shirts does he have now?				8				
-			130009	word_problem	Mary is decorating for a birthday party. She blew up 6 balloons this morning and 5 balloons this afternooon. How many balloons did she blow up in all?	Mary is decorating for a birthday party. She blew up 6 balloons this morning and 5 balloons this afternooon. How many balloons did she blow up in all?				11				
-			130010	word_problem	There are 7 pencils in the drawer. Dan placed 9 more pencils in the drawer. How many pencils are in the drawer?	There are 7 pencils in the drawer. Dan placed 9 more pencils in the drawer. How many pencils are in the drawer?				16				
+			130006	word_problem	Radhika caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Radhika catch in all?	Radhika caught 5 fish in the morning. She caught 4 more fish in the afternoon. How many fish did Radhika catch in all?				9				
+			130007	word_problem	Ruhi served 3 yams at lunch and 5 yams during dinner. How many yams were served during the day?	Ruhi served 3 yams at lunch and 5 yams during dinner. How many yams were served during the day?				8				
+			130008	word_problem	Sharad got 3 new shirts on his birthday. He already had 5 shirts. How many shirts does he have now?	Sharad got 3 new shirts on his birthday. He already had 5 shirts. How many shirts does he have now?				8				
+			130009	word_problem	Sameera is decorating for a birthday party. She blew up 6 balloons this morning and 5 balloons this afternooon. How many balloons did she blow up in all?	Sameera is decorating for a birthday party. She blew up 6 balloons this morning and 5 balloons this afternooon. How many balloons did she blow up in all?				11				
+			130010	word_problem	There are 7 pencils in the drawer. Gajendra placed 9 more pencils in the drawer. How many pencils are in the drawer?	There are 7 pencils in the drawer. Gajendra placed 9 more pencils in the drawer. How many pencils are in the drawer?				16				
 SpecialTest_14	1	140001~140010, 140001~140010, 140001~140010, 140001~140010, 140001~140010												
-			140001	word_problem	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?				5				
-			140002	word_problem	Bobby bought 3 more books than Gabby. Gabby bought a book. How many books did Bobby buy?	Bobby bought 3 more books than Gabby. Gabby bought a book. How many books did Bobby buy?				4				
+			140001	word_problem	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?				5				
+			140002	word_problem	Mukul bought 3 more books than Megha. Megha bought a book. How many books did Mukul buy?	Mukul bought 3 more books than Megha. Megha bought a book. How many books did Mukul buy?				4				
 			140003	word_problem	There are 10 plates at the dinner table. There are 5 more people than plates. How many people are at dinner?	There are 10 plates at the dinner table. There are 5 more people than plates. How many people are at dinner?				15				
-			140004	word_problem	Jackie has 9 pencils. Adam has 5 more pencils than Jackie. How many pencils does Adam have?	Jackie has 9 pencils. Adam has 5 more pencils than Jackie. How many pencils does Adam have?				14				
-			140005	word_problem	Henry has 4 stamps. Eric has 5 more stamps than Henry. How many stamps does Eric have?	Henry has 4 stamps. Eric has 5 more stamps than Henry. How many stamps does Eric have?				8				
-			140006	word_problem	Sarah is 5 years old. Her sister Katie is 2 years older than Sarah. How old is Katie?	Sarah is 5 years old. Her sister Katie is 2 years older than Sarah. How old is Katie?				7				
-			140007	word_problem	There are 14 chairs in Ms. Bloom's classroom. There are 3 more chairs in Mr. Peter's classroom. How many chairs are there in Mr. Peter's classroom?	There are 14 chairs in Miss Bloom's classroom. There are 3 more chairs in Mr. Peter's classroom. How many chairs are there in Mr. Peter's classroom?				17				
-			140008	word_problem	Paul has 7 plums. Brian has 4 more plums than Paul. How many plums does Brian have?	Paul has 7 plums. Brian has 4 more plums than Paul. How many plums does Brian have?				11				
-			140009	word_problem	Marin has 7 balls. Ellen has 6 more balls than Marin. How many balls does Ellen have?	Marin has 7 balls. Ellen has 6 more balls than Marin. How many balls does Ellen have?				13				
-			140010	word_problem	Bob has 4 pencils and his sister has 8 more pencils than him. How many pencils does Bob's sister have?	Bob has 4 pencils and his sister has 8 more pencils than him. How many pencils does Bob's sister have?				12				
+			140004	word_problem	Hira has 9 pencils. Rashid has 5 more pencils than Hira. How many pencils does Rashid have?	Hira has 9 pencils. Rashid has 5 more pencils than Hira. How many pencils does Rashid have?				14				
+			140005	word_problem	Ganesh has 4 stamps. Daanish has 5 more stamps than Ganesh. How many stamps does Daanish have?	Ganesh has 4 stamps. Daanish has 5 more stamps than Ganesh. How many stamps does Daanish have?				8				
+			140006	word_problem	Jyoti is 5 years old. Her sister Jiya is 2 years older than Jyoti. How old is Jiya?	Jyoti is 5 years old. Her sister Jiya is 2 years older than Jyoti. How old is Jiya?				7				
+			140007	word_problem	There are 14 chairs in Ms. Jeet's classroom. There are 3 more chairs in Mr. Nakul's classroom. How many chairs are there in Mr. Nakul's classroom?	There are 14 chairs in Miss Jeet's classroom. There are 3 more chairs in Mr. Nakul's classroom. How many chairs are there in Mr. Nakul's classroom?				17				
+			140008	word_problem	Karim has 7 plums. Naresh has 4 more plums than Karim. How many plums does Naresh have?	Karim has 7 plums. Naresh has 4 more plums than Karim. How many plums does Naresh have?				11				
+			140009	word_problem	Veena has 7 balls. Prabha has 6 more balls than Veena. How many balls does Prabha have?	Veena has 7 balls. Prabha has 6 more balls than Veena. How many balls does Prabha have?				13				
+			140010	word_problem	Suraj has 4 pencils and his sister has 8 more pencils than him. How many pencils does Suraj's sister have?	Suraj has 4 pencils and his sister has 8 more pencils than him. How many pencils does Suraj's sister have?				12				
 SpecialTest_15	1	150001~150010, 150001~150010, 150001~150010, 150001~150010, 150001~150010												
-			150001	word_problem	Anita has 5 books. 3 of them are science books and the rest are storybooks. How many are storybooks?	Anita has 5 books. 3 of them are science books and the rest are storybooks. How many are storybooks?				2				
-			150002	word_problem	Michael's cat had 9 kittens. 5 of them are white and the rest are gray. How many gray kittens did the cat have?	Michael's cat had 9 kittens. 5 of them are white and the rest are gray. How many gray kittens did the cat have?				4				
+			150001	word_problem	Aditi has 5 books. 3 of them are science books and the rest are storybooks. How many are storybooks?	Aditi has 5 books. 3 of them are science books and the rest are storybooks. How many are storybooks?				2				
+			150002	word_problem	Aman's cat had 9 kittens. 5 of them are white and the rest are gray. How many gray kittens did the cat have?	Aman's cat had 9 kittens. 5 of them are white and the rest are gray. How many gray kittens did the cat have?				4				
 			150003	word_problem	There are 9 children in a classroom. 6 of them are boys. How many girls are in the classroom?	There are 9 children in a classroom. 6 of them are boys. How many girls are in the classroom?				3				
-			150004	word_problem	Ms. Dawson has 12 students in her class. Some students are absent and 7 students are present. How many students are absent?	Miss Dawson has 12 students in her class. Some students are absent and 7 students are present. How many students are absent?				5				
+			150004	word_problem	Ms. Jagat has 12 students in her class. Some students are absent and 7 students are present. How many students are absent?	Miss Jagat has 12 students in her class. Some students are absent and 7 students are present. How many students are absent?				5				
 			150005	word_problem	There are 16 children in a classroom. Some children go outside to play. 7 children stay inside to read books. How many children are outside?	There are 16 children in a classroom. Some children go outside to play. 7 children stay inside to read books. How many children are outside?				9				
-			150006	word_problem	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
-			150007	word_problem	Katie and her brother picked 6 mangoes together. Katie picked 4 mangoes. How many mangoes did her brother pick?	Katie and her brother picked 6 mangoes together. Katie picked 4 mangoes. How many mangoes did her brother pick?				2				
-			150008	word_problem	Harper and Raven drew 8 pictures together. Harper drew 3 pictures. How many pictures did Raven draw?	Harper and Raven drew 8 pictures together. Harper drew 3 pictures. How many pictures did Raven draw?				5				
-			150009	word_problem	Laci and Kendra caught 14 fireflies altogether. Laci caught 5 fireflies. How many fireflies did Kendra catch?	Laci and Kendra caught 14 fireflies altogether. Laci caught 5 fireflies. How many fireflies did Kendra catch?				9				
+			150006	word_problem	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
+			150007	word_problem	Jiya and her brother picked 6 mangoes together. Jiya picked 4 mangoes. How many mangoes did her brother pick?	Jiya and her brother picked 6 mangoes together. Jiya picked 4 mangoes. How many mangoes did her brother pick?				2				
+			150008	word_problem	Sumit and Vaishali drew 8 pictures together. Sumit drew 3 pictures. How many pictures did Vaishali draw?	Sumit and Vaishali drew 8 pictures together. Sumit drew 3 pictures. How many pictures did Vaishali draw?				5				
+			150009	word_problem	Priyanka and Kajal caught 14 fireflies altogether. Priyanka caught 5 fireflies. How many fireflies did Kajal catch?	Priyanka and Kajal caught 14 fireflies altogether. Priyanka caught 5 fireflies. How many fireflies did Kajal catch?				9				
 			150010	word_problem	A piece of wood is 13 inches long. It is cut into two parts. One part is 6 inches long. How long is the other part?	A piece of wood is 13 inches long. It is cut into two parts. One part is 6 inches long. How long is the other part?				7				
 SpecialTest_16	1	160001~160010, 160001~160010, 160001~160010, 160001~160010, 160001~160010												
 			160001	word_problem	A farmer had 7 apple trees. She bought some more trees and now has 10 apple trees in her orchard. How many apple trees did she buy?	A farmer had 7 apple trees. She bought some more trees and now has 10 apple trees in her orchard. How many apple trees did she buy?				3				
 			160002	word_problem	A football team scored 3 goals in the first half. Then they scored more goals in the second half. They won the game with 5 goals! How many goals did they socre in the second half?	A football team scored 3 goals in the first half. Then they scored more goals in the second half. They won the game with 5 goals! How many goals did they socre in the second half?				2				
-			160003	word_problem	Peter read 6 pages of his book before lunch. After lunch he read some more. If Peter read 9 pages in all, how many pages did he read after lunch?	Peter read 6 pages of his book before lunch. After lunch he read some more. If Peter read 9 pages in all, how many pages did he read after lunch?				3				
-			160004	word_problem	George went to a store and bought some t-shirts. He went to another store and bought 2 more t-shirts. He bought a total of 7 t-shirts. How many t-shirts did he buy at the first store?	George went to a store and bought some t-shirts. He went to another store and bought 2 more t-shirts. He bought a total of 7 t-shirts. How many t-shirts did he buy at the first store?				5				
+			160003	word_problem	Nakul read 6 pages of his book before lunch. After lunch he read some more. If Nakul read 9 pages in all, how many pages did he read after lunch?	Nakul read 6 pages of his book before lunch. After lunch he read some more. If Nakul read 9 pages in all, how many pages did he read after lunch?				3				
+			160004	word_problem	Virat went to a store and bought some t-shirts. He went to another store and bought 2 more t-shirts. He bought a total of 7 t-shirts. How many t-shirts did he buy at the first store?	Virat went to a store and bought some t-shirts. He went to another store and bought 2 more t-shirts. He bought a total of 7 t-shirts. How many t-shirts did he buy at the first store?				5				
 			160005	word_problem	You have some stamps. Your brother gives 6 stamps to you. Now you have 10 stamps. How many stamps did you start with?	You have some stamps. Your brother gives 6 stamps to you. Now you have 10 stamps. How many stamps did you start with?				4				
-			160006	word_problem	Tess picked 3 flowers in the morning. She picked some more flowers in the afternoon. If Tess picked 8 flowers in all, how many did she pick in the afternoon?	Tess picked 3 flowers in the morning. She picked some more flowers in the afternoon. If Tess picked 8 flowers in all, how many did she pick in the afternoon?				5				
+			160006	word_problem	Aarushi picked 3 flowers in the morning. She picked some more flowers in the afternoon. If Aarushi picked 8 flowers in all, how many did she pick in the afternoon?	Aarushi picked 3 flowers in the morning. She picked some more flowers in the afternoon. If Aarushi picked 8 flowers in all, how many did she pick in the afternoon?				5				
 			160007	word_problem	There are some crickets in a jar. You collect 5 more crickets and now have 10 crickets in all. How many crickets did you start with?	There are some crickets in a jar. You collect 5 more crickets and now have 10 crickets in all. How many crickets did you start with?				5				
-			160008	word_problem	There were some seashells in Megan's pail. She finds 2 more seashells. Now she has 8 seashells in all. How many seashells did she start with?	There were some seashells in Megan's pail. She finds 2 more seashells. Now she has 8 seashells in all. How many seashells did she start with?				6				
-			160009	word_problem	Kelly saw 4 cats in front of her house. She went to sleep and when she woke up, there were 7 cats in front of her house. How many cats came to her house while she was sleeping?	Kelly saw 4 cats in front of her house. She went to sleep and when she woke up, there were 7 cats in front of her house. How many cats came to her house while she was sleeping?				3				
-			160010	word_problem	Peter has 4 marbles. Sue gives Peter some marbles and now he has 6 marbles in all. How many marbles did Sue give Peter?	Peter has 4 marbles. Sue gives Peter some marbles and now he has 6 marbles in all. How many marbles did Sue give Peter?				2				
+			160008	word_problem	There were some seashells in Uma's pail. She finds 2 more seashells. Now she has 8 seashells in all. How many seashells did she start with?	There were some seashells in Uma's pail. She finds 2 more seashells. Now she has 8 seashells in all. How many seashells did she start with?				6				
+			160009	word_problem	Riya saw 4 cats in front of her house. She went to sleep and when she woke up, there were 7 cats in front of her house. How many cats came to her house while she was sleeping?	Riya saw 4 cats in front of her house. She went to sleep and when she woke up, there were 7 cats in front of her house. How many cats came to her house while she was sleeping?				3				
+			160010	word_problem	Nakul has 4 marbles. Yamini gives Nakul some marbles and now he has 6 marbles in all. How many marbles did Yamini give Nakul?	Nakul has 4 marbles. Yamini gives Nakul some marbles and now he has 6 marbles in all. How many marbles did Yamini give Nakul?				2				
 SpecialTest_17	1	170001, 170002, 170003, 170004, 170003~170004												
 			170001	operations_with_objects	1~9-1~9=?		horizontal			1~8				
 			170002	operations_with_objects	10-1~9=?		horizontal			1~9				
@@ -388,37 +388,37 @@ SpecialTest_21	1	210001, 210002, 210003, 210003, 210004
 			210003	operations_drag	21~50-21~50=?	regroupingtrue	vertical			1~29				
 			210004	operations_drag	20, 30, 40, 50-11~49=?	regroupingtrue	vertical			1~39				
 SpecialTest_22	1	220001~220010, 220001~220010, 220001~220010, 220001~220010, 220001~220010												
-			220001	word_problem	Millie has 9 bracelets. She loses 2 of them. How many bracelets does Millie have left?	Millie has 9 bracelets. She loses 2 of them. How many bracelets does Millie have left?				7				
-			220002	word_problem	Hannah makes 8 loaves of bread. She gives 3 loaves of bread to her cousin. How many loaves of bread does she have left?	Hannah makes 8 loaves of bread. She gives 3 loaves of bread to her cousin. How many loaves of bread does she have left?				5				
+			220001	word_problem	Pooja has 9 bracelets. She loses 2 of them. How many bracelets does Pooja have left?	Pooja has 9 bracelets. She loses 2 of them. How many bracelets does Pooja have left?				7				
+			220002	word_problem	Basanti makes 8 loaves of bread. She gives 3 loaves of bread to her cousin. How many loaves of bread does she have left?	Basanti makes 8 loaves of bread. She gives 3 loaves of bread to her cousin. How many loaves of bread does she have left?				5				
 			220003	word_problem	There are 9 kites flying in the sky. A wind blows 3 kites down on the ground. How many kites are still flying in the sky?	There are 9 kites flying in the sky. A wind blows 3 kites down on the ground. How many kites are still flying in the sky?				6				
 			220004	word_problem	There are 15 ducks swimming in a pond. 7 ducks fly away. How many ducks are still swimming in the pond?	There are 15 ducks swimming in a pond. 7 ducks fly away. How many ducks are still swimming in the pond?				8				
-			220005	word_problem	Lena has 12 books. She donates 8 books to her class library. How many books does Lena have left?	Lena has 12 books. She donates 8 books to her class library. How many books does Lena have left?				4				
+			220005	word_problem	Ritika has 12 books. She donates 8 books to her class library. How many books does Ritika have left?	Ritika has 12 books. She donates 8 books to her class library. How many books does Ritika have left?				4				
 			220006	word_problem	There are 12 cats on a fence. 1 cat jumps down off of the fence. How many cats are left on the fence?	There are 12 cats on a fence. 1 cat jumps down off of the fence. How many cats are left on the fence?				11				
-			220007	word_problem	Lucy has 8 pencils. She loses 7 of them. How many pencils does Lucy have left?	Lucy has 8 pencils. She loses 7 of them. How many pencils does Lucy have left?				1				
-			220008	word_problem	Ana has 7 biscuits. She eats 2 of them. How many biscuits does she have left?	Ana has 7 biscuits. She eats 2 of them. How many biscuits does she have left?				5				
+			220007	word_problem	Aayushi has 8 pencils. She loses 7 of them. How many pencils does Aayushi have left?	Aayushi has 8 pencils. She loses 7 of them. How many pencils does Aayushi have left?				1				
+			220008	word_problem	Pushpa has 7 biscuits. She eats 2 of them. How many biscuits does she have left?	Pushpa has 7 biscuits. She eats 2 of them. How many biscuits does she have left?				5				
 			220009	word_problem	Nassir picks up a 17-page book. He reads 9 pages. How many pages does he have left to read?	Nassir picks up a 17 page book. He reads 9 pages. How many pages does he have left to read?				8				
 			220010	word_problem	There are 10 students on the school bus. 3 students get off the bus. How many students are left on the bus?	There are 10 students on the school bus. 3 students get off the bus. How many students are left on the bus?				7				
 SpecialTest_23	1	230001~230010, 230001~230010, 230001~230010, 230001~230010, 230001~230010												
-			230001	word_problem	Lucy is 9 years old. Her sister Julie is 6 years old. How much older is Lucy than her sister Julie?	Lucy is 9 years old. Her sister Julie is 6 years old. How much older is Lucy than her sister Julie?				3				
-			230002	word_problem	Sam ate 7 biscuits and Jane ate 2 biscuits. How many fewer biscuits did Jane eat than Sam?	Sam ate 7 biscuits and Jane ate 2 biscuits. How many fewer biscuits did Jane eat than Sam?				5				
-			230003	word_problem	Amy walks 4 blocks to school. Jane walks 2 blocks to school. How many more blocks does Amy walk than Jane to school?	Amy walks 4 blocks to school. Jane walks 2 blocks to school. How many more blocks does Amy walk than Jane to school?				2				
+			230001	word_problem	Aayushi is 9 years old. Her sister Seema is 6 years old. How much older is Aayushi than her sister Seema?	Aayushi is 9 years old. Her sister Seema is 6 years old. How much older is Aayushi than her sister Seema?				3				
+			230002	word_problem	Rehman ate 7 biscuits and Prabha ate 2 biscuits. How many fewer biscuits did Prabha eat than Rehman?	Rehman ate 7 biscuits and Prabha ate 2 biscuits. How many fewer biscuits did Prabha eat than Rehman?				5				
+			230003	word_problem	Astha walks 4 blocks to school. Prabha walks 2 blocks to school. How many more blocks does Astha walk than Prabha to school?	Astha walks 4 blocks to school. Prabha walks 2 blocks to school. How many more blocks does Astha walk than Prabha to school?				2				
 			230004	word_problem	There are 13 girls and 18 boys in a class. How many more boys are there than girls?	There are 13 girls and 18 boys in a class. How many more boys are there than girls?				5				
-			230005	word_problem	Beth has 13 flowers in her garden. Kate has 8 flowers. How many more flowers does Beth have than Kate?	Beth has 13 flowers in her garden. Kate has 8 flowers. How many more flowers does Beth have than Kate?				5				
+			230005	word_problem	Namita has 13 flowers in her garden. Gauri has 8 flowers. How many more flowers does Namita have than Gauri?	Namita has 13 flowers in her garden. Gauri has 8 flowers. How many more flowers does Namita have than Gauri?				5				
 			230006	word_problem	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?	You have 7 balloons and your friend has 5 balloons. How many more balloons do you have than your friend?				2				
-			230007	word_problem	Maria read 3 books and Stacy read 5 books. How many more books did Stacy read than Maria?	Maria read 3 books and Stacy read 5 books. How many more books did Stacy read than Maria?				2				
-			230008	word_problem	Sydney found 20 seashells on the beach. Noah found 6 seashells. How many more seashells did Sydney find than Noah?	Sydney found 20 seashells on the beach. Noah found 6 seashells. How many more seashells did Sydney find than Noah?				14				
-			230009	word_problem	Anna bought 12 plants. Her sister bought 7 plants. How many more plants did Anna buy than her sister?	Anna bought 12 plants. Her sister bought 7 plants. How many more plants did Anna buy than her sister?				5				
-			230010	word_problem	Tom planted 5 seeds in a school garden. Jane planted 8 seeds. How many fewer seeds did Tom plant than Jane?	Tom planted 5 seeds in a school garden. Jane planted 8 seeds. How many fewer seeds did Tom plant than Jane?				3				
+			230007	word_problem	Palak read 3 books and Niyati read 5 books. How many more books did Niyati read than Palak?	Palak read 3 books and Niyati read 5 books. How many more books did Niyati read than Palak?				2				
+			230008	word_problem	Kasturba found 20 seashells on the beach. Vinay found 6 seashells. How many more seashells did Kasturba find than Vinay?	Kasturba found 20 seashells on the beach. Vinay found 6 seashells. How many more seashells did Kasturba find than Vinay?				14				
+			230009	word_problem	Nitika bought 12 plants. Her sister bought 7 plants. How many more plants did Nitika buy than her sister?	Nitika bought 12 plants. Her sister bought 7 plants. How many more plants did Nitika buy than her sister?				5				
+			230010	word_problem	Deepesh planted 5 seeds in a school garden. Prabha planted 8 seeds. How many fewer seeds did Deepesh plant than Prabha?	Deepesh planted 5 seeds in a school garden. Prabha planted 8 seeds. How many fewer seeds did Deepesh plant than Prabha?				3				
 SpecialTest_24	1	240001~240010, 240001~240010, 240001~240010, 240001~240010, 240001~240010												
 			240001	word_problem	I have 10 apples. I eat some apples. I have 4 apples left. How many apples did I eat?	I have 10 apples. I eat some apples. I have 4 apples left. How many apples did I eat?				6				
 			240002	word_problem	Yesterday, the store had 7 bags of rice. Today, the store has 2 bags of rice. How many bags of rice did the store sell?	Yesterday the store had 7 bags of rice. Today the store has 2 bags of rice. How many bags of rice did the store sell?				5				
-			240003	word_problem	David and his friends fly 9 kites. Some kites get stuck in a tree. 6 kites are still flying. How many kites are stuck in the tree?	David and his friends fly 9 kites. Some kites get stuck in a tree. 6 kites are still flying. How many kites are stuck in the tree?				3				
+			240003	word_problem	Ram and his friends fly 9 kites. Some kites get stuck in a tree. 6 kites are still flying. How many kites are stuck in the tree?	Ram and his friends fly 9 kites. Some kites get stuck in a tree. 6 kites are still flying. How many kites are stuck in the tree?				3				
 			240004	word_problem	A man was carrying balloons but the wind blew 6 away. He has 2 balloons left. How many balloons did he start with?	A man was carrying balloons but the wind blew 6 away. He has 2 balloons left. How many balloons did he start with?				8				
 			240005	word_problem	Some mangos were in the basket. 4 mangos were taken from the basket. Now there are 6 mangos. How many mangos were in the basket before they were taken?	Some mangos were in the basket. 4 mangos were taken from the basket. Now there are 6 mangos. How many mangos were in the basket before they were taken?				10				
 			240006	word_problem	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?	8 birds sat on a tree branch. Some flew away. Now there are 3 birds on the branch. How many birds flew away?				5				
-			240007	word_problem	Mia brought 10 jars of homemade jam to the market. She sold some jars and had 3 jars left. How many jars did she sell at the market?	Mia brought 10 jars of homemade jam to the market. She sold some jars and had 3 jars left. How many jars did she sell at the market?				7				
-			240008	word_problem	Tim's dog gave birth to some puppies. Tim gave 6 puppies to his friends. Now he has 2 puppies left. How many puppies did his dog give birth to?	Tim's dog gave birth to some puppies. Tim gave 6 puppies to his friends. Now he has 2 puppies left. How many puppies did his dog give birth to?				8				
-			240009	word_problem	Jen made 6 sandwiches for her family. Her family ate some and 2 were left. How many sandwiches did her family eat?	Jen made 6 sandwiches for her family. Her family ate some and 2 were left. How many sandwiches did her family eat?				4				
+			240007	word_problem	Urvashi brought 10 jars of homemade jam to the market. She sold some jars and had 3 jars left. How many jars did she sell at the market?	Urvashi brought 10 jars of homemade jam to the market. She sold some jars and had 3 jars left. How many jars did she sell at the market?				7				
+			240008	word_problem	Faraz's dog gave birth to some puppies. Faraz gave 6 puppies to his friends. Now he has 2 puppies left. How many puppies did his dog give birth to?	Faraz's dog gave birth to some puppies. Faraz gave 6 puppies to his friends. Now he has 2 puppies left. How many puppies did his dog give birth to?				8				
+			240009	word_problem	Alka made 6 sandwiches for her family. Her family ate some and 2 were left. How many sandwiches did her family eat?	Alka made 6 sandwiches for her family. Her family ate some and 2 were left. How many sandwiches did her family eat?				4				
 			240010	word_problem	7 boys ride their bikes. Some of the boys go home. 5 boys continue riding their bikes. How many boys went home?	7 boys ride their bikes. Some of the boys go home. 5 boys continue riding their bikes. How many boys went home?				2				
 SpecialTest_25	1	250001, 250002, 250003, 250004, 250005												
 			250001	operations_without_objects	2~3x2~9=?		horizontal			4~27				
@@ -427,27 +427,27 @@ SpecialTest_25	1	250001, 250002, 250003, 250004, 250005
 			250004	operations_without_objects	8~9x2~9=?		horizontal			16~81				
 			250005	operations_without_objects	2~9x2~9=?		horizontal			4~81				
 SpecialTest_26	1	260001~260010, 260001~260010, 260001~260010, 260001~260010, 260001~260010												
-			260001	word_problem	Miranda baked 18 brownies. She put an equal number of brownies on to 2 plates. How many brownies are on each plate?	Miranda baked 18 brownies. She put an equal number of brownies on to 2 plates. How many brownies are on each plate?				9				
+			260001	word_problem	Shristi baked 18 brownies. She put an equal number of brownies on to 2 plates. How many brownies are on each plate?	Shristi baked 18 brownies. She put an equal number of brownies on to 2 plates. How many brownies are on each plate?				9				
 			260002	word_problem	A farmer has 16 eggs and puts them into 2 boxes equally. How many eggs are in each box?	A farmer has 16 eggs and puts them into 2 boxes equally. How many eggs are in each box?				8				
-			260003	word_problem	Sarah picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?	Sarah picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?				3				
-			260004	word_problem	Shante picked 6 mangoes from a tree. He put an equal number of mangoes into 3 boxes. How many mangoes did he put in each box?	Shante picked 6 mangoes from a tree. He put an equal number of mangoes into 3 boxes. How many mangoes did he put in each box?				2				
+			260003	word_problem	Jyoti picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?	Jyoti picked 6 flowers. She put an equal amount of flowers into 2 vases. How many flowers did she put in each vase?				3				
+			260004	word_problem	Ekbal picked 6 mangoes from a tree. He put an equal number of mangoes into 3 boxes. How many mangoes did he put in each box?	Ekbal picked 6 mangoes from a tree. He put an equal number of mangoes into 3 boxes. How many mangoes did he put in each box?				2				
 			260005	word_problem	20 students were equally divided into 4 groups by the teacher. How many students are in each group?	20 students were equally divided into 4 groups by the teacher. How many students are in each group?				5				
 			260006	word_problem	2 children share 8 sweets equally. How many sweets does each child get?	2 children share 8 sweets equally. How many sweets does each child get?				4				
 			260007	word_problem	You and your sister share 10 bags of chips equally. How many bags of chips will each of you get?	You and your sister share 10 bags of chips equally. How many bags of chips will each of you get?				5				
 			260008	word_problem	3 friends share 12 candies equally. How many candies does each friend get?	3 friends share 12 candies equally. How many candies does each friend get?				4				
-			260009	word_problem	Mr. Simpson's class has 18 books. He arranges them equally on 3 shelves. How many books are on each shelf?	Mr. Simpson's class has 18 books. He arranges them equally on 3 shelves. How many books are on each shelf?				6				
-			260010	word_problem	Marco bought 12 fish. He put an equal number of fish into 4 tanks. How many fish are in each tank?	Marco bought 12 fish. He put an equal number of fish into 4 tanks. How many fish are in each tank?				3				
+			260009	word_problem	Mr. Rupesh's class has 18 books. He arranges them equally on 3 shelves. How many books are on each shelf?	Mr. Rupesh's class has 18 books. He arranges them equally on 3 shelves. How many books are on each shelf?				6				
+			260010	word_problem	Krishna bought 12 fish. He put an equal number of fish into 4 tanks. How many fish are in each tank?	Krishna bought 12 fish. He put an equal number of fish into 4 tanks. How many fish are in each tank?				3				
 SpecialTest_27	1	270001~270010, 270001~270010, 270001~270010, 270001~270010, 270001~270010												
-			270001	word_problem	Mike has 3 pairs of socks. Each pair has 2 socks. How many socks does Mike have?	Mike has 3 pairs of socks. Each pair has 2 socks. How many socks does Mike have?				6				
-			270002	word_problem	Allie bought 2 boxes of mangos. Each box has 4 mangos. How many mangos did she buy?	Allie bought 2 boxes of mangos. Each box has 4 mangos. How many mangos did she buy?				8				
+			270001	word_problem	Darpan has 3 pairs of socks. Each pair has 2 socks. How many socks does Darpan have?	Darpan has 3 pairs of socks. Each pair has 2 socks. How many socks does Darpan have?				6				
+			270002	word_problem	Sapna bought 2 boxes of mangos. Each box has 4 mangos. How many mangos did she buy?	Sapna bought 2 boxes of mangos. Each box has 4 mangos. How many mangos did she buy?				8				
 			270003	word_problem	There are 3 sheeps in the pasture. Each sheep has 4 lambs. How many lambs are in the pasture?	There are 3 sheeps in the pasture. Each sheep has 4 lambs. How many lambs are in the pasture?				12				
-			270004	word_problem	Jane counted 3 flowers in the flower pot. Each flower has 5 petals. How many petals are there in all?	Jane counted 3 flowers in the flower pot. Each flower has 5 petals. How many petals are there in all?				15				
+			270004	word_problem	Prabha counted 3 flowers in the flower pot. Each flower has 5 petals. How many petals are there in all?	Prabha counted 3 flowers in the flower pot. Each flower has 5 petals. How many petals are there in all?				15				
 			270005	word_problem	There are 2 wagons on the farm. Each wagon carries 8 children. How many children are in the wagons?	There are 2 wagons on the farm. Each wagon carries 8 children. How many children are in the wagons?				16				
 			270006	word_problem	A bee has 6 legs. How many legs do 2 bees have?	A bee has 6 legs. How many legs do 2 bees have?				12				
 			270007	word_problem	A duck has 2 legs. How many legs do 3 ducks have?	A duck has 2 legs. How many legs do 3 ducks have?				6				
-			270008	word_problem	Shelly bought 4 boxes of donuts. Each box contains 5 donuts. How many donuts did she buy altogether?	Shelly bought 4 boxes of donuts. Each box contains 5 donuts. How many donuts did she buy altogether?				20				
+			270008	word_problem	Neha bought 4 boxes of donuts. Each box contains 5 donuts. How many donuts did she buy altogether?	Neha bought 4 boxes of donuts. Each box contains 5 donuts. How many donuts did she buy altogether?				20				
 			270009	word_problem	It takes Sally 7 minutes to run a mile. How long would it take her to run 4 miles?	It takes Sally 7 minutes to run a mile. How long would it take her to run 4 miles?				28				
-			270010	word_problem	Kit, Ruth, and Dean each ate 2 slices of pizza. How many slices of pizza did they eat in all?	Kit Ruth and Dean each ate 2 slices of pizza. How many slices of pizza did they eat in all?				6				
+			270010	word_problem	Shalini, Sonia, and Ramesh each ate 2 slices of pizza. How many slices of pizza did they eat in all?	Shalini Sonia and Ramesh each ate 2 slices of pizza. How many slices of pizza did they eat in all?				6				
 SpecialTest_28	1	280001~280004, 280005~280008, 280009, 280010, 280011												
 			280001	shapes	which	Which is a circle?	Which is a circle?			circle	circle,square,triangle,rectangle			
 			280002	shapes	which	Which is a square?	Which is a square?			square	circle,square,triangle,rectangle			
@@ -570,19 +570,19 @@ FishTest_8_2	1	821, 822, 823, 824, 825
 			822	operations_drag	11~19+11~19=?	regroupingfalse	horizontal			20~30				
 			823	operations_drag	20-1~10=?		horizontal			1~10				
 			824	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~99				
-			825	word_problem	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?	Billy has 2 marbles. Audrey has 3 more marbles than Billy. How many marbles does Audrey have?				5				
+			825	word_problem	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?	Manish has 2 marbles. Lata has 3 more marbles than Manish. How many marbles does Lata have?				5				
 FishTest_8_3	1	831, 832, 833, 834, 835												
 			831	compare_number_magnitudes	ascending	Order the numbers from smallest to largest.	Order the numbers from smallest to largest.			71~99				
 			832	missing_number_drag	2	3	descending			11~30	2			
 			833	operations_with_objects	11~19+11~19=?	regroupingtrue				20~40				
 			834	operations_drag	21~50-10~20=?	regroupingfalse	vertical			1~40				
-			835	word_problem	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?	5 apples are on the table. Sam eats 2 apples. How many apples are left on the table?				3				
+			835	word_problem	5 apples are on the table. Rehman eats 2 apples. How many apples are left on the table?	5 apples are on the table. Rehman eats 2 apples. How many apples are left on the table?				3				
 FishTest_9_1	1	911, 912, 913, 914, 915												
 			911	use_magnitude_symbols	100, 200, 300, 400, 500, 600, 700, 800, 900	100, 200, 300, 400, 500, 600, 700, 800, 900	Fill in the blank.	 Fill in the blank.						
 			912	missing_number_drag	2	4	descending			50~100	2			
 			913	operations_drag	11~50+11~50=?	regroupingfalse	vertical			20~50				
 			914	operations_drag	11~50-11~50=?	regroupingfalse	vertical			20~50				
-			915	word_problem	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?	There are 14 fish in a water tank. Kerri put 3 more fish into the tank. How many fish are there?				17				
+			915	word_problem	There are 14 fish in a water tank. Lalita put 3 more fish into the tank. How many fish are there?	There are 14 fish in a water tank. Lalita put 3 more fish into the tank. How many fish are there?				17				
 FishTest_9_2	1	921, 922, 923, 924, 925												
 			921	compare_number_magnitudes	descending	Order the numbers from largest to smallest.	Order the numbers from largest to smallest.			51~100				
 			922	missing_number_drag	1	4	ascending			100~500				
@@ -593,15 +593,15 @@ FishTest_9_3	1	931, 932, 933, 934, 935
 			931	missing_number_drag	100	2	ascending			100~900	100			
 			932	operations_drag	11~18-1~9=?	regroupingtrue	horizontal			1~9				
 			933	operations_drag	21~50-11~30=?	regroupingtrue	vertical			1~40				
-			934	word_problem	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?	Janet has 8 oranges and Sharon has 4 oranges. How many oranges do they have altogether?				12				
-			935	word_problem	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?	Sandy is 5 years old. Mia is 7 years older than Sandy. How old is Mia?				12				
+			934	word_problem	Aditi has 8 oranges and Mohit has 4 oranges. How many oranges do they have altogether?	Aditi has 8 oranges and Mohit has 4 oranges. How many oranges do they have altogether?				12				
+			935	word_problem	Dhiraj is 5 years old. Urvashi is 7 years older than Dhiraj. How old is Urvashi?	Dhiraj is 5 years old. Urvashi is 7 years older than Dhiraj. How old is Urvashi?				12				
 FishTest_10_1	1	1011~1013, 1014, 1015, 1016, 1017												
 			1011	operations_drag	11~99+10, 20, 30, 40, 50, 60, 70, 70, 80=?		horizontal			1~100				
 			1012	operations_drag	10, 20, 30, 40, 50, 60, 70, 80+11~99=?		horizontal			1~100				
 			1013	operations_drag	11~99-10, 20, 30, 40, 50, 60, 70, 80, 90=?		horizontal			1~100				
 			1014	operations_without_objects	2, 3, 4, 5x1~9=?		horizontal			2~45				
 			1015	missing_number_drag	10	3	ascending			500~990	10			
-			1016	word_problem	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Jane has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
+			1016	word_problem	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?	Prabha has 9 balloons. 6 are green and the rest are blue. How many balloons are blue?				3				
 			1017	shapes	what	What is this shape?	What is this shape?			circle,square,triangle,rectangle	circle,square,triangle,rectangle			
 FishTest_10_2	1	1021~1022, 1023, 1024, 1025, 1026												
 			1021	missing_number_drag	1	4	descending			100~999				
