@@ -880,7 +880,7 @@ SpecialTest_16	2	160006, 160007, 160008, 160009, 160010
 											
 SpecialTest_17	1	170001, 170002, 170003, 170004, 170005									
 			170001	sentence_word		____ are tall.			you are tall	You	you^YoU^You
-			170002	sentence_word		____ like Anil.			I like josh	I	i^I ^iI
+			170002	sentence_word		____ like Anil.			I like anil	I	i^I ^iI
 			170003	sentence_sentence		Choose the right one.			Choose the right one.	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
 			170004	sentence_sentence		Choose the right one.			Choose the right one.	Birds fly.	Birds fly.^birds fly.^biRds flY.
 			170005	sentence_sentence		Choose the right one.			Choose the right one.	This is Kirti.	this is kirti.^This is Kirti.^this is Kirti.
@@ -993,14 +993,14 @@ SpecialTest_24	2	240006, 240007, 240008, 240009, 240010
 SpecialTest_25	1	250001, 250002, 250003, 250004, 250005									
 			250001	paragraph_sentence	Where does Aabha live?	Aabha and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				Near the ocean.	Near the ocean.^In the city.^On the hill.
 			250002	paragraph_sentence	Which is true?	I love elephants. They are very big. They have very long trunks. They need to eat a lot of food. They eat grass, leaves, and other plants.				Elephants are big.	Elephants eat meat.^Elephants are small.^Elephants are big.
-			250003	paragraph_sentence	What does Upaspushpa like to do?	Upaspushpa likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Upaspushpa can draw all day!				She likes drawing.	She likes drawing.^She likes climbing.^She likes playing.
+			250003	paragraph_sentence	What does Upasana like to do?	Upasana likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Upasana can draw all day!				She likes drawing.	She likes drawing.^She likes climbing.^She likes playing.
 			250004	paragraph_sentence	Which is true?	Aayushi loves the ocean. The ocean is big. The ocean is full of water. Aayushi sees boats on the ocean. Aayushi sees fish in the ocean. Aayushi can swim in the ocean. She is very happy to live near the ocean.				Aayushi can swim.	Aayushi can swim.^Aayushi likes stars.^The ocean is full of sand.
 			250005	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				Sonia can see the stars at night.	Harpreet can see the stars at night.^Harpreet can touch the stars.^There are not many stars.
 											
 SpecialTest_25	2	250006, 250007, 250008, 250009, 250010									
 			250006	paragraph_sentence	Where do they sell the fish?	Aabha and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				At the market.	At shcool.^At the market.^At their shop.
 			250007	paragraph_sentence	Which is true?	I love elephants. They are very big. They have very long trunks. They need to eat a lot of food. They eat grass, leaves, and other plants.				Elephants have long trunks.	Elephants have long trunks.^Elephants eat meat.^I love trees.
-			250008	paragraph_sentence	What does Upaspushpa draw?	Upaspushpa likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Upaspushpa can draw all day!				She draws what she can see.	She draws what she can see.^She draws what she can feel.^She draws what she can smell.
+			250008	paragraph_sentence	What does Upasana draw?	Upasana likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Upasana can draw all day!				She draws what she can see.	She draws what she can see.^She draws what she can feel.^She draws what she can smell.
 			250009	paragraph_sentence	Which is true?	Aayushi loves the ocean. The ocean is big. The ocean is full of water. Aayushi sees boats on the ocean. Aayushi sees fish in the ocean. Aayushi can swim in the ocean. She is very happy to live near the ocean.				The ocean is full of water.	Aayushi lives on the boat.^The ocean is small.^The ocean is full of water.
 			250010	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				There are too many stars.	There are too many stars.^There are not many stars.^Sonia likes the flowers.
 											
