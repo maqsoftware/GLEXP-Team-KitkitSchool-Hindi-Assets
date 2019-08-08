@@ -1,1 +1,1 @@
-# GLEXP-Team-KitkitSchool-Hindi-Assets
+# Pehla-School-Assets

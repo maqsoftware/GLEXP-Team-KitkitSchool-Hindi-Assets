@@ -247,14 +247,14 @@ MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005
 			52002	sentence_word		सही चयन करे।			heart	heart	hiert^heart^hart
 			52003	soundonly_word					play	play	fly^clay^play
 			52004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			52005	sentence_word		Arvind is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			52005	sentence_word		Arvind is in his _____.			arvind is in his bedroom	bedroom	bedroom^kitchen^house
 											
 MiniTest_5_2	2	52006, 52007, 52008, 52009, 52010									
 			52006	sentence_word		सही चयन करे।			news	news	mews^vews^news
 			52007	sentence_word		सही चयन करे।			paper	paper	paper^peper^papir
 			52008	soundonly_word					sweet	sweet	sweet^green^brown
 			52009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			52010	sentence_word		Richa is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			52010	sentence_word		Richa is in the _____.			richa is in the kitchen	kitchen	bedroom^kitchen^house
 											
 MiniTest_5_2	3	52011, 52012, 52013, 52014, 52015									
 			52011	sentence_word		सही चयन करे।			lion	lion	bion^lion^rion
@@ -325,15 +325,15 @@ MiniTest_6_1	2	61006, 61007, 61008, 61009, 61010
 MiniTest_6_1	3	61011, 61012, 61013, 61014, 61015									
 			61011	soundonly_word					door	door	window^bathroom^door
 			61012	soundonly_word					earth	earth	rain^storm^earth
-			61013	sentence_word		Naresh cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			61013	sentence_word		Naresh cannot ______ high.			naresh cannot jump high	jump	run^dance^jump
 			61014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			61015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 MiniTest_6_2	1	62001, 62002, 62003, 62004, 62005									
 			62001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			62002	image_sentence		like_5.png			sam eats	Rehman eats.	Rehman eats.^Dinesh plays.^The plant grows.
+			62002	image_sentence		like_5.png			rehman eats	Rehman eats.	Rehman eats.^Dinesh plays.^The plant grows.
 			62003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			62004	sentence_word		Astha _____ sick.			amy is sick	is	is^are^am
+			62004	sentence_word		Astha _____ sick.			astha is sick	is	is^are^am
 			62005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 MiniTest_6_2	2	62006, 62007, 62008, 62009, 62010									
@@ -352,21 +352,21 @@ MiniTest_6_2	3	62011, 62012, 62013, 62014, 62015
 											
 MiniTest_6_3	1	63001, 63002, 63003, 63004, 63005									
 			63001	sentence_word		सही चयन करे।			dolphin	dolphin	dolphin^airplane^sleep
-			63002	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			she walks	She walks.	She walks.^Shewalks.^she walks
+			63002	sentence_word		वाक्यो को सही क्रम में रखें।			she walks	She walks.	She walks.^Shewalks.^she walks
 			63003	sentence_word		They are _______.			they are farmers	farmers	farmers^strong^doctors
 			63004	image_sentence		book_en_328_page_2.png			This red food can be hot.	This red food can be hot.	This red food can be hot.^Yellow food can be a drink.^This brown food is sweet.
 			63005	sentence_sentence		_________ Rabbit said.			I'm sorry,rabbit said	I'm sorry,	I'm sad,^I'm happy,^I'm sorry,
 											
 MiniTest_6_3	2	63006, 63007, 63008, 63009, 63010									
 			63006	sentence_word		सही चयन करे।			airplane	airplane	dolphin^airplane^sleep
-			63007	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
+			63007	sentence_word		वाक्यो को सही क्रम में रखें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
 			63008	sentence_word		He is at _______.			he is at school	school	school^home^the park
 			63009	image_sentence		book_en_328_page_5.png			Yellow food can make a drink.	Yellow food can make a drink.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			63010	sentence_sentence		Rabbit said, ____________			Rabbit said. Let's play a game.	Let's play a game.	Let's jump.^Let's play a game.^Let's play ball.
 											
 MiniTest_6_3	3	63011, 63012, 63013, 63014, 63015									
 			63011	sentence_word		सही चयन करे।			sleep	sleep	dolphin^airplane^sleep
-			63012	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			He plays.	He plays.	He plays.^Heplays.^he plays
+			63012	sentence_word		वाक्यो को सही क्रम में रखें।			He plays.	He plays.	He plays.^Heplays.^he plays
 			63013	sentence_word		He doesn't have a _______.			he doesn't have a pen	pen	pen^sister^car
 			63014	image_sentence		book_en_328_page_8.png			This brown food is sweet.	This brown food is sweet.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			63015	sentence_sentence		_________ said Elephant.			Now it is my turn,said elephant	Now it is my turn,	Now it is my turn,^Now let's go,^Now we can play,
@@ -468,7 +468,7 @@ PostTest_7	1	7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010
 			7007	sentence_sentence		सही चयन करे।			सही चयन करे	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
 			7008	sentence_sentence		सही चयन करे।			सही चयन करे	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
 			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk. Baby cows eat grass. A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
-			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kushal and Ajeet wake up with the sun. Ajeet drinks chai. Kushal does too. Kushal and baba watch the sun go down.	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
+			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kushal and Ajeet wake up with the sun. Ajeet drinks chai. Kushal does too. Kushal and ajeet watch the sun go down.	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
 											
 PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020									
 			7011	sentence_sentence		What's this?			It's a frog.	It's a frog.	I'm good.^He is sad.^It's a frog.
@@ -535,15 +535,15 @@ MiniTest_8_3	2	83006, 83007, 83008, 83009, 83010
 			83006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83007	sentence_sentence		सही चयन करे।			सही चयन करे	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
 			83008	paragraph_sentence		Sabina loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Sabina loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			83009	sentence_sentence		Nalini went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			83010	sentence_sentence		Juhi says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83009	sentence_sentence		Nalini went hunting ________.			nalini went hunting at night	at night	in the day^every day^at night
+			83010	sentence_sentence		Juhi says, ___________			juhi says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	3	83011, 83012, 83013, 83014, 83015									
 			83011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83012	sentence_sentence		सही चयन करे।			सही चयन करे.	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			83013	paragraph_sentence		Sabina loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Sabina loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			83014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			83015	sentence_sentence		Juhi says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83015	sentence_sentence		Juhi says, ___________			juhi says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009									
 			8001	soundonly_sentence					a cat is on the chair	A cat is on the chair.	A cat is on the chair.^a cat is on the Chair.^A cat is onthechair.
@@ -552,7 +552,7 @@ PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009
 			8004	soundonly_image					jill plays a game alone	simo_friends_4_cropped_playball.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8005	paragraph_sentence	What does Worm like to do?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Worm likes to slide.	Worm likes to slide.^Worm likes to fly.^Worm likes to sing.
 			8006	paragraph_sentence	What is true?	Lakshmi has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Lakshmi likes to play with her brothers and sisters. They are lots of fun. 				Lakshmi has two sisters.	Lakshmi has a small family.^Lakshmi has two older brothers.^Lakshmi has two sisters.
-			8007	paragraph_sentence	What does Deep like to do?	Deep runs to the market. Deep runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Deep goes to the market, he runs slowly. He is more careful.				He likes to run fast.	He likes to run fast.^He likes to fall down.^He likes to drink milk.
+			8007	paragraph_sentence	What does Rudra like to do?	Rudra runs to the market. Rudra runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Rudra goes to the market, he runs slowly. He is more careful.				He likes to run fast.	He likes to run fast.^He likes to fall down.^He likes to drink milk.
 			8008	imageseq_sentence	What best describes the image sequence?	book_en_407_page_1.png	book_en_407_page_6.png	book_en_407_page_7.png		A fawn was running in the forest. The fawn tripped. The fawn cried and cried.	A fawn was running in the forest. He ran faster than the rabbit. The fawn cried and cried.^A fawn was running in the forest. The fawn tripped. The fawn cried and cried.^The fawn ran faster than the rabbit. The fawn tripped. Finally he fawn stopped crying.
 			8009	imageseq_image		book_en_404_page_5.png		book_en_404_page_7.png	Juhi says. I don't want to wash. She kicks the soap. That night she dreams. she is a princess. Dirt monsters attack the castle. The dirt and bugs are all around her.	book_en_404_page_6.png	book_en_404_page_6.png^book_en_404_page_2.png^book_en_404_page_9.png
 											
@@ -563,9 +563,9 @@ PostTest_8	2	8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019
 			8014	soundonly_image					the frogs make noise every night	elephant_frogs_4_sentence_frogs_2.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8015	paragraph_sentence	What does Bird like?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Bird likes the sky and the sun.	Bird likes the sky and the sun.^Bird likes the rain and the dirt.^Bird likes the dirt and the slide. 
 			8016	paragraph_sentence	What is true?	Lakshmi has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Lakshmi likes to play with her brothers and sisters. They are lots of fun. 				Lakshmi has a big family.	Lakshmi has a big family.^Lakshmi has two older brothers.^Lakshmi has one sister.
-			8017	paragraph_sentence	Does Deep hurt his face?	Deep runs to the market. Deep runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Deep goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
+			8017	paragraph_sentence	Does Rudra hurt his face?	Rudra runs to the market. Rudra runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Rudra goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
 			8018	imageseq_sentence	What best describes the image sequence?	book_en_407_page_7.png	book_en_407_page_8.png	book_en_407_page_10.png		The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.	The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.^The fawn was running in the forest. He hurt his leg. The monkey tried to help him.^The monkey tried to help the frawn. His mother came and gave him a hug. He hurt his leg.
-			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Varun's birthday. Varun and his friend lele are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Biren's waist. Biren is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
+			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Varun's birthday. Varun and his friend biren are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Biren's waist. Biren is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
 											
 MiniTest_9_1	1	91001, 91002, 91003, 91004, 91005									
 			91001	soundonly_image					She is reading under the table.	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
@@ -638,9 +638,9 @@ PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010
 			9005	paragraph_sentence		Every morning, Aayushi thinks about the plants she will see on the walk to school. On the way to school, Aayushi walks through a field of flowers. She picks a pretty pink flower. ______________________________. The flower smells sweet.			Every morning. Aayushi thinks about the plants she will see on the walk to school. On the way to school. Aayushi walks through a field of flowers. She picks a pretty pink flower. Aayushi takes a deep breath through her nose . The flower smells sweet.	Aayushi takes a deep breath through her nose.	Aayushi wll eat some fresh fruit.^Aayushi takes away the pink flower.^Aayushi takes a deep breath through her nose.
 			9006	paragraph_sentence		In the morning, Fox went for a walk. He walked until the sun was high. _______________________________. He looked all around for something to eat.			In the morning. Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger. He looked all around for something to eat.	His stomach rumbled with hunger.	His head was full of fear.^His stomach rumbled with hunger.^He could almost taste the grapes.
 			9007	imageseq_sentence		I am mad. I had a bad day at school.		Your day wasn't all bad.	I am mad. I had a bad day at school. Miss Nitika helped me up. Your day wasn't all bad.	“Miss Nitika helped me up.”	“I tripped over it.”^“Miss Nitika helped me up.”^“This boy laughed at me.”
-			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. Baldev said to June. Baldev and June built rockets boots with some tools. They ate their breakfast of melon with the spoon.	Baldev and June build rockets boots with some tools.	Baldev and June build rockets boots with some tools.^Baldev and June knew they must be home soon.^They landed back at home around noon.
+			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. Ajay said to June. Ajay and June built rockets boots with some tools. They ate their breakfast of melon with the spoon.	Ajay and June build rockets boots with some tools.	Ajay and June build rockets boots with some tools.^Ajay and June knew they must be home soon.^They landed back at home around noon.
 			9009	imageseq_image		book_en_507_page_1.png		book_en_507_page_10.png	Once there was a man named Parvez. who was much too tall for his own good. Life was hard for Parvez and the villagers felt bad for him. Now. Parvez is very happy. He lives his life easily and it is all thanks to his friends in the village.	book_en_507_page_5.png	book_en_507_page_8.png^book_en_507_page_5.png^book_en_507_page_9.png
-			9010	paragraph_sentence	Why did Lion summon Elephant to his log?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frog because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	To tell him to be careful.	To tell him to get a drink.^To tell him to leave the savanna.^To tell him to be careful.
+			9010	paragraph_sentence	Why did Lion summon Elephant to his log?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frog because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	To tell him to be careful.	To tell him to get a drink.^To tell him to leave the savnitika.^To tell him to be careful.
 											
 PostTest_9	2	9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020									
 			9011	sentence_sentence		सही चयन करे।			सही चयन करे	He is a tall boy.	He is a tall boys.^He is tall boy.^He is a tall boy.
@@ -650,7 +650,7 @@ PostTest_9	2	9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020
 			9015	paragraph_sentence		Aayushi passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon, Aayushi tells the fruit. ___________. Aayushi greets the tree at school.			Aayushi passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon. Aayushi tells the fruit. I am hungry. Aayushi greets the tree at school.	I am hungry!	I am not hungry!^I am hungry!^I am very happy!
 			9016	paragraph_sentence		Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know, _________________________.			Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know. because Fox stopped trying. 	because Fox stopped trying	because Fox stopped trying^because Fox walked away feeling sad^because Fox was still hungry
 			9017	imageseq_sentence		Usha first drew a red block.		She forgot to be mad and kept drawing.	Usha first drew a red block. Then Usha drew a picture of her teacher. She forgot to be mad and kept drawing.	Then Usha drew a picture of her teacher.	Usha scowled at the monkeys.^Usha ate the sweet and felt a little better.^Then Usha drew a picture of her teacher.
-			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named Baldev and a girl named June. Baldev and June packed a melon and a spoon. Baldev and June new they must be home soon.	Baldev and June packed a melon and a spoon.	Baldev and June packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
+			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named Ajay and a girl named June. Ajay and June packed a melon and a spoon. Ajay and June new they must be home soon.	Ajay and June packed a melon and a spoon.	Ajay and June packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
 			9019	imageseq_image		book_en_507_page_3.png		book_en_507_page_9.png	Parvez's house was too small for him too. Parvez rode his new bicycle home. smiling at how easy it was to ride and when it was time to go to bed. Parvez even found a new bed with new blankets to match.	book_en_507_page_7.png	book_en_507_page_4.png^book_en_507_page_7.png^book_en_507_page_2.png
 			9020	paragraph_sentence	What was the problem?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frogs, because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	Elephant stepped on two of the frogs accidentally.	Elephant tried to get a drink in the evening.^Elephant did not want to live with the frogs.^Elephant stepped on two of the frogs accidentally.
 											
@@ -813,7 +813,7 @@ SpecialTest_12	1	120001, 120002, 120003, 120004, 120005
 			120002	soundonly_word					house	house	happy^road^house
 			120003	soundonly_word					girl	girl	man ^girl^boy
 			120004	sentence_word		______ are tall.			you are tall	You	I^He^You
-			120005	sentence_word		We ______ Darpan.			we like mike	like	like^walk ^want
+			120005	sentence_word		We ______ Darpan.			we like darpan	like	like^walk ^want
 											
 SpecialTest_12	2	120006, 120007, 120008, 120009, 120010									
 			120006	soundonly_word					sun	sun	sun^tree^dog
@@ -883,14 +883,14 @@ SpecialTest_17	1	170001, 170002, 170003, 170004, 170005
 			170002	sentence_word		____ like Anil.			I like josh	I	i^I ^iI
 			170003	sentence_sentence		सही चयन करें।			सही चयन करें।	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
 			170004	sentence_sentence		सही चयन करें।			सही चयन करें।	Birds fly.	Birds fly.^birds fly.^biRds flY.
-			170005	sentence_sentence		सही चयन करें।			सही चयन करें।	This is Kirti.	this is ann.^This is Kirti.^this is Kirti.
+			170005	sentence_sentence		सही चयन करें।			सही चयन करें।	This is Kirti.	this is kirti.^This is Kirti.^this is Kirti.
 											
 SpecialTest_17	2	170006, 170007, 170008, 170009, 170010									
 			170006	sentence_word		____ walks.			she walks	She	She ^she ^SHe
 			170007	sentence_word		____ at the sun.			look at the sun	Look	look^looK^Look
 			170008	sentence_sentence		सही चयन करें।			सही चयन करें।	They are full.	they are full.^They are FulL.^They are full.
 			170009	sentence_sentence		सही चयन करें।			सही चयन करें।	Frogs swim.	Frogs swiM.^frogs swim.^Frogs swim.
-			170010	sentence_sentence		सही चयन करें।			सही चयन करें।	This is Hari.	this is tony.^this is Hari.^This is Hari.
+			170010	sentence_sentence		सही चयन करें।			सही चयन करें।	This is Hari.	this is hari.^this is Hari.^This is Hari.
 											
 SpecialTest_18	1	180001, 180002, 180003, 180004, 180005									
 			180001	sentence_word		I ____ little.			I am little	am	am^are^is
@@ -937,14 +937,14 @@ SpecialTest_20	2	200006, 200007, 200008, 200009, 200010
 SpecialTest_21	1	210001, 210002, 210003, 210004, 210005									
 			210001	soundonly_sentence					She is reading under the table.	She is reading under the table.	She is reading under the table.^He is sitting on the table.^She is eating on the chair.
 			210002	soundonly_sentence					they will go fishing	They will go fishing.	The boy is fishing now.^They will take a bus.^They will go fishing.
-			210003	ordering_sentence	ßævØô¢ ·UUUUô âãè RUUUU× ×ð¢ Ú¹ð¢Ð	The sun is bright.It is very hot.During the day sun shines very bright and hot.				The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.	The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.
+			210003	ordering_sentence	सही वाक्य का चयन करें।	The sun is bright.It is very hot.During the day sun shines very bright and hot.				The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.	The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.
 			210004	listeningcomp_sentence	Sahil is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Sahil do?				He is a teacher.	He is a teacher.^He is a nurse.^He is a student.
 			210005	listeningcomp_sentence	Cats are not large,but they are fast.Cats like to chase mice.They are fast when they chase mice.	Are cats fast?				Yes, they are.	Yes, they are.^No, they are not.^We do not know.
 											
 SpecialTest_21	2	210006, 210007, 210008, 210009, 210010									
 			210006	soundonly_sentence					Rabbits eat carrots.	Rabbits eat carrots.	Rabbits eat carrots.^Lions don't eat carrots.^People like carrots.
 			210007	soundonly_sentence					The boy wants to be a doctor.	The boy wants to be a doctor.	The boy wants to be a doctor.^The doctor is tall and kind.^The girl wants to be a teacher.
-			210008	ordering_sentence	ßævØô¢ ·UUUUô âãè RUUUU× ×ð¢ Ú¹ð¢Ð	Faraz wanted to buy a donkey. He did not have enough money to buy a donkey. Faraz was sad.				Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.	Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.
+			210008	ordering_sentence	सही वाक्य का चयन करें।	Faraz wanted to buy a donkey. He did not have enough money to buy a donkey. Faraz was sad.				Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.	Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.
 			210009	listeningcomp_sentence	Sahil is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Sahil's wife do?				She is a teacher.	She is a teacher.^She is a nurse.^She is a student.
 			210010	listeningcomp_sentence	Cats are not large,but they are fast.Cats like to chase mice.They are fast when they chase mice.	Are cats large?				No, they are not.	Yes, they are.^No, they are not.^We do not know.
 											
@@ -979,14 +979,14 @@ SpecialTest_23	2	230006, 230007, 230008, 230009, 230010
 SpecialTest_24	1	240001, 240002, 240003, 240004, 240005									
 			240001	paragraph_sentence	What does Himanshu take care of?	Himanshu has chickens. Himanshu feeds the chickens. The chickens lay eggs. Himanshu collects the eggs. Himanshu takes care of the chickens.				He takes care of chickens.	He takes care of chickens.^He takes care of his brother.^He takes care of cows.
 			240002	paragraph_sentence	Which is true?	Kanika has a sister. Her sister is a doctor. Her sister is thirty years old. She is a doctor in the city. Kanika likes to visit her sister in the city.				Kanika has a sister.	Kanika is a doctor.^Kanika's sister is a teacher.^Kanika has a sister.
-			240003	paragraph_sentence	Who likes to cry?	Narmada has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Narmada loves her baby brother.				Narmada's brother.	Narmada's brother.^Narmada.^Narmada and her brother.
+			240003	paragraph_sentence	Who likes to cry?	Nirmala has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Nirmala loves her baby brother.				Nirmala's brother.	Nirmala's brother.^Nirmala.^Nirmala and her brother.
 			240004	imageseq_sentence	What best describes the image sequence?	book_en_307_page_2.png	book_en_307_page_6.png	book_en_307_page_8.png		I write a letter. I put on a stamp on the envelope. My friend got her letter.	I write a letter. I put on a stamp on the envelope. My friend got her letter.^My friend got her letter. I write a letter. I put on a stamp on the envelope.^I put on a stamp on the envelope. I write a letter to my friend. My friend got her letter.
 			240005	paragraph_sentence	Which is true?	I take care of our cow. I give our cow water. Father milks our cow every day. We sell some of the milk for money.				Father milks our cow.	Father milks our cow.^We sell cows.^I milk our cow.
 											
 SpecialTest_24	2	240006, 240007, 240008, 240009, 240010									
 			240006	paragraph_sentence	Who feeds the chickens?	Himanshu has chickens. Himanshu feeds the chickens. The chickens lay eggs. Himanshu collects the eggs. Himanshu takes care of the chickens.				Himanshu feeds them.	Himanshu feeds them.^Himanshu's mom feeds them.^Nobody feeds them.
 			240007	paragraph_sentence	Which is true?	Kanika has a sister. Her sister is a doctor. Her sister is thirty years old. She is a doctor in the city. Kanika likes to visit her sister in the city.				Kanika's sister is a doctor.	Kanika's sister is a doctor.^Kanika is thirty years old.^Kanika is a doctor.
-			240008	paragraph_sentence	Is Narmada's brother big?	Narmada has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Narmada loves her baby brother.				No, he isn't.	Yes, he is.^No, he isn't.^We don't know.
+			240008	paragraph_sentence	Is Nirmala's brother big?	Nirmala has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Nirmala loves her baby brother.				No, he isn't.	Yes, he is.^No, he isn't.^We don't know.
 			240009	imageseq_sentence	What best describes the image sequence?	book_en_314_page_2.png	book_en_314_page_5.png	book_en_314_page_7.png		This is our cow. I give our cow water. Father milks our cow.	This is our cow. I give our cow water. Father milks our cow.^This is our village. Father milks our cow. I give our cow water.^This is our cow. I drink milk. We sell milk.
 			240010	paragraph_sentence	Which is true?	I take care of our cow. I give our cow water. Father milks our cow every day. We sell some of the milk for money.				I give our cow water.	We sell our cow.^I give our cow water.^I milk our cow.
 											
@@ -1240,14 +1240,14 @@ FishTest_6_2	1	6200001, 6200002, 6200003, 6200004, 6200005		sentence_sentence		�
 			6200002	sentence_word		सही चयन करे।			heart	heart	hiert^heart^hart
 			6200003	soundonly_word					play	play	fly^clay^play
 			6200004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			6200005	sentence_word		Arvind is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			6200005	sentence_word		Arvind is in his _____.			arvind is in his bedroom	bedroom	bedroom^kitchen^house
 											
 FishTest_6_2	2	6200006, 6200007, 6200008, 6200009, 6200010									
 			6200006	sentence_word		सही चयन करे।			news	news	mews^vews^news
 			6200007	sentence_word		सही चयन करे।			paper	paper	paper^peper^papir
 			6200008	soundonly_word					sweet	sweet	sweet^green^brown
 			6200009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			6200010	sentence_word		Richa is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			6200010	sentence_word		Richa is in the _____.			richa is in the kitchen	kitchen	bedroom^kitchen^house
 											
 FishTest_6_2	3	6200011, 6200012, 6200013, 6200014, 6200015									
 			6200011	sentence_word		सही चयन करे।			lion	lion	bion^lion^rion
@@ -1294,20 +1294,20 @@ FishTest_7_1	2	7100006, 7100007, 7100008, 7100009, 7100010
 FishTest_7_1	3	7100011, 7100012, 7100013, 7100014, 7100015									
 			7100011	soundonly_word					door	door	window^bathroom^door
 			7100012	soundonly_word					earth	earth	rain^storm^earth
-			7100013	sentence_word		Naresh cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			7100013	sentence_word		Naresh cannot ______ high.			naresh cannot jump high	jump	run^dance^jump
 			7100014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			7100015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 FishTest_7_2	1	7200001, 7200002, 7200003, 7200004, 7200005									
 			7200001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200002	image_sentence		like_5.png			sam eats	Rehman eats.	Rehman eats.^Dinesh plays.^The plant grows.
+			7200002	image_sentence		like_5.png			rehman eats	Rehman eats.	Rehman eats.^Dinesh plays.^The plant grows.
 			7200003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			7200004	sentence_word		Astha _____ sick.			amy is sick	is	is^are^am
+			7200004	sentence_word		Astha _____ sick.			astha is sick	is	is^are^am
 			7200005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 FishTest_7_2	2	7200006, 7200007, 7200008, 7200009, 7200010									
 			7200006	image_sentence		l4_1spoon2forks.png			A spoon and two forks.	A spoon and two forks.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200007	image_sentence		like_2.png			mac plays	Dinesh plays.	Rehman eats.^Dinesh plays.^The plant grows.
+			7200007	image_sentence		like_2.png			dinesh plays	Dinesh plays.	Rehman eats.^Dinesh plays.^The plant grows.
 			7200008	sentence_word		A pink ______.			a pink dress	dress	dress^house^shirt
 			7200009	sentence_word		I _____ thirsty.			i am thirsty	am	is^are^am
 			7200010	soundonly_image					she likes carrots	book_en_314_page_6.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
@@ -1321,21 +1321,21 @@ FishTest_7_2	3	7200011, 7200012, 7200013, 7200014, 7200015
 											
 FishTest_7_3	1	7300001, 7300002, 7300003, 7300004, 7300005									
 			7300001	sentence_word		सही चयन करे।			dolphin	dolphin	dolphin^airplane^sleep
-			7300002	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			she walks	She walks.	She walks.^Shewalks.^she walks
+			7300002	sentence_word		वाक्यो को सही क्रम में रखें।			she walks	She walks.	She walks.^Shewalks.^she walks
 			7300003	sentence_word		They are _______.			they are farmers	farmers	farmers^strong^doctors
 			7300004	image_sentence		book_en_328_page_2.png			This red food can be hot.	This red food can be hot.	This red food can be hot.^Yellow food can be a drink.^This brown food is sweet.
 			7300005	sentence_sentence		_________ Rabbit said.			I am sorry. Rabbit said.	I'm sorry,	I'm sad,^I'm happy,^I'm sorry,
 											
 FishTest_7_3	2	7300006, 7300007, 7300008, 7300009, 7300010									
 			7300006	sentence_word		सही चयन करे।			air plane	airplane	dolphin^airplane^sleep
-			7300007	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
+			7300007	sentence_word		वाक्यो को सही क्रम में रखें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
 			7300008	sentence_word		He is at _______.			he is at school	school	school^home^the park
 			7300009	image_sentence		book_en_328_page_5.png			Yellow food can make a drink.	Yellow food can make a drink.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			7300010	sentence_sentence		Rabbit said, ____________			Rabit said. Let's play a game.	Let's play a game.	Let's jump.^Let's play a game.^Let's play ball.
 											
 FishTest_7_3	3	7300011, 7300012, 7300013, 7300014, 7300015									
 			7300011	sentence_word		सही चयन करे।			sleep	sleep	dolphin^airplane^sleep
-			7300012	sentence_word		âãè ßævØ ·UUUæ ¿ØÙ ·UUUUÚð¢Ð			he plays	He plays.	He plays.^Heplays.^he plays
+			7300012	sentence_word		वाक्यो को सही क्रम में रखें।			he plays	He plays.	He plays.^Heplays.^he plays
 			7300013	sentence_word		He doesn't have a _______.			He doesn't have a pen.	pen	pen^sister^car
 			7300014	image_sentence		book_en_328_page_8.png			This brown food is sweet.	This brown food is sweet.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			7300015	sentence_sentence		_________ said Elephant.			Now it is my turn said Elephant.	Now it is my turn,	Now it is my turn,^Now let's go,^Now we can play,
@@ -1456,15 +1456,15 @@ FishTest_9_3	2	9300006, 9300007, 9300008, 9300009, 9300010
 			9300006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300007	sentence_sentence		सही चयन करे।			सही चयन करें।	He has three brothers.	He has three brothers.^He three brothers has.^he has threebrothers
 			9300008	paragraph_sentence		Sabina loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Sabina loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			9300009	sentence_sentence		Nalini went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			9300010	sentence_sentence		Juhi says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300009	sentence_sentence		Nalini went hunting ________.			nalini went hunting at night	at night	in the day^every day^at night
+			9300010	sentence_sentence		Juhi says, ___________			juhi says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	3	9300011, 9300012, 9300013, 9300014, 9300015									
 			9300011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300012	sentence_sentence		सही चयन करे।			सही चयन करें।	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			9300013	paragraph_sentence		Sabina loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Sabina loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			9300014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			9300015	sentence_sentence		Juhi says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300015	sentence_sentence		Juhi says, ___________			juhi says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_10_1	1	10100001, 10100002, 10100003, 10100004, 10100005									
 			10100001	soundonly_image					she is reading under the table	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
