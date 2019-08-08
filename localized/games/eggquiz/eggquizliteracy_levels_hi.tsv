@@ -352,21 +352,21 @@ MiniTest_6_2	3	62011, 62012, 62013, 62014, 62015
 											
 MiniTest_6_3	1	63001, 63002, 63003, 63004, 63005									
 			63001	sentence_word		सही चयन करे।			dolphin	dolphin	dolphin^airplane^sleep
-			63002	sentence_word		वाक्यो को सही क्रम में रखें।			she walks	She walks.	She walks.^Shewalks.^she walks
+			63002	sentence_word		सही वाक्य का चयन करें।			she walks	She walks.	She walks.^Shewalks.^she walks
 			63003	sentence_word		They are _______.			they are farmers	farmers	farmers^strong^doctors
 			63004	image_sentence		book_en_328_page_2.png			This red food can be hot.	This red food can be hot.	This red food can be hot.^Yellow food can be a drink.^This brown food is sweet.
 			63005	sentence_sentence		_________ Rabbit said.			I'm sorry,rabbit said	I'm sorry,	I'm sad,^I'm happy,^I'm sorry,
 											
 MiniTest_6_3	2	63006, 63007, 63008, 63009, 63010									
 			63006	sentence_word		सही चयन करे।			airplane	airplane	dolphin^airplane^sleep
-			63007	sentence_word		वाक्यो को सही क्रम में रखें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
+			63007	sentence_word		सही वाक्य का चयन करें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
 			63008	sentence_word		He is at _______.			he is at school	school	school^home^the park
 			63009	image_sentence		book_en_328_page_5.png			Yellow food can make a drink.	Yellow food can make a drink.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			63010	sentence_sentence		Rabbit said, ____________			Rabbit said. Let's play a game.	Let's play a game.	Let's jump.^Let's play a game.^Let's play ball.
 											
 MiniTest_6_3	3	63011, 63012, 63013, 63014, 63015									
 			63011	sentence_word		सही चयन करे।			sleep	sleep	dolphin^airplane^sleep
-			63012	sentence_word		वाक्यो को सही क्रम में रखें।			He plays.	He plays.	He plays.^Heplays.^he plays
+			63012	sentence_word		सही वाक्य का चयन करें।			He plays.	He plays.	He plays.^Heplays.^he plays
 			63013	sentence_word		He doesn't have a _______.			he doesn't have a pen	pen	pen^sister^car
 			63014	image_sentence		book_en_328_page_8.png			This brown food is sweet.	This brown food is sweet.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			63015	sentence_sentence		_________ said Elephant.			Now it is my turn,said elephant	Now it is my turn,	Now it is my turn,^Now let's go,^Now we can play,
@@ -937,14 +937,14 @@ SpecialTest_20	2	200006, 200007, 200008, 200009, 200010
 SpecialTest_21	1	210001, 210002, 210003, 210004, 210005									
 			210001	soundonly_sentence					She is reading under the table.	She is reading under the table.	She is reading under the table.^He is sitting on the table.^She is eating on the chair.
 			210002	soundonly_sentence					they will go fishing	They will go fishing.	The boy is fishing now.^They will take a bus.^They will go fishing.
-			210003	ordering_sentence	सही वाक्य का चयन करें।	The sun is bright.It is very hot.During the day sun shines very bright and hot.				The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.	The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.
+			210003	ordering_sentence	वाक्यो को सही क्रम में रखें।	The sun is bright.It is very hot.During the day sun shines very bright and hot.				The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.	The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.
 			210004	listeningcomp_sentence	Sahil is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Sahil do?				He is a teacher.	He is a teacher.^He is a nurse.^He is a student.
 			210005	listeningcomp_sentence	Cats are not large,but they are fast.Cats like to chase mice.They are fast when they chase mice.	Are cats fast?				Yes, they are.	Yes, they are.^No, they are not.^We do not know.
 											
 SpecialTest_21	2	210006, 210007, 210008, 210009, 210010									
 			210006	soundonly_sentence					Rabbits eat carrots.	Rabbits eat carrots.	Rabbits eat carrots.^Lions don't eat carrots.^People like carrots.
 			210007	soundonly_sentence					The boy wants to be a doctor.	The boy wants to be a doctor.	The boy wants to be a doctor.^The doctor is tall and kind.^The girl wants to be a teacher.
-			210008	ordering_sentence	सही वाक्य का चयन करें।	Faraz wanted to buy a donkey. He did not have enough money to buy a donkey. Faraz was sad.				Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.	Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.
+			210008	ordering_sentence	वाक्यो को सही क्रम में रखें।	Faraz wanted to buy a donkey. He did not have enough money to buy a donkey. Faraz was sad.				Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.	Faraz wanted to buy a donkey.^He did not have enough money to buy a donkey.^Faraz was sad.
 			210009	listeningcomp_sentence	Sahil is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Sahil's wife do?				She is a teacher.	She is a teacher.^She is a nurse.^She is a student.
 			210010	listeningcomp_sentence	Cats are not large,but they are fast.Cats like to chase mice.They are fast when they chase mice.	Are cats large?				No, they are not.	Yes, they are.^No, they are not.^We do not know.
 											
@@ -1321,21 +1321,21 @@ FishTest_7_2	3	7200011, 7200012, 7200013, 7200014, 7200015
 											
 FishTest_7_3	1	7300001, 7300002, 7300003, 7300004, 7300005									
 			7300001	sentence_word		सही चयन करे।			dolphin	dolphin	dolphin^airplane^sleep
-			7300002	sentence_word		वाक्यो को सही क्रम में रखें।			she walks	She walks.	She walks.^Shewalks.^she walks
+			7300002	sentence_word		सही वाक्य का चयन करें।			she walks	She walks.	She walks.^Shewalks.^she walks
 			7300003	sentence_word		They are _______.			they are farmers	farmers	farmers^strong^doctors
 			7300004	image_sentence		book_en_328_page_2.png			This red food can be hot.	This red food can be hot.	This red food can be hot.^Yellow food can be a drink.^This brown food is sweet.
 			7300005	sentence_sentence		_________ Rabbit said.			I am sorry. Rabbit said.	I'm sorry,	I'm sad,^I'm happy,^I'm sorry,
 											
 FishTest_7_3	2	7300006, 7300007, 7300008, 7300009, 7300010									
 			7300006	sentence_word		सही चयन करे।			air plane	airplane	dolphin^airplane^sleep
-			7300007	sentence_word		वाक्यो को सही क्रम में रखें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
+			7300007	sentence_word		सही वाक्य का चयन करें।			birds fly	Birds fly.	Birds fly.^Birdsfly.^birds fly
 			7300008	sentence_word		He is at _______.			he is at school	school	school^home^the park
 			7300009	image_sentence		book_en_328_page_5.png			Yellow food can make a drink.	Yellow food can make a drink.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			7300010	sentence_sentence		Rabbit said, ____________			Rabit said. Let's play a game.	Let's play a game.	Let's jump.^Let's play a game.^Let's play ball.
 											
 FishTest_7_3	3	7300011, 7300012, 7300013, 7300014, 7300015									
 			7300011	sentence_word		सही चयन करे।			sleep	sleep	dolphin^airplane^sleep
-			7300012	sentence_word		वाक्यो को सही क्रम में रखें।			he plays	He plays.	He plays.^Heplays.^he plays
+			7300012	sentence_word		सही वाक्य का चयन करें।			he plays	He plays.	He plays.^Heplays.^he plays
 			7300013	sentence_word		He doesn't have a _______.			He doesn't have a pen.	pen	pen^sister^car
 			7300014	image_sentence		book_en_328_page_8.png			This brown food is sweet.	This brown food is sweet.	This red food can be hot.^Yellow food can make a drink.^This brown food is sweet.
 			7300015	sentence_sentence		_________ said Elephant.			Now it is my turn said Elephant.	Now it is my turn,	Now it is my turn,^Now let's go,^Now we can play,
