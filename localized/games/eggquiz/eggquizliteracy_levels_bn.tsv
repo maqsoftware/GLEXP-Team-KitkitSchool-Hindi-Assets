@@ -294,7 +294,7 @@ PostTest_5	1	5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010
 			5007	image_word		house.png				house	house^paper^clock
 			5008	sentence_word		Some animals are ______.			some animals are big	big	tall^big^small
 			5009	sentence_word		These are our ______.			these are our hands	hands	knees^ears^hands
-			5010	sentence_word		Yash rides his bicycle to _________.			Yash rides his bicycle to the store	the store 	the store^the market^school
+			5010	sentence_word		Binod rides his bicycle to _________.			Binod rides his bicycle to the store	the store 	the store^the market^school
 											
 PostTest_5	2	5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020									
 			5011	soundonly_word					lion	lion	lion^frog^duck
@@ -306,7 +306,7 @@ PostTest_5	2	5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020
 			5017	image_word		river.png				river	mouse^words^river
 			5018	sentence_word		Some animals ______.			some animals walk	walk	walk^swim^fly
 			5019	sentence_word		This is your ______.			this is your head	head	face^hair^head
-			5020	sentence_word		Yash rides his bicycle to _________.			Yash rides his bicycle to the market	the market	the store^the market^school
+			5020	sentence_word		Binod rides his bicycle to _________.			Binod rides his bicycle to the market	the market	the store^the market^school
 											
 MiniTest_6_1	1	61001, 61002, 61003, 61004, 61005									
 			61001	soundonly_word					window	window	window^bathroom^door
@@ -434,13 +434,13 @@ MiniTest_7_2	3	72011, 72012, 72013, 72014, 72015
 			72011	image_sentence		l9_teachersitschair.png			A teacher sits in the chair.	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			72012	image_sentence		l8_heeatingfish.png			He is eating fish.	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
 			72013	sentence_sentence		সঠিক তা চুনুন			He has bananas.	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			72014	sentence_sentence		সঠিক তা চুনুন			Sameera eats many apples.	Sameera eats many apples.	Sameera eats many apples.^Sameera many apples eats.^Sameera eating many apples.
+			72014	sentence_sentence		সঠিক তা চুনুন			Olivia eats many apples.	Olivia eats many apples.	Olivia eats many apples.^Olivia many apples eats.^Olivia eating many apples.
 			72015	sentence_word		I need an _____.			I need an envelope	envelope	paper^pencil^envelope
 											
 MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005									
 			73001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			73002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			73003	sentence_sentence		সঠিক তা চুনুন			Sameera eats an apple.	Sameera eats an apple.	Sameera eats a apples.^Sameera eats an apple.^Sameera eating apple.
+			73003	sentence_sentence		সঠিক তা চুনুন			Olivia eats an apple.	Olivia eats an apple.	Olivia eats a apples.^Olivia eats an apple.^Olivia eating apple.
 			73004	sentence_sentence		Mouse said, “Please, Lion. _____________			Mouse said. Please Lion.   Do not eat me.	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			73005	sentence_sentence		This kitten has _________. 			This kitten has four legs	four legs	four legs^two legs^no legs
 											
@@ -551,7 +551,7 @@ PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009
 			8003	sentence_word		Arvind ______ scared yesterday.			arvind looked scared yesterday	looked	looked^looks^looking
 			8004	soundonly_image					jill plays a game alone	simo_friends_4_cropped_playball.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8005	paragraph_sentence	What does Worm like to do?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Worm likes to slide.	Worm likes to slide.^Worm likes to fly.^Worm likes to sing.
-			8006	paragraph_sentence	What is true?	Lakshmi has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Lakshmi likes to play with her brothers and sisters. They are lots of fun. 				Lakshmi has two sisters.	Lakshmi has a small family.^Lakshmi has two older brothers.^Lakshmi has two sisters.
+			8006	paragraph_sentence	What is true?	Kamla has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Kamla likes to play with her brothers and sisters. They are lots of fun. 				Kamla has two sisters.	Kamla has a small family.^Kamla has two older brothers.^Kamla has two sisters.
 			8007	paragraph_sentence	What does Rudra like to do?	Rudra runs to the market. Rudra runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Rudra goes to the market, he runs slowly. He is more careful.				He likes to run fast.	He likes to run fast.^He likes to fall down.^He likes to drink milk.
 			8008	imageseq_sentence	What best describes the image sequence?	book_en_407_page_1.png	book_en_407_page_6.png	book_en_407_page_7.png		A fawn was running in the forest. The fawn tripped. The fawn cried and cried.	A fawn was running in the forest. He ran faster than the rabbit. The fawn cried and cried.^A fawn was running in the forest. The fawn tripped. The fawn cried and cried.^The fawn ran faster than the rabbit. The fawn tripped. Finally he fawn stopped crying.
 			8009	imageseq_image		book_en_404_page_5.png		book_en_404_page_7.png	Juhi says. I don't want to wash. She kicks the soap. That night she dreams. she is a princess. Dirt monsters attack the castle. The dirt and bugs are all around her.	book_en_404_page_6.png	book_en_404_page_6.png^book_en_404_page_2.png^book_en_404_page_9.png
@@ -562,7 +562,7 @@ PostTest_8	2	8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019
 			8013	sentence_word		The man ______ his car yesterday.			the man washed his car yesterday	washed	washed^wash^washing
 			8014	soundonly_image					the frogs make noise every night	elephant_frogs_4_sentence_frogs_2.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8015	paragraph_sentence	What does Bird like?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Bird likes the sky and the sun.	Bird likes the sky and the sun.^Bird likes the rain and the dirt.^Bird likes the dirt and the slide. 
-			8016	paragraph_sentence	What is true?	Lakshmi has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Lakshmi likes to play with her brothers and sisters. They are lots of fun. 				Lakshmi has a big family.	Lakshmi has a big family.^Lakshmi has two older brothers.^Lakshmi has one sister.
+			8016	paragraph_sentence	What is true?	Kamla has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Kamla likes to play with her brothers and sisters. They are lots of fun. 				Kamla has a big family.	Kamla has a big family.^Kamla has two older brothers.^Kamla has one sister.
 			8017	paragraph_sentence	Does Rudra hurt his face?	Rudra runs to the market. Rudra runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Rudra goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
 			8018	imageseq_sentence	What best describes the image sequence?	book_en_407_page_7.png	book_en_407_page_8.png	book_en_407_page_10.png		The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.	The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.^The fawn was running in the forest. He hurt his leg. The monkey tried to help him.^The monkey tried to help the frawn. His mother came and gave him a hug. He hurt his leg.
 			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Varun's birthday. Varun and his friend biren are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Biren's waist. Biren is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
@@ -813,7 +813,7 @@ SpecialTest_12	1	120001, 120002, 120003, 120004, 120005
 			120002	soundonly_word					house	house	happy^road^house
 			120003	soundonly_word					girl	girl	man ^girl^boy
 			120004	sentence_word		______ are tall.			you are tall	You	I^He^You
-			120005	sentence_word		We ______ Darpan.			we like darpan	like	like^walk ^want
+			120005	sentence_word		We ______ Saikat.			we like saikat	like	like^walk ^want
 											
 SpecialTest_12	2	120006, 120007, 120008, 120009, 120010									
 			120006	soundonly_word					sun	sun	sun^tree^dog
@@ -950,14 +950,14 @@ SpecialTest_21	2	210006, 210007, 210008, 210009, 210010
 SpecialTest_22	1	220001, 220002, 220003, 220004, 220005									
 			220001	soundonly_sentence					there are mangoes in the basket	There are mangoes in the basket.	There are mangoes in the basket.^There are oranges in the box.^There are grapes under the box.
 			220002	listeningcomp_sentence	Govind is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	How old is Govind?				He is nine years old.	He is nine years old.^He is seven years old.^He is eight years old.
-			220003	listeningcomp_sentence	Mitesh can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	What can Mitesh do well?				He can write well.	He can write well.^He can read well.^He can sing well.
+			220003	listeningcomp_sentence	Abhik can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	What can Abhik do well?				He can write well.	He can write well.^He can read well.^He can sing well.
 			220004	listeningcomp_sentence	Frog was very happy. it was starting to rain. frog really likes the rain.he likes to jump in the rain. he likes to splash in the water. Jump!jump! splash!splash.	How did Frog feel?				He was happy.	He was happy.^He was sad.^He was tired.
 			220005	listeningcomp_sentence	My family has cows. The cows look for food. They walk and look for food. I walk with the cows. I take care of the cows.	What does my family have?				My family has cows.	My family has cows.^My family has dogs.^My family has chickens.
 											
 SpecialTest_22	2	220006, 220007, 220008, 220009, 220010									
 			220006	soundonly_sentence					the nurse is taking care of a baby	The nurse is taking care of a baby.	The nurse is taking care of a baby.^The doctor is taking care of a boy.^The woman is taking care of a girl.
 			220007	listeningcomp_sentence	Govind is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	What does Govind like to cook?				He likes to cook vegetables.	He likes to cook vegetables.^He likes to help his dad.^He never cooks.
-			220008	listeningcomp_sentence	Mitesh can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	How are Mitesh's letters?				They are nice letters.	They are nice letters.^They are long letters.^They are boring letters.
+			220008	listeningcomp_sentence	Abhik can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	How are Abhik's letters?				They are nice letters.	They are nice letters.^They are long letters.^They are boring letters.
 			220009	listeningcomp_sentence	Frog was very happy. it was starting to rain. frog really likes the rain.he likes to jump in the rain. he likes to splash in the water. Jump!jump! splash!splash.	What does Frog like to do?				He likes to jump in the rain.	He likes to jump in the rain.^He likes to sing in the rain.^He likes to dance in the rain.
 			220010	listeningcomp_sentence	Kanika will visit her sister .Her sister is 35 years old . She is a doctor who lives and works in the big city. Kanika will take the bus and visit her sister for the weekend	What does Kanika's sister do?				She is a doctor.	She is a doctor.^She is a teacher.^She is a nurse.
 											
@@ -994,7 +994,7 @@ SpecialTest_25	1	250001, 250002, 250003, 250004, 250005
 			250002	paragraph_sentence	Which is true?	I love elephants. They are very big. They have very long trunks. They need to eat a lot of food. They eat grass, leaves, and other plants.				Elephants are big.	Elephants eat meat.^Elephants are small.^Elephants are big.
 			250003	paragraph_sentence	What does Upasana like to do?	Upasana likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Upasana can draw all day!				She likes drawing.	She likes drawing.^She likes climbing.^She likes playing.
 			250004	paragraph_sentence	Which is true?	Aayushi loves the ocean. The ocean is big. The ocean is full of water. Aayushi sees boats on the ocean. Aayushi sees fish in the ocean. Aayushi can swim in the ocean. She is very happy to live near the ocean.				Aayushi can swim.	Aayushi can swim.^Aayushi likes stars.^The ocean is full of sand.
-			250005	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				Sonia can see the stars at night.	Harpreet can see the stars at night.^Harpreet can touch the stars.^There are not many stars.
+			250005	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				Sonia can see the stars at night.	Mouli can see the stars at night.^Mouli can touch the stars.^There are not many stars.
 											
 SpecialTest_25	2	250006, 250007, 250008, 250009, 250010									
 			250006	paragraph_sentence	Where do they sell the fish?	Aabha and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				At the market.	At shcool.^At the market.^At their shop.
@@ -1378,13 +1378,13 @@ FishTest_8_2	3	8200011, 8200012, 8200013, 8200014, 8200015
 			8200011	image_sentence		l9_teachersitschair.png			a teacher sits in the chair	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			8200012	image_sentence		l8_heeatingfish.png			he is eating fish	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
 			8200013	sentence_sentence		সঠিক তা চুনুন			He has bananas.	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			8200014	sentence_sentence		সঠিক তা চুনুন			Sameera eats many apples.	Sameera eats many apples.	Sameera eats many apples.^Sameera many apples eats.^Sameera eating many apples.
+			8200014	sentence_sentence		সঠিক তা চুনুন			Olivia eats many apples.	Olivia eats many apples.	Olivia eats many apples.^Olivia many apples eats.^Olivia eating many apples.
 			8200015	sentence_word		I need an _____.			i need an envelope	envelope	paper^pencil^envelope
 											
 FishTest_8_3	1	8300001, 8300002, 8300003, 8300004, 8300005									
 			8300001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			8300002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			8300003	sentence_sentence		সঠিক তা চুনুন			Sameera eats an apple.	Sameera eats an apple.	Sameera eats a apples.^Sameera eats an apple.^Sameera eating apple.
+			8300003	sentence_sentence		সঠিক তা চুনুন			Olivia eats an apple.	Olivia eats an apple.	Olivia eats a apples.^Olivia eats an apple.^Olivia eating apple.
 			8300004	sentence_sentence		Mouse said, Please Lion. ______________			Mouse said. Please Lion   do not eat me.	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			8300005	sentence_sentence		This kitten has _________. 			This kitten has four legs. 	four legs	four legs^two legs^no legs
 											
