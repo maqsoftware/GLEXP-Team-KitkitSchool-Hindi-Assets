@@ -247,14 +247,14 @@ MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005
 			52002	sentence_word		صحیح جواب چنیں			heart	heart	hiert^heart^hart
 			52003	soundonly_word					play	play	fly^clay^play
 			52004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			52005	sentence_word		Fred is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			52005	sentence_word		Fareed is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
 											
 MiniTest_5_2	2	52006, 52007, 52008, 52009, 52010									
 			52006	sentence_word		صحیح جواب چنیں			news	news	mews^vews^news
 			52007	sentence_word		صحیح جواب چنیں			paper	paper	paper^peper^papir
 			52008	soundonly_word					sweet	sweet	sweet^green^brown
 			52009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			52010	sentence_word		Cindy is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			52010	sentence_word		Chanda is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
 											
 MiniTest_5_2	3	52011, 52012, 52013, 52014, 52015									
 			52011	sentence_word		صحیح جواب چنیں			lion	lion	bion^lion^rion
@@ -294,7 +294,7 @@ PostTest_5	1	5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010
 			5007	image_word		house.png				house	house^paper^clock
 			5008	sentence_word		Some animals are ______.			some animals are big	big	tall^big^small
 			5009	sentence_word		These are our ______.			these are our hands	hands	knees^ears^hands
-			5010	sentence_word		Hamisi rides his bicycle to _________.			Hamisi rides his bicycle to the store	the store 	the store^the market^school
+			5010	sentence_word		Hashir rides his bicycle to _________.			Hashir rides his bicycle to the store	the store 	the store^the market^school
 											
 PostTest_5	2	5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020									
 			5011	soundonly_word					lion	lion	lion^frog^duck
@@ -306,7 +306,7 @@ PostTest_5	2	5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020
 			5017	image_word		river.png				river	mouse^words^river
 			5018	sentence_word		Some animals ______.			some animals walk	walk	walk^swim^fly
 			5019	sentence_word		This is your ______.			this is your head	head	face^hair^head
-			5020	sentence_word		Hamisi rides his bicycle to _________.			Hamisi rides his bicycle to the market	the market	the store^the market^school
+			5020	sentence_word		Hashir rides his bicycle to _________.			Hashir rides his bicycle to the market	the market	the store^the market^school
 											
 MiniTest_6_1	1	61001, 61002, 61003, 61004, 61005									
 			61001	soundonly_word					window	window	window^bathroom^door
@@ -325,27 +325,27 @@ MiniTest_6_1	2	61006, 61007, 61008, 61009, 61010
 MiniTest_6_1	3	61011, 61012, 61013, 61014, 61015									
 			61011	soundonly_word					door	door	window^bathroom^door
 			61012	soundonly_word					earth	earth	rain^storm^earth
-			61013	sentence_word		Brian cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			61013	sentence_word		Batin cannot ______ high.			brian cannot jump high	jump	run^dance^jump
 			61014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			61015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 MiniTest_6_2	1	62001, 62002, 62003, 62004, 62005									
 			62001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			62002	image_sentence		like_5.png			sam eats	Sam eats.	Sam eats.^Mac plays.^The plant grows.
+			62002	image_sentence		like_5.png			sam eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
 			62003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			62004	sentence_word		Amy _____ sick.			amy is sick	is	is^are^am
+			62004	sentence_word		Aamina _____ sick.			amy is sick	is	is^are^am
 			62005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 MiniTest_6_2	2	62006, 62007, 62008, 62009, 62010									
 			62006	image_sentence		l4_1spoon2forks.png			A spoon and two forks.	A spoon and two forks.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			62007	image_sentence		like_2.png			Mac plays.	Mac plays.	Sam eats.^Mac plays.^The plant grows.
+			62007	image_sentence		like_2.png			Maqsood plays.	Maqsood plays.	Salman eats.^Maqsood plays.^The plant grows.
 			62008	sentence_word		A pink ______.			a pink dress	dress	dress^house^shirt
 			62009	sentence_word		I _____ thirsty.			i am thirsty	am	is^are^am
 			62010	soundonly_image					she likes carrots	book_en_314_page_6.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 MiniTest_6_2	3	62011, 62012, 62013, 62014, 62015									
 			62011	image_sentence		l4_2lemons1tomato.png			Two lemons and a tomato	Two lemons and a tomato.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			62012	image_sentence		plants_7.png			The plant grows	The plant grows.	Sam eats.^Mac plays.^The plant grows.
+			62012	image_sentence		plants_7.png			The plant grows	The plant grows.	Salman eats.^Maqsood plays.^The plant grows.
 			62013	sentence_word		_____ cups.			four cups	Four	Four^Ten^Clean
 			62014	sentence_word		My brothers _____ students.			my brothers  are students	are	is^are^am
 			62015	soundonly_image					father milks our cow every day	book_en_314_page_7.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
@@ -398,7 +398,7 @@ PostTest_6	2	6011, 6012, 6013, 6014, 6015, 6016, 6017, 6018, 6019, 6020
 MiniTest_7_1	1	71001, 71002, 71003, 71004, 71005									
 			71001	image_sentence		l7_hecandrive.png			He can drive.	He can drive.	He can drive.^She can drive.^He can draw.
 			71002	image_sentence		l5_shirtdirty.png			This shirt is dirty.	This shirt is dirty.	This shoe is dirty.^This shirt is clean.^This shirt is dirty.
-			71003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
+			71003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Lateef can run fast.	Lateef can run fast.^Lateef can running fast.^Lateef runs can fast.
 			71004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She has a mango.	She has a mango.^She have a mango.^She having a mango.
 			71005	soundonly_image					she met a dolphin	book_en_319_page_6.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
@@ -434,13 +434,13 @@ MiniTest_7_2	3	72011, 72012, 72013, 72014, 72015
 			72011	image_sentence		l9_teachersitschair.png			A teacher sits in the chair.	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			72012	image_sentence		l8_heeatingfish.png			He is eating fish.	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
 			72013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			72014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
+			72014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mariam eats many apples.	Mariam eats many apples.^Mariam many apples eats.^Mariam eating many apples.
 			72015	sentence_word		I need an _____.			I need an envelope	envelope	paper^pencil^envelope
 											
 MiniTest_7_3	1	73001, 73002, 73003, 73004, 73005									
 			73001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			73002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			73003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
+			73003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mariam eats an apple.	Mariam eats a apples.^Mariam eats an apple.^Mariam eating apple.
 			73004	sentence_sentence		Mouse said, “Please, Lion. _____________			Mouse said. Please Lion.   Do not eat me.	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			73005	sentence_sentence		This kitten has _________. 			This kitten has four legs	four legs	four legs^two legs^no legs
 											
@@ -468,7 +468,7 @@ PostTest_7	1	7001, 7002, 7003, 7004, 7005, 7006, 7007, 7008, 7009, 7010
 			7007	sentence_sentence		صحیح جواب چنیں			He swims fast.	He swims fast.	He swim fast.^He swimming fast.^He swims fast.
 			7008	sentence_sentence		صحیح جواب چنیں			The dogs run every day.	The dogs run every day.	The dogs runs every day.^The dogs run every day.^The dogs are run every day.
 			7009	imageseq_sentence		Cows make milk.		A baby cow is called a calf.	Cows make milk.Baby cows eat grass.A baby cow is called a calf.	Baby cows eat grass.	Baby cows eat grass.^Som people eat cows.^I don't drink milk.
-			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kelvin and Baba wake up with the sun. Baba drinks chai. Kelvin does too. Kelvin and baba watch the sun go down	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
+			7010	imageseq_image		book_en_349_page_2.png		book_en_349_page_6.png	Kaleem and Baba wake up with the sun. Baba drinks chai. Kaleem does too. Kaleem and baba watch the sun go down	book_en_349_page_4.png	book_en_349_page_4.png^book_en_349_page_5.png^book_en_349_page_3.png
 											
 PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020									
 			7011	sentence_sentence		What's this?			It's a frog.	It's a frog.	I'm good.^He is sad.^It's a frog.
@@ -479,7 +479,7 @@ PostTest_7	2	7011, 7012, 7013, 7014, 7015, 7016, 7017, 7018, 7019, 7020
 			7016	soundonly_sentence					i am not tall	I am not tall.	I am not tall.^I am tall.^He is not tall.
 			7017	sentence_sentence		صحیح جواب چنیں			She runs fast.	She runs fast.	She running fast.^She runs fast.^She run fast.
 			7018	sentence_sentence		صحیح جواب چنیں			They play a game.	They play a game.	They play a game.^They are play a game.^They plays a game.
-			7019	imageseq_sentence		Kelvin and Baba wake up with the sun.		Kelvin does, too.	Kelvin and Baba wake up with the sun. Baba washes his face. Kelvin does too.	Baba washes his face.	Baba washes his face.^Kelvin washes his hands.^They work all day.
+			7019	imageseq_sentence		Kaleem and Baba wake up with the sun.		Kaleem does, too.	Kaleem and Baba wake up with the sun. Baba washes his face. Kaleem does too.	Baba washes his face.	Baba washes his face.^Kaleem washes his hands.^They work all day.
 			7020	imageseq_image		book_en_347_page_1.png		book_en_347_page_7.png	Good morning cow! Wake up. Some people take care of cows. Cows help people work. Cows live in groups just like people do	book_en_347_page_3.png	book_en_347_page_3.png^book_en_347_page_5.png^book_en_347_page_4.png
 											
 MiniTest_8_1	1	81001, 81002, 81003, 81004, 81005									
@@ -508,53 +508,53 @@ MiniTest_8_2	1	82001, 82002, 82003, 82004, 82005
 			82002	sentence_word		Look at the frogs __________.			look at the frogs on the rock	on the rock	on the rock^in the sky^in the nest
 			82003	sentence_word		This is __________.			this is my bag	my bag	my bag^me bag^I bag.
 			82004	listeningcomp_sentence	Bugs are small. Sometimes. It is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	What is this story about?				It is about bugs.	It is about bugs.^It is about food.^It is about people.
-			82005	paragraph_sentence	What does Jabiri like to do?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				He likes to cook.	He likes to cook.^He likes to read.^He likes to jump.
+			82005	paragraph_sentence	What does Jabir like to do?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				He likes to cook.	He likes to cook.^He likes to read.^He likes to jump.
 											
 MiniTest_8_2	2	82006, 82007, 82008, 82009, 82010									
 			82006	soundonly_sentence					he was cute	He was cute.	He was cute.^He were cute.^He did cute.
 			82007	sentence_word		The boy is __________.			the boy is under the table	under the table	under the table^in the room^on the box
 			82008	sentence_word		They are __________.			they are his cats	his cats	his cats^he cats^him cats
 			82009	listeningcomp_sentence	Bugs are small. Sometimes. It is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	Where are bugs?				They are everywhere.	They are everywhere.^They are in the ocean.^We cannot see them.
-			82010	paragraph_sentence	Does Jabiri cook with his dad?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				No, he does not.	Yes, he does.^No, he does not.^We do not know.
+			82010	paragraph_sentence	Does Jabir cook with his dad?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				No, he does not.	Yes, he does.^No, he does not.^We do not know.
 											
 MiniTest_8_2	3	82011, 82012, 82013, 82014, 82015									
 			82011	soundonly_sentence					They were kind.	They were kind.	They were kind.^They was kind.^They did kind.
 			82012	sentence_word		The bus stop is _________ the school.			the bus stop is in front of the school	in front of	in front of^between^next to
 			82013	sentence_word		She likes __________.			she likes her dress	her dress	her dress^she dress^you dress
 			82014	listeningcomp_sentence	Bugs are small. Sometimes it is hard to see them because they are so small. Some live in the ground. Some live in trees. I see them indoors. I see them outdoors. Bugs are everywhere.	Why is it sometimes hard to see bugs?				Because they are so small.	Because they are so small.^Because they are so big.^Because they are sad.
-			82015	paragraph_sentence	Does Jabiri cook dinner with his mom?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
+			82015	paragraph_sentence	Does Jabir cook dinner with his mom?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
 											
 MiniTest_8_3	1	83001, 83002, 83003, 83004, 83005									
 			83001	soundonly_image					the boy wants to be a doctor	l16_hewantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83002	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
-			83003	paragraph_sentence		Etana loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
+			83003	paragraph_sentence		Afreen loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
 			83004	sentence_sentence		He caught _______.			he caught nothing	nothing	nothing^animals^birds
 			83005	sentence_sentence		Mother says, ______________			mother says. You are too dirty	You are too dirty!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	2	83006, 83007, 83008, 83009, 83010									
 			83006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83007	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
-			83008	paragraph_sentence		Etana loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			83009	sentence_sentence		Masha went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			83010	sentence_sentence		Nia says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83008	paragraph_sentence		Afreen loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
+			83009	sentence_sentence		Misbah went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
+			83010	sentence_sentence		Neha says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	3	83011, 83012, 83013, 83014, 83015									
 			83011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83012	sentence_sentence		صحیح جواب چنیں			सही चयन करे.	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
-			83013	paragraph_sentence		Etana loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
+			83013	paragraph_sentence		Afreen loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			83014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			83015	sentence_sentence		Nia says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83015	sentence_sentence		Neha says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009									
 			8001	soundonly_sentence					a cat is on the chair	A cat is on the chair.	A cat is on the chair.^a cat is on the Chair.^A cat is onthechair.
 			8002	sentence_word		He ______ a doctor then.			he was a doctor then	was	was^is^were
-			8003	sentence_word		Mark ______ scared yesterday.			mark looked scared yesterday	looked	looked^looks^looking
+			8003	sentence_word		Makeen ______ scared yesterday.			mark looked scared yesterday	looked	looked^looks^looking
 			8004	soundonly_image					jill plays a game alone	simo_friends_4_cropped_playball.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8005	paragraph_sentence	What does Worm like to do?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Worm likes to slide.	Worm likes to slide.^Worm likes to fly.^Worm likes to sing.
 			8006	paragraph_sentence	What is true?	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun. 				Tahira has two sisters.	Tahira has a small family.^Tahira has two older brothers.^Tahira has two sisters.
-			8007	paragraph_sentence	What does Suwesi like to do?	Suwesi runs to the market. Suwesi runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Suwesi goes to the market, he runs slowly. He is more careful.				He likes to run fast.	He likes to run fast.^He likes to fall down.^He likes to drink milk.
+			8007	paragraph_sentence	What does Sania like to do?	Sania runs to the market. Sania runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Sania goes to the market, he runs slowly. He is more careful.				He likes to run fast.	He likes to run fast.^He likes to fall down.^He likes to drink milk.
 			8008	imageseq_sentence	What best describes the image sequence?	book_en_407_page_1.png	book_en_407_page_6.png	book_en_407_page_7.png		A fawn was running in the forest. The fawn tripped. The fawn cried and cried.	A fawn was running in the forest. He ran faster than the rabbit. The fawn cried and cried.^A fawn was running in the forest. The fawn tripped. The fawn cried and cried.^The fawn ran faster than the rabbit. The fawn tripped. Finally he fawn stopped crying.
-			8009	imageseq_image		book_en_404_page_5.png		book_en_404_page_7.png	Nia says. I don't want to wash. She kicks the soap. That night she dreams. she is a princess. Dirt monsters attack the castle. The dirt and bugs are all around her.	book_en_404_page_6.png	book_en_404_page_6.png^book_en_404_page_2.png^book_en_404_page_9.png
+			8009	imageseq_image		book_en_404_page_5.png		book_en_404_page_7.png	Neha says. I don't want to wash. She kicks the soap. That night she dreams. she is a princess. Dirt monsters attack the castle. The dirt and bugs are all around her.	book_en_404_page_6.png	book_en_404_page_6.png^book_en_404_page_2.png^book_en_404_page_9.png
 											
 PostTest_8	2	8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019									
 			8011	soundonly_sentence					a dog is on the box	A dog is on the box.	A dog is on the box.^a dog is on the box^A dog is onthebox.
@@ -563,50 +563,50 @@ PostTest_8	2	8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019
 			8014	soundonly_image					the frogs make noise every night	elephant_frogs_4_sentence_frogs_2.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8015	paragraph_sentence	What does Bird like?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Bird likes the sky and the sun.	Bird likes the sky and the sun.^Bird likes the rain and the dirt.^Bird likes the dirt and the slide. 
 			8016	paragraph_sentence	What is true?	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun. 				Tahira has a big family.	Tahira has a big family.^Tahira has two older brothers.^Tahira has one sister.
-			8017	paragraph_sentence	Does Suwesi hurt his face?	Suwesi runs to the market. Suwesi runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Suwesi goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
+			8017	paragraph_sentence	Does Sania hurt his face?	Sania runs to the market. Sania runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Sania goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
 			8018	imageseq_sentence	What best describes the image sequence?	book_en_407_page_7.png	book_en_407_page_8.png	book_en_407_page_10.png		The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.	The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.^The fawn was running in the forest. He hurt his leg. The monkey tried to help him.^The monkey tried to help the frawn. His mother came and gave him a hug. He hurt his leg.
-			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Bair's birthday. Bair and his friend lele are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Lele's waist. Lele is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
+			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Bilal's birthday. Bilal and his friend lele are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Laila's waist. Laila is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
 											
 MiniTest_9_1	1	91001, 91002, 91003, 91004, 91005									
 			91001	soundonly_image					She is reading under the table.	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91002	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			91003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
-			91004	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
-			91005	imageseq_sentence		Wangari was born in 1940. She grew up on a farm.		When Wangari was an old woman. she was given the Nobel Peace Prize.	Wangari was born in 1940. She grew up on a farm. Wangari began the green belt movement. When Wangari was an old woman. she was given the nobel peace prize	Wangari began the Green Belt movement.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari began the Green Belt movement.
+			91004	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	What is Rasheed's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
+			91005	imageseq_sentence		Usra was born in 1940. She grew up on a farm.		When Usra was an old woman. she was given the Nobel Peace Prize.	Usra was born in 1940. She grew up on a farm. Usra began the green belt movement. When Usra was an old woman. she was given the nobel peace prize	Usra began the Green Belt movement.	She led people to plant trees all across the country.^Usra went to university in the United States.^Usra began the Green Belt movement.
 											
 MiniTest_9_1	2	91006, 91007, 91008, 91009, 91010									
 			91006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
 			91008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
-			91009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
-			91010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed that  the things should be fair. Wangari knew that plants and animals are important to our world. Wangari began the green belt movement	Wangari knew that plants and animals are important to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are important to our world.
+			91009	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
+			91010	imageseq_sentence		Usra believed things should be fair.		Usra began the Green Belt movement.	Usra believed that  the things should be fair. Usra knew that plants and animals are important to our world. Usra began the green belt movement	Usra knew that plants and animals are important to our world.	She led people to plant trees all across the country.^Usra went to university in the United States.^Usra knew that plants and animals are important to our world.
 											
 MiniTest_9_1	3	91011, 91012, 91013, 91014, 91015									
 			91011	soundonly_image					she is reading under the tree	l15_shereadundertree.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			91012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			91013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
-			91014	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	Is Rashidi a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
-			91015	imageseq_sentence		Wangari went to university in the United States.		They made the country more green.	Wangari went to university in the United States. She led people to plant trees all across the country. They made the country more green.	She led people to plant trees all across the country.	She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Wangari was an old woman, she was given the Nobel Peace Prize.
+			91014	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting sick	Is Rasheed a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
+			91015	imageseq_sentence		Usra went to university in the United States.		They made the country more green.	Usra went to university in the United States. She led people to plant trees all across the country. They made the country more green.	She led people to plant trees all across the country.	She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Usra was an old woman, she was given the Nobel Peace Prize.
 											
 MiniTest_9_2	1	92001, 92002, 92003, 92004, 92005									
 			92001	soundonly_sentence					he doesn't dance	He doesn't dance.	He doesn't dance.^He dances well.^He doesn't sing.
 			92002	soundonly_image					she is helping her dad carry boxes	l17_shehelpdadcarry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			92003	sentence_sentence		صحیح جواب چنیں			सही चयन करे.	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
-			92004	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars. But there are too many.	Are there many stars in the sky?				Yes, there are.	Yes, there are.^No, there are not.^We do not know.
+			92004	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars. But there are too many.	Are there many stars in the sky?				Yes, there are.	Yes, there are.^No, there are not.^We do not know.
 			92005	paragraph_sentence		In the morning, Fox went for a walk. He walked _________________________. His stomach rumbled with hunger. He looked all around for something to eat.			In the morning. fox went for a walk. He walked until the sun is high. His stomach rumbled with hunger. He looked all around for something to eat.	until the sun is high	until he met a tree^until he found the sun^until the sun is high
 											
 MiniTest_9_2	2	92006, 92007, 92008, 92009, 92010									
 			92006	soundonly_sentence					she doesn't like cats	She doesn't like cats.	She doesn't like cats.^She likes cats.^She doesn't have dogs.
 			92007	soundonly_image					she is helping her mom cook dinner	l17_shehelpmomcook.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			92008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
-			92009	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars. But there are too many.	What does Sonia like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
+			92009	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars. But there are too many.	What does Sana like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
 			92010	paragraph_sentence		He saw some grapes high in a tree. ____________________ How could he get them? Fox reached with his arms. He could almost taste the grapes!			He saw some grapes high in a tree. They must be so sweet! How could he get them? Fox reached with his arms. He could almost taste the grapes.	They must be so sweet!	They must be too sour!^They must be so sweet!^They must be grapes!
 											
 MiniTest_9_2	3	92011, 92012, 92013, 92014, 92015									
 			92011	soundonly_sentence					they don't eat fish	They don't eat fish.	They don't eat fish.^They are eating fish.^They don't catch frogs.
 			92012	soundonly_image					She is helping her mom dry clothes.	l17_shehelpmomdry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			92013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
-			92014	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars. But there are too many.	What does Sonia look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
+			92014	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars. But there are too many.	What does Sana look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
 			92015	paragraph_sentence		Fox could not get the grapes by jumping. _______________ Could he find another way? We will never know, because Fox stopped trying. 			Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We would never know. Because fox stopped trying.	He was getting upset.	He was getting happy.^He was getting upset.^It was getting dark.
 											
 MiniTest_9_3	1	93001, 93002, 93003, 93004, 93005									
@@ -614,32 +614,32 @@ MiniTest_9_3	1	93001, 93002, 93003, 93004, 93005
 			93002	soundonly_image					basket is full of bunches of grapes	l10_grapesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			93003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Are they students?	Are they students?^Are they students.^are they students?
 			93004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
-			93005	paragraph_sentence		Cindy was late for school. _________________, but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear.			Cindy was late for school. She ran to catch the bus. But the bus had already passed her street. Cindy yelled for the driver to stop. but the driver didn't hear.	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
+			93005	paragraph_sentence		Chanda was late for school. _________________, but it had already passed her street. Chanda yelled for the driver to stop, but the driver didn't hear.			Chanda was late for school. She ran to catch the bus. But the bus had already passed her street. Chanda yelled for the driver to stop. but the driver didn't hear.	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
 											
 MiniTest_9_3	2	93006, 93007, 93008, 93009, 93010									
 			93006	soundonly_image					the bird is smaller than the dog	l4_dogbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			93008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
 			93009	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They ran fast.	They runs fast.^They runned fast.^They ran fast.
-			93010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then. A truck passed Cindy. If only I had a truck. Cindy thought. I could learn to drive. And drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
+			93010	paragraph_sentence		Then, a truck passed Chanda. _____________, Chanda thought. I could learn to drive and drive to school.			Then. A truck passed Chanda. If only I had a truck. Chanda thought. I could learn to drive. And drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 MiniTest_9_3	3	93011, 93012, 93013, 93014, 93015									
 			93011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			93012	soundonly_image					nest is full of three yellow birds	l10_birdsinnest.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			93013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
 			93014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
-			93015	paragraph_sentence		Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. _________________, Cindy asked herself again. I know! I'll take a motorcycle! Cindy shouted.			Cindy's school wasn't near the water though. A boat couldn't take Cindy to school either. How can I get to school.. Cindy asked herself again. I know. I will take a motorcycle. Cindy shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
+			93015	paragraph_sentence		Chanda's school wasn't near the water, though. A boat couldn't take Chanda to school, either. _________________, Chanda asked herself again. I know! I'll take a motorcycle! Chanda shouted.			Chanda's school wasn't near the water though. A boat couldn't take Chanda to school either. How can I get to school.. Chanda asked herself again. I know. I will take a motorcycle. Chanda shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
 											
 PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010									
 			9001	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She is a smart kid.	She is a smart kid.^She is a kid smart kids.^She be a smart kid.
 			9002	sentence_sentence		صحیح جواب چنیں			सही चयन करे	The snake moves slowly.	The snake move slowly.^The snakes moves slowly.^The snake moves slowly.
 			9003	soundonly_image					the boy is standing behind chair	l15_boystandbhdchair.png	l15_boystandbhdchair.png^l15_boystandbtwchairs.png^l15_boystandnextchair.png
 			9004	soundonly_image					she is giving the boys milk	l17_shegivingmilk.png	l17_shegivingmilk.png^l17_shegivingbread.png^l17_shegivingwater.png
-			9005	paragraph_sentence		Every morning, Lucy thinks about the plants she will see on the walk to school. On the way to school, Lucy walks through a field of flowers. She picks a pretty pink flower. ______________________________. The flower smells sweet.			Every morning. Lucy thinks about the plants she will see on the walk to school. On the way to school. Lucy walks through a field of flowers. She picks a pretty pink flower. Lucy takes a deep breath through her nose . The flower smells sweet.	Lucy takes a deep breath through her nose.	Lucy wll eat some fresh fruit.^Lucy takes away the pink flower.^Lucy takes a deep breath through her nose.
+			9005	paragraph_sentence		Every morning, Asma thinks about the plants she will see on the walk to school. On the way to school, Asma walks through a field of flowers. She picks a pretty pink flower. ______________________________. The flower smells sweet.			Every morning. Asma thinks about the plants she will see on the walk to school. On the way to school. Asma walks through a field of flowers. She picks a pretty pink flower. Asma takes a deep breath through her nose . The flower smells sweet.	Asma takes a deep breath through her nose.	Asma wll eat some fresh fruit.^Asma takes away the pink flower.^Asma takes a deep breath through her nose.
 			9006	paragraph_sentence		In the morning, Fox went for a walk. He walked until the sun was high. _______________________________. He looked all around for something to eat.			In the morning. Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger. He looked all around for something to eat.	His stomach rumbled with hunger.	His head was full of fear.^His stomach rumbled with hunger.^He could almost taste the grapes.
-			9007	imageseq_sentence		I am mad. I had a bad day at school.		Your day wasn't all bad.	I am mad. I had a bad day at school. Miss Anna helped me up. Your day wasn't all bad.	“Miss Anna helped me up.”	“I tripped over it.”^“Miss Anna helped me up.”^“This boy laughed at me.”
-			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. John said to June. John and June built rockets boots with some tools. They ate their breakfast of melon with the spoon.	John and June build rockets boots with some tools.	John and June build rockets boots with some tools.^John and June knew they must be home soon.^They landed back at home around noon.
-			9009	imageseq_image		book_en_507_page_1.png		book_en_507_page_10.png	Once there was a man named Tumo. who was much too tall for his own good. Life was hard for Tumo and the villagers felt bad for him. Now. Tumo is very happy. He lives his life easily and it is all thanks to his friends in the village.	book_en_507_page_5.png	book_en_507_page_8.png^book_en_507_page_5.png^book_en_507_page_9.png
+			9007	imageseq_sentence		I am mad. I had a bad day at school.		Your day wasn't all bad.	I am mad. I had a bad day at school. Miss Anam helped me up. Your day wasn't all bad.	“Miss Anam helped me up.”	“I tripped over it.”^“Miss Anam helped me up.”^“This boy laughed at me.”
+			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. Jameel said to June. Jameel and June built rockets boots with some tools. They ate their breakfast of melon with the spoon.	Jameel and June build rockets boots with some tools.	Jameel and June build rockets boots with some tools.^Jameel and June knew they must be home soon.^They landed back at home around noon.
+			9009	imageseq_image		book_en_507_page_1.png		book_en_507_page_10.png	Once there was a man named Tariq. who was much too tall for his own good. Life was hard for Tariq and the villagers felt bad for him. Now. Tariq is very happy. He lives his life easily and it is all thanks to his friends in the village.	book_en_507_page_5.png	book_en_507_page_8.png^book_en_507_page_5.png^book_en_507_page_9.png
 			9010	paragraph_sentence	Why did Lion summon Elephant to his log?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frog because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	To tell him to be careful.	To tell him to get a drink.^To tell him to leave the savanna.^To tell him to be careful.
 											
 PostTest_9	2	9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020									
@@ -647,11 +647,11 @@ PostTest_9	2	9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020
 			9012	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They eat an apple every day.	They eats an apple every day.^They eat an apple every day.^They eat apple every day.
 			9013	soundonly_image					the girl wants to go to bed	l16_girlwantsbed.png	l16_girlwantbicycle.png^l16_girlwantsairplane.png^l16_girlwantsbed.png
 			9014	soundonly_image					the oldman is painting the desk white	l17_oldmanpaintingdesk.png	l17_oldmanpaintingdesk.png^l17_youngmanpaintingdesk.png^l17_oldmanpaintingchair.png
-			9015	paragraph_sentence		Lucy passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon, Lucy tells the fruit. ___________. Lucy greets the tree at school.			Lucy passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon. Lucy tells the fruit. I am hungry. Lucy greets the tree at school.	I am hungry!	I am not hungry!^I am hungry!^I am very happy!
+			9015	paragraph_sentence		Asma passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon, Asma tells the fruit. ___________. Asma greets the tree at school.			Asma passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon. Asma tells the fruit. I am hungry. Asma greets the tree at school.	I am hungry!	I am not hungry!^I am hungry!^I am very happy!
 			9016	paragraph_sentence		Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know, _________________________.			Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know. because Fox stopped trying. 	because Fox stopped trying	because Fox stopped trying^because Fox walked away feeling sad^because Fox was still hungry
-			9017	imageseq_sentence		Maddie first drew a red block.		She forgot to be mad and kept drawing.	Maddie first drew a red block. Then Maddie drew a picture of her teacher. She forgot to be mad and kept drawing.	Then Maddie drew a picture of her teacher.	Maddie scowled at the monkeys.^Maddie ate the sweet and felt a little better.^Then Maddie drew a picture of her teacher.
-			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named John and a girl named June. John and June packed a melon and a spoon. John and June new they must be home soon.	John and June packed a melon and a spoon.	John and June packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
-			9019	imageseq_image		book_en_507_page_3.png		book_en_507_page_9.png	Tumo's house was too small for him too. Tumo rode his new bicycle home. smiling at how easy it was to ride and when it was time to go to bed. Tumo even found a new bed with new blankets to match.	book_en_507_page_7.png	book_en_507_page_4.png^book_en_507_page_7.png^book_en_507_page_2.png
+			9017	imageseq_sentence		Madeeha first drew a red block.		She forgot to be mad and kept drawing.	Madeeha first drew a red block. Then Madeeha drew a picture of her teacher. She forgot to be mad and kept drawing.	Then Madeeha drew a picture of her teacher.	Madeeha scowled at the monkeys.^Madeeha ate the sweet and felt a little better.^Then Madeeha drew a picture of her teacher.
+			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named Jameel and a girl named June. Jameel and June packed a melon and a spoon. Jameel and June new they must be home soon.	Jameel and June packed a melon and a spoon.	Jameel and June packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
+			9019	imageseq_image		book_en_507_page_3.png		book_en_507_page_9.png	Tariq's house was too small for him too. Tariq rode his new bicycle home. smiling at how easy it was to ride and when it was time to go to bed. Tariq even found a new bed with new blankets to match.	book_en_507_page_7.png	book_en_507_page_4.png^book_en_507_page_7.png^book_en_507_page_2.png
 			9020	paragraph_sentence	What was the problem?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frogs, because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	Elephant stepped on two of the frogs accidentally.	Elephant tried to get a drink in the evening.^Elephant did not want to live with the frogs.^Elephant stepped on two of the frogs accidentally.
 											
 SpecialTest_1	1	10001, 10002, 10003, 10004, 10005									
@@ -813,7 +813,7 @@ SpecialTest_12	1	120001, 120002, 120003, 120004, 120005
 			120002	soundonly_word					house	house	happy^road^house
 			120003	soundonly_word					girl	girl	man ^girl^boy
 			120004	sentence_word		______ are tall.			you are tall	You	I^He^You
-			120005	sentence_word		We ______ Mike.			we like mike	like	like^walk ^want
+			120005	sentence_word		We ______ Mubin.			we like mike	like	like^walk ^want
 											
 SpecialTest_12	2	120006, 120007, 120008, 120009, 120010									
 			120006	soundonly_word					sun	sun	sun^tree^dog
@@ -880,17 +880,17 @@ SpecialTest_16	2	160006, 160007, 160008, 160009, 160010
 											
 SpecialTest_17	1	170001, 170002, 170003, 170004, 170005									
 			170001	sentence_word		____ are tall.			you are tall	You	you^YoU^You
-			170002	sentence_word		____ like Josh.			I like josh	I	i^I ^iI
+			170002	sentence_word		____ like Jeesh.			I like josh	I	i^I ^iI
 			170003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
 			170004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Birds fly.	Birds fly.^birds fly.^biRds flY.
-			170005	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Ann.	this is ann.^This is Ann.^this is Ann.
+			170005	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Amreen.	this is ann.^This is Amreen.^this is Amreen.
 											
 SpecialTest_17	2	170006, 170007, 170008, 170009, 170010									
 			170006	sentence_word		____ walks.			she walks	She	She ^she ^SHe
 			170007	sentence_word		____ at the sun.			look at the sun	Look	look^looK^Look
 			170008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They are full.	they are full.^They are FulL.^They are full.
 			170009	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Frogs swim.	Frogs swiM.^frogs swim.^Frogs swim.
-			170010	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Tony.	this is tony.^this is Tony.^This is Tony.
+			170010	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Tabrez.	this is tony.^this is Tabrez.^This is Tabrez.
 											
 SpecialTest_18	1	180001, 180002, 180003, 180004, 180005									
 			180001	sentence_word		I ____ little.			I am little	am	am^are^is
@@ -938,70 +938,70 @@ SpecialTest_21	1	210001, 210002, 210003, 210004, 210005
 			210001	soundonly_sentence					She is reading under the table.	She is reading under the table.	She is reading under the table.^He is sitting on the table.^She is eating on the chair.
 			210002	soundonly_sentence					they will go fishing	They will go fishing.	The boy is fishing now.^They will take a bus.^They will go fishing.
 			210003	ordering_sentence	جملوں کو صحیح ترتیب دیں.	The sun is bright.It is very hot.During the day sun shines very bright and hot.				The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.	The sun is bright.^It is very hot.^During the day, the sun shines very bright and hot.
-			210004	listeningcomp_sentence	Abedi is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Abedi do?				He is a teacher.	He is a teacher.^He is a nurse.^He is a student.
+			210004	listeningcomp_sentence	Abid is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Abid do?				He is a teacher.	He is a teacher.^He is a nurse.^He is a student.
 			210005	listeningcomp_sentence	Cats are not large,but they are fast.Cats like to chase mice.They are fast when they chase mice.	Are cats fast?				Yes, they are.	Yes, they are.^No, they are not.^We do not know.
 											
 SpecialTest_21	2	210006, 210007, 210008, 210009, 210010									
 			210006	soundonly_sentence					Rabbits eat carrots.	Rabbits eat carrots.	Rabbits eat carrots.^Lions don't eat carrots.^People like carrots.
 			210007	soundonly_sentence					The boy wants to be a doctor.	The boy wants to be a doctor.	The boy wants to be a doctor.^The doctor is tall and kind.^The girl wants to be a teacher.
-			210008	ordering_sentence	جملوں کو صحیح ترتیب دیں.	Tim wanted to buy a donkey. He did not have enough money to buy a donkey. Tim was sad.				Tim wanted to buy a donkey.^He did not have enough money to buy a donkey.^Tim was sad.	Tim wanted to buy a donkey.^He did not have enough money to buy a donkey.^Tim was sad.
-			210009	listeningcomp_sentence	Abedi is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Abedi's wife do?				She is a teacher.	She is a teacher.^She is a nurse.^She is a student.
+			210008	ordering_sentence	جملوں کو صحیح ترتیب دیں.	Tehrim wanted to buy a donkey. He did not have enough money to buy a donkey. Tehrim was sad.				Tehrim wanted to buy a donkey.^He did not have enough money to buy a donkey.^Tehrim was sad.	Tehrim wanted to buy a donkey.^He did not have enough money to buy a donkey.^Tehrim was sad.
+			210009	listeningcomp_sentence	Abid is a teacher.He has a wife. His wife is also a teacher.Both love teaching 	What does Abid's wife do?				She is a teacher.	She is a teacher.^She is a nurse.^She is a student.
 			210010	listeningcomp_sentence	Cats are not large,but they are fast. Cats like to chase mice. They are fast when they chase mice.	Are cats large?				No, they are not.	Yes, they are.^No, they are not.^We do not know.											
 SpecialTest_22	1	220001, 220002, 220003, 220004, 220005									
 			220001	soundonly_sentence					there are mangoes in the basket	There are mangoes in the basket.	There are mangoes in the basket.^There are oranges in the box.^There are grapes under the box.
-			220002	listeningcomp_sentence	Jabiri is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	How old is Jabiri?				He is nine years old.	He is nine years old.^He is seven years old.^He is eight years old.
-			220003	listeningcomp_sentence	Mbwana can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	What can Mbwana do well?				He can write well.	He can write well.^He can read well.^He can sing well.
+			220002	listeningcomp_sentence	Jabir is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	How old is Jabir?				He is nine years old.	He is nine years old.^He is seven years old.^He is eight years old.
+			220003	listeningcomp_sentence	Mubeen can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	What can Mubeen do well?				He can write well.	He can write well.^He can read well.^He can sing well.
 			220004	listeningcomp_sentence	Frog was very happy. it was starting to rain. frog really likes the rain.he likes to jump in the rain. he likes to splash in the water. Jump!jump! splash!splash.	How did Frog feel?				He was happy.	He was happy.^He was sad.^He was tired.
 			220005	listeningcomp_sentence	My family has cows. The cows look for food. They walk and look for food. I walk with the cows. I take care of the cows.	What does my family have?				My family has cows.	My family has cows.^My family has dogs.^My family has chickens.
 											
 SpecialTest_22	2	220006, 220007, 220008, 220009, 220010									
 			220006	soundonly_sentence					the nurse is taking care of a baby	The nurse is taking care of a baby.	The nurse is taking care of a baby.^The doctor is taking care of a boy.^The woman is taking care of a girl.
-			220007	listeningcomp_sentence	Jabiri is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	What does Jabiri like to cook?				He likes to cook vegetables.	He likes to cook vegetables.^He likes to help his dad.^He never cooks.
-			220008	listeningcomp_sentence	Mbwana can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	How are Mbwana's letters?				They are nice letters.	They are nice letters.^They are long letters.^They are boring letters.
+			220007	listeningcomp_sentence	Jabir is 9 years old. He likes to help his mom cook. He likes to cook vegetables for his family to eat.	What does Jabir like to cook?				He likes to cook vegetables.	He likes to cook vegetables.^He likes to help his dad.^He never cooks.
+			220008	listeningcomp_sentence	Mubeen can write well.He writes letters to his family and friends.His letters are not long but they are very nice letters.	How are Mubeen's letters?				They are nice letters.	They are nice letters.^They are long letters.^They are boring letters.
 			220009	listeningcomp_sentence	Frog was very happy. it was starting to rain. frog really likes the rain.he likes to jump in the rain. he likes to splash in the water. Jump!jump! splash!splash.	What does Frog like to do?				He likes to jump in the rain.	He likes to jump in the rain.^He likes to sing in the rain.^He likes to dance in the rain.
 			220010	listeningcomp_sentence	Imara will visit her sister .Her sister is 35 years old . She is a doctor who lives and works in the big city. Imara will take the bus and visit her sister for the weekend	What does Imara's sister do?				She is a doctor.	She is a doctor.^She is a teacher.^She is a nurse.
 											
 SpecialTest_23	1	230001, 230002, 230003, 230004, 230005									
 			230001	image_sentence		l17_shehelpmomdry.png			She is helping her mom dry clothes.	She is helping her mom dry clothes.	She is helping her mom dry clothes.^She is helping her dad carry boxes.^She is helping her mom cook dinner.
-			230002	paragraph_sentence	Does Tim like all animals?	Tim likes animals. He likes small animals. He likes big animals. Tim likes all animals.				Yes, he does.	Yes, he does.^No, he does not.^We don't know.
+			230002	paragraph_sentence	Does Tehrim like all animals?	Tehrim likes animals. He likes small animals. He likes big animals. Tehrim likes all animals.				Yes, he does.	Yes, he does.^No, he does not.^We don't know.
 			230003	paragraph_sentence		______________ Mangoes can be yellow, green or red. They are good to eat.			Mangoes are a type of fruit. Mangoes can be yellow, green or red. They are good to eat.	Mangoes are a type of fruit.	Mangoes are a type of fruit.^Mangoes are not a fruit.^Mangoes have only one color.
 			230004	paragraph_sentence	What does the rat like to do?	The rat is small. It likes to eat. The rat eats a lot. The rat sleeps a lot too.				It likes to eat.	It likes to eat.^It likes to play.^It likes to dance.
-			230005	paragraph_sentence		Mother is sick. Mother did all the work. Jeff and I go to school. He has a good idea. ________________ I will help Mother feel better.			Mother is sick. Mother did all the work. Jeff and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.	Today I will do the work.	Today I will do the work.^Today I will be sick.^Today my mom will do the work.
+			230005	paragraph_sentence		Mother is sick. Mother did all the work. Jafar and I go to school. He has a good idea. ________________ I will help Mother feel better.			Mother is sick. Mother did all the work. Jafar and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.	Today I will do the work.	Today I will do the work.^Today I will be sick.^Today my mom will do the work.
 											
 SpecialTest_23	2	230006, 230007, 230008, 230009, 230010									
 			230006	image_sentence		l17_shehelpdadcarry.png			she is helping her dad carry boxes	She is helping her dad carry boxes.	She is helping her mom dry clothes.^She is helping her dad carry boxes.^She is helping her dad cook dinner.
-			230007	paragraph_sentence	Does Tim like big animals?	Tim likes animals. He likes small animals. He likes big animals. Tim likes all animals.				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
+			230007	paragraph_sentence	Does Tehrim like big animals?	Tehrim likes animals. He likes small animals. He likes big animals. Tehrim likes all animals.				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
 			230008	paragraph_sentence		______________ Fruits can be sweet. Fruits can be sour.			Fruit is a type of food. Fruits can be sweet. Fruits can be sour.	Fruit is a type of food.	Fruit is a type of food.^Fruit is only sweet.^Fruit is never sour.
 			230009	paragraph_sentence	Does the rat sleep a lot?	The rat is small. It likes to eat. The rat eats a lot. The rat sleeps a lot too.				Yes, it does.	Yes, it does.^No, it does not.^We don't know.
-			230010	paragraph_sentence		_____________ Mother did all the work. Jeff and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.			Mother is sick. Mother did all the work. Jeff and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.	Mother is sick.	Mother is sick.^Father is sick.^Jeff is sick.
+			230010	paragraph_sentence		_____________ Mother did all the work. Jafar and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.			Mother is sick. Mother did all the work. Jafar and I go to school. He has a good idea. Today I will do the work. I will help Mother feel better.	Mother is sick.	Mother is sick.^Father is sick.^Jafar is sick.
 											
 SpecialTest_24	1	240001, 240002, 240003, 240004, 240005									
-			240001	paragraph_sentence	What does Dafina take care of?	Dafina has chickens. Dafina feeds the chickens. The chickens lay eggs. Dafina collects the eggs. Dafina takes care of the chickens.				He takes care of chickens.	He takes care of chickens.^He takes care of his brother.^He takes care of cows.
+			240001	paragraph_sentence	What does Dilshad take care of?	Dilshad has chickens. Dilshad feeds the chickens. The chickens lay eggs. Dilshad collects the eggs. Dilshad takes care of the chickens.				He takes care of chickens.	He takes care of chickens.^He takes care of his brother.^He takes care of cows.
 			240002	paragraph_sentence	Which is true?	Imara has a sister. Her sister is a doctor. Her sister is thirty years old. She is a doctor in the city. Imara likes to visit her sister in the city.				Imara has a sister.	Imara is a doctor.^Imara's sister is a teacher.^Imara has a sister.
-			240003	paragraph_sentence	Who likes to cry?	Mgeni has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Mgeni loves her baby brother.				Mgeni's brother.	Mgeni's brother.^Mgeni.^Mgeni and her brother.
+			240003	paragraph_sentence	Who likes to cry?	Hifza has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Hifza loves her baby brother.				Hifza's brother.	Hifza's brother.^Hifza.^Hifza and her brother.
 			240004	imageseq_sentence	What best describes the image sequence?	book_en_307_page_2.png	book_en_307_page_6.png	book_en_307_page_8.png		I write a letter. I put on a stamp on the envelope. My friend got her letter.	I write a letter. I put on a stamp on the envelope. My friend got her letter.^My friend got her letter. I write a letter. I put on a stamp on the envelope.^I put on a stamp on the envelope. I write a letter to my friend. My friend got her letter.
 			240005	paragraph_sentence	Which is true?	I take care of our cow. I give our cow water. Father milks our cow every day. We sell some of the milk for money.				Father milks our cow.	Father milks our cow.^We sell cows.^I milk our cow.
 											
 SpecialTest_24	2	240006, 240007, 240008, 240009, 240010									
-			240006	paragraph_sentence	Who feeds the chickens?	Dafina has chickens. Dafina feeds the chickens. The chickens lay eggs. Dafina collects the eggs. Dafina takes care of the chickens.				Dafina feeds them.	Dafina feeds them.^Dafina's mom feeds them.^Nobody feeds them.
+			240006	paragraph_sentence	Who feeds the chickens?	Dilshad has chickens. Dilshad feeds the chickens. The chickens lay eggs. Dilshad collects the eggs. Dilshad takes care of the chickens.				Dilshad feeds them.	Dilshad feeds them.^Dilshad's mom feeds them.^Nobody feeds them.
 			240007	paragraph_sentence	Which is true?	Imara has a sister. Her sister is a doctor. Her sister is thirty years old. She is a doctor in the city. Imara likes to visit her sister in the city.				Imara's sister is a doctor.	Imara's sister is a doctor.^Imara is thirty years old.^Imara is a doctor.
-			240008	paragraph_sentence	Is Mgeni's brother big?	Mgeni has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Mgeni loves her baby brother.				No, he isn't.	Yes, he is.^No, he isn't.^We don't know.
+			240008	paragraph_sentence	Is Hifza's brother big?	Hifza has a baby brother. Her baby brother is small. Her baby brother likes to cry. Her baby brother likes to sleep. Hifza loves her baby brother.				No, he isn't.	Yes, he is.^No, he isn't.^We don't know.
 			240009	imageseq_sentence	What best describes the image sequence?	book_en_314_page_2.png	book_en_314_page_5.png	book_en_314_page_7.png		This is our cow. I give our cow water. Father milks our cow.	This is our cow. I give our cow water. Father milks our cow.^This is our village. Father milks our cow. I give our cow water.^This is our cow. I drink milk. We sell milk.
 			240010	paragraph_sentence	Which is true?	I take care of our cow. I give our cow water. Father milks our cow every day. We sell some of the milk for money.				I give our cow water.	We sell our cow.^I give our cow water.^I milk our cow.
 											
 SpecialTest_25	1	250001, 250002, 250003, 250004, 250005									
-			250001	paragraph_sentence	Where does Zaina live?	Zaina and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				Near the ocean.	Near the ocean.^In the city.^On the hill.
+			250001	paragraph_sentence	Where does Zainab live?	Zainab and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				Near the ocean.	Near the ocean.^In the city.^On the hill.
 			250002	paragraph_sentence	Which is true?	I love elephants. They are very big. They have very long trunks. They need to eat a lot of food. They eat grass, leaves, and other plants.				Elephants are big.	Elephants eat meat.^Elephants are small.^Elephants are big.
-			250003	paragraph_sentence	What does Uzuri like to do?	Uzuri likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Uzuri can draw all day!				She likes drawing.	She likes drawing.^She likes climbing.^She likes playing.
-			250004	paragraph_sentence	Which is true?	Lucy loves the ocean. The ocean is big. The ocean is full of water. Lucy sees boats on the ocean. Lucy sees fish in the ocean. Lucy can swim in the ocean. She is very happy to live near the ocean.				Lucy can swim.	Lucy can swim.^Lucy likes stars.^The ocean is full of sand.
-			250005	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				Sonia can see the stars at night.	Shawan can see the stars at night.^Shawan can touch the stars.^There are not many stars.
+			250003	paragraph_sentence	What does Uzma like to do?	Uzma likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Uzma can draw all day!				She likes drawing.	She likes drawing.^She likes climbing.^She likes playing.
+			250004	paragraph_sentence	Which is true?	Asma loves the ocean. The ocean is big. The ocean is full of water. Asma sees boats on the ocean. Asma sees fish in the ocean. Asma can swim in the ocean. She is very happy to live near the ocean.				Asma can swim.	Asma can swim.^Asma likes stars.^The ocean is full of sand.
+			250005	paragraph_sentence	Which is true?	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars, but there are too many.				Sana can see the stars at night.	Soni can see the stars at night.^Soni can touch the stars.^There are not many stars.
 											
 SpecialTest_25	2	250006, 250007, 250008, 250009, 250010									
-			250006	paragraph_sentence	Where do they sell the fish?	Zaina and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				At the market.	At shcool.^At the market.^At their shop.
+			250006	paragraph_sentence	Where do they sell the fish?	Zainab and her father live next to the ocean. They catch fish. They catch fish with a net. They catch many fish each day. They eat the fish. They sell some fish at the market.				At the market.	At shcool.^At the market.^At their shop.
 			250007	paragraph_sentence	Which is true?	I love elephants. They are very big. They have very long trunks. They need to eat a lot of food. They eat grass, leaves, and other plants.				Elephants have long trunks.	Elephants have long trunks.^Elephants eat meat.^I love trees.
-			250008	paragraph_sentence	What does Uzuri draw?	Uzuri likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Uzuri can draw all day!				She draws what she can see.	She draws what she can see.^She draws what she can feel.^She draws what she can smell.
-			250009	paragraph_sentence	Which is true?	Lucy loves the ocean. The ocean is big. The ocean is full of water. Lucy sees boats on the ocean. Lucy sees fish in the ocean. Lucy can swim in the ocean. She is very happy to live near the ocean.				The ocean is full of water.	Lucy lives on the boat.^The ocean is small.^The ocean is full of water.
-			250010	paragraph_sentence	Which is true?	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.				There are too many stars.	There are too many stars.^There are not many stars.^Sonia likes the flowers.
+			250008	paragraph_sentence	What does Uzma draw?	Uzma likes to draw. She draws what she can see. She draws her house. She draws the sun. She draws a tree. She draws her family. Uzma can draw all day!				She draws what she can see.	She draws what she can see.^She draws what she can feel.^She draws what she can smell.
+			250009	paragraph_sentence	Which is true?	Asma loves the ocean. The ocean is big. The ocean is full of water. Asma sees boats on the ocean. Asma sees fish in the ocean. Asma can swim in the ocean. She is very happy to live near the ocean.				The ocean is full of water.	Asma lives on the boat.^The ocean is small.^The ocean is full of water.
+			250010	paragraph_sentence	Which is true?	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars, but there are too many.				There are too many stars.	There are too many stars.^There are not many stars.^Sana likes the flowers.
 											
 FishTest_1_1	1	1100001, 1100002, 1100003, 1100004, 1100005									
 			1100001	word_word		A				A	A^X^K
@@ -1239,14 +1239,14 @@ FishTest_6_2	1	6200001, 6200002, 6200003, 6200004, 6200005		sentence_sentence		�
 			6200002	sentence_word		صحیح جواب چنیں			heart	heart	hiert^heart^hart
 			6200003	soundonly_word					play	play	fly^clay^play
 			6200004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			6200005	sentence_word		Fred is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			6200005	sentence_word		Fareed is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
 											
 FishTest_6_2	2	6200006, 6200007, 6200008, 6200009, 6200010									
 			6200006	sentence_word		صحیح جواب چنیں			news	news	mews^vews^news
 			6200007	sentence_word		صحیح جواب چنیں			paper	paper	paper^peper^papir
 			6200008	soundonly_word					sweet	sweet	sweet^green^brown
 			6200009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			6200010	sentence_word		Cindy is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			6200010	sentence_word		Chanda is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
 											
 FishTest_6_2	3	6200011, 6200012, 6200013, 6200014, 6200015									
 			6200011	sentence_word		صحیح جواب چنیں			lion	lion	bion^lion^rion
@@ -1293,27 +1293,27 @@ FishTest_7_1	2	7100006, 7100007, 7100008, 7100009, 7100010
 FishTest_7_1	3	7100011, 7100012, 7100013, 7100014, 7100015									
 			7100011	soundonly_word					door	door	window^bathroom^door
 			7100012	soundonly_word					earth	earth	rain^storm^earth
-			7100013	sentence_word		Brian cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			7100013	sentence_word		Batin cannot ______ high.			brian cannot jump high	jump	run^dance^jump
 			7100014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			7100015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 FishTest_7_2	1	7200001, 7200002, 7200003, 7200004, 7200005									
 			7200001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200002	image_sentence		like_5.png			sam eats	Sam eats.	Sam eats.^Mac plays.^The plant grows.
+			7200002	image_sentence		like_5.png			sam eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
 			7200003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			7200004	sentence_word		Amy _____ sick.			amy is sick	is	is^are^am
+			7200004	sentence_word		Aamina _____ sick.			amy is sick	is	is^are^am
 			7200005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 FishTest_7_2	2	7200006, 7200007, 7200008, 7200009, 7200010									
 			7200006	image_sentence		l4_1spoon2forks.png			A spoon and two forks.	A spoon and two forks.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200007	image_sentence		like_2.png			mac plays	Mac plays.	Sam eats.^Mac plays.^The plant grows.
+			7200007	image_sentence		like_2.png			mac plays	Maqsood plays.	Salman eats.^Maqsood plays.^The plant grows.
 			7200008	sentence_word		A pink ______.			a pink dress	dress	dress^house^shirt
 			7200009	sentence_word		I _____ thirsty.			i am thirsty	am	is^are^am
 			7200010	soundonly_image					she likes carrots	book_en_314_page_6.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 FishTest_7_2	3	7200011, 7200012, 7200013, 7200014, 7200015									
 			7200011	image_sentence		l4_2lemons1tomato.png			two lemons and a tomato	Two lemons and a tomato.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200012	image_sentence		plants_7.png			the plant grows	The plant grows.	Sam eats.^Mac plays.^The plant grows.
+			7200012	image_sentence		plants_7.png			the plant grows	The plant grows.	Salman eats.^Maqsood plays.^The plant grows.
 			7200013	sentence_word		_____ cups.			four cups	Four	Four^Ten^Clean
 			7200014	sentence_word		My brothers _____ students.			my brothers  are students	are	is^are^am
 			7200015	soundonly_image					father milks our cow everyday	book_en_314_page_7.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
@@ -1342,7 +1342,7 @@ FishTest_7_3	3	7300011, 7300012, 7300013, 7300014, 7300015
 FishTest_8_1	1	8100001, 8100002, 8100003, 8100004, 8100005									
 			8100001	image_sentence		l7_hecandrive.png			he can drive	He can drive.	He can drive.^She can drive.^He can draw.
 			8100002	image_sentence		l5_shirtdirty.png			this shirt is dirty	This shirt is dirty.	This shoe is dirty.^This shirt is clean.^This shirt is dirty.
-			8100003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Leo can run fast.	Leo can run fast.^Leo can running fast.^Leo runs can fast.
+			8100003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Lateef can run fast.	Lateef can run fast.^Lateef can running fast.^Lateef runs can fast.
 			8100004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She has a mango.	She has a mango.^She have a mango.^She having a mango.
 			8100005	soundonly_image					she met a dolphin	book_en_319_page_6.png	book_en_319_page_7.png^book_en_319_page_6.png^book_en_319_page_10.png
 											
@@ -1378,13 +1378,13 @@ FishTest_8_2	3	8200011, 8200012, 8200013, 8200014, 8200015
 			8200011	image_sentence		l9_teachersitschair.png			a teacher sits in the chair	A teacher sits in the chair.	A teacher sits in the chair.^A teacher cleans the chair.^A boy sits in the chair.
 			8200012	image_sentence		l8_heeatingfish.png			he is eating fish	He is eating fish.	They are eating fish.^He is eating fish.^He is eating salad.
 			8200013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has bananas.	He have bananas.^He has bananas.^He is have bananas.
-			8200014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mary eats many apples.	Mary eats many apples.^Mary many apples eats.^Mary eating many apples.
+			8200014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mariam eats many apples.	Mariam eats many apples.^Mariam many apples eats.^Mariam eating many apples.
 			8200015	sentence_word		I need an _____.			i need an envelope	envelope	paper^pencil^envelope
 											
 FishTest_8_3	1	8300001, 8300002, 8300003, 8300004, 8300005									
 			8300001	soundonly_image					she likes the yellow shoes	l11_shelikesyellowshoes.png	l11_shelikesyellowshoes.png^l11_shelikespinkshoes.png^l11_shelikespinkhat.png
 			8300002	soundonly_image					surprised	emotions_6_cropped_surprised.png	emotions_6_cropped_surprised.png^emotions_5_cropped_excited.png^emotions_3_cropped_angry.png
-			8300003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mary eats an apple.	Mary eats a apples.^Mary eats an apple.^Mary eating apple.
+			8300003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Mariam eats an apple.	Mariam eats a apples.^Mariam eats an apple.^Mariam eating apple.
 			8300004	sentence_sentence		Mouse said, Please Lion. ______________			Mouse said. Please Lion   do not eat me.	Do not eat me.	Do not eat me.^I will help you.^That is silly.
 			8300005	sentence_sentence		This kitten has _________. 			This kitten has four legs. 	four legs	four legs^two legs^no legs
 											
@@ -1428,83 +1428,83 @@ FishTest_9_2	1	9200001, 9200002, 9200003, 9200004, 9200005
 			9200002	sentence_word		Look at the frogs __________.			look at the frogs on the rock	on the rock	on the rock^in the sky^in the nest
 			9200003	sentence_word		This is __________.			this is my bag	my bag	my bag^me bag^I bag.
 			9200004	listeningcomp_sentence	Bugs are small. Sometimes it is hard to see them because they are so small .some live in the ground .some live in trees. I see them indoors. I see them outdoors. bugs are everywhere	What is this story about?				It is about bugs.	It is about bugs.^It is about food.^It is about people.
-			9200005	paragraph_sentence	What does Jabiri like to do?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				He likes to cook.	He likes to cook.^He likes to read.^He likes to jump.
+			9200005	paragraph_sentence	What does Jabir like to do?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				He likes to cook.	He likes to cook.^He likes to read.^He likes to jump.
 											
 FishTest_9_2	2	9200006, 9200007, 9200008, 9200009, 9200010									
 			9200006	soundonly_sentence					he was cute	He was cute.	He was cute.^He were cute.^He did cute.
 			9200007	sentence_word		The boy is __________.			the boy is under the table	under the table	under the table^in the room^on the box
 			9200008	sentence_word		They are __________.			they are his cats	his cats	his cats^he cats^him cats
 			9200009	listeningcomp_sentence	Bugs are small. Sometimes it is hard to see them because they are so small .some live in the ground .some live in trees. I see them indoors. I see them outdoors. bugs are everywhere	Where are bugs?				They are everywhere.	They are everywhere.^They are in the ocean.^We cannot see them.
-			9200010	paragraph_sentence	Does Jabiri cook with his dad?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				No, he does not.	Yes, he does.^No, he does not.^We do not know.
+			9200010	paragraph_sentence	Does Jabir cook with his dad?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				No, he does not.	Yes, he does.^No, he does not.^We do not know.
 											
 FishTest_9_2	3	9200011, 9200012, 9200013, 9200014, 9200015									
 			9200011	soundonly_sentence					They were kind.	They were kind.	They were kind.^They was kind.^They did kind.
 			9200012	sentence_word		The bus stop is _________ the school.			the bus stop is in front of the school	in front of	in front of^between^next to
 			9200013	sentence_word		She likes __________.			she likes her dress	her dress	her dress^she dress^you dress
 			9200014	listeningcomp_sentence	Bugs are small. Sometimes it is hard to see them because they are so small .some live in the ground .some live in trees. I see them indoors. I see them outdoors. bugs are everywhere	Why is it sometimes hard to see bugs?				Because they are so small.	Because they are so small.^Because they are so big.^Because they are sad.
-			9200015	paragraph_sentence	Does Jabiri cook dinner with his mom?	Jabiri likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
+			9200015	paragraph_sentence	Does Jabir cook dinner with his mom?	Jabir likes to cook. He cooks with his mom. They cook dinner for their family. It is nice to cook for family. 				Yes, he does.	Yes, he does.^No, he does not.^We do not know.
 											
 FishTest_9_3	1	9300001, 9300002, 9300003, 9300004, 9300005									
 			9300001	soundonly_image					the boy wants to be a doctor	l16_hewantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300002	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She is seven years old.	She is seven years old.^She seven old years.^she is sevenyearsold
-			9300003	paragraph_sentence		Etana loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
+			9300003	paragraph_sentence		Afreen loves beans. _____________ She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	Beans are her favorite food.	Beans are her favorite food.^She likes mangoes.^Carrots are her favorite food.
 			9300004	sentence_sentence		He caught _______.			he caught nothing	nothing	nothing^animals^birds
 			9300005	sentence_sentence		Mother says, ______________			mother says you are too dirty	You are too dirty!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	2	9300006, 9300007, 9300008, 9300009, 9300010									
 			9300006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300007	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has three brothers.	He has three brothers.^He three brothers has.^he has threebrothers
-			9300008	paragraph_sentence		Etana loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			9300009	sentence_sentence		Masha went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			9300010	sentence_sentence		Nia says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300008	paragraph_sentence		Afreen loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
+			9300009	sentence_sentence		Misbah went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
+			9300010	sentence_sentence		Neha says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	3	9300011, 9300012, 9300013, 9300014, 9300015									
 			9300011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300012	sentence_sentence		صحیح جواب چنیں			सही चयन करे	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
-			9300013	paragraph_sentence		Etana loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Etana loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
+			9300013	paragraph_sentence		Afreen loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			9300014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			9300015	sentence_sentence		Nia says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300015	sentence_sentence		Neha says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_10_1	1	10100001, 10100002, 10100003, 10100004, 10100005									
 			10100001	soundonly_image					she is reading under the table	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100002	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			10100003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	I have a pencil.	I have a pencil.^Ihave apencil.^i have A pencils.
-			10100004	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting  sick	What is Rashidi's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
-			10100005	imageseq_sentence		Wangari was born in 1940. She grew up on a farm.		When Wangari was an old woman, she was given the Nobel Peace Prize.	Wangari was born in 1940. She grew up on a farm. Wangari began the Green Belt movement. When Wangari was an old woman, she was given the Nobel Peace Prize.	Wangari began the Green Belt movement.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari began the Green Belt movement.
+			10100004	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. Being healthy helps people from getting  sick	What is Rasheed's job?				He is a nurse.	He is a nurse.^He is a teacher.^He is a farmer.
+			10100005	imageseq_sentence		Usra was born in 1940. She grew up on a farm.		When Usra was an old woman, she was given the Nobel Peace Prize.	Usra was born in 1940. She grew up on a farm. Usra began the Green Belt movement. When Usra was an old woman, she was given the Nobel Peace Prize.	Usra began the Green Belt movement.	She led people to plant trees all across the country.^Usra went to university in the United States.^Usra began the Green Belt movement.
 											
 FishTest_10_1	2	10100006, 10100007, 10100008, 10100009, 10100010									
 			10100006	soundonly_image					she is reading on the table	l15_shereadontable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100007	soundonly_image					the school is next to the park	l13_schoolnextpark.png	l13_schoolnextpark.png^l13_oldmanbtwboys.png^l13_dogbtwgoat_sheep.png
 			10100008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She cannot read well.	She cannot read well.^She cannotread well.^She cannot reading well.
-			10100009	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps people from getting sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
-			10100010	imageseq_sentence		Wangari believed things should be fair.		Wangari began the Green Belt movement.	Wangari believed things should be fair. Wangari knew that plants and animals are important to our world. Wangari began the Green Belt movement.	Wangari knew that plants and animals are improtant to our world.	She led people to plant trees all across the country.^Wangari went to university in the United States.^Wangari knew that plants and animals are improtant to our world.
+			10100009	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps people from getting sick	What helps people from getting sick?				Being healthy.	Being healthy.^Being happy.^Being hungry.
+			10100010	imageseq_sentence		Usra believed things should be fair.		Usra began the Green Belt movement.	Usra believed things should be fair. Usra knew that plants and animals are important to our world. Usra began the Green Belt movement.	Usra knew that plants and animals are improtant to our world.	She led people to plant trees all across the country.^Usra went to university in the United States.^Usra knew that plants and animals are improtant to our world.
 											
 FishTest_10_1	3	10100011, 10100012, 10100013, 10100014, 10100015									
 			10100011	soundonly_image					she is reading under the tree	l15_shereadundertree.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
 			10100012	soundonly_image					the cat is behind the box	l13_catbehindbox.png	l13_catbetweenboxes.png^l13_catfrontbox.png^l13_catbehindbox.png
 			10100013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Lions don't eat carrots.	Lions don't eat carrots.^Lions doesn't eating carrots.^Lions not eat carrots.
-			10100014	listeningcomp_sentence	Rashidi is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps people from getting sick	Is Rashidi a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
-			10100015	imageseq_sentence		Wangari went to university in the United States.		They made the country more green.	Wangari went to university in the United States. She led people to plant trees all across the country. They made the country more green. 	She led people to plant trees all across the country.	She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Wangari was an old woman, she was given the Nobel Peace Prize.
+			10100014	listeningcomp_sentence	Rasheed is a nurse. He helps people when they are sick. He helps understand what is wrong and give some medicine to help them feel better. He also gives advice to people. so that they can be healthy. being healthy helps people from getting sick	Is Rasheed a doctor?				No, he is not.	No, he is not.^Yes, he is.^We do not know.
+			10100015	imageseq_sentence		Usra went to university in the United States.		They made the country more green.	Usra went to university in the United States. She led people to plant trees all across the country. They made the country more green. 	She led people to plant trees all across the country.	She fought for the rights to the women in the schools.^She led people to plant trees all across the country.^When Usra was an old woman, she was given the Nobel Peace Prize.
 											
 FishTest_10_2	1	10200001, 10200002, 10200003, 10200004, 10200005									
 			10200001	soundonly_sentence					he doesn't dance	He doesn't dance.	He doesn't dance.^He dances well.^He doesn't sing.
 			10200002	soundonly_image					she is helping her dad carry boxes	l17_shehelpdadcarry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			10200003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They sell milk together.	They sell milk together.^They sells milk together.^They selling milk together.
-			10200004	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.	Are there many stars in the sky?				Yes, there are.	Yes, there are.^No, there are not.^We do not know.
+			10200004	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars, but there are too many.	Are there many stars in the sky?				Yes, there are.	Yes, there are.^No, there are not.^We do not know.
 			10200005	paragraph_sentence		In the morning, Fox went for a walk. He walked _________________________. His stomach rumbled with hunger. He looked all around for something to eat.			In the morning, Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger. He looked all around for something to eat.	until the sun is high	until he met a tree^until he found the sun^until the sun is high
 											
 FishTest_10_2	2	10200006, 10200007, 10200008, 10200009, 10200010									
 			10200006	soundonly_sentence					she doesn't like cats	She doesn't like cats.	She doesn't like cats.^She likes cats.^She doesn't have dogs.
 			10200007	soundonly_image					she is helping her mom cook dinner	l17_shehelpmomcook.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			10200008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He drinks milk every day.	He drinking milk every day.^He drink milk every day.^He drinks milk every day.
-			10200009	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.	What does Sonia like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
+			10200009	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars, but there are too many.	What does Sana like to do?				She likes to look at the stars.	She likes to look at the stars.^She likes to clean the house.^She likes to feed goats.
 			10200010	paragraph_sentence		He saw some grapes high in a tree. ____________________ How could he get them? Fox reached with his arms. He could almost taste the grapes!			He saw some grapes high in a tree. They must be so sweet, How could he get them? Fox reached with his arms. He could almost taste the grapes!	They must be so sweet!	They must be too sour!^They must be so sweet!^They must be grapes!
 											
 FishTest_10_2	3	10200011, 10200012, 10200013, 10200014, 10200015									
 			10200011	soundonly_sentence					they don't eat fish	They don't eat fish.	They don't eat fish.^They are eating fish.^They don't catch frogs.
 			10200012	soundonly_image					she is helping her mom dry clothes	l17_shehelpmomdry.png	l17_shehelpmomdry.png^l17_shehelpmomcook.png^l17_shehelpdadcarry.png
 			10200013	sentence_sentence		صحیح جواب چنیں			सही चयन करे.	The van drives down the road.	The van drive down the road.^The van drives down the road.^The van driving down the road.
-			10200014	listeningcomp_sentence	Sonia likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sonia wants to count all the stars, but there are too many.	What does Sonia look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
+			10200014	listeningcomp_sentence	Sana likes to look at the stars. She can see them from her house. She can see them at night. She can see them in the sky. Sana wants to count all the stars, but there are too many.	What does Sana look at each evening?				The stars in the sky.	The stars in the sky.^The house from outside.^Her baby brother.
 			10200015	paragraph_sentence		Fox could not get the grapes by jumping. _______________ Could he find another way? We will never know, because Fox stopped trying. 			Fox could not get the grapes by jumping. He was getting upset, Could he find another way? We will never know, because Fox stopped trying. 	He was getting upset.	He was getting happy.^He was getting upset.^It was getting dark.
 											
 FishTest_10_3	1	10300001, 10300002, 10300003, 10300004, 10300005									
@@ -1512,18 +1512,18 @@ FishTest_10_3	1	10300001, 10300002, 10300003, 10300004, 10300005
 			10300002	soundonly_image					basket is full of bunches of grapes	l10_grapesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			10300003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Are they students?	Are they students?^Are they students.^are they students?
 			10300004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	We had lunch.	We had lunch.^We has lunch.^We haved lunch.
-			10300005	paragraph_sentence		Cindy was late for school. _________________, but it had already passed her street. Cindy yelled for the driver to stop, but the driver didn't hear.			Cindy was late for school. She ran to catch the bus. but it had already passed her street. Cindy yelled for the driver to stop. but the driver didn't hear.	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
+			10300005	paragraph_sentence		Chanda was late for school. _________________, but it had already passed her street. Chanda yelled for the driver to stop, but the driver didn't hear.			Chanda was late for school. She ran to catch the bus. but it had already passed her street. Chanda yelled for the driver to stop. but the driver didn't hear.	She ran to catch the bus	She walked slowly^She ran to catch the bus^She shouted alone
 											
 FishTest_10_3	2	10300006, 10300007, 10300008, 10300009, 10300010									
 			10300006	soundonly_image					the bird is smaller than the dog.	l4_dogbird.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			10300007	soundonly_image					the basket is full of mellow apples	l10_applesinbasket.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			10300008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Does he like bananas?	Does he like bananas?^Does he like bananas.^does he like bananas?
 			10300009	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They ran fast.	They runs fast.^They runned fast.^They ran fast.
-			10300010	paragraph_sentence		Then, a truck passed Cindy. _____________, Cindy thought. I could learn to drive and drive to school.			Then. a truck passed Cindy. If only I had a truck. Cindy thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
+			10300010	paragraph_sentence		Then, a truck passed Chanda. _____________, Chanda thought. I could learn to drive and drive to school.			Then. a truck passed Chanda. If only I had a truck. Chanda thought. I could learn to drive and drive to school.	If only I had a truck	If only I had a truck^If only I had a boat^If only I got up early
 											
 FishTest_10_3	3	10300011, 10300012, 10300013, 10300014, 10300015									
 			10300011	soundonly_image					the cat is smaller than the dog	l4_dogcat.png	l4_dogcat.png^l4_catbird.png^l4_dogbird.png
 			10300012	soundonly_image					nest is full of three yellow birds	l10_birdsinnest.png	l10_grapesinbasket.png^l10_applesinbasket.png^l10_birdsinnest.png
 			10300013	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Where is the cat?	Where is the cat?^Where is the cat.^where is the cat?
 			10300014	sentence_sentence		صحیح جواب چنیں			सही चयन करे	She made a chair.	She made a chair.^She maked a chair.^She make a chair.
-			10300015	paragraph_sentence		Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. _________________, Cindy asked herself again. I know! I'll take a motorcycle! Cindy shouted.			Cindy's school wasn't near the water, though. A boat couldn't take Cindy to school, either. How can I get to school, Cindy asked herself again. I know! I'll take a motorcycle! Cindy shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
+			10300015	paragraph_sentence		Chanda's school wasn't near the water, though. A boat couldn't take Chanda to school, either. _________________, Chanda asked herself again. I know! I'll take a motorcycle! Chanda shouted.			Chanda's school wasn't near the water, though. A boat couldn't take Chanda to school, either. How can I get to school, Chanda asked herself again. I know! I'll take a motorcycle! Chanda shouted.	How can I get to school?	How can I buy a bicycle?^How can I drive a truck?^How can I get to school?
