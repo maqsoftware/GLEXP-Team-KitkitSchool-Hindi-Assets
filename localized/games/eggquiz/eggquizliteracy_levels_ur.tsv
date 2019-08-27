@@ -247,14 +247,14 @@ MiniTest_5_2	1	52001, 52002, 52003, 52004, 52005
 			52002	sentence_word		صحیح جواب چنیں			heart	heart	hiert^heart^hart
 			52003	soundonly_word					play	play	fly^clay^play
 			52004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			52005	sentence_word		Fareed is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			52005	sentence_word		Fareed is in his _____.			fareed is in his bedroom	bedroom	bedroom^kitchen^house
 											
 MiniTest_5_2	2	52006, 52007, 52008, 52009, 52010									
 			52006	sentence_word		صحیح جواب چنیں			news	news	mews^vews^news
 			52007	sentence_word		صحیح جواب چنیں			paper	paper	paper^peper^papir
 			52008	soundonly_word					sweet	sweet	sweet^green^brown
 			52009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			52010	sentence_word		Chanda is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			52010	sentence_word		Chanda is in the _____.			chanda is in the kitchen	kitchen	bedroom^kitchen^house
 											
 MiniTest_5_2	3	52011, 52012, 52013, 52014, 52015									
 			52011	sentence_word		صحیح جواب چنیں			lion	lion	bion^lion^rion
@@ -325,15 +325,15 @@ MiniTest_6_1	2	61006, 61007, 61008, 61009, 61010
 MiniTest_6_1	3	61011, 61012, 61013, 61014, 61015									
 			61011	soundonly_word					door	door	window^bathroom^door
 			61012	soundonly_word					earth	earth	rain^storm^earth
-			61013	sentence_word		Batin cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			61013	sentence_word		Batin cannot ______ high.			batin cannot jump high	jump	run^dance^jump
 			61014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			61015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 MiniTest_6_2	1	62001, 62002, 62003, 62004, 62005									
 			62001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			62002	image_sentence		like_5.png			sam eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
+			62002	image_sentence		like_5.png			salman eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
 			62003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			62004	sentence_word		Aamina _____ sick.			amy is sick	is	is^are^am
+			62004	sentence_word		Aamina _____ sick.			aamina is sick	is	is^are^am
 			62005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 MiniTest_6_2	2	62006, 62007, 62008, 62009, 62010									
@@ -535,20 +535,20 @@ MiniTest_8_3	2	83006, 83007, 83008, 83009, 83010
 			83006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83007	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has three brothers.	He has three brothers.^He threebrothers has.^he has threebrothers
 			83008	paragraph_sentence		Afreen loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			83009	sentence_sentence		Misbah went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			83010	sentence_sentence		Neha says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83009	sentence_sentence		Misbah went hunting ________.			misbah went hunting at night	at night	in the day^every day^at night
+			83010	sentence_sentence		Neha says, ___________			neha says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 MiniTest_8_3	3	83011, 83012, 83013, 83014, 83015									
 			83011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			83012	sentence_sentence		صحیح جواب چنیں			सही चयन करे.	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			83013	paragraph_sentence		Afreen loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			83014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			83015	sentence_sentence		Neha says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			83015	sentence_sentence		Neha says, ___________			neha says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 PostTest_8	1	8001, 8002, 8003, 8004, 8005, 8006, 8007, 8008, 8009									
 			8001	soundonly_sentence					a cat is on the chair	A cat is on the chair.	A cat is on the chair.^a cat is on the Chair.^A cat is onthechair.
 			8002	sentence_word		He ______ a doctor then.			he was a doctor then	was	was^is^were
-			8003	sentence_word		Makeen ______ scared yesterday.			mark looked scared yesterday	looked	looked^looks^looking
+			8003	sentence_word		Makeen ______ scared yesterday.			makeen looked scared yesterday	looked	looked^looks^looking
 			8004	soundonly_image					jill plays a game alone	simo_friends_4_cropped_playball.png	simo_friends_4_cropped_playball.png^eating_3.png^elephant_frogs_4_sentence_frogs_2.png
 			8005	paragraph_sentence	What does Worm like to do?	Worm and bird are friends. Worm likes to slide. Bird likes to fly. Worm likes the dirt. Bird  likes the sky. Worm likes the rain. Bird likes the sun. But worm and bird both like to play!				Worm likes to slide.	Worm likes to slide.^Worm likes to fly.^Worm likes to sing.
 			8006	paragraph_sentence	What is true?	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun. 				Tahira has two sisters.	Tahira has a small family.^Tahira has two older brothers.^Tahira has two sisters.
@@ -565,7 +565,7 @@ PostTest_8	2	8011, 8012, 8013, 8014, 8015, 8016, 8017, 8018, 8019
 			8016	paragraph_sentence	What is true?	Tahira has a big family. She has two brothers. One is older. One is younger. She has two sisters. One is older. One is younger. Tahira likes to play with her brothers and sisters. They are lots of fun. 				Tahira has a big family.	Tahira has a big family.^Tahira has two older brothers.^Tahira has one sister.
 			8017	paragraph_sentence	Does Sania hurt his face?	Sania runs to the market. Sania runs very fast. He likes to run fast. Oh no! He falls on a rock. He hurts his knee. Next time Sania goes to the market, he runs slowly. He is more careful.				No, he doesn't.	Yes, he does.^No, he doesn't.^Yes, he is.
 			8018	imageseq_sentence	What best describes the image sequence?	book_en_407_page_7.png	book_en_407_page_8.png	book_en_407_page_10.png		The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.	The fawn hurt his leg. The monkey tried to help him. His mother came and gave him a hug.^The fawn was running in the forest. He hurt his leg. The monkey tried to help him.^The monkey tried to help the frawn. His mother came and gave him a hug. He hurt his leg.
-			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Bilal's birthday. Bilal and his friend lele are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Laila's waist. Laila is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
+			8019	imageseq_image		book_en_408_page_1.png		book_en_408_page_5.png	Today is Bilal's birthday. Bilal and his friend laila are very happy. Suddenly rain start to fall and s uddenly fishes start to fall from sky. The water reaches Laila's waist. Laila is afraid.	book_en_408_page_4.png	book_en_408_page_6.png^book_en_408_page_2.png^book_en_408_page_4.png
 											
 MiniTest_9_1	1	91001, 91002, 91003, 91004, 91005									
 			91001	soundonly_image					She is reading under the table.	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
@@ -638,7 +638,7 @@ PostTest_9	1	9001, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010
 			9005	paragraph_sentence		Every morning, Asma thinks about the plants she will see on the walk to school. On the way to school, Asma walks through a field of flowers. She picks a pretty pink flower. ______________________________. The flower smells sweet.			Every morning. Asma thinks about the plants she will see on the walk to school. On the way to school. Asma walks through a field of flowers. She picks a pretty pink flower. Asma takes a deep breath through her nose . The flower smells sweet.	Asma takes a deep breath through her nose.	Asma wll eat some fresh fruit.^Asma takes away the pink flower.^Asma takes a deep breath through her nose.
 			9006	paragraph_sentence		In the morning, Fox went for a walk. He walked until the sun was high. _______________________________. He looked all around for something to eat.			In the morning. Fox went for a walk. He walked until the sun was high. His stomach rumbled with hunger. He looked all around for something to eat.	His stomach rumbled with hunger.	His head was full of fear.^His stomach rumbled with hunger.^He could almost taste the grapes.
 			9007	imageseq_sentence		I am mad. I had a bad day at school.		Your day wasn't all bad.	I am mad. I had a bad day at school. Miss Anam helped me up. Your day wasn't all bad.	“Miss Anam helped me up.”	“I tripped over it.”^“Miss Anam helped me up.”^“This boy laughed at me.”
-			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. Jameel said to June. Jameel and June built rockets boots with some tools. They ate their breakfast of melon with the spoon.	Jameel and June build rockets boots with some tools.	Jameel and June build rockets boots with some tools.^Jameel and June knew they must be home soon.^They landed back at home around noon.
+			9008	imageseq_sentence		book_en_413_page_4.png		book_en_413_page_8.png	We can bring melons to eat on the moon. We will eat them with spoon. Jameel said to Chanda. Jameel and Chanda built rockets boots with some tools. They ate their breakfast of melon with the spoon.	Jameel and Chanda build rockets boots with some tools.	Jameel and Chanda build rockets boots with some tools.^Jameel and Chanda knew they must be home soon.^They landed back at home around noon.
 			9009	imageseq_image		book_en_507_page_1.png		book_en_507_page_10.png	Once there was a man named Tariq. who was much too tall for his own good. Life was hard for Tariq and the villagers felt bad for him. Now. Tariq is very happy. He lives his life easily and it is all thanks to his friends in the village.	book_en_507_page_5.png	book_en_507_page_8.png^book_en_507_page_5.png^book_en_507_page_9.png
 			9010	paragraph_sentence	Why did Lion summon Elephant to his log?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frog because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	To tell him to be careful.	To tell him to get a drink.^To tell him to leave the savanna.^To tell him to be careful.
 											
@@ -650,7 +650,7 @@ PostTest_9	2	9011, 9012, 9013, 9014, 9015, 9016, 9017, 9018, 9019, 9020
 			9015	paragraph_sentence		Asma passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon, Asma tells the fruit. ___________. Asma greets the tree at school.			Asma passes a fruit tree. The fruits on the tree are green. The fruits are not ripe yet. Get ripe soon. Asma tells the fruit. I am hungry. Asma greets the tree at school.	I am hungry!	I am not hungry!^I am hungry!^I am very happy!
 			9016	paragraph_sentence		Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know, _________________________.			Fox could not get the grapes by jumping. He was getting upset. Could he find another way? We will never know. because Fox stopped trying. 	because Fox stopped trying	because Fox stopped trying^because Fox walked away feeling sad^because Fox was still hungry
 			9017	imageseq_sentence		Madeeha first drew a red block.		She forgot to be mad and kept drawing.	Madeeha first drew a red block. Then Madeeha drew a picture of her teacher. She forgot to be mad and kept drawing.	Then Madeeha drew a picture of her teacher.	Madeeha scowled at the monkeys.^Madeeha ate the sweet and felt a little better.^Then Madeeha drew a picture of her teacher.
-			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named Jameel and a girl named June. Jameel and June packed a melon and a spoon. Jameel and June new they must be home soon.	Jameel and June packed a melon and a spoon.	Jameel and June packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
+			9018	imageseq_sentence		book_en_413_page_1.png		book_en_413_page_10.png	Once there was a boy named Jameel and a girl named Chanda. Jameel and Chanda packed a melon and a spoon. Jameel and Chanda new they must be home soon.	Jameel and Chanda packed a melon and a spoon.	Jameel and Chanda packed a melon and a spoon.^They ate their breakfast of melon with a spoon.^They landed back at home around noon.
 			9019	imageseq_image		book_en_507_page_3.png		book_en_507_page_9.png	Tariq's house was too small for him too. Tariq rode his new bicycle home. smiling at how easy it was to ride and when it was time to go to bed. Tariq even found a new bed with new blankets to match.	book_en_507_page_7.png	book_en_507_page_4.png^book_en_507_page_7.png^book_en_507_page_2.png
 			9020	paragraph_sentence	What was the problem?	In the evening, Elephant was thirsty. She went back to the watering hole. When she tried to get a drink, several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large, he said. You must be careful of the frogs, because they are very small.			In the evening. Elephant was thirsty. She went back to the watering hole. When she tried to get a drink. several frogs got in her way. She accidentally stepped on two of them. Lion summoned Elephant to his log. You are very large. he said. You must be careful of the frogs. because they are very small.	Elephant stepped on two of the frogs accidentally.	Elephant tried to get a drink in the evening.^Elephant did not want to live with the frogs.^Elephant stepped on two of the frogs accidentally.
 											
@@ -813,7 +813,7 @@ SpecialTest_12	1	120001, 120002, 120003, 120004, 120005
 			120002	soundonly_word					house	house	happy^road^house
 			120003	soundonly_word					girl	girl	man ^girl^boy
 			120004	sentence_word		______ are tall.			you are tall	You	I^He^You
-			120005	sentence_word		We ______ Mubin.			we like mike	like	like^walk ^want
+			120005	sentence_word		We ______ Mubin.			we like mubin	like	like^walk ^want
 											
 SpecialTest_12	2	120006, 120007, 120008, 120009, 120010									
 			120006	soundonly_word					sun	sun	sun^tree^dog
@@ -880,17 +880,17 @@ SpecialTest_16	2	160006, 160007, 160008, 160009, 160010
 											
 SpecialTest_17	1	170001, 170002, 170003, 170004, 170005									
 			170001	sentence_word		____ are tall.			you are tall	You	you^YoU^You
-			170002	sentence_word		____ like Jeesh.			I like josh	I	i^I ^iI
+			170002	sentence_word		____ like Jeesh.			I like jeesh	I	i^I ^iI
 			170003	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He is a boy.	he is a boy.^He is a boy.^He is A BOy.
 			170004	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Birds fly.	Birds fly.^birds fly.^biRds flY.
-			170005	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Amreen.	this is ann.^This is Amreen.^this is Amreen.
+			170005	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Amreen.	this is amreen.^This is Amreen.^this is Amreen.
 											
 SpecialTest_17	2	170006, 170007, 170008, 170009, 170010									
 			170006	sentence_word		____ walks.			she walks	She	She ^she ^SHe
 			170007	sentence_word		____ at the sun.			look at the sun	Look	look^looK^Look
 			170008	sentence_sentence		صحیح جواب چنیں			सही चयन करे	They are full.	they are full.^They are FulL.^They are full.
 			170009	sentence_sentence		صحیح جواب چنیں			सही चयन करे	Frogs swim.	Frogs swiM.^frogs swim.^Frogs swim.
-			170010	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Tabrez.	this is tony.^this is Tabrez.^This is Tabrez.
+			170010	sentence_sentence		صحیح جواب چنیں			सही चयन करे	This is Tabrez.	this is tabrez.^this is Tabrez.^This is Tabrez.
 											
 SpecialTest_18	1	180001, 180002, 180003, 180004, 180005									
 			180001	sentence_word		I ____ little.			I am little	am	am^are^is
@@ -1239,14 +1239,14 @@ FishTest_6_2	1	6200001, 6200002, 6200003, 6200004, 6200005		sentence_sentence		�
 			6200002	sentence_word		صحیح جواب چنیں			heart	heart	hiert^heart^hart
 			6200003	soundonly_word					play	play	fly^clay^play
 			6200004	sentence_word		This is my ____.			this is my brother	brother	brother^mother^dad
-			6200005	sentence_word		Fareed is in his _____.			fred is in his bedroom	bedroom	bedroom^kitchen^house
+			6200005	sentence_word		Fareed is in his _____.			fareed is in his bedroom	bedroom	bedroom^kitchen^house
 											
 FishTest_6_2	2	6200006, 6200007, 6200008, 6200009, 6200010									
 			6200006	sentence_word		صحیح جواب چنیں			news	news	mews^vews^news
 			6200007	sentence_word		صحیح جواب چنیں			paper	paper	paper^peper^papir
 			6200008	soundonly_word					sweet	sweet	sweet^green^brown
 			6200009	sentence_word		This is my ____.			this is my mother	mother	brother^mother^dad
-			6200010	sentence_word		Chanda is in the _____.			cindy is in the kitchen	kitchen	bedroom^kitchen^house
+			6200010	sentence_word		Chanda is in the _____.			chanda is in the kitchen	kitchen	bedroom^kitchen^house
 											
 FishTest_6_2	3	6200011, 6200012, 6200013, 6200014, 6200015									
 			6200011	sentence_word		صحیح جواب چنیں			lion	lion	bion^lion^rion
@@ -1293,20 +1293,20 @@ FishTest_7_1	2	7100006, 7100007, 7100008, 7100009, 7100010
 FishTest_7_1	3	7100011, 7100012, 7100013, 7100014, 7100015									
 			7100011	soundonly_word					door	door	window^bathroom^door
 			7100012	soundonly_word					earth	earth	rain^storm^earth
-			7100013	sentence_word		Batin cannot ______ high.			brian cannot jump high	jump	run^dance^jump
+			7100013	sentence_word		Batin cannot ______ high.			batin cannot jump high	jump	run^dance^jump
 			7100014	image_sentence		l1_littleant.png			a little ant	A little ant.	A little mouse.^A little ant.^A big cat.
 			7100015	image_sentence		l2_blackbear.png			a black bear	A black bear.	A black bear.^A black boot.^A black dog.
 											
 FishTest_7_2	1	7200001, 7200002, 7200003, 7200004, 7200005									
 			7200001	image_sentence		l4_1boy2chairs.png			a boy and two chairs	A boy and two chairs.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200002	image_sentence		like_5.png			sam eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
+			7200002	image_sentence		like_5.png			salman eats	Salman eats.	Salman eats.^Maqsood plays.^The plant grows.
 			7200003	sentence_word		A _____ bus.			a yellow bus	yellow	yellow^big^black
-			7200004	sentence_word		Aamina _____ sick.			amy is sick	is	is^are^am
+			7200004	sentence_word		Aamina _____ sick.			aamina is sick	is	is^are^am
 			7200005	soundonly_image					I give our cow water	book_en_314_page_5.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
 											
 FishTest_7_2	2	7200006, 7200007, 7200008, 7200009, 7200010									
 			7200006	image_sentence		l4_1spoon2forks.png			A spoon and two forks.	A spoon and two forks.	A boy and two chairs.^A spoon and two forks.^Two lemons and a tomato.
-			7200007	image_sentence		like_2.png			mac plays	Maqsood plays.	Salman eats.^Maqsood plays.^The plant grows.
+			7200007	image_sentence		like_2.png			maqsood plays	Maqsood plays.	Salman eats.^Maqsood plays.^The plant grows.
 			7200008	sentence_word		A pink ______.			a pink dress	dress	dress^house^shirt
 			7200009	sentence_word		I _____ thirsty.			i am thirsty	am	is^are^am
 			7200010	soundonly_image					she likes carrots	book_en_314_page_6.png	book_en_314_page_6.png^book_en_314_page_7.png^book_en_314_page_5.png
@@ -1455,15 +1455,15 @@ FishTest_9_3	2	9300006, 9300007, 9300008, 9300009, 9300010
 			9300006	soundonly_image					the girl wants to be a doctor	l16_girlwantsdoctor.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300007	sentence_sentence		صحیح جواب چنیں			सही चयन करे	He has three brothers.	He has three brothers.^He three brothers has.^he has threebrothers
 			9300008	paragraph_sentence		Afreen loves beans. Beans are her favorite food. She is very happy when her dad cooks beans. Her dad adds just the right amount of salt. _________________			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	The beans are very tasty.	The beans are very tasty.^The beans are not tasty.^She doesn't like beans.
-			9300009	sentence_sentence		Misbah went hunting ________.			masha went hunting at night	at night	in the day^every day^at night
-			9300010	sentence_sentence		Neha says, ___________			nia says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300009	sentence_sentence		Misbah went hunting ________.			misbah went hunting at night	at night	in the day^every day^at night
+			9300010	sentence_sentence		Neha says, ___________			neha says. I don't want to wash	I don't want to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_9_3	3	9300011, 9300012, 9300013, 9300014, 9300015									
 			9300011	soundonly_image					the boy wants to be a teacher	l16_hewantsteacher.png	l16_hewantsteacher.png^l16_girlwantsdoctor.png^l16_hewantsdoctor.png
 			9300012	sentence_sentence		صحیح جواب چنیں			सही चयन करे	My mom likes yellow.	My mom likes yellow.^mymom likesyellow.^My mom yellow likes.
 			9300013	paragraph_sentence		Afreen loves beans. Beans are her favorite food. _____________ when her dad cooks beans. Her dad adds just the right amount of salt. The beans are very tasty.			Afreen loves beans. Beans are her favourite food .She is very happy when her dad cooks beans .Her dad add just a right amount of salt. The Beans are very tasty	She is happy	She is happy^She is sad^She is scared
 			9300014	sentence_sentence		He was scared, but he did not _______.			he was scared but he did not give up	give up	go alone^give up^go hunting
-			9300015	sentence_sentence		Neha says, ___________			nia says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
+			9300015	sentence_sentence		Neha says, ___________			neha says. Now I like to wash	Now I like to wash!	Now I like to wash!^I don't want to wash!^You are too dirty!
 											
 FishTest_10_1	1	10100001, 10100002, 10100003, 10100004, 10100005									
 			10100001	soundonly_image					she is reading under the table	l15_shereadundertable.png	l15_shereadundertable.png^l15_shereadontable.png^l15_shereadundertree.png
