@@ -94,7 +94,7 @@ game	AnimalPuzzle	8	x
 day	9	1
 game	EggQuizLiteracy	0	PostTest_1
 
-level	en-US	মাছ উপস্থিত	L	10	25
+level	en-US	বিশেষ কোর্স	L	10	25
 day	1	6
 game	Video	0	en_vdo_upperlowercase
 game	AlphabetPuzzle	1	x
@@ -251,7 +251,7 @@ game	LRComprehension	23	x
 game	LRComprehension	26	x
 game	EggQuizLiteracy	0	SpecialTest_25
 
-level	en-US	মাছ উপস্থিত	L	11	0
+level	en-US	বিশেষ কোর্স	L	11	0
 
 level	en-US	ইংরেজি 2	L	2	27
 day	1	4
@@ -1498,7 +1498,7 @@ game	NumberMatching	8	x
 day	16	1
 game	EggQuizMath	0	PostTest_1
 
-level	en-US	মাছ উপস্থিত	M	10	28
+level	en-US	বিশেষ কোর্স	M	10	28
 day	1	5
 game	Video	0	en_vdo_ub_fifteen_10
 game	FeedingTime	4	x
@@ -1691,7 +1691,7 @@ game	ShapeMatching	5	x
 game	ShapeMatching	9	x
 game	EggQuizMath	0	SpecialTest_28
 
-level	en-US	মাছ উপস্থিত	M	11	0
+level	en-US	বিশেষ কোর্স	M	11	0
 
 level	en-US	গণিত 2	M	2	17
 day	1	5
